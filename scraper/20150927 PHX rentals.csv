@@ -1,0 +1,275 @@
+address,bedrooms,bathrooms,sqft,source,longitude,latitude,elevation,neighborhood,transaction_type,price,transaction_status,days_on_market,date_closed,date_listed
+"5244 S 3rd St, Phoenix, AZ 85040",2,1,924,zillow_ph,-112.07,33.398,332.958,South Mountain,rental,765,open,,,2015-08-10
+"15230 S 42nd St, Phoenix, AZ 85044",3,2,1779,zillow_ph,-111.992,33.308,374.76,Ahwatukee Foothills,rental,1395,open,,,2015-07-22
+"10811 N Calle Del Sol, Phoenix, AZ 85037",3,2,1240,zillow_ph,-112.293,33.4955,311.707,Maryvale,rental,900,open,,,2015-09-15
+"17 W Vernon Ave, Phoenix, AZ 85003",2,2,1386,zillow_ph,-112.075,33.4737,333.48,Encanto,rental,1545,open,,,2015-08-27
+"E Berridge Ln Phoenix, AZ 85014",3,2,1542,zillow_ph,-112.061,33.5252,357.152,,rental,1300,open,,,2015-08-11
+"E Ahwatukee Dr Phoenix, AZ 85044",2,2,1715,zillow_ph,-111.991,33.3358,394.299,,rental,1300,open,,,2015-08-12
+"2421 W Monte Cristo Cir, Phoenix, AZ 85023",3,2,1440,zillow_ph,-112.112,33.6306,404.484,Deer Valley,rental,1250,open,,,2015-08-12
+"3311 N 18th St, Phoenix, AZ 85016",2,1,900,zillow_ph,-112.043,33.4864,344.033,Encanto,rental,925,open,,,2015-08-15
+"S 2nd St Phoenix, AZ 85004",0,1,1000,zillow_ph,-112.071,33.4391,329.562,,rental,1499,open,,,2015-08-16
+"W Alice Ave Phoenix, AZ 85021",3,2,1354,zillow_ph,-112.078,33.5644,376.223,,rental,1400,open,,,2015-08-17
+"3551 E Campo Bello Dr, Phoenix, AZ 85032",3,2,1297,zillow_ph,-112.004,33.6436,448.471,Paradise Valley,rental,985,open,,,2015-08-18
+"W Blackhawk Dr Phoenix, AZ 85027",3,2,1263,zillow_ph,-112.087,33.6706,433.162,,rental,1250,open,,,2015-08-18
+"4416 E Amberwood Dr, Phoenix, AZ 85048",3,2,1300,zillow_ph,-111.988,33.2999,363.892,Ahwatukee Foothills,rental,1325,open,,,2015-08-18
+"E Indianola Ave Phoenix, AZ 85016",2,1,1100,zillow_ph,-112.035,33.4921,349.677,,rental,1450,open,,,2015-08-19
+"512 N 53rd St, Phoenix, AZ 85008",2,2,850,zillow_ph,-111.968,33.454,368.957,Camelback East,rental,850,open,,,2015-08-21
+"W Roma Ave Phoenix, AZ 85013",3,2,1500,zillow_ph,-112.082,33.501,342.176,,rental,1395,open,,,2015-08-21
+"2219 N 92nd Dl, Phoenix, AZ 85037",3,2,1430,zillow_ph,-112.26,33.4743,313.12,Maryvale,rental,975,open,,,2015-08-21
+"3716 W Mescal St, Phoenix, AZ 85029",3,2,1821,zillow_ph,-112.139,33.5862,378.431,North Mountain,rental,1100,open,,,2015-08-21
+"7234 S 40th Ave, Phoenix, AZ 85041",3,2,2061,zillow_ph,-112.145,33.3805,317.944,Laveen,rental,1175,open,,,2015-08-22
+"1323 W Morrow Dr, Phoenix, AZ 85027",3,1,1417,zillow_ph,-112.088,33.6569,424.663,Deer Valley,rental,1045,open,,,2015-08-22
+"4328 N 42nd Pl, Phoenix, AZ 85018",3,2,1400,zillow_ph,-111.99,33.4996,375.405,Camelback East,rental,1550,open,,,2015-06-25
+"9005 W Avalon Dr, Phoenix, AZ 85037",4,2,1514,zillow_ph,-112.253,33.4827,317.017,Maryvale,rental,975,open,,,2015-06-30
+"3136 W Pollack St, Phoenix, AZ 85041",3,2,1540,zillow_ph,-112.127,33.3801,325.325,Laveen,rental,1100,open,,,2015-07-12
+"3815 W Tonopah Dr, Glendale, AZ 85308",3,2,1264,zillow_ph,-112.142,33.6713,408.96,Deer Valley,rental,1200,open,,,2015-07-25
+"17601 N 38th Ave, Glendale, AZ 85308",4,2,1832,zillow_ph,-112.141,33.6456,400.493,Deer Valley,rental,1400,open,,,2015-08-10
+"921 W Villa Theresa Dr, Phoenix, AZ 85023",3,1,1342,zillow_ph,-112.086,33.6539,424.266,Deer Valley,rental,1025,open,,,2015-08-10
+"3402 W Pershing Ave, Phoenix, AZ 85029",4,2,2132,zillow_ph,-112.132,33.6053,387.031,North Mountain,rental,1200,open,,,2015-08-10
+"206 E Danbury Rd, Phoenix, AZ 85022",3,2,1322,zillow_ph,-112.072,33.6424,419.987,Deer Valley,rental,1195,open,,,2015-08-10
+"4734 W Michigan Ave, Glendale, AZ 85308",3,2,1273,zillow_ph,-112.162,33.6511,394.732,Deer Valley,rental,975,open,,,2015-08-10
+"6329 W Constance Way, Laveen, AZ 85339",4,2,2208,zillow_ph,-112.196,33.375,305.219,Laveen,rental,1200,open,,,2015-08-10
+"19616 N 15th Pl, Phoenix, AZ 85024",3,2,1883,zillow_ph,-112.049,33.6647,451.733,Deer Valley,rental,1550,open,,,2015-08-10
+"6810 S 39th Ln, Phoenix, AZ 85041",4,2,3159,zillow_ph,-112.144,33.3841,316.724,Laveen,rental,1295,open,,,2015-08-11
+"3220 S 81st Dr, Phoenix, AZ 85043",4,2,1529,zillow_ph,-112.235,33.4191,305.965,Estrella,rental,995,open,,,2015-08-11
+"22617 N 19th Way, Phoenix, AZ 85024",5,2,2677,zillow_ph,-112.04,33.6923,467.484,Desert View,rental,1800,open,,,2015-08-11
+"4017 E Burgess Ln, Phoenix, AZ 85042",3,2,1331,zillow_ph,-111.995,33.3898,352.617,South Mountain,rental,895,open,,,2015-08-11
+"2555 E Robb Ln, Phoenix, AZ 85024",6,4,3903,zillow_ph,-112.028,33.7055,484.001,Desert View,rental,2600,open,,,2015-08-12
+"5024 S 21st Pl, Phoenix, AZ 85040",3,2,1275,zillow_ph,-112.036,33.4005,337.236,South Mountain,rental,1050,open,,,2015-08-12
+"3119 W Saint Catherine Ave, Phoenix, AZ 85041",5,2,3182,zillow_ph,-112.126,33.3876,322.391,Laveen,rental,1275,open,,,2015-08-12
+"6438 W Sells Dr, Phoenix, AZ 85033",5,2,1913,zillow_ph,-112.199,33.5015,336.381,Maryvale,rental,1100,open,,,2015-08-12
+"1644 W Straight Arrow Ln, Phoenix, AZ 85085",3,2,1505,zillow_ph,-112.095,33.7333,478.158,North Gateway,rental,1595,open,,,2015-08-13
+"18418 N 30th Pl, Phoenix, AZ 85032",3,2,1230,zillow_ph,-112.018,33.6538,447.874,Paradise Valley,rental,1200,open,,,2015-08-13
+"910 E Fairmount Ave, Phoenix, AZ 85014",1,1,510,zillow_ph,-112.062,33.4932,339.977,Encanto,rental,545,open,,,2015-08-13
+"33236 N 48th Pl, Cave Creek, AZ 85331",4,2,2410,zillow_ph,-111.978,33.788,596.644,Desert View,rental,2200,open,,,2015-08-13
+"2437 E Marmora St, Phoenix, AZ 85032",3,2,1400,zillow_ph,-112.029,33.5995,438.825,Paradise Valley,rental,1200,open,,,2015-08-13
+"2215 W Spur Dr, Phoenix, AZ 85085",3,2,2231,zillow_ph,-112.106,33.7261,453.376,Deer Valley,rental,1775,open,,,2015-08-13
+"11318 W Meadowbrook Ave, Phoenix, AZ 85037",3,2,1603,zillow_ph,-112.301,33.5023,310.426,Maryvale,rental,1200,open,,,2015-08-13
+"3844 E Kings Ave, Phoenix, AZ 85032",4,2,2576,zillow_ph,-111.999,33.6365,444.003,Paradise Valley,rental,1895,open,,,2015-08-13
+"4541 W Bluefield Ave, Glendale, AZ 85308",4,2,2620,zillow_ph,-112.158,33.6518,396.672,Deer Valley,rental,1600,open,,,2015-08-13
+"1028 E Paradise Ln, Phoenix, AZ 85022",3,2,1624,zillow_ph,-112.058,33.6333,428.535,North Mountain,rental,1295,open,,,2015-08-14
+"2331 W Larkspur Dr, Phoenix, AZ 85029",3,2,1494,zillow_ph,-112.11,33.5999,390.622,North Mountain,rental,995,open,,,2015-08-14
+"4040 E Desert Forest Trl, Cave Creek, AZ 85331",4,3,2732,zillow_ph,-111.994,33.7817,569.527,Desert View,rental,1795,open,,,2015-08-14
+"4001 W Villa Rita Dr, Glendale, AZ 85308",3,2,1397,zillow_ph,-112.145,33.6503,400.324,Deer Valley,rental,1150,open,,,2015-08-14
+"12005 N 49th Dr, Glendale, AZ 85304",3,2,1700,zillow_ph,-112.165,33.5951,372.983,North Mountain,rental,950,open,,,2015-08-14
+"1607 S 79th Ln, Phoenix, AZ 85043",3,2,1685,zillow_ph,-112.23,33.4331,308.744,Estrella,rental,1075,open,,,2015-08-14
+"6032 S 22nd Dr, Phoenix, AZ 85041",3,2,1259,zillow_ph,-112.107,33.3907,329.184,South Mountain,rental,1095,open,,,2015-08-14
+"2520 E Marilyn Rd, Phoenix, AZ 85032",3,2,1080,zillow_ph,-112.027,33.6206,444.15,Paradise Valley,rental,1150,open,,,2015-08-15
+"16634 S 28th Pl, Phoenix, AZ 85048",4,3,2340,zillow_ph,-112.022,33.2937,363.143,Ahwatukee Foothills,rental,1750,open,,,2015-08-15
+"34806 N 31st Ave, Anthem, AZ 85086",3,2,1642,zillow_ph,-112.126,33.8009,515.153,North Gateway,rental,1300,open,,,2015-08-15
+"3509 E Rockledge Rd, Phoenix, AZ 85044",4,2,2308,zillow_ph,-112.008,33.3126,392.955,Ahwatukee Foothills,rental,2075,open,,,2015-08-15
+"2942 W Montebello Ave, Phoenix, AZ 85017",3,2,1407,zillow_ph,-112.123,33.5206,353.727,Alahambra,rental,999,open,,,2015-08-16
+"17633 N 35th Way, Phoenix, AZ 85032",3,2,1661,zillow_ph,-112.003,33.6465,449.396,Paradise Valley,rental,1100,open,,,2015-08-16
+"2035 N 64th Ln, Phoenix, AZ 85035",3,2,1280,zillow_ph,-112.198,33.4708,325.186,Maryvale,rental,875,open,,,2015-08-17
+"3028 N 48th Ave, Phoenix, AZ 85031",3,2,1884,zillow_ph,-112.162,33.4834,332.216,Maryvale,rental,940,open,,,2015-08-17
+"26704 N Babbling Brook Dr, Phoenix, AZ 85083",3,2,1661,zillow_ph,-112.174,33.7262,449.979,Deer Valley,rental,1375,open,,,2015-08-17
+"16635 S 45th Pl, Phoenix, AZ 85048",3,2,2000,zillow_ph,-111.986,33.2947,358.525,Ahwatukee Foothills,rental,1545,open,,,2015-08-17
+"3726 W Denton Ln, Phoenix, AZ 85019",4,2,1733,zillow_ph,-112.14,33.5162,350.53,Alahambra,rental,995,open,,,2015-08-18
+"3121 W Roberta Dr, Phoenix, AZ 85083",4,2,1919,zillow_ph,-112.127,33.7426,459.865,Deer Valley,rental,1400,open,,,2015-08-18
+"6220 S 20th Gln, Phoenix, AZ 85041",3,2,1496,zillow_ph,-112.103,33.3897,331.065,South Mountain,rental,1250,open,,,2015-08-18
+"4047 E Windrose Dr, Phoenix, AZ 85032",3,2,1248,zillow_ph,-111.994,33.602,424.183,Paradise Valley,rental,1175,open,,,2015-08-18
+"15239 N 10th Pl, Phoenix, AZ 85022",4,3,3572,zillow_ph,-112.059,33.625,441.421,North Mountain,rental,2500,open,,,2015-08-18
+"15801 N 29th St, Phoenix, AZ 85032",2,2,1121,zillow_ph,-112.018,33.6301,438.504,Paradise Valley,rental,850,open,,,2015-08-18
+"6624 S 19th Pl, Phoenix, AZ 85042",3,2,1867,zillow_ph,-112.039,33.3862,348.726,South Mountain,rental,1295,open,,,2015-08-19
+"6836 S 8th Dr, Phoenix, AZ 85041",3,2,1560,zillow_ph,-112.084,33.384,344.396,South Mountain,rental,1200,open,,,2015-08-19
+"2327 W Avalon Dr, Phoenix, AZ 85015",3,1,1160,zillow_ph,-112.11,33.4833,336.518,Encanto,rental,750,open,,,2015-08-19
+"22212 N 29th Dr, Phoenix, AZ 85027",3,2,1529,zillow_ph,-112.122,33.688,425.302,Deer Valley,rental,1050,open,,,2015-08-21
+"13624 N 44th Pl, Phoenix, AZ 85032",3,2,1468,zillow_ph,-111.986,33.6107,429.627,Paradise Valley,rental,1575,open,,,2015-08-21
+"2215 N 94th Ave, Phoenix, AZ 85037",4,2,3050,zillow_ph,-112.262,33.4724,312.075,Maryvale,rental,1950,open,,,2015-08-21
+"9847 S 46th St, Phoenix, AZ 85044",4,2,1400,zillow_ph,-111.982,33.3566,404.578,Ahwatukee Foothills,rental,1125,open,,,2015-08-21
+"3322 W Shumway Farm Rd, Phoenix, AZ 85041",3,2,1553,zillow_ph,-112.131,33.3839,322.876,Laveen,rental,1050,open,,,2015-08-21
+"4465 E Paradise Village Pkwy S, Phoenix, AZ 85032",2,2,1240,zillow_ph,-111.982,33.5955,419.952,Paradise Valley,rental,1400,open,,,2015-08-21
+"1109 E Wong Way, Phoenix, AZ 85040",2,1,1000,zillow_ph,-112.057,33.3938,339.724,South Mountain,rental,795,open,,,2015-08-21
+"3327 W La Salle St, Phoenix, AZ 85041",4,2,1601,zillow_ph,-112.13,33.3967,316.433,Laveen,rental,1100,open,,,2015-08-21
+"42323 N 46th Dr, Phoenix, AZ 85086",3,2,2293,zillow_ph,-112.159,33.8694,570.353,New Village,rental,1300,open,,,2015-08-21
+"5124 W Andrea Dr, Phoenix, AZ 85083",4,3,3813,zillow_ph,-112.17,33.7266,451.348,Deer Valley,rental,2150,open,,,2015-08-21
+"311 W Georgia Ave, Phoenix, AZ 85013",3,3,4000,zillow_ph,-112.079,33.5145,347.321,Alahambra,rental,6000,open,,,2015-08-21
+"7724 N 14th St, Phoenix, AZ 85020",3,2,1803,zillow_ph,-112.052,33.55,386.797,Camelback East,rental,2500,open,,,2015-08-21
+"3836 E Mulberry Dr, Phoenix, AZ 85018",3,1,1007,zillow_ph,-111.998,33.487,363.525,Camelback East,rental,995,open,,,2015-08-21
+"1805 W Straight Arrow Ln, Phoenix, AZ 85085",3,2,2214,zillow_ph,-112.098,33.7333,473.322,North Gateway,rental,2050,open,,,2015-08-21
+"24409 N 40th Ave, Glendale, AZ 85310",4,3,2723,zillow_ph,-112.145,33.7077,428.448,Deer Valley,rental,1950,open,,,2015-08-21
+"3979 E Pollack St, Phoenix, AZ 85042",3,2,1458,zillow_ph,-111.996,33.3804,362.844,South Mountain,rental,1215,open,,,2015-08-21
+"25426 N Hackberry Dr, Phoenix, AZ 85083",5,3,3482,zillow_ph,-112.147,33.7168,429.627,Deer Valley,rental,1850,open,,,2015-08-21
+"2315 E La Salle St, Phoenix, AZ 85040",4,2,3073,zillow_ph,-112.032,33.3974,339.732,South Mountain,rental,1550,open,,,2015-08-21
+"2725 W Redwood Ln, Phoenix, AZ 85045",5,3,3152,zillow_ph,-112.119,33.2923,336.955,Ahwatukee Foothills,rental,1995,open,,,2015-08-22
+"3002 W Tierra Buena Ln, Phoenix, AZ 85053",3,2,1822,zillow_ph,-112.122,33.6291,399.509,Deer Valley,rental,1150,open,,,2015-08-28
+"2407 W Via Dona Rd, Phoenix, AZ 85085",4,2,2232,zillow_ph,-112.11,33.7405,462.685,Deer Valley,rental,1495,open,,,2015-08-22
+"4607 E Cheyenne Dr, Phoenix, AZ 85044",2,2,1200,zillow_ph,-111.984,33.3476,394.889,Ahwatukee Foothills,rental,1200,open,,,2015-08-22
+"1656 E Mitchell Dr, Phoenix, AZ 85016",2,1,757,zillow_ph,-112.045,33.4891,343.449,Encanto,rental,700,open,,,2015-08-23
+"11845 S 46th St, Phoenix, AZ 85044",3,2,2075,zillow_ph,-111.987,33.3382,390.427,Ahwatukee Foothills,rental,1550,open,,,2013-01-12
+"16030 S 36th St, Phoenix, AZ 85048",3,2,2535,zillow_ph,-112.006,33.3004,363.152,Ahwatukee Foothills,rental,2300,open,,,2015-07-03
+"6315 N 16th St, Phoenix, AZ 85016",2,1,885,zillow_ph,-112.047,33.5295,366.376,Camelback East,rental,775,open,,,2015-08-12
+"E Paradise Ln Scottsdale, AZ 85254",4,3,2616,zillow_ph,-111.952,33.6332,450.253,,rental,6500,open,,,2014-06-13
+"(Undisclosed Address) Glendale, AZ 85308",4,2,2365,zillow_ph,-112.203,33.6645,381.749,,rental,4000,open,,,2014-06-13
+"6901 S Central Ave Mobile Home, Phoenix, AZ 85042",2,1,1500,zillow_ph,-112.036,33.3763,366.105,South Mountain,rental,750,open,,,2015-02-20
+"W Soft Wind Dr Glendale, AZ 85310",3,2,1951,zillow_ph,-112.169,33.7025,425.075,,rental,3000,open,,,2015-03-13
+"1015 E Meadowbrook Ave, Phoenix, AZ 85014",2,1,1100,zillow_ph,-112.06,33.5035,344.506,Camelback East,rental,730,open,,,2015-07-06
+"E Sheridan St Phoenix, AZ 85008",3,1,900,zillow_ph,-112.016,33.4749,349.76,,rental,1000,open,,,2015-08-24
+"5801 W Osborn Road Sold, Phoenix, AZ 85031",3,2,1482,zillow_ph,-112.161,33.4968,341.357,Maryvale,rental,900,open,,,2015-08-25
+"212 W Roma Ave, Phoenix, AZ 85013",3,2,1500,zillow_ph,-112.077,33.5014,342.215,Encanto,rental,1395,open,,,2015-08-25
+"W Diana Ave Phoenix, AZ 85051",3,2,1113,zillow_ph,-112.135,33.5625,370.052,,rental,975,open,,,2015-08-25
+"W Campbell Ave Phoenix, AZ 85015",3,3,2082,zillow_ph,-112.102,33.5025,343.319,,rental,2000,open,,,2015-06-18
+"3215 E Flower St, Phoenix, AZ 85018",4,4,2134,zillow_ph,-112.012,33.4855,356.952,Camelback East,rental,2300,open,,,2015-07-01
+"5428 W Hobby Horse Dr, Phoenix, AZ 85083",3,3,1909,zillow_ph,-112.175,33.7183,437.89,Deer Valley,rental,1495,open,,,2015-08-23
+"3313 E Topeka Dr, Phoenix, AZ 85050",3,2,1633,zillow_ph,-112.011,33.6602,456.937,Paradise Valley,rental,1450,open,,,2015-08-24
+"7235 S 54th Dr, Laveen, AZ 85339",4,3,2361,zillow_ph,-112.175,33.3803,307.54,Laveen,rental,1175,open,,,2015-08-24
+"3342 E Mercer Ln, Phoenix, AZ 85028",3,2,2001,zillow_ph,-112.009,33.5846,432.556,Paradise Valley,rental,4500,open,,,2015-08-25
+"3901 W Park St, Phoenix, AZ 85041",3,2,1881,zillow_ph,-112.143,33.3802,319.371,Laveen,rental,1075,open,,,2015-08-25
+"7035 N Barbados Pl, Phoenix, AZ 85021",3,2,1625,zillow_ph,-112.081,33.5401,360.806,Alahambra,rental,1550,open,,,2015-08-25
+"4408 E Pershing Ave, Phoenix, AZ 85032",3,2,2007,zillow_ph,-111.986,33.6069,427.015,Paradise Valley,rental,1475,open,,,2015-08-25
+"5336 W El Cortez Trl, Phoenix, AZ 85083",3,2,2492,zillow_ph,-112.175,33.718,437.481,Deer Valley,rental,1895,open,,,2015-08-25
+"5121 S 15th Pl, Phoenix, AZ 85040",4,2,1580,zillow_ph,-112.049,33.4002,336.875,South Mountain,rental,995,open,,,2015-08-25
+"850 W Solano Dr, Phoenix, AZ 85013",4,2,2400,zillow_ph,-112.085,33.5215,350.919,Alahambra,rental,2675,open,,,2015-08-25
+"5550 N 16th St, Phoenix, AZ 85016",2,3,1841,zillow_ph,-112.048,33.5176,355.186,Camelback East,rental,2500,open,,,2015-08-26
+"2226 E Vista Dr, Phoenix, AZ 85022",4,2,1364,zillow_ph,-112.034,33.622,437.747,Paradise Valley,rental,1250,open,,,2015-09-07
+"7125 W Heatherbrae Dr, Phoenix, AZ 85033",3,2,1092,zillow_ph,-112.213,33.4981,331.602,Maryvale,rental,875,open,,,2015-08-27
+"6224 S 1st St, Phoenix, AZ 85042",3,2,1277,zillow_ph,-112.072,33.3896,341.907,South Mountain,rental,800,open,,,2015-08-29
+"W Gaby Rd Phoenix, AZ 85041",3,2,1665,zillow_ph,-112.113,33.4037,319.842,,rental,1050,open,,,2015-08-30
+"4686 N 13th St, Phoenix, AZ 85014",2,1,900,zillow_ph,-112.054,33.5053,346.372,Camelback East,rental,900,open,,,2015-08-30
+"911 E San Juan Ave, Phoenix, AZ 85014",3,1,1170,zillow_ph,-112.062,33.5184,353.293,Camelback East,rental,1050,open,,,2015-08-30
+"4423 N 24th Way, Phoenix, AZ 85016",3,3,2140,zillow_ph,-112.028,33.5006,356.455,Camelback East,rental,2295,open,,,2015-04-09
+"615 E Cody Dr, Phoenix, AZ 85040",4,2,1649,zillow_ph,-112.065,33.4015,329.988,South Mountain,rental,1025,open,,,2015-06-18
+"7204 S 14th St, Phoenix, AZ 85042",4,2,1889,zillow_ph,-112.052,33.3814,354.39,South Mountain,rental,1175,open,,,2015-07-23
+"8117 N 29th Dr, Phoenix, AZ 85051",3,1,1300,zillow_ph,-112.122,33.5554,368.155,North Mountain,rental,850,open,,,2015-07-29
+"16826 N 60th Pl, Scottsdale, AZ 85254",4,2,2519,zillow_ph,,,,Paradise Valley,rental,2300,open,,,2015-08-26
+"2430 W Gambit Trl, Phoenix, AZ 85085",4,2,1782,zillow_ph,,,,Deer Valley,rental,1350,open,,,2015-08-26
+"2138 W Redbird Dr, Phoenix, AZ 85085",5,3,3128,zillow_ph,-112.106,33.7291,455.916,Deer Valley,rental,1850,open,,,2015-08-26
+"3770 E Kristal Way, Phoenix, AZ 85050",3,2,1588,zillow_ph,-112.001,33.6619,461.908,Paradise Valley,rental,1495,open,,,2015-08-26
+"27004 N 20th Ln, Phoenix, AZ 85085",5,3,3113,zillow_ph,,,,Deer Valley,rental,1650,open,,,2015-08-26
+"2048 W Wagoner Rd, Phoenix, AZ 85023",4,2,2013,zillow_ph,-112.105,33.6536,418.024,Deer Valley,rental,895,open,,,2015-08-27
+"736 E Mclellan Blvd, Phoenix, AZ 85014",3,1,1207,zillow_ph,,,,Camelback East,rental,1395,open,,,2015-08-28
+"1125 E Belmont Ave, Phoenix, AZ 85020",2,2,988,zillow_ph,-112.058,33.5487,377.457,Camelback East,rental,895,open,,,2015-08-28
+"6729 N 32nd Ave, Phoenix, AZ 85017",2,2,1330,zillow_ph,,,,Alahambra,rental,795,open,,,2015-08-28
+"2525 E Earll Dr, Phoenix, AZ 85016",3,2,1246,zillow_ph,-112.027,33.4837,349.4,Camelback East,rental,1250,open,,,2015-08-29
+"6630 W Paso Trl, Phoenix, AZ 85083",4,2,1571,zillow_ph,-112.202,33.7208,432.226,Deer Valley,rental,1350,open,,,2015-08-29
+"836 E Paradise Ln, Phoenix, AZ 85022",3,2,1921,zillow_ph,-112.063,33.6333,421.248,North Mountain,rental,1400,open,,,2015-08-29
+"1301 E Granada Rd, Phoenix, AZ 85006",3,1,1120,zillow_ph,-112.054,33.4682,336.262,Encanto,rental,1000,open,,,2015-08-29
+"2222 E Marconi Ave, Phoenix, AZ 85022",2,1,1138,zillow_ph,-112.035,33.6305,433.286,Paradise Valley,rental,940,open,,,2015-08-29
+"2411 W Augusta Ave, Phoenix, AZ 85021",2,1,750,zillow_ph,-112.111,33.5512,365.547,Alahambra,rental,850,open,,,2015-08-29
+"938 E San Miguel Ave, Phoenix, AZ 85014",3,1,1170,zillow_ph,-112.061,33.5196,354.46,Camelback East,rental,1100,open,,,2015-08-30
+"9914 W Odeum Ln, Tolleson, AZ 85353",4,2,1701,zillow_ph,-112.273,33.4109,300.347,Estrella,rental,1000,open,,,2011-08-24
+"1632 W Chanute Pass, Phoenix, AZ 85041",4,2,1675,zillow_ph,-112.094,33.3984,328.23,South Mountain,rental,950,open,,,2011-09-02
+"4534 E Villa Maria Dr, Phoenix, AZ 85032",3,2,1832,zillow_ph,-111.983,33.6525,460.685,Paradise Valley,rental,1195,open,,,2011-09-08
+"2430 W Mobile Ln, Phoenix, AZ 85041",3,2,2138,zillow_ph,,,,South Mountain,rental,1050,open,,,2012-02-25
+"3634 W Redfield Rd, Phoenix, AZ 85053",4,2,1980,zillow_ph,-112.138,33.6141,386.512,North Mountain,rental,1495,open,,,2015-08-06
+"1707 W Saint Catherine Ave, Phoenix, AZ 85041",5,3,2323,zillow_ph,-112.095,33.388,335.959,South Mountain,rental,1300,open,,,2012-09-11
+"2910 E Cholla St, Phoenix, AZ 85028",3,2,1557,zillow_ph,-112.019,33.5895,436.718,Paradise Valley,rental,1295,open,,,2012-10-27
+"4229 E Danbury Rd, Phoenix, AZ 85032",3,2,1900,zillow_ph,,,,Paradise Valley,rental,1650,open,,,2015-01-12
+"3646 N 28th St, Phoenix, AZ 85016",3,2,1278,zillow_ph,,,,Camelback East,rental,1195,open,,,2013-06-13
+"7817 S 46th St, Phoenix, AZ 85044",3,2,1850,zillow_ph,,,,Laveen,rental,1095,open,,,2015-05-12
+"S 79th Dr Phoenix, AZ 85043",3,2,1600,zillow_ph,,,,,rental,1200,open,,,2015-09-06
+"2300 W Missouri Ave, Phoenix, AZ 85015",3,2,1200,zillow_ph,-112.108,33.5168,349.413,Alahambra,rental,795,open,,,2015-09-01
+"1004 E Pierson St, Phoenix, AZ 85014",3,1,1167,zillow_ph,-112.06,33.5077,346.989,Camelback East,rental,1100,open,,,2015-09-02
+"2604 E Bighorn Ave, Phoenix, AZ 85048",4,2,2500,zillow_ph,-112.026,33.3063,379.822,Ahwatukee Foothills,rental,1599,open,,,2015-09-03
+"334 E Monte Way, Phoenix, AZ 85042",3,2,1300,zillow_ph,-112.069,33.3609,396.029,South Mountain,rental,1025,open,,,2015-09-03
+"1917 E Avalon Dr, Phoenix, AZ 85016",3,2,1333,zillow_ph,-112.04,33.4831,343.893,Encanto,rental,895,open,,,2015-09-04
+"E Villa Rita Dr Phoenix, AZ 85022",2,2,1097,zillow_ph,-112.056,33.6505,430.659,,rental,1100,open,,,2015-09-05
+"E Amelia Ave Phoenix, AZ 85018",3,1,1100,zillow_ph,-111.991,33.4941,370.874,,rental,1475,open,,,2015-09-07
+"3624 N 72nd Ln, Phoenix, AZ 85033",3,2,1262,zillow_ph,-112.216,33.4906,328.142,Maryvale,rental,795,open,,,2011-01-11
+"931 E Wagoner Rd, Phoenix, AZ 85022",2,1,1134,zillow_ph,-112.06,33.6527,429.279,Deer Valley,rental,1199,open,,,2011-06-03
+"3418 W Little Hopi Dr, Phoenix, AZ 85086",4,2,2423,zillow_ph,,,,North Gateway,rental,1670,open,,,2011-08-24
+"1613 W North Ln, Phoenix, AZ 85021",3,1,1000,zillow_ph,-112.094,33.5811,382.553,North Mountain,rental,825,open,,,2011-11-08
+"3318 E Montecito Ave, Phoenix, AZ 85018",4,2,2138,zillow_ph,-112.009,33.4999,366.069,Camelback East,rental,2000,open,,,2011-11-18
+"3036 E Fremont Rd, Phoenix, AZ 85042",3,2,1703,zillow_ph,,,,South Mountain,rental,1150,open,,,2011-12-02
+"18202 N 18th Pl, Phoenix, AZ 85022",3,2,1453,zillow_ph,-112.043,33.6515,439.187,Paradise Valley,rental,1195,open,,,2012-01-19
+"23519 N 24th Ter, Phoenix, AZ 85024",3,3,1829,zillow_ph,-112.03,33.7002,478.658,Desert View,rental,1799,open,,,2012-02-09
+"8226 W Lumbee St, Phoenix, AZ 85043",5,2,2100,zillow_ph,-112.237,33.4339,307.395,Estrella,rental,1350,open,,,2012-04-03
+"4911 W Tonto Rd, Glendale, AZ 85308",3,2,1593,zillow_ph,-112.166,33.6648,398.105,Deer Valley,rental,1200,open,,,2012-04-16
+"2836 W Palo Verde Dr, Phoenix, AZ 85017",2,1,1192,zillow_ph,-112.121,33.5235,354.157,Alahambra,rental,825,open,,,2012-08-01
+"16407 S 42nd Pl, Phoenix, AZ 85048",5,3,2282,zillow_ph,,,,Ahwatukee Foothills,rental,1550,open,,,2012-08-08
+"3977 E Hashknife Rd, Phoenix, AZ 85050",4,3,2751,zillow_ph,,,,Desert View,rental,2500,open,,,2013-05-14
+"3506 E Montreal Pl, Phoenix, AZ 85032",2,2,2140,zillow_ph,-112.007,33.6333,440.745,Paradise Valley,rental,950,open,,,2013-05-16
+"7154 W Globe Ave, Phoenix, AZ 85043",3,2,1711,zillow_ph,-112.214,33.4187,307.354,Estrella,rental,1050,open,,,2013-07-17
+"5715 S 31st Dr, Phoenix, AZ 85041",5,2,2230,zillow_ph,-112.126,33.3946,318.096,Laveen,rental,1199,open,,,2013-10-06
+"4525 E Heatherbrae Dr, Phoenix, AZ 85018",4,2,1819,zillow_ph,-111.984,33.4975,378.527,Camelback East,rental,1295,open,,,2013-12-23
+"2318 W Blue Sky Dr, Phoenix, AZ 85085",3,2,1667,zillow_ph,,,,Deer Valley,rental,1350,open,,,2014-03-20
+"3038 E Yucca St, Phoenix, AZ 85028",3,2,1570,zillow_ph,-112.016,33.5885,434.772,Paradise Valley,rental,1195,open,,,2014-04-26
+"4537 W Sophie Ln, Laveen, AZ 85339",2,2,1050,zillow_ph,,,,Laveen,rental,1100,open,,,2015-09-05
+"4636 E Evans Dr, Phoenix, AZ 85032",4,3,2718,zillow_ph,-111.981,33.6183,433.474,Paradise Valley,rental,2495,open,,,2015-01-30
+"6530 W Chester Rd, Glendale, AZ 85310",4,3,2947,zillow_ph,,,,Deer Valley,rental,1850,open,,,2015-06-15
+"4313 E Folgers Rd, Phoenix, AZ 85050",4,2,3207,zillow_ph,-111.978,33.6958,509.311,Desert View,rental,2800,open,,,2015-06-23
+"1837 W Buckhorn Trl, Phoenix, AZ 85085",3,2,2180,zillow_ph,,,,North Gateway,rental,2300,open,,,2015-07-12
+"4314 W Heyerdahl Dr, Phoenix, AZ 85087",4,3,2546,zillow_ph,-112.153,33.872,575.724,New Village,rental,1635,open,,,2015-07-25
+"5564 N 12th St, Phoenix, AZ 85014",3,2,2371,zillow_ph,-112.057,33.5184,354.528,Camelback East,rental,3000,open,,,2015-07-30
+"2223 E Bowker St, Phoenix, AZ 85040",5,3,2733,zillow_ph,,,,South Mountain,rental,1750,open,,,2015-07-31
+"4116 E Sweetwater Ave, Phoenix, AZ 85032",2,1,840,zillow_ph,-111.993,33.6046,425.84,Paradise Valley,rental,1050,open,,,2015-08-03
+"4714 N 76th Ave, Phoenix, AZ 85033",3,2,1338,zillow_ph,,,,Maryvale,rental,795,open,,,2015-08-04
+"3229 W Pierce St, Phoenix, AZ 85009",3,1,891,zillow_ph,-112.13,33.4557,325.971,Estrella,rental,900,open,,,2015-08-06
+"7005 S 31st Dr, Phoenix, AZ 85041",4,2,1531,zillow_ph,,,,Laveen,rental,1025,open,,,2015-08-30
+"4555 W Corrine Dr, Glendale, AZ 85304",3,2,1845,zillow_ph,-112.158,33.6001,376.955,North Mountain,rental,1250,open,,,2015-09-01
+"2967 E Tonto Ln, Phoenix, AZ 85050",3,2,1456,zillow_ph,,,,Paradise Valley,rental,1250,open,,,2015-09-02
+"4901 E Indianola Ave, Phoenix, AZ 85018",3,1,1100,zillow_ph,-111.976,33.4911,378.013,Camelback East,rental,1575,open,,,2015-09-02
+"9212 W Williams St, Tolleson, AZ 85353",3,2,2048,zillow_ph,-112.258,33.4192,302.043,Estrella,rental,4800,open,,,2015-09-03
+"4921 W Kastler Ln, Phoenix, AZ 85087",3,2,2128,zillow_ph,-112.166,33.8814,585.139,New Village,rental,1575,open,,,2015-09-04
+"3542 E Anderson Dr, Phoenix, AZ 85032",4,3,2140,zillow_ph,-112.007,33.6465,449.023,Paradise Valley,rental,1245,open,,,2015-09-04
+"9913 W Kirby Ave, Tolleson, AZ 85353",4,3,2319,zillow_ph,-112.274,33.4157,298.246,Estrella,rental,1330,open,,,2015-09-04
+"16412 N 49th Ave, Glendale, AZ 85306",3,2,1866,zillow_ph,-112.164,33.6342,387.152,Deer Valley,rental,1395,open,,,2015-09-04
+"3807 E Hillery Dr, Phoenix, AZ 85032",3,2,1064,zillow_ph,-112.0,33.6218,434.334,Paradise Valley,rental,1095,open,,,2015-09-04
+"2047 W Madre Del Oro Dr, Phoenix, AZ 85085",3,2,1941,zillow_ph,,,,North Gateway,rental,1450,open,,,2015-09-04
+"1510 E Marco Polo Rd, Phoenix, AZ 85024",3,2,1883,zillow_ph,-112.05,33.6671,454.866,Deer Valley,rental,1350,open,,,2015-09-05
+"15803 S 29th St, Phoenix, AZ 85048",3,2,1692,zillow_ph,,,,Ahwatukee Foothills,rental,1400,open,,,2015-09-06
+"12424 N 60th St, Scottsdale, AZ 85254",4,3,3050,zillow_ph,-111.952,33.6001,424.107,Paradise Valley,rental,2990,open,,,2015-09-07
+"E Ashland Ave Phoenix, AZ 85004",3,2,2100,zillow_ph,-112.072,33.4753,333.377,,rental,2650,open,,,2015-06-15
+"6230 E Via Estrella Ave, Paradise Valley, AZ 85253",4,2,2528,zillow_ph,-111.946,33.5778,412.028,Paradise Valley,rental,2500,open,,,2015-07-06
+"5121 E Nambe St, Phoenix, AZ 85044",3,1,1200,zillow_ph,-111.974,33.3299,378.017,Ahwatukee Foothills,rental,1195,open,,,2015-07-14
+"E Weldon Ave Phoenix, AZ 85016",4,2,1819,zillow_ph,-112.03,33.4903,351.577,,rental,1650,open,,,2015-08-21
+"4301 E Greenway Ln, Phoenix, AZ 85032",4,2,2162,zillow_ph,-111.989,33.6247,437.615,Paradise Valley,rental,2000,open,,,2015-09-09
+"N 92nd Ln Phoenix, AZ 85037",4,2,2881,zillow_ph,-112.259,33.4964,318.077,,rental,1375,open,,,2015-09-09
+"W Southern Hills Rd Phoenix, AZ 85023",3,2,3056,zillow_ph,-112.077,33.6094,409.697,,rental,3200,open,,,2015-09-11
+"910 E Fairmount Ave, Phoenix, AZ 85014",1,1,510,zillow_ph,-112.062,33.4932,339.977,Encanto,rental,545,open,,,2015-09-11
+"S Yuta St Phoenix, AZ 85044",3,2,1200,zillow_ph,-111.993,33.3481,404.871,,rental,1250,open,,,2015-09-13
+"2508 E Hazelwood St, Phoenix, AZ 85016",3,2,1137,zillow_ph,-112.028,33.5045,358.069,Camelback East,rental,1295,open,,,2015-09-14
+"3805 W Saguaro Ln, Glendale, AZ 85310",3,2,1859,zillow_ph,-112.139,33.7088,431.626,Deer Valley,rental,1375,open,,,2015-09-14
+"E Hamblin Dr Phoenix, AZ 85050",3,2,2408,zillow_ph,-111.977,33.693,507.194,,rental,2100,open,,,2015-09-15
+"1301 E Hubbell St, Phoenix, AZ 85006",3,1,1447,zillow_ph,-112.054,33.4701,336.304,Encanto,rental,895,open,,,2015-09-15
+"2919 E Saltsage Dr, Phoenix, AZ 85048",3,2,1710,zillow_ph,-112.021,33.2959,366.177,Ahwatukee Foothills,rental,1450,open,,,2015-09-16
+"W Pierson St Phoenix, AZ 85013",3,2,1500,zillow_ph,-112.082,33.5075,344.211,,rental,1475,open,,,2015-09-17
+"5123 E Encanto Blvd, Phoenix, AZ 85035",3,1,1584,zillow_ph,-112.17,33.473,329.44,Maryvale,rental,900,open,,,2015-09-18
+"604 N 5th Ave, Phoenix, AZ 85003",1,1,800,zillow_ph,-112.08,33.4548,329.816,Central City,rental,875,open,,,2015-09-18
+"N 48th Dr Glendale, AZ 85304",3,2,1348,zillow_ph,-112.163,33.5955,372.862,,rental,1295,open,,,2015-09-18
+"1647 E Rancho Dr, Phoenix, AZ 85016",4,2,1800,zillow_ph,,,,Camelback East,rental,1975,open,,,2015-09-19
+"1801 W Tuckey Ln, Phoenix, AZ 85015",2,1,1007,zillow_ph,,,,Alahambra,rental,745,open,,,2015-09-19
+"1137 E Palm Ln, Phoenix, AZ 85006",1,1,0,zillow_ph,,,,Encanto,rental,725,open,,,2015-09-19
+"4039 E Sunnyside Dr, Phoenix, AZ 85028",3,2,2071,zillow_ph,-111.991,33.5946,422.075,Paradise Valley,rental,1795,open,,,2013-09-14
+"3134 E Cottonwood Ln, Phoenix, AZ 85048",4,3,2000,zillow_ph,-112.015,33.2938,362.571,Ahwatukee Foothills,rental,1750,open,,,2015-09-09
+"502 W Monona Dr, Phoenix, AZ 85027",3,1,1440,zillow_ph,-112.081,33.6755,438.866,Deer Valley,rental,1195,open,,,2015-09-09
+"4126 N 30th Dr, Phoenix, AZ 85017",3,1,1371,zillow_ph,-112.125,33.496,343.269,Alahambra,rental,825,open,,,2015-09-09
+"7507 S 30th Run, Phoenix, AZ 85042",3,2,1439,zillow_ph,-112.016,33.3789,359.851,South Mountain,rental,1245,open,,,2015-09-09
+"3833 W Mission Ln, Phoenix, AZ 85051",4,2,1931,zillow_ph,-112.142,33.5712,372.608,North Mountain,rental,1350,open,,,2015-09-10
+"315 W Herro Ln, Phoenix, AZ 85013",3,2,2236,zillow_ph,-112.079,33.5322,357.054,Alahambra,rental,2400,open,,,2015-09-10
+"4211 E Hamblin Dr, Phoenix, AZ 85050",3,2,1828,zillow_ph,,,,Desert View,rental,1995,open,,,2015-09-11
+"8815 S 51st Dr, Laveen, AZ 85339",5,3,3321,zillow_ph,,,,Laveen,rental,1995,open,,,2015-09-11
+"22520 N 38th Pl, Phoenix, AZ 85050",3,3,3090,zillow_ph,-111.995,33.6912,492.047,Desert View,rental,2999,open,,,2015-09-11
+"4202 W Denton Ln, Phoenix, AZ 85019",4,2,1997,zillow_ph,-112.149,33.5165,350.183,Alahambra,rental,1150,open,,,2015-09-11
+"1626 W Saint Catherine Ave, Phoenix, AZ 85041",3,2,1345,zillow_ph,-112.094,33.3885,335.423,South Mountain,rental,1000,open,,,2015-09-11
+"2514 W Mark Ln, Phoenix, AZ 85085",3,2,1860,zillow_ph,-112.113,33.7445,462.332,Deer Valley,rental,1500,open,,,2015-09-11
+"4401 W Redfield Rd, Glendale, AZ 85306",3,2,1778,zillow_ph,-112.153,33.6138,384.374,North Mountain,rental,1300,open,,,2015-09-11
+"2333 W Hedgehog Pl, Phoenix, AZ 85085",5,3,2856,zillow_ph,,,,Deer Valley,rental,2000,open,,,2015-09-13
+"5642 S 14th Ave, Phoenix, AZ 85041",2,1,819,zillow_ph,,,,South Mountain,rental,799,open,,,2015-09-14
+"6018 W Mulberry Dr, Phoenix, AZ 85033",3,1,1030,zillow_ph,-112.189,33.4872,332.562,Maryvale,rental,795,open,,,2015-09-14
+"5738 W T Ryan Ln, Laveen, AZ 85339",4,2,2260,zillow_ph,,,,Laveen,rental,1320,open,,,2015-09-14
+"3029 E Roveen Ave, Phoenix, AZ 85032",3,2,1632,zillow_ph,-112.016,33.6055,431.878,Paradise Valley,rental,1495,open,,,2015-09-15
+"27723 N 18th Dr, Phoenix, AZ 85085",3,2,1783,zillow_ph,-112.098,33.7365,475.304,North Gateway,rental,1500,open,,,2015-09-15
+"7929 S Kelsie Dr, Laveen, AZ 85339",3,2,1347,zillow_ph,-112.201,33.3736,304.488,Laveen,rental,1150,open,,,2015-09-15
+"16053 S 18th Ave, Phoenix, AZ 85045",3,2,1854,zillow_ph,-112.099,33.2999,380.094,Ahwatukee Foothills,rental,1450,open,,,2015-09-15
+"3712 W Sierra St, Phoenix, AZ 85029",3,2,1590,zillow_ph,,,,North Mountain,rental,1200,open,,,2015-09-15
+"5026 E Oakhurst Way, Scottsdale, AZ 85254",5,3,3400,zillow_ph,-111.973,33.591,418.019,Paradise Valley,rental,2995,open,,,2015-09-15
+"4323 W Hopi Trl, Laveen, AZ 85339",5,3,3706,zillow_ph,,,,Laveen,rental,1725,open,,,2015-09-16
+"3910 E Pollack St, Phoenix, AZ 85042",4,3,1770,zillow_ph,-111.998,33.3806,362.016,South Mountain,rental,1450,open,,,2015-09-16
+"15029 N 54th St, Scottsdale, AZ 85254",3,2,1750,zillow_ph,,,,Paradise Valley,rental,1525,open,,,2015-09-16
+"716 E Desert Park Ln, Phoenix, AZ 85020",3,3,2064,zillow_ph,,,,Camelback East,rental,2200,open,,,2015-09-16
+"25518 N 54th Ln, Phoenix, AZ 85083",4,3,2810,zillow_ph,,,,Deer Valley,rental,1600,open,,,2015-09-16
+"4801 W Aster Dr, Glendale, AZ 85304",3,2,1690,zillow_ph,-112.162,33.602,376.91,North Mountain,rental,1095,open,,,2015-09-16
+"4749 E Desert Wind Dr, Phoenix, AZ 85044",3,2,1300,zillow_ph,-111.982,33.3157,375.329,Ahwatukee Foothills,rental,1195,open,,,2015-09-17
+"3033 W Grenadine Rd, Phoenix, AZ 85041",4,3,2400,zillow_ph,-112.124,33.3985,317.162,Laveen,rental,1249,open,,,2015-09-17
+"5732 W Encanto Blvd, Phoenix, AZ 85035",3,2,1375,zillow_ph,-112.184,33.4735,327.767,Maryvale,rental,930,open,,,2015-09-18
+"5312 W Molly Ln, Phoenix, AZ 85083",3,2,1871,zillow_ph,,,,Deer Valley,rental,1795,open,,,2015-09-18
+"510 E Piute Ave, Phoenix, AZ 85024",3,2,1100,zillow_ph,-112.067,33.6635,435.482,Deer Valley,rental,1150,open,,,2015-09-18
+"17435 N 46th St, Phoenix, AZ 85032",4,2,1881,zillow_ph,-111.981,33.6454,454.325,Paradise Valley,rental,1800,open,,,2015-09-18
+"3969 E Melinda Dr, Phoenix, AZ 85050",3,2,1654,zillow_ph,,,,Desert View,rental,1695,open,,,2015-09-18
+"2423 W Fawn Dr, Phoenix, AZ 85041",5,3,2685,zillow_ph,-112.112,33.376,335.384,South Mountain,rental,1400,open,,,2015-09-18
+"12219 S Shasta Pl, Phoenix, AZ 85044",3,2,2300,zillow_ph,-111.994,33.3358,398.106,Ahwatukee Foothills,rental,1450,open,,,2015-09-18
+"1920 E Sharon Dr, Phoenix, AZ 85022",4,2,1812,zillow_ph,,,,Paradise Valley,rental,1700,open,,,2015-09-19
+"19021 N 12th Dr, Phoenix, AZ 85027",3,2,1181,zillow_ph,-112.086,33.6591,427.112,Deer Valley,rental,1150,open,,,2015-09-19
+"8430 W Lewis Ave, Phoenix, AZ 85037",2,2,1449,zillow_ph,,,,Maryvale,rental,1125,open,,,2015-09-19
+"4770 W Menadota Dr, Glendale, AZ 85308",3,2,1136,zillow_ph,-112.163,33.6686,400.538,Deer Valley,rental,995,open,,,2015-09-19

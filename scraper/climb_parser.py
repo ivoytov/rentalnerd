@@ -46,7 +46,8 @@ for listing in soup.find_all('div', class_="properties-list-details"):
 
 	# next line shows date lease was signed
 	# Rented on 06/15/2015
-	date = time.mktime(time.strptime(listing.contents[5].text.split()[2], '%m/%d/%Y'))
+	date = listing.contents[5].text.split()[2]
+
 
 	new_listing = {
 		'Address': address,
@@ -55,6 +56,7 @@ for listing in soup.find_all('div', class_="properties-list-details"):
 		'Bathrooms': bathrooms,
 		'Price': price,
 		'Rented': True,
+		# 'Rented': False,
 		'Date': date,
 		'Source': 'Climb SF'
 	}
@@ -62,7 +64,7 @@ for listing in soup.find_all('div', class_="properties-list-details"):
 	all_listings.append(new_listing)
 
 
-with open('climb_listings.csv', 'w') as csvfile:
+with open('climb_listings_active_dates.csv', 'w') as csvfile:
 	fieldnames = [
 		'Address',
 		'Neighborhood',
