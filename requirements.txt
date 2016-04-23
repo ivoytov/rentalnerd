@@ -1,0 +1,14 @@
+jupyter
+ipython
+statsmodels
+numpy
+scipy
+pandas
+patsy
+fiona
+shapely
+geopandas
+matplotlib
+sklearn
+pymysql
+ipython-sql
