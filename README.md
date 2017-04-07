@@ -2,12 +2,14 @@
 
 ## Pre-requisities
 - sqlite3
-- python 2.7
+- Python 2.7
 - pip
 
 Installing dependent image libraries
 ```
-brew reinstall libpng
+# Install libpng directly -- http://mac-dev-env.patrickbougie.com/libpng/
+brew reinstall libpng 
+
 brew reinstall freetype
 ```
 
@@ -62,7 +64,7 @@ Installing MySql dependency
 
 Install requirements
   ```
-  pip install -r requirements.txt --upgrade
+  pip install  --index-url=http://pypi.python.org/simple/ --trusted-host pypi.python.org  -r requirements.txt --upgrade
   ```
 
 Setting up Matlab backend for python
@@ -75,5 +77,6 @@ Setting up Matlab backend for python
 
 ## Running NoteBook
   ```
+  # Python 2.7
   ipython notebook scraper/PHX\ Model.ipynb 
   ```
