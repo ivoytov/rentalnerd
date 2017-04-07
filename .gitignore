@@ -1,1 +1,4 @@
 /venv/*
+scraper/*.model
+*.model
+scraper/CSV_backups
