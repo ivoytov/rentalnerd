@@ -62,6 +62,10 @@ Installing MySql dependency
   easy_install MySQL-python
   ```
 
+Installing XGBoost pre-requisites
+  - http://xgboost.readthedocs.io/en/latest/build.html#building-on-osx
+  
+
 Install requirements
   ```
   pip install  --index-url=http://pypi.python.org/simple/ --trusted-host pypi.python.org  -r requirements.txt --upgrade
