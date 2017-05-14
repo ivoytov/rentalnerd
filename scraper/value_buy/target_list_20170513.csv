@@ -1,0 +1,402 @@
+property_id,transaction_id,address,ypred,predicted_price,list,url
+333,13419023,"16155 Monte Vista St, Detroit, MI 48221 ",92905.015625,147805.015625,54900,https://www.zillow.com/homedetails/16155-Monte-Vista-St-Detroit-MI-48221/88694713_zpid/
+251,13432949,"17351 Monica St, Detroit, MI 48221 ",85224.609375,157124.609375,71900,https://www.zillow.com/homedetails/17351-Monica-St-Detroit-MI-48221/88434935_zpid/
+106,13453245,"6625 Avenue S, Houston, TX 77011 ",72287.640625,131287.640625,59000,https://www.zillow.com/homedetails/6625-Avenue-S-Houston-TX-77011/27790657_zpid/
+67,13462073,"6613 Plumflower Ln, Las Vegas, NV 89108 ",70692.6875,149692.6875,79000,https://www.zillow.com/homedetails/6613-Plumflower-Ln-Las-Vegas-NV-89108/81823859_zpid/
+372,13413635,"12618 Newbrook Dr, Houston, TX 77072 ",60215.3359375,117215.3359375,57000,https://www.zillow.com/homedetails/12618-Newbrook-Dr-Houston-TX-77072/28188910_zpid/
+315,13423189,"3631 Broad St, Houston, TX 77087 ",59255.4375,194255.4375,135000,https://www.zillow.com/homedetails/3631-Broad-St-Houston-TX-77087/27835476_zpid/
+354,13417004,"8267 Appoline St, Detroit, MI 48228 ",58119.1875,119119.1875,61000,https://www.zillow.com/homedetails/8267-Appoline-St-Detroit-MI-48228/88677068_zpid/
+65,13462096,"1809 Capron St, Houston, TX 77020 ",57245.390625,142245.390625,85000,https://www.zillow.com/homedetails/1809-Capron-St-Houston-TX-77020/27746558_zpid/
+50,13464332,"38 Westminster St, Detroit, MI 48202 ",48312.265625,213312.265625,165000,https://www.zillow.com/homedetails/38-Westminster-St-Detroit-MI-48202/88151138_zpid/
+189,13442867,"14236 Olympic Dr, Clearlake, CA 95422 ",44283.625,169283.625,125000,https://www.zillow.com/homedetails/14236-Olympic-Dr-Clearlake-CA-95422/19092875_zpid/
+326,13421310,"10506 Buffum St, Houston, TX 77051 ",43203.6796875,103203.6796875,60000,https://www.zillow.com/homedetails/10506-Buffum-St-Houston-TX-77051/27982739_zpid/
+395,13408696,"9331 Clearway Dr, Houston, TX 77033 ",41731.609375,101231.609375,59500,https://www.zillow.com/homedetails/9331-Clearway-Dr-Houston-TX-77033/28050867_zpid/
+195,13441628,"1050 S Wanda Drive Rent To Own, Gilbert Az, AZ 85296 ",32011.6875,152011.6875,120000,https://www.zillow.com/homedetails/1050-S-Wanda-Drive-Rent-To-Own-Gilbert-Az-AZ-85296/2094865542_zpid/
+66,13462086,"7806 Jester St, Houston, TX 77051 ",31646.0703125,106646.0703125,75000,https://www.zillow.com/homedetails/7806-Jester-St-Houston-TX-77051/27812546_zpid/
+88,13457652,"858 W Macarthur St, Tucson, AZ 85714 ",28774.9453125,111674.9453125,82900,https://www.zillow.com/homedetails/858-W-Macarthur-St-Tucson-AZ-85714/8490747_zpid/
+148,13448402,"4800 Wipprecht St, Houston, TX 77026 ",28402.3828125,113652.3828125,85250,https://www.zillow.com/homedetails/4800-Wipprecht-St-Houston-TX-77026/2094854570_zpid/
+269,13430739,"4201 Kewanee St, Houston, TX 77051 ",24308.8984375,100308.8984375,76000,https://www.zillow.com/homedetails/4201-Kewanee-St-Houston-TX-77051/27862464_zpid/
+149,13448096,"7755 E Quincy Ave # 306, Denver, CO 80237 ",22586.75,151586.75,129000,https://www.zillow.com/homedetails/7755-E-Quincy-Ave-306-Denver-CO-80237/2098369444_zpid/
+19,13466214,"10531 Hedge View Ave, Las Vegas, NV 89129 ",18808.96875,186698.96875,167890,https://www.zillow.com/homedetails/10531-Hedge-View-Ave-Las-Vegas-NV-89129/71175356_zpid/
+277,13429070,"2104 Conchita St, Las Vegas, NV 89108 ",16433.96875,136333.96875,119900,https://www.zillow.com/homedetails/2104-Conchita-St-Las-Vegas-NV-89108/6954314_zpid/
+307,13423942,"24646 W Romley Rd, Buckeye, AZ 85326 ",12977.71875,222877.71875,209900,https://www.zillow.com/homedetails/24646-W-Romley-Rd-Buckeye-AZ-85326/95186731_zpid/
+256,13432138,"5259 W Novak Way, Laveen, AZ 85339 ",11724.640625,226724.640625,215000,https://www.zillow.com/homedetails/5259-W-Novak-Way-Laveen-AZ-85339/71612257_zpid/
+275,13429173,"6903 W Vernon Ave, Phoenix, AZ 85035 ",11085.28125,128085.28125,117000,https://www.zillow.com/homedetails/6903-W-Vernon-Ave-Phoenix-AZ-85035/7475532_zpid/
+243,13435584,"1220 Vienna Dr SPC 472, Sunnyvale, CA 94089 ",10472.25,179472.25,169000,https://www.zillow.com/homedetails/1220-Vienna-Dr-SPC-472-Sunnyvale-CA-94089/2097072656_zpid/
+90,13457348,"933 Cimarron St, Houston, TX 77015 ",8041.3671875,107541.3671875,99500,https://www.zillow.com/homedetails/933-Cimarron-St-Houston-TX-77015/27927769_zpid/
+32,13465545,"1013 W Speedway Blvd, Tucson, AZ 85745 ",7952.21875,147952.21875,140000,https://www.zillow.com/homedetails/1013-W-Speedway-Blvd-Tucson-AZ-85745/81999091_zpid/
+246,13434419,"11032 N 28th Dr, Phoenix, AZ 85029 ",5740.453125,120740.453125,115000,https://www.zillow.com/homedetails/11032-N-28th-Dr-Phoenix-AZ-85029/2094890947_zpid/
+11,13467155,"4774 N 14th St, Phoenix, AZ 85014 ",4880.3828125,99880.3828125,95000,https://www.zillow.com/homedetails/4774-N-14th-St-Phoenix-AZ-85014/7769271_zpid/
+248,13433665,"6624 E David Dr, Tucson, AZ 85730 ",4054.59375,135054.59375,131000,https://www.zillow.com/homedetails/6624-E-David-Dr-Tucson-AZ-85730/8553930_zpid/
+366,13414408,"334 N Burr St, Houston, TX 77011 ",3297.4375,118297.4375,115000,https://www.zillow.com/homedetails/334-N-Burr-St-Houston-TX-77011/27811782_zpid/
+255,13432284,"2729 N Stone Ave, Tucson, AZ 85705 ",3274.046875,173274.046875,170000,https://www.zillow.com/homedetails/2729-N-Stone-Ave-Tucson-AZ-85705/2094898111_zpid/
+49,13464472,"7101 E 29th St, Tucson, AZ 85710 ",2649.203125,142549.203125,139900,https://www.zillow.com/homedetails/7101-E-29th-St-Tucson-AZ-85710/8544819_zpid/
+318,13422855,"27 E Inglewood St, Mesa, AZ 85201 ",2434.21875,152334.21875,149900,https://www.zillow.com/homedetails/27-E-Inglewood-St-Mesa-AZ-85201/7615082_zpid/
+132,13450357,"5606 Arncliffe Dr, Houston, TX 77088 ",1157.875,146157.875,145000,https://www.zillow.com/homedetails/5606-Arncliffe-Dr-Houston-TX-77088/28170521_zpid/
+175,13445916,"18955 Warrington Dr, Detroit, MI 48221 ",756.359375,220656.359375,219900,https://www.zillow.com/homedetails/18955-Warrington-Dr-Detroit-MI-48221/88083121_zpid/
+166,13446461,"22036 W Hadley St, Buckeye, AZ 85326 ",684.609375,185684.609375,185000,https://www.zillow.com/homedetails/22036-W-Hadley-St-Buckeye-AZ-85326/82385935_zpid/
+229,13437543,"21836 W Casey Ln, Buckeye, AZ 85326 ",-561.5625,227338.4375,227900,https://www.zillow.com/homedetails/21836-W-Casey-Ln-Buckeye-AZ-85326/95187503_zpid/
+103,13453582,"5413 E Bellevue St, Tucson, AZ 85712 ",-1226.3046875,118725.6953125,119952,https://www.zillow.com/homedetails/5413-E-Bellevue-St-Tucson-AZ-85712/8494986_zpid/
+51,13464294,"5893 E Fantail Ln, Tucson, AZ 85756 ",-1988.953125,167011.046875,169000,https://www.zillow.com/homedetails/5893-E-Fantail-Ln-Tucson-AZ-85756/71682286_zpid/
+276,13429168,"2535 N 47th Dr, Phoenix, AZ 85035 ",-5617.5,151382.5,157000,https://www.zillow.com/homedetails/2535-N-47th-Dr-Phoenix-AZ-85035/7499074_zpid/
+346,13418005,"1528 N Emerson St APT 9, Denver, CO 80218 ",-6692.5625,143307.4375,150000,https://www.zillow.com/homedetails/1528-N-Emerson-St-APT-9-Denver-CO-80218/2094944955_zpid/
+201,13441168,"11238 Carvel Ln, Houston, TX 77072 ",-7817.140625,147182.859375,155000,https://www.zillow.com/homedetails/11238-Carvel-Ln-Houston-TX-77072/28128176_zpid/
+107,13453155,"12410 50th Pl S, Tukwila, WA 98178 ",-7854.953125,157145.046875,165000,https://www.zillow.com/homedetails/12410-50th-Pl-S-Tukwila-WA-98178/48656995_zpid/
+222,13438177,"10917 W Camelot Cir, Sun City, AZ 85351 ",-9610.0625,180289.9375,189900,https://www.zillow.com/homedetails/10917-W-Camelot-Cir-Sun-City-AZ-85351/7919866_zpid/
+328,13420450,"5606 Southbrook Dr, Houston, TX 77033 ",-10421.5,87578.5,98000,https://www.zillow.com/homedetails/5606-Southbrook-Dr-Houston-TX-77033/28025156_zpid/
+72,13461753,"374 Leisure World, Mesa, AZ 85206 ",-10678.8125,114320.1875,124999,https://www.zillow.com/homedetails/374-Leisure-World-Mesa-AZ-85206/2094830263_zpid/
+16,13466539,"13600 Breton Ridge St BLDG 33A, Houston, TX 77070 ",-11110.390625,154889.609375,166000,https://www.zillow.com/homedetails/13600-Breton-Ridge-St-BLDG-33A-Houston-TX-77070/80513321_zpid/
+234,13436473,"7214 W St Charles Ave, Laveen, AZ 85339 ",-11729.171875,238270.828125,250000,https://www.zillow.com/homedetails/7214-W-St-Charles-Ave-Laveen-AZ-85339/71605015_zpid/
+308,13423940,"24476 W Sheraton Ln, Buckeye, AZ 85326 ",-12185.453125,221714.546875,233900,https://www.zillow.com/homedetails/24476-W-Sheraton-Ln-Buckeye-AZ-85326/95151186_zpid/
+165,13446462,"24505 W Sheraton Ln, Buckeye, AZ 85326 ",-12967.34375,186932.65625,199900,https://www.zillow.com/homedetails/24505-W-Sheraton-Ln-Buckeye-AZ-85326/95168745_zpid/
+268,13430744,"2605 Noble St, Houston, TX 77026 ",-13979.78125,111020.21875,125000,https://www.zillow.com/homedetails/2605-Noble-St-Houston-TX-77026/27778932_zpid/
+102,13453699,"59 Penway St, Houston, TX 77022 ",-16156.703125,98843.296875,115000,https://www.zillow.com/homedetails/59-Penway-St-Houston-TX-77022/27896759_zpid/
+39,13465271,"2550 E River Rd UNIT 11105, Tucson, AZ 85718 ",-16774.203125,159125.796875,175900,https://www.zillow.com/homedetails/2550-E-River-Rd-UNIT-11105-Tucson-AZ-85718/71702973_zpid/
+381,13412276,"14962 NE Rose Pkwy, Portland, OR 97230 ",-19315.25,180584.75,199900,https://www.zillow.com/homedetails/14962-NE-Rose-Pkwy-Portland-OR-97230/2094953692_zpid/
+305,13424275,"19893 N 260th Dr, Buckeye, AZ 85396 ",-19583.734375,210316.265625,229900,https://www.zillow.com/homedetails/19893-N-260th-Dr-Buckeye-AZ-85396/2095333143_zpid/
+143,13449189,"8002 E Julia St, Tucson, AZ 85710 ",-19856.953125,140143.046875,160000,https://www.zillow.com/homedetails/8002-E-Julia-St-Tucson-AZ-85710/8539402_zpid/
+291,13426781,"543 W Troy Rd, Houston, TX 77091 ",-19951.78125,119948.21875,139900,https://www.zillow.com/homedetails/543-W-Troy-Rd-Houston-TX-77091/28039963_zpid/
+335,13418930,"24419 W Sheraton Ln, Buckeye, AZ 85326 ",-20452.265625,165447.734375,185900,https://www.zillow.com/homedetails/24419-W-Sheraton-Ln-Buckeye-AZ-85326/95158243_zpid/
+159,13447003,"17200 W Bell Rd LOT 29, Surprise, AZ 85374 ",-21909.078125,128090.921875,150000,https://www.zillow.com/homedetails/17200-W-Bell-Rd-LOT-29-Surprise-AZ-85374/2109263361_zpid/
+164,13446467,"24536 W Sheraton Ln, Buckeye, AZ 85326 ",-22452.265625,165447.734375,187900,https://www.zillow.com/homedetails/24536-W-Sheraton-Ln-Buckeye-AZ-85326/95177637_zpid/
+74,13461217,"1510 E Sonrisas St, Phoenix, AZ 85040 ",-24188.6015625,122811.3984375,147000,https://www.zillow.com/homedetails/1510-E-Sonrisas-St-Phoenix-AZ-85040/61627430_zpid/
+368,13414142,"10752 E Sanctuary Ridge Ln, Tucson, AZ 85747 ",-24875.375,204024.625,228900,https://www.zillow.com/homedetails/10752-E-Sanctuary-Ridge-Ln-Tucson-AZ-85747/97393518_zpid/
+34,13465463,"11833 W Bloomfield Rd, El Mirage, AZ 85335 ",-25273.203125,148726.796875,174000,https://www.zillow.com/homedetails/11833-W-Bloomfield-Rd-El-Mirage-AZ-85335/8829520_zpid/
+211,13440611,"2144 W Luke Ave, Phoenix, AZ 85015 ",-25877.125,189122.875,215000,https://www.zillow.com/homedetails/2144-W-Luke-Ave-Phoenix-AZ-85015/7763614_zpid/
+186,13444359,"7142 E 18th St, Tucson, AZ 85710 ",-26406.4765625,118593.5234375,145000,https://www.zillow.com/homedetails/7142-E-18th-St-Tucson-AZ-85710/8540258_zpid/
+213,13440394,"10723 Khalua Ave, Las Vegas, NV 89166 ",-27228.15625,229771.84375,257000,https://www.zillow.com/homedetails/10723-Khalua-Ave-Las-Vegas-NV-89166/82532251_zpid/
+105,13453324,"8813 W Indianola Ave, Phoenix, AZ 85037 ",-27415.671875,128084.328125,155500,https://www.zillow.com/homedetails/8813-W-Indianola-Ave-Phoenix-AZ-85037/2094842382_zpid/
+163,13446481,"4998 S 246TH Ln, Buckeye, AZ 85326 ",-27495.03125,166404.96875,193900,https://www.zillow.com/homedetails/4998-S-246TH-Ln-Buckeye-AZ-85326/95099671_zpid/
+78,13459995,"23618 W Adams St, Buckeye, AZ 85396 ",-27958.15625,231541.84375,259500,https://www.zillow.com/homedetails/23618-W-Adams-St-Buckeye-AZ-85396/71626146_zpid/
+240,13435978,"3017 S 89th Dr, Tolleson, AZ 85353 ",-28368.953125,185631.046875,214000,https://www.zillow.com/homedetails/3017-S-89th-Dr-Tolleson-AZ-85353/81986108_zpid/
+239,13436115,"5727 W Vista Ave, Glendale, AZ 85301 ",-28667.8671875,111332.1328125,140000,https://www.zillow.com/homedetails/5727-W-Vista-Ave-Glendale-AZ-85301/7726670_zpid/
+81,13458755,"13814 W Aleppo Dr, Sun City West, AZ 85375 ",-28733.9609375,130766.0390625,159500,https://www.zillow.com/homedetails/13814-W-Aleppo-Dr-Sun-City-West-AZ-85375/83129653_zpid/
+73,13461300,"11044 W Mountain View Rd, Sun City, AZ 85351 ",-28992.359375,110007.640625,139000,https://www.zillow.com/homedetails/11044-W-Mountain-View-Rd-Sun-City-AZ-85351/7690498_zpid/
+59,13462659,"8899 E Abrams Loop, Tucson, AZ 85710 ",-30586.703125,187663.296875,218250,https://www.zillow.com/homedetails/8899-E-Abrams-Loop-Tucson-AZ-85710/2094837386_zpid/
+198,13441327,"18027 N Desert Drive Gln, Sun City West, AZ 85375 ",-30848.671875,126051.328125,156900,https://www.zillow.com/homedetails/18027-N-Desert-Drive-Gln-Sun-City-West-AZ-85375/2094874442_zpid/
+303,13424998,"0 Larkspur, Houston, TX 77051 ",-31496.8125,143503.1875,175000,https://www.zillow.com/homedetails/0-Larkspur-Houston-TX-77051/2094923319_zpid/
+33,13465530,"4225 S 16th Ave, Tucson, AZ 85714 ",-31609.75,108290.25,139900,https://www.zillow.com/homedetails/4225-S-16th-Ave-Tucson-AZ-85714/8490453_zpid/
+235,13436466,"7714 W Carter Rd, Laveen, AZ 85339 ",-31637.78125,142362.21875,174000,https://www.zillow.com/homedetails/7714-W-Carter-Rd-Laveen-AZ-85339/95075465_zpid/
+120,13451997,"7814 E Rovey Ave, Scottsdale, AZ 85250 ",-32342.1171875,129557.8828125,161900,https://www.zillow.com/homedetails/7814-E-Rovey-Ave-Scottsdale-AZ-85250/7857178_zpid/
+31,13465570,"864 Cooper Cir, Las Vegas, NV 89101 ",-32437.4921875,127462.5078125,159900,https://www.zillow.com/homedetails/864-Cooper-Cir-Las-Vegas-NV-89101/7006244_zpid/
+288,13427580,"8249 E Beverly St, Tucson, AZ 85710 ",-33637.75,161362.25,195000,https://www.zillow.com/homedetails/8249-E-Beverly-St-Tucson-AZ-85710/8539843_zpid/
+369,13413840,"2845 N Dodge Blvd, Tucson, AZ 85716 ",-34255.796875,135244.203125,169500,https://www.zillow.com/homedetails/2845-N-Dodge-Blvd-Tucson-AZ-85716/2094951788_zpid/
+300,13425351,"9218 E 26th St, Tucson, AZ 85710 ",-34766.6875,140233.3125,175000,https://www.zillow.com/homedetails/9218-E-26th-St-Tucson-AZ-85710/8547802_zpid/
+2,13468355,"8191 E Helen St, Tucson, AZ 85715 ",-34792.125,150207.875,185000,https://www.zillow.com/homedetails/8191-E-Helen-St-Tucson-AZ-85715/8525239_zpid/
+343,13418271,"9498 N 82nd Gln, Peoria, AZ 85345 ",-34944.859375,143055.140625,178000,https://www.zillow.com/homedetails/9498-N-82nd-Gln-Peoria-AZ-85345/60978291_zpid/
+38,13465300,"7741 W Minnezona Ave, Phoenix, AZ 85033 ",-35807.4609375,123192.5390625,159000,https://www.zillow.com/homedetails/7741-W-Minnezona-Ave-Phoenix-AZ-85033/7482419_zpid/
+58,13462660,"8924 E Abrams Loop, Tucson, AZ 85710 ",-36357.328125,216722.671875,253080,https://www.zillow.com/homedetails/8924-E-Abrams-Loop-Tucson-AZ-85710/2094837517_zpid/
+161,13446506,"10230 E Circle Pines Dr, Tucson, AZ 85748 ",-36681.265625,138318.734375,175000,https://www.zillow.com/homedetails/10230-E-Circle-Pines-Dr-Tucson-AZ-85748/8533971_zpid/
+177,13445862,"5045 W Escuda Dr, Glendale, AZ 85308 ",-38098.234375,175801.765625,213900,https://www.zillow.com/homedetails/5045-W-Escuda-Dr-Glendale-AZ-85308/81975521_zpid/
+14,13466761,"6809 Elm Creek Dr, Las Vegas, NV 89108 ",-38344.9375,156555.0625,194900,https://www.zillow.com/homedetails/6809-Elm-Creek-Dr-Las-Vegas-NV-89108/6930531_zpid/
+22,13465988,"143 W 34th St, Tucson, AZ 85713 ",-39072.5,110427.5,149500,https://www.zillow.com/homedetails/143-W-34th-St-Tucson-AZ-85713/8487268_zpid/
+89,13457426,"4641 W Eva St, Glendale, AZ 85302 ",-39242.265625,110257.734375,149500,https://www.zillow.com/homedetails/4641-W-Eva-St-Glendale-AZ-85302/7729697_zpid/
+190,13442590,"11429 N 103rd Ave, Sun City, AZ 85351 ",-39539.890625,134360.109375,173900,https://www.zillow.com/homedetails/11429-N-103rd-Ave-Sun-City-AZ-85351/7689168_zpid/
+325,13421502,"15977 W Papago St, Goodyear, AZ 85338 ",-39574.5625,187425.4375,227000,https://www.zillow.com/homedetails/15977-W-Papago-St-Goodyear-AZ-85338/81979590_zpid/
+82,13458630,"8852 W Greer Ave, Peoria, AZ 85345 ",-41110.0,153890.0,195000,https://www.zillow.com/homedetails/8852-W-Greer-Ave-Peoria-AZ-85345/7685025_zpid/
+29,13465648,"510 S Lehigh Dr, Tucson, AZ 85710 ",-41391.4921875,103608.5078125,145000,https://www.zillow.com/homedetails/510-S-Lehigh-Dr-Tucson-AZ-85710/8541563_zpid/
+168,13446349,"2822 N Rosemont Ave, Tucson, AZ 85712 ",-41803.2421875,118196.7578125,160000,https://www.zillow.com/homedetails/2822-N-Rosemont-Ave-Tucson-AZ-85712/111914549_zpid/
+330,13419666,"3615 N 49th Ave, Phoenix, AZ 85031 ",-41878.3046875,118021.6953125,159900,https://www.zillow.com/homedetails/3615-N-49th-Ave-Phoenix-AZ-85031/7508732_zpid/
+96,13455502,"8416 Livingston St, Houston, TX 77051 ",-41882.546875,98017.453125,139900,https://www.zillow.com/homedetails/8416-Livingston-St-Houston-TX-77051/27812385_zpid/
+146,13448538,"658 S 153rd Ave, Goodyear, AZ 85338 ",-42041.75,197458.25,239500,https://www.zillow.com/homedetails/658-S-153rd-Ave-Goodyear-AZ-85338/59255420_zpid/
+45,13464810,"4610 W Park St, Laveen, AZ 85339 ",-42217.09375,155782.90625,198000,https://www.zillow.com/homedetails/4610-W-Park-St-Laveen-AZ-85339/71605156_zpid/
+26,13465730,"15358 W Hearn Rd, Surprise, AZ 85379 ",-42222.90625,172777.09375,215000,https://www.zillow.com/homedetails/15358-W-Hearn-Rd-Surprise-AZ-85379/55286349_zpid/
+5,13467578,"13429 W Keim Dr, Litchfield Park, AZ 85340 ",-42517.140625,196982.859375,239500,https://www.zillow.com/homedetails/13429-W-Keim-Dr-Litchfield-Park-AZ-85340/59254457_zpid/
+93,13456464,"734 S Marvin Ave, Tucson, AZ 85710 ",-43098.265625,139401.734375,182500,https://www.zillow.com/homedetails/734-S-Marvin-Ave-Tucson-AZ-85710/8540662_zpid/
+191,13442449,"26011 W Wahalla Ln, Buckeye, AZ 85396 ",-43144.15625,186755.84375,229900,https://www.zillow.com/homedetails/26011-W-Wahalla-Ln-Buckeye-AZ-85396/95078980_zpid/
+306,13424090,"909 N Montezuma Ave, Tucson, AZ 85711 ",-43361.8125,111638.1875,155000,https://www.zillow.com/homedetails/909-N-Montezuma-Ave-Tucson-AZ-85711/8504944_zpid/
+53,13463964,"9782 E Paseo San Ardo, Tucson, AZ 85747 ",-43554.015625,136345.984375,179900,https://www.zillow.com/homedetails/9782-E-Paseo-San-Ardo-Tucson-AZ-85747/8582891_zpid/
+227,13437552,"80 S 196th Ln, Buckeye, AZ 85326 ",-43733.234375,186256.765625,229990,https://www.zillow.com/homedetails/80-S-196th-Ln-Buckeye-AZ-85326/2094882813_zpid/
+4,13468211,"6814 W Gary Way, Laveen, AZ 85339 ",-43984.96875,151015.03125,195000,https://www.zillow.com/homedetails/6814-W-Gary-Way-Laveen-AZ-85339/67782782_zpid/
+172,13445958,"5043 N 193rd Dr, Litchfield Park, AZ 85340 ",-44710.046875,180289.953125,225000,https://www.zillow.com/homedetails/5043-N-193rd-Dr-Litchfield-Park-AZ-85340/95085777_zpid/
+157,13447128,"10110 W Cheryl Dr, Sun City, AZ 85351 ",-45363.34375,137136.65625,182500,https://www.zillow.com/homedetails/10110-W-Cheryl-Dr-Sun-City-AZ-85351/7694712_zpid/
+197,13441350,"18368 W Verdin Rd, Goodyear, AZ 85338 ",-45614.515625,254285.484375,299900,https://www.zillow.com/homedetails/18368-W-Verdin-Rd-Goodyear-AZ-85338/81968279_zpid/
+156,13447360,"2309 S 119th Dr, Avondale, AZ 85323 ",-45707.5625,162689.4375,208397,https://www.zillow.com/homedetails/2309-S-119th-Dr-Avondale-AZ-85323/95123250_zpid/
+86,13457784,"9857 E Fairview Ave, Mesa, AZ 85208 ",-46641.265625,165358.734375,212000,https://www.zillow.com/homedetails/9857-E-Fairview-Ave-Mesa-AZ-85208/50193079_zpid/
+0,13468665,"10340 E Windstorm Dr, Tucson, AZ 85748 ",-47887.828125,136112.171875,184000,https://www.zillow.com/homedetails/10340-E-Windstorm-Dr-Tucson-AZ-85748/8536766_zpid/
+75,13461183,"7736 W Minnezona Ave, Phoenix, AZ 85033 ",-48750.3828125,111149.6171875,159900,https://www.zillow.com/homedetails/7736-W-Minnezona-Ave-Phoenix-AZ-85033/7482423_zpid/
+210,13440612,"2406 W Citrus Way, Phoenix, AZ 85015 ",-49661.90625,140338.09375,190000,https://www.zillow.com/homedetails/2406-W-Citrus-Way-Phoenix-AZ-85015/7772769_zpid/
+142,13449634,"6507 N 19th Dr, Phoenix, AZ 85015 ",-50327.578125,139672.421875,190000,https://www.zillow.com/homedetails/6507-N-19th-Dr-Phoenix-AZ-85015/7773418_zpid/
+332,13419080,"1825 S 104 Dr, Tolleson, AZ 85353 ",-50973.234375,189186.765625,240160,https://www.zillow.com/homedetails/1825-S-104-Dr-Tolleson-AZ-85353/2094930699_zpid/
+361,13415747,"3044 W Corrine Dr, Phoenix, AZ 85029 ",-51002.6875,148897.3125,199900,https://www.zillow.com/homedetails/3044-W-Corrine-Dr-Phoenix-AZ-85029/92347270_zpid/
+158,13447013,"18532 W Acapulco Ln, Surprise, AZ 85388 ",-51028.21875,233871.78125,284900,https://www.zillow.com/homedetails/18532-W-Acapulco-Ln-Surprise-AZ-85388/2106929276_zpid/
+147,13448527,"16559 W Tonto St, Goodyear, AZ 85338 ",-51454.515625,138445.484375,189900,https://www.zillow.com/homedetails/16559-W-Tonto-St-Goodyear-AZ-85338/81975465_zpid/
+185,13444360,"5736 E 4th St, Tucson, AZ 85711 ",-51524.3125,147475.6875,199000,https://www.zillow.com/homedetails/5736-E-4th-St-Tucson-AZ-85711/8508453_zpid/
+71,13461783,"17367 W Bajada Rd, Surprise, AZ 85387 ",-51715.453125,248184.546875,299900,https://www.zillow.com/homedetails/17367-W-Bajada-Rd-Surprise-AZ-85387/81983755_zpid/
+274,13429290,"9506 W Glen Oaks Cir, Sun City, AZ 85351 ",-52070.2578125,103929.7421875,156000,https://www.zillow.com/homedetails/9506-W-Glen-Oaks-Cir-Sun-City-AZ-85351/7922813_zpid/
+386,13411284,"15687 W Monterosa St, Goodyear, AZ 85395 ",-52941.9375,188958.0625,241900,https://www.zillow.com/homedetails/15687-W-Monterosa-St-Goodyear-AZ-85395/81996063_zpid/
+273,13429312,"6033 S 13th Ave, Phoenix, AZ 85041 ",-53374.0625,131525.9375,184900,https://www.zillow.com/homedetails/6033-S-13th-Ave-Phoenix-AZ-85041/2094915225_zpid/
+313,13423256,"11808 N 75th Dr, Peoria, AZ 85345 ",-53427.609375,131572.390625,185000,https://www.zillow.com/homedetails/11808-N-75th-Dr-Peoria-AZ-85345/7680499_zpid/
+3,13468307,"4710 W Menadota Dr, Glendale, AZ 85308 ",-53680.796875,131219.203125,184900,https://www.zillow.com/homedetails/4710-W-Menadota-Dr-Glendale-AZ-85308/7937514_zpid/
+184,13444909,"10133 W Marguerite Ave, Tolleson, AZ 85353 ",-54138.234375,205761.765625,259900,https://www.zillow.com/homedetails/10133-W-Marguerite-Ave-Tolleson-AZ-85353/95165843_zpid/
+47,13464552,"17493 W Hilton Ave, Goodyear, AZ 85338 ",-55607.109375,159392.890625,215000,https://www.zillow.com/homedetails/17493-W-Hilton-Ave-Goodyear-AZ-85338/55287439_zpid/
+124,13451259,"10913 W Campana Dr, Sun City, AZ 85351 ",-56840.984375,133059.015625,189900,https://www.zillow.com/homedetails/10913-W-Campana-Dr-Sun-City-AZ-85351/8092484_zpid/
+297,13425870,"3521 W Paseo Way, Laveen, AZ 85339 ",-58301.203125,161698.796875,220000,https://www.zillow.com/homedetails/3521-W-Paseo-Way-Laveen-AZ-85339/67792504_zpid/
+384,13411713,"557 W Toledo St, Chandler, AZ 85225 ",-58321.1875,101578.8125,159900,https://www.zillow.com/homedetails/557-W-Toledo-St-Chandler-AZ-85225/8187411_zpid/
+279,13428840,"10209 E Foxmoor Dr, Tucson, AZ 85748 ",-58982.7421875,130917.2578125,189900,https://www.zillow.com/homedetails/10209-E-Foxmoor-Dr-Tucson-AZ-85748/8534143_zpid/
+129,13450485,"1395 S Joshua Tree Ln, Gilbert, AZ 85296 ",-59312.5625,175187.4375,234500,https://www.zillow.com/homedetails/1395-S-Joshua-Tree-Ln-Gilbert-AZ-85296/71608013_zpid/
+263,13431824,"8133 W Pueblo Ave, Phoenix, AZ 85043 ",-60311.96875,139588.03125,199900,https://www.zillow.com/homedetails/8133-W-Pueblo-Ave-Phoenix-AZ-85043/95083521_zpid/
+98,13454658,"4246 W Vogel Ave, Phoenix, AZ 85051 ",-60539.046875,124460.953125,185000,https://www.zillow.com/homedetails/4246-W-Vogel-Ave-Phoenix-AZ-85051/7746334_zpid/
+8,13467409,"8513 S Placita San Bernardo, Tucson, AZ 85747 ",-60823.84375,134076.15625,194900,https://www.zillow.com/homedetails/8513-S-Placita-San-Bernardo-Tucson-AZ-85747/8582332_zpid/
+357,13416690,"441 S Stonington Pl, Tucson, AZ 85748 ",-61321.484375,156678.515625,218000,https://www.zillow.com/homedetails/441-S-Stonington-Pl-Tucson-AZ-85748/8534088_zpid/
+12,13467141,"7737 Whispering River St, Las Vegas, NV 89131 ",-61412.3125,181587.6875,243000,https://www.zillow.com/homedetails/7737-Whispering-River-St-Las-Vegas-NV-89131/58770400_zpid/
+24,13465893,"15609 W Acapulco Ln, Surprise, AZ 85379 ",-61715.8359375,120834.1640625,182550,https://www.zillow.com/homedetails/15609-W-Acapulco-Ln-Surprise-AZ-85379/52435444_zpid/
+17,13466295,"8617 E University Dr, Mesa, AZ 85207 ",-61842.34375,148157.65625,210000,https://www.zillow.com/homedetails/8617-E-University-Dr-Mesa-AZ-85207/8071075_zpid/
+249,13433349,"4746 N 61st Ave, Phoenix, AZ 85033 ",-62006.609375,132993.390625,195000,https://www.zillow.com/homedetails/4746-N-61st-Ave-Phoenix-AZ-85033/7716069_zpid/
+378,13412789,"7839 N 20th Gln, Phoenix, AZ 85021 ",-63184.28125,186715.71875,249900,https://www.zillow.com/homedetails/7839-N-20th-Gln-Phoenix-AZ-85021/95186293_zpid/
+271,13429490,"5949 E Calle Silvosa, Tucson, AZ 85711 ",-63281.5390625,96718.4609375,160000,https://www.zillow.com/homedetails/5949-E-Calle-Silvosa-Tucson-AZ-85711/8521078_zpid/
+284,13428218,"9020 S 41st Gln, Laveen, AZ 85339 ",-63837.453125,221152.546875,284990,https://www.zillow.com/homedetails/9020-S-41st-Gln-Laveen-AZ-85339/95171765_zpid/
+138,13450157,"10251 W Townley Ave, Peoria, AZ 85345 ",-64856.328125,154798.671875,219655,https://www.zillow.com/homedetails/10251-W-Townley-Ave-Peoria-AZ-85345/2095217248_zpid/
+194,13441737,"12731 Sandri Ln, Houston, TX 77077 ",-65268.5,209731.5,275000,https://www.zillow.com/homedetails/12731-Sandri-Ln-Houston-TX-77077/28329205_zpid/
+344,13418251,"7434 W Montgomery Rd, Peoria, AZ 85383 ",-66639.625,168360.375,235000,https://www.zillow.com/homedetails/7434-W-Montgomery-Rd-Peoria-AZ-85383/89026685_zpid/
+115,13452518,"6739 N 32nd Ave, Phoenix, AZ 85017 ",-66967.5703125,109032.4296875,176000,https://www.zillow.com/homedetails/6739-N-32nd-Ave-Phoenix-AZ-85017/7759168_zpid/
+327,13421106,"822 E Glenn St, Tucson, AZ 85719 ",-67100.125,97869.875,164970,https://www.zillow.com/homedetails/822-E-Glenn-St-Tucson-AZ-85719/8461546_zpid/
+43,13465175,"21188 N 98th Dr, Peoria, AZ 85382 ",-67733.75,224266.25,292000,https://www.zillow.com/homedetails/21188-N-98th-Dr-Peoria-AZ-85382/95147155_zpid/
+20,13466108,"1925 E Duke Dr, Tempe, AZ 85283 ",-67930.40625,113069.59375,181000,https://www.zillow.com/homedetails/1925-E-Duke-Dr-Tempe-AZ-85283/8136456_zpid/
+27,13465716,"8840 W Bluefield Ave, Peoria, AZ 85382 ",-67950.4453125,126549.5546875,194500,https://www.zillow.com/homedetails/8840-W-Bluefield-Ave-Peoria-AZ-85382/67084755_zpid/
+380,13412463,"7655 Albright Peak Dr, Las Vegas, NV 89166 ",-68168.390625,231331.609375,299500,https://www.zillow.com/homedetails/7655-Albright-Peak-Dr-Las-Vegas-NV-89166/2094967053_zpid/
+237,13436292,"8305 E Fable Cir, Mesa, AZ 85208 ",-68396.34375,111603.65625,180000,https://www.zillow.com/homedetails/8305-E-Fable-Cir-Mesa-AZ-85208/8076506_zpid/
+42,13465189,"8335 W Dreyfus Dr, Peoria, AZ 85381 ",-70656.34375,144343.65625,215000,https://www.zillow.com/homedetails/8335-W-Dreyfus-Dr-Peoria-AZ-85381/7914242_zpid/
+15,13466705,"3213 W Desert Cove Ave, Phoenix, AZ 85029 ",-71288.484375,123211.515625,194500,https://www.zillow.com/homedetails/3213-W-Desert-Cove-Ave-Phoenix-AZ-85029/7740493_zpid/
+252,13432924,"27091 W Ross Ave, Buckeye, AZ 85396 ",-72456.84375,201443.15625,273900,https://www.zillow.com/homedetails/27091-W-Ross-Ave-Buckeye-AZ-85396/82826924_zpid/
+294,13426271,"4295 E Erie St, Gilbert, AZ 85295 ",-72579.953125,204410.046875,276990,https://www.zillow.com/homedetails/4295-E-Erie-St-Gilbert-AZ-85295/2094999702_zpid/
+104,13453468,"2314 E Claire Dr, Phoenix, AZ 85022 ",-73321.234375,134178.765625,207500,https://www.zillow.com/homedetails/2314-E-Claire-Dr-Phoenix-AZ-85022/8014012_zpid/
+350,13417726,"11530 E Persimmon Ave, Mesa, AZ 85212 ",-73436.46875,191463.53125,264900,https://www.zillow.com/homedetails/11530-E-Persimmon-Ave-Mesa-AZ-85212/52273204_zpid/
+320,13422760,"3009 W Mclellan Blvd, Phoenix, AZ 85017 ",-73783.171875,132116.828125,205900,https://www.zillow.com/homedetails/3009-W-Mclellan-Blvd-Phoenix-AZ-85017/7759471_zpid/
+151,13447944,"14214 N 33rd Dr, Phoenix, AZ 85053 ",-74709.125,153290.875,228000,https://www.zillow.com/homedetails/14214-N-33rd-Dr-Phoenix-AZ-85053/7943466_zpid/
+13,13466779,"14757 W Aster Dr, Surprise, AZ 85379 ",-74711.90625,135283.09375,209995,https://www.zillow.com/homedetails/14757-W-Aster-Dr-Surprise-AZ-85379/60993678_zpid/
+48,13464518,"19727 N Desert Song Way, Surprise, AZ 85374 ",-74738.484375,140261.515625,215000,https://www.zillow.com/homedetails/19727-N-Desert-Song-Way-Surprise-AZ-85374/54277245_zpid/
+230,13437313,"1730 NE 169th Ave, Portland, OR 97230 ",-74793.546875,245156.453125,319950,https://www.zillow.com/homedetails/1730-NE-169th-Ave-Portland-OR-97230/53995650_zpid/
+261,13431966,"531 S Pasadena, Mesa, AZ 85210 ",-75078.21875,134821.78125,209900,https://www.zillow.com/homedetails/531-S-Pasadena-Mesa-AZ-85210/7631928_zpid/
+117,13452266,"12010 W Rio Vista Ln, Avondale, AZ 85323 ",-75404.59375,154782.40625,230187,https://www.zillow.com/homedetails/12010-W-Rio-Vista-Ln-Avondale-AZ-85323/95186058_zpid/
+266,13430869,"16820 W Woodlands Ave, Goodyear, AZ 85338 ",-75711.40625,189278.59375,264990,https://www.zillow.com/homedetails/16820-W-Woodlands-Ave-Goodyear-AZ-85338/95167385_zpid/
+364,13414812,"19582 N Desert Garden Dr, Surprise, AZ 85374 ",-75841.59375,144158.40625,220000,https://www.zillow.com/homedetails/19582-N-Desert-Garden-Dr-Surprise-AZ-85374/81990784_zpid/
+340,13418536,"1410 Magazine St, Vallejo, CA 94591 ",-76271.8125,153728.1875,230000,https://www.zillow.com/homedetails/1410-Magazine-St-Vallejo-CA-94591/15672665_zpid/
+295,13426270,"4314 E Toledo St, Gilbert, AZ 85295 ",-76283.21875,204706.78125,280990,https://www.zillow.com/homedetails/4314-E-Toledo-St-Gilbert-AZ-85295/2095076274_zpid/
+193,13441925,"626 S Santa Ana Dr, Tucson, AZ 85710 ",-77704.828125,191295.171875,269000,https://www.zillow.com/homedetails/626-S-Santa-Ana-Dr-Tucson-AZ-85710/8538588_zpid/
+18,13466237,"5747 W Libby St, Glendale, AZ 85308 ",-77927.40625,132072.59375,210000,https://www.zillow.com/homedetails/5747-W-Libby-St-Glendale-AZ-85308/7900990_zpid/
+114,13452557,"1406 W Main St 114, Mesa, AZ 85201 ",-78222.25,163527.75,241750,https://www.zillow.com/homedetails/1406-W-Main-St-114-Mesa-AZ-85201/109573477_zpid/
+112,13452818,"623 W Kerry Ln, Phoenix, AZ 85027 ",-79001.875,225631.125,304633,https://www.zillow.com/homedetails/623-W-Kerry-Ln-Phoenix-AZ-85027/2094843634_zpid/
+30,13465624,"4925 Deep Forest Dr, Las Vegas, NV 89130 ",-79859.296875,189140.703125,269000,https://www.zillow.com/homedetails/4925-Deep-Forest-Dr-Las-Vegas-NV-89130/6905429_zpid/
+182,13445091,"1406 W Main St 117, Mesa, AZ 85201 ",-80218.75,160531.25,240750,https://www.zillow.com/homedetails/1406-W-Main-St-117-Mesa-AZ-85201/109623915_zpid/
+111,13452914,"6023 N 124th Dr, Litchfield Park, AZ 85340 ",-80344.546875,149655.453125,230000,https://www.zillow.com/homedetails/6023-N-124th-Dr-Litchfield-Park-AZ-85340/62667192_zpid/
+199,13441293,"8487 W Alyssa Ln, Peoria, AZ 85383 ",-80456.5625,189443.4375,269900,https://www.zillow.com/homedetails/8487-W-Alyssa-Ln-Peoria-AZ-85383/60979996_zpid/
+337,13418785,"14138 Avongate Ln, Houston, TX 77082 ",-80904.28125,204095.71875,285000,https://www.zillow.com/homedetails/14138-Avongate-Ln-Houston-TX-77082/70309960_zpid/
+334,13418944,"26848 W Runion Dr, Buckeye, AZ 85396 ",-81010.515625,178058.484375,259069,https://www.zillow.com/homedetails/26848-W-Runion-Dr-Buckeye-AZ-85396/81993885_zpid/
+253,13432854,"3867 E Palmer St, Gilbert, AZ 85298 ",-82130.34375,127769.65625,209900,https://www.zillow.com/homedetails/3867-E-Palmer-St-Gilbert-AZ-85298/67771936_zpid/
+208,13440642,"2638 E Holmes Ave, Mesa, AZ 85204 ",-82354.109375,137645.890625,220000,https://www.zillow.com/homedetails/2638-E-Holmes-Ave-Mesa-AZ-85204/92347340_zpid/
+397,13408491,"11418 Hillcroft St, Houston, TX 77035 ",-82401.5,167598.5,250000,https://www.zillow.com/homedetails/11418-Hillcroft-St-Houston-TX-77035/28075144_zpid/
+54,13463957,"7625 S Pacific Willow Dr, Tucson, AZ 85747 ",-82616.75,197383.25,280000,https://www.zillow.com/homedetails/7625-S-Pacific-Willow-Dr-Tucson-AZ-85747/63045992_zpid/
+319,13422849,"11345 E Peterson Ave, Mesa, AZ 85212 ",-82716.515625,199783.484375,282500,https://www.zillow.com/homedetails/11345-E-Peterson-Ave-Mesa-AZ-85212/52434646_zpid/
+154,13447657,"7114 W Globe Ave, Phoenix, AZ 85043 ",-82864.640625,192135.359375,275000,https://www.zillow.com/homedetails/7114-W-Globe-Ave-Phoenix-AZ-85043/67788720_zpid/
+257,13432084,"14123 Boulder Falls Ct, Houston, TX 77062 ",-83007.5,186492.5,269500,https://www.zillow.com/homedetails/14123-Boulder-Falls-Ct-Houston-TX-77062/28517008_zpid/
+9,13467319,"9210 W Briarwood Cir N, Sun City, AZ 85351 ",-83708.640625,145291.359375,229000,https://www.zillow.com/homedetails/9210-W-Briarwood-Cir-N-Sun-City-AZ-85351/7923297_zpid/
+212,13440395,"6430 Mayfair Park St, Las Vegas, NV 89166 ",-84001.0,250499.0,334500,https://www.zillow.com/homedetails/6430-Mayfair-Park-St-Las-Vegas-NV-89166/121361053_zpid/
+219,13438957,"1713 W Owens Way, Anthem, AZ 85086 ",-84981.90625,135018.09375,220000,https://www.zillow.com/homedetails/1713-W-Owens-Way-Anthem-AZ-85086/62731099_zpid/
+83,13458626,"8764 W Paradise Dr, Peoria, AZ 85345 ",-85223.453125,113776.546875,199000,https://www.zillow.com/homedetails/8764-W-Paradise-Dr-Peoria-AZ-85345/7685734_zpid/
+287,13428053,"3614 W Lawrence Rd, Phoenix, AZ 85019 ",-85238.6484375,109761.3515625,195000,https://www.zillow.com/homedetails/3614-W-Lawrence-Rd-Phoenix-AZ-85019/7761487_zpid/
+280,13428810,"20574 W Nelson Pl, Buckeye, AZ 85396 ",-85313.296875,184686.703125,270000,https://www.zillow.com/homedetails/20574-W-Nelson-Pl-Buckeye-AZ-85396/123851356_zpid/
+390,13409736,"20524 W Nelson Pl, Buckeye, AZ 85396 ",-85754.6875,191653.3125,277408,https://www.zillow.com/homedetails/20524-W-Nelson-Pl-Buckeye-AZ-85396/125122843_zpid/
+36,13465385,"8833 S 51st St, Phoenix, AZ 85044 ",-85757.21875,136742.78125,222500,https://www.zillow.com/homedetails/8833-S-51st-St-Phoenix-AZ-85044/2095487721_zpid/
+84,13458609,"8530 W Townley Ave, Peoria, AZ 85345 ",-86315.390625,133584.609375,219900,https://www.zillow.com/homedetails/8530-W-Townley-Ave-Peoria-AZ-85345/7683419_zpid/
+188,13443970,"16412 W Roosevelt St, Goodyear, AZ 85338 ",-86338.03125,228661.96875,315000,https://www.zillow.com/homedetails/16412-W-Roosevelt-St-Goodyear-AZ-85338/59256334_zpid/
+238,13436194,"620 N Hall, Mesa, AZ 85203 ",-86702.421875,213297.578125,300000,https://www.zillow.com/homedetails/620-N-Hall-Mesa-AZ-85203/82779279_zpid/
+265,13430870,"16881 W Woodlands Ave, Goodyear, AZ 85338 ",-87089.765625,237900.234375,324990,https://www.zillow.com/homedetails/16881-W-Woodlands-Ave-Goodyear-AZ-85338/95146612_zpid/
+41,13465191,"8636 W Mauro Ln, Peoria, AZ 85382 ",-87344.328125,147655.671875,235000,https://www.zillow.com/homedetails/8636-W-Mauro-Ln-Peoria-AZ-85382/8105301_zpid/
+126,13450721,"2639 N 29th Pl, Phoenix, AZ 85008 ",-87780.59375,140219.40625,228000,https://www.zillow.com/homedetails/2639-N-29th-Pl-Phoenix-AZ-85008/2094848236_zpid/
+25,13465831,"10655 E Baywood Ave, Mesa, AZ 85208 ",-87970.5625,231929.4375,319900,https://www.zillow.com/homedetails/10655-E-Baywood-Ave-Mesa-AZ-85208/8087470_zpid/
+181,13445095,"1406 W Main St 118, Mesa, AZ 85201 ",-88542.453125,157207.546875,245750,https://www.zillow.com/homedetails/1406-W-Main-St-118-Mesa-AZ-85201/109679676_zpid/
+209,13440636,"2325 E Encanto St, Mesa, AZ 85213 ",-88625.109375,191274.890625,279900,https://www.zillow.com/homedetails/2325-E-Encanto-St-Mesa-AZ-85213/7635853_zpid/
+128,13450502,"3721 E Hans Dr, Gilbert, AZ 85296 ",-89284.765625,207215.234375,296500,https://www.zillow.com/homedetails/3721-E-Hans-Dr-Gilbert-AZ-85296/121850652_zpid/
+283,13428223,"9017 S 41st Gln, Laveen, AZ 85339 ",-89355.1875,232634.8125,321990,https://www.zillow.com/homedetails/9017-S-41st-Gln-Laveen-AZ-85339/95084706_zpid/
+200,13441272,"20404 N 98th Ln, Peoria, AZ 85382 ",-89431.1171875,130068.8828125,219500,https://www.zillow.com/homedetails/20404-N-98th-Ln-Peoria-AZ-85382/7884848_zpid/
+21,13466065,"4552 N 151st Dr, Goodyear, AZ 85395 ",-90125.328125,199774.671875,289900,https://www.zillow.com/homedetails/4552-N-151st-Dr-Goodyear-AZ-85395/67801805_zpid/
+359,13416564,"20724 W Saguaro Vista Dr, Wittmann, AZ 85361 ",-90126.71875,174873.28125,265000,https://www.zillow.com/homedetails/20724-W-Saguaro-Vista-Dr-Wittmann-AZ-85361/2095626154_zpid/
+301,13425202,"657 N Pleasant Dr, Chandler, AZ 85225 ",-90207.46875,159692.53125,249900,https://www.zillow.com/homedetails/657-N-Pleasant-Dr-Chandler-AZ-85225/8186319_zpid/
+310,13423780,"2219 Santa Ana Dr, Fairfield, CA 94533 ",-90771.75,174228.25,265000,https://www.zillow.com/homedetails/2219-Santa-Ana-Dr-Fairfield-CA-94533/15648858_zpid/
+183,13445016,"9903 N 179th Dr, Waddell, AZ 85355 ",-90913.015625,243986.984375,334900,https://www.zillow.com/homedetails/9903-N-179th-Dr-Waddell-AZ-85355/71625216_zpid/
+196,13441502,"8204 S 128th St, Seattle, WA 98178 ",-90978.96875,229021.03125,320000,https://www.zillow.com/homedetails/8204-S-128th-St-Seattle-WA-98178/48747832_zpid/
+176,13445888,"5635 S Rice Ave, Houston, TX 77081 ",-91294.9140625,117705.0859375,209000,https://www.zillow.com/homedetails/5635-S-Rice-Ave-Houston-TX-77081/28350755_zpid/
+394,13409030,"4023 W Rose Garden Ln, Glendale, AZ 85308 ",-91414.984375,198485.015625,289900,https://www.zillow.com/homedetails/4023-W-Rose-Garden-Ln-Glendale-AZ-85308/7936960_zpid/
+331,13419585,"16600 W Isleta Ct, Surprise, AZ 85387 ",-91618.65625,192381.34375,284000,https://www.zillow.com/homedetails/16600-W-Isleta-Ct-Surprise-AZ-85387/64856466_zpid/
+134,13450217,"9835 W Deanna Dr, Peoria, AZ 85382 ",-91792.0,150208.0,242000,https://www.zillow.com/homedetails/9835-W-Deanna-Dr-Peoria-AZ-85382/2094844808_zpid/
+69,13461807,"4002 W Wethersfield Rd, Phoenix, AZ 85029 ",-92519.140625,187330.859375,279850,https://www.zillow.com/homedetails/4002-W-Wethersfield-Rd-Phoenix-AZ-85029/7742694_zpid/
+321,13422550,"10524 Sparks Summit Ln, Las Vegas, NV 89166 ",-92610.0625,233969.9375,326580,https://www.zillow.com/homedetails/10524-Sparks-Summit-Ln-Las-Vegas-NV-89166/2094932231_zpid/
+150,13447997,"3304 W Quail Haven Ci Cir, Tucson, AZ 85745 ",-93224.5,176775.5,270000,https://www.zillow.com/homedetails/3304-W-Quail-Haven-Ci-Cir-Tucson-AZ-85745/2094854382_zpid/
+264,13430871,"16897 W Woodlands Ave, Goodyear, AZ 85338 ",-93457.40625,231532.59375,324990,https://www.zillow.com/homedetails/16897-W-Woodlands-Ave-Goodyear-AZ-85338/95130907_zpid/
+44,13465047,"1732 E Gail Dr, Chandler, AZ 85225 ",-94766.171875,150233.828125,245000,https://www.zillow.com/homedetails/1732-E-Gail-Dr-Chandler-AZ-85225/8280322_zpid/
+155,13447402,"5762 Fontenelle Dr, Houston, TX 77035 ",-94824.546875,128175.453125,223000,https://www.zillow.com/homedetails/5762-Fontenelle-Dr-Houston-TX-77035/28048150_zpid/
+140,13450149,"12740 W Junipero Dr, Sun City West, AZ 85375 ",-94898.015625,165001.984375,259900,https://www.zillow.com/homedetails/12740-W-Junipero-Dr-Sun-City-West-AZ-85375/67799571_zpid/
+267,13430868,"16894 W Woodlands Ave, Goodyear, AZ 85338 ",-95631.390625,189358.609375,284990,https://www.zillow.com/homedetails/16894-W-Woodlands-Ave-Goodyear-AZ-85338/95157515_zpid/
+398,13408171,"14597 W St Moritz Ln, Surprise, AZ 85379 ",-96261.265625,182738.734375,279000,https://www.zillow.com/homedetails/14597-W-St-Moritz-Ln-Surprise-AZ-85379/67780550_zpid/
+223,13437987,"14365 W Bloomfield Rd, Surprise, AZ 85379 ",-96599.609375,200755.390625,297355,https://www.zillow.com/homedetails/14365-W-Bloomfield-Rd-Surprise-AZ-85379/2094877578_zpid/
+242,13435629,"317 E Crescent Ln, Detroit, MI 48207 ",-98209.734375,151790.265625,250000,https://www.zillow.com/homedetails/317-E-Crescent-Ln-Detroit-MI-48207/2103439490_zpid/
+322,13422545,"10512 Sparks Summit Ln, Las Vegas, NV 89166 ",-98304.421875,234445.578125,332750,https://www.zillow.com/homedetails/10512-Sparks-Summit-Ln-Las-Vegas-NV-89166/2096206727_zpid/
+162,13446505,"280 S Sycamore Creek Pl, Tucson, AZ 85748 ",-98647.671875,149577.328125,248225,https://www.zillow.com/homedetails/280-S-Sycamore-Creek-Pl-Tucson-AZ-85748/63155126_zpid/
+87,13457681,"10660 E Baywood Ave, Mesa, AZ 85208 ",-98754.671875,211145.328125,309900,https://www.zillow.com/homedetails/10660-E-Baywood-Ave-Mesa-AZ-85208/8087452_zpid/
+389,13410201,"11149 W Sheridan St, Avondale, AZ 85392 ",-99089.703125,179910.296875,279000,https://www.zillow.com/homedetails/11149-W-Sheridan-St-Avondale-AZ-85392/54466001_zpid/
+324,13422023,"1234 N 6th Ave, Tucson, AZ 85705 ",-100311.9921875,109688.0078125,210000,https://www.zillow.com/homedetails/1234-N-6th-Ave-Tucson-AZ-85705/8475981_zpid/
+110,13452976,"11015 E White Sage Dr, Tucson, AZ 85747 ",-100838.5625,188161.4375,289000,https://www.zillow.com/homedetails/11015-E-White-Sage-Dr-Tucson-AZ-85747/117876074_zpid/
+214,13440209,"2715 Teal Sky Ct, Houston, TX 77089 ",-101018.125,210881.875,311900,https://www.zillow.com/homedetails/2715-Teal-Sky-Ct-Houston-TX-77089/123231240_zpid/
+311,13423457,"3124 W Salter Dr, Phoenix, AZ 85027 ",-101031.7265625,126468.2734375,227500,https://www.zillow.com/homedetails/3124-W-Salter-Dr-Phoenix-AZ-85027/7933915_zpid/
+272,13429400,"2017 E Heartwood Ln, Phoenix, AZ 85022 ",-101993.59375,177906.40625,279900,https://www.zillow.com/homedetails/2017-E-Heartwood-Ln-Phoenix-AZ-85022/95134885_zpid/
+7,13467456,"447 S 88th St, Mesa, AZ 85208 ",-102125.8359375,112874.1640625,215000,https://www.zillow.com/homedetails/447-S-88th-St-Mesa-AZ-85208/8072561_zpid/
+345,13418244,"6827 W Morning Vista Dr, Peoria, AZ 85383 ",-102170.4375,182729.5625,284900,https://www.zillow.com/homedetails/6827-W-Morning-Vista-Dr-Peoria-AZ-85383/67790956_zpid/
+61,13462518,"2701 Bonita Ave, Antioch, CA 94509 ",-102647.390625,167352.609375,270000,https://www.zillow.com/homedetails/2701-Bonita-Ave-Antioch-CA-94509/18309331_zpid/
+362,13415734,"11025 N 45th Ln, Glendale, AZ 85304 ",-103118.84375,115881.15625,219000,https://www.zillow.com/homedetails/11025-N-45th-Ln-Glendale-AZ-85304/7727907_zpid/
+136,13450181,"16611 N 91st Dr, Peoria, AZ 85382 ",-103172.140625,141827.859375,245000,https://www.zillow.com/homedetails/16611-N-91st-Dr-Peoria-AZ-85382/2094854465_zpid/
+203,13440881,"13427 Scenic Glade Dr, Houston, TX 77059 ",-103315.671875,206584.328125,309900,https://www.zillow.com/homedetails/13427-Scenic-Glade-Dr-Houston-TX-77059/28540061_zpid/
+224,13437986,"14436 W Wethersfield Rd, Surprise, AZ 85379 ",-103937.171875,173624.828125,277562,https://www.zillow.com/homedetails/14436-W-Wethersfield-Rd-Surprise-AZ-85379/2094877626_zpid/
+293,13426302,"4050 E Hawthorne St, Tucson, AZ 85711 ",-104229.671875,180770.328125,285000,https://www.zillow.com/homedetails/4050-E-Hawthorne-St-Tucson-AZ-85711/8504895_zpid/
+141,13449757,"722 W Pampa Ave, Mesa, AZ 85210 ",-104314.96875,144685.03125,249000,https://www.zillow.com/homedetails/722-W-Pampa-Ave-Mesa-AZ-85210/8190844_zpid/
+349,13417977,"9012 S 41st Gln, Laveen, AZ 85339 ",-104529.078125,180460.921875,284990,https://www.zillow.com/homedetails/9012-S-41st-Gln-Laveen-AZ-85339/95083992_zpid/
+259,13431979,"2620 S Canfield, Mesa, AZ 85209 ",-104815.890625,210184.109375,315000,https://www.zillow.com/homedetails/2620-S-Canfield-Mesa-AZ-85209/126055498_zpid/
+296,13426250,"1689 S Parkcrest St, Gilbert, AZ 85295 ",-104877.265625,235122.734375,340000,https://www.zillow.com/homedetails/1689-S-Parkcrest-St-Gilbert-AZ-85295/81984914_zpid/
+92,13456687,"2943 Cutting Blvd, Richmond, CA 94804 ",-105188.75,169711.25,274900,https://www.zillow.com/homedetails/2943-Cutting-Blvd-Richmond-CA-94804/18547062_zpid/
+353,13417158,"9830 E Coopers Hawk Dr, Sun Lakes, AZ 85248 ",-105495.34375,164004.65625,269500,https://www.zillow.com/homedetails/9830-E-Coopers-Hawk-Dr-Sun-Lakes-AZ-85248/67776994_zpid/
+130,13450484,"1445 S Park Grove Cir, Gilbert, AZ 85296 ",-105513.609375,214486.390625,320000,https://www.zillow.com/homedetails/1445-S-Park-Grove-Cir-Gilbert-AZ-85296/8240781_zpid/
+282,13428388,"125 S 377th Ave, Tonopah, AZ 85354 ",-106420.96875,191579.03125,298000,https://www.zillow.com/homedetails/125-S-377th-Ave-Tonopah-AZ-85354/82820315_zpid/
+258,13431999,"9242 E Lobo Ave, Mesa, AZ 85209 ",-106458.96875,138541.03125,245000,https://www.zillow.com/homedetails/9242-E-Lobo-Ave-Mesa-AZ-85209/8285443_zpid/
+317,13422867,"2947 N 71st Pl, Mesa, AZ 85207 ",-106729.390625,168270.609375,275000,https://www.zillow.com/homedetails/2947-N-71st-Pl-Mesa-AZ-85207/2095021899_zpid/
+28,13465712,"8457 W Quail Track Dr, Peoria, AZ 85383 ",-106989.1875,168010.8125,275000,https://www.zillow.com/homedetails/8457-W-Quail-Track-Dr-Peoria-AZ-85383/60980026_zpid/
+137,13450179,"13147 N 91st Dr, Peoria, AZ 85381 ",-107026.78125,149365.21875,256392,https://www.zillow.com/homedetails/13147-N-91st-Dr-Peoria-AZ-85381/95148818_zpid/
+80,13459128,"1034 E Kristal Way, Phoenix, AZ 85024 ",-108490.203125,161509.796875,270000,https://www.zillow.com/homedetails/1034-E-Kristal-Way-Phoenix-AZ-85024/92355303_zpid/
+139,13450154,"23318 N Las Positas Ct, Sun City West, AZ 85375 ",-109901.5625,189598.4375,299500,https://www.zillow.com/homedetails/23318-N-Las-Positas-Ct-Sun-City-West-AZ-85375/81966882_zpid/
+79,13459734,"3438 E Appleby Dr, Gilbert, AZ 85298 ",-109908.875,212991.125,322900,https://www.zillow.com/homedetails/3438-E-Appleby-Dr-Gilbert-AZ-85298/121422123_zpid/
+205,13440750,"609 S Palo Verde Way, Mesa, AZ 85208 ",-111010.140625,117989.859375,229000,https://www.zillow.com/homedetails/609-S-Palo-Verde-Way-Mesa-AZ-85208/2094870037_zpid/
+226,13437984,"14341 W Bloomfield Rd, Surprise, AZ 85379 ",-111180.125,173612.875,284793,https://www.zillow.com/homedetails/14341-W-Bloomfield-Rd-Surprise-AZ-85379/2094877568_zpid/
+278,13428860,"4321 Stillbrooke Dr, Houston, TX 77035 ",-111309.640625,203590.359375,314900,https://www.zillow.com/homedetails/4321-Stillbrooke-Dr-Houston-TX-77035/27998072_zpid/
+241,13435818,"9628 Spanish Steps Ln, Las Vegas, NV 89117 ",-111834.90625,163165.09375,275000,https://www.zillow.com/homedetails/9628-Spanish-Steps-Ln-Las-Vegas-NV-89117/7111439_zpid/
+348,13417978,"8939 S 55th Dr, Laveen, AZ 85339 ",-113066.046875,246927.953125,359994,https://www.zillow.com/homedetails/8939-S-55th-Dr-Laveen-AZ-85339/95098689_zpid/
+125,13451108,"14944 W Post Dr, Surprise, AZ 85374 ",-113638.203125,211261.796875,324900,https://www.zillow.com/homedetails/14944-W-Post-Dr-Surprise-AZ-85374/60965266_zpid/
+399,13407743,"9802 Samantha Suzanne Ct, Houston, TX 77025 ",-114030.84375,195969.15625,310000,https://www.zillow.com/homedetails/9802-Samantha-Suzanne-Ct-Houston-TX-77025/68416898_zpid/
+225,13437985,"14363 W Charter Oak Rd, Surprise, AZ 85379 ",-114481.15625,175928.84375,290410,https://www.zillow.com/homedetails/14363-W-Charter-Oak-Rd-Surprise-AZ-85379/2094877601_zpid/
+207,13440719,"10141 E Stealth Ave, Mesa, AZ 85212 ",-114605.796875,212294.203125,326900,https://www.zillow.com/homedetails/10141-E-Stealth-Ave-Mesa-AZ-85212/125143544_zpid/
+228,13437545,"26499 W Mohawk Ln, Buckeye, AZ 85396 ",-117301.953125,217598.046875,334900,https://www.zillow.com/homedetails/26499-W-Mohawk-Ln-Buckeye-AZ-85396/81990261_zpid/
+35,13465394,"5204 W Pedro Ln, Laveen, AZ 85339 ",-117812.796875,232187.203125,350000,https://www.zillow.com/homedetails/5204-W-Pedro-Ln-Laveen-AZ-85339/71498386_zpid/
+391,13409643,"953 N Tatum Ln, Gilbert, AZ 85234 ",-117985.296875,231914.703125,349900,https://www.zillow.com/homedetails/953-N-Tatum-Ln-Gilbert-AZ-85234/8231619_zpid/
+341,13418298,"14417 W White Rock Dr, Sun City West, AZ 85375 ",-118796.921875,138203.078125,257000,https://www.zillow.com/homedetails/14417-W-White-Rock-Dr-Sun-City-West-AZ-85375/8116856_zpid/
+216,13439330,"18403 Muirland St, Detroit, MI 48221 ",-120678.40625,229221.59375,349900,https://www.zillow.com/homedetails/18403-Muirland-St-Detroit-MI-48221/88335824_zpid/
+247,13434191,"749 Lowell Blvd, Denver, CO 80204 ",-122393.015625,157606.984375,280000,https://www.zillow.com/homedetails/749-Lowell-Blvd-Denver-CO-80204/13337364_zpid/
+336,13418921,"19454 N 270th Dr, Buckeye, AZ 85396 ",-124056.328125,215933.671875,339990,https://www.zillow.com/homedetails/19454-N-270th-Dr-Buckeye-AZ-85396/2096056485_zpid/
+260,13431972,"10417 E Sebring Ave, Mesa, AZ 85212 ",-124179.984375,201147.015625,325327,https://www.zillow.com/homedetails/10417-E-Sebring-Ave-Mesa-AZ-85212/125119313_zpid/
+299,13425498,"845 S Field St, Lakewood, CO 80226 ",-126459.765625,223540.234375,350000,https://www.zillow.com/homedetails/845-S-Field-St-Lakewood-CO-80226/13773393_zpid/
+244,13435321,"1551 W Marlin Dr, Chandler, AZ 85286 ",-126758.21875,175951.78125,302710,https://www.zillow.com/homedetails/1551-W-Marlin-Dr-Chandler-AZ-85286/2095120768_zpid/
+40,13465244,"8361 N Johnswood Dr, Portland, OR 97203 ",-128875.265625,181124.734375,310000,https://www.zillow.com/homedetails/8361-N-Johnswood-Dr-Portland-OR-97203/58473335_zpid/
+338,13418701,"3168 E Turnberry Dr, Gilbert, AZ 85298 ",-129139.578125,214860.421875,344000,https://www.zillow.com/homedetails/3168-E-Turnberry-Dr-Gilbert-AZ-85298/62734152_zpid/
+180,13445212,"10229 E Starion Ave, Mesa, AZ 85212 ",-129413.578125,170486.421875,299900,https://www.zillow.com/homedetails/10229-E-Starion-Ave-Mesa-AZ-85212/121423476_zpid/
+119,13452045,"167 S Fir St, Chandler, AZ 85226 ",-131583.53125,138316.46875,269900,https://www.zillow.com/homedetails/167-S-Fir-St-Chandler-AZ-85226/8165716_zpid/
+204,13440752,"7664 E Covina St, Mesa, AZ 85207 ",-131738.5,153261.5,285000,https://www.zillow.com/homedetails/7664-E-Covina-St-Mesa-AZ-85207/55269216_zpid/
+396,13408493,"5522 Mcknight St, Houston, TX 77035 ",-131955.6875,142944.3125,274900,https://www.zillow.com/homedetails/5522-Mcknight-St-Houston-TX-77035/28026204_zpid/
+262,13431866,"4312 Thunder Twice St, Las Vegas, NV 89129 ",-132027.71875,232972.28125,365000,https://www.zillow.com/homedetails/4312-Thunder-Twice-St-Las-Vegas-NV-89129/62943846_zpid/
+60,13462619,"7869 Russling Leaf Dr, Las Vegas, NV 89131 ",-132120.4375,232879.5625,365000,https://www.zillow.com/homedetails/7869-Russling-Leaf-Dr-Las-Vegas-NV-89131/53363401_zpid/
+400,13405995,"15914 Mesa Verde Dr, Houston, TX 77059 ",-132504.09375,177495.90625,310000,https://www.zillow.com/homedetails/15914-Mesa-Verde-Dr-Houston-TX-77059/28249044_zpid/
+312,13423434,"2226 W Hedgehog Pl, Phoenix, AZ 85085 ",-132721.125,216778.875,349500,https://www.zillow.com/homedetails/2226-W-Hedgehog-Pl-Phoenix-AZ-85085/71618102_zpid/
+173,13445957,"512 Redondo Dr N, Litchfield Park, AZ 85340 ",-134900.21875,200099.78125,335000,https://www.zillow.com/homedetails/512-Redondo-Dr-N-Litchfield-Park-AZ-85340/8298144_zpid/
+64,13462172,"15637 W Minnezona Ave, Goodyear, AZ 85395 ",-135239.53125,210660.46875,345900,https://www.zillow.com/homedetails/15637-W-Minnezona-Ave-Goodyear-AZ-85395/95123174_zpid/
+376,13413052,"7124 Sea Orchard St, Las Vegas, NV 89131 ",-135841.171875,204158.828125,340000,https://www.zillow.com/homedetails/7124-Sea-Orchard-St-Las-Vegas-NV-89131/2094961654_zpid/
+174,13445956,"19258 W Oregon Ave, Litchfield Park, AZ 85340 ",-136139.65625,230860.34375,367000,https://www.zillow.com/homedetails/19258-W-Oregon-Ave-Litchfield-Park-AZ-85340/95162752_zpid/
+97,13455327,"6620 Manzanita Glen Ave, Las Vegas, NV 89130 ",-137661.453125,242238.546875,379900,https://www.zillow.com/homedetails/6620-Manzanita-Glen-Ave-Las-Vegas-NV-89130/82526126_zpid/
+358,13416688,"3311 NE 145th Ave, Portland, OR 97230 ",-137699.53125,240300.46875,378000,https://www.zillow.com/homedetails/3311-NE-145th-Ave-Portland-OR-97230/53898149_zpid/
+285,13428168,"11844 N Jantzen Dr, Portland, OR 97217 ",-138291.984375,170708.015625,309000,https://www.zillow.com/homedetails/11844-N-Jantzen-Dr-Portland-OR-97217/2094929220_zpid/
+356,13416725,"2719 E Augusta Ave, Chandler, AZ 85249 ",-138654.625,156345.375,295000,https://www.zillow.com/homedetails/2719-E-Augusta-Ave-Chandler-AZ-85249/2094951624_zpid/
+342,13418297,"14206 W Desert Glen Dr, Sun City West, AZ 85375 ",-139671.03125,199328.96875,339000,https://www.zillow.com/homedetails/14206-W-Desert-Glen-Dr-Sun-City-West-AZ-85375/8116503_zpid/
+46,13464646,"13873 SE Beech St, Milwaukie, OR 97222 ",-140659.671875,219240.328125,359900,https://www.zillow.com/homedetails/13873-SE-Beech-St-Milwaukie-OR-97222/48222986_zpid/
+122,13451757,"36601 N Mule Train Road STE 28D, Carefree, AZ 85377 ",-142924.53125,156975.46875,299900,https://www.zillow.com/homedetails/36601-N-Mule-Train-Road-STE-28D-Carefree-AZ-85377/52428387_zpid/
+52,13464156,"2978 W Comstock Dr, Chandler, AZ 85224 ",-146013.546875,198986.453125,345000,https://www.zillow.com/homedetails/2978-W-Comstock-Dr-Chandler-AZ-85224/8192689_zpid/
+68,13462053,"315 Colonial Cir, Vacaville, CA 95687 ",-146054.8125,163945.1875,310000,https://www.zillow.com/homedetails/315-Colonial-Cir-Vacaville-CA-95687/15718626_zpid/
+131,13450472,"1012 E Washington Ave, Gilbert, AZ 85234 ",-146314.53125,193585.46875,339900,https://www.zillow.com/homedetails/1012-E-Washington-Ave-Gilbert-AZ-85234/8276541_zpid/
+218,13439162,"7706 N Emerald Ave, Portland, OR 97217 ",-146866.078125,243083.921875,389950,https://www.zillow.com/homedetails/7706-N-Emerald-Ave-Portland-OR-97217/53983524_zpid/
+171,13446187,"5768 S Tiger Lily Pl, Tucson, AZ 85747 ",-148840.140625,215149.859375,363990,https://www.zillow.com/homedetails/5768-S-Tiger-Lily-Pl-Tucson-AZ-85747/119228560_zpid/
+56,13463489,"6729 SE 131st Pl, Portland, OR 97236 ",-149719.734375,119280.265625,269000,https://www.zillow.com/homedetails/6729-SE-131st-Pl-Portland-OR-97236/53908967_zpid/
+298,13425739,"1818 N Trowbridge, Mesa, AZ 85207 ",-149725.296875,180274.703125,330000,https://www.zillow.com/homedetails/1818-N-Trowbridge-Mesa-AZ-85207/2108086274_zpid/
+316,13422869,"6763 E Villeroy Cir, Mesa, AZ 85215 ",-150905.5,209094.5,360000,https://www.zillow.com/homedetails/6763-E-Villeroy-Cir-Mesa-AZ-85215/7671839_zpid/
+153,13447771,"1209 E Muirwood Dr, Phoenix, AZ 85048 ",-151095.421875,173605.578125,324701,https://www.zillow.com/homedetails/1209-E-Muirwood-Dr-Phoenix-AZ-85048/125132789_zpid/
+116,13452348,"3541 S Grape St, Denver, CO 80237 ",-152028.203125,197971.796875,350000,https://www.zillow.com/homedetails/3541-S-Grape-St-Denver-CO-80237/13425958_zpid/
+382,13411827,"524 Maine Ave, Richmond, CA 94804 ",-153180.78125,211819.21875,365000,https://www.zillow.com/homedetails/524-Maine-Ave-Richmond-CA-94804/89037662_zpid/
+169,13446338,"354 Arizona St, Fairfield, CA 94533 ",-153955.15625,156044.84375,310000,https://www.zillow.com/homedetails/354-Arizona-St-Fairfield-CA-94533/15643622_zpid/
+385,13411670,"3231 S Santa Rita Way, Chandler, AZ 85286 ",-154116.890625,205873.109375,359990,https://www.zillow.com/homedetails/3231-S-Santa-Rita-Way-Chandler-AZ-85286/125132206_zpid/
+233,13436556,"7671 E 26th Ave, Denver, CO 80238 ",-156286.640625,153713.359375,310000,https://www.zillow.com/homedetails/7671-E-26th-Ave-Denver-CO-80238/61433159_zpid/
+121,13451809,"4214 SW Vesta St, Portland, OR 97219 ",-156402.453125,168597.546875,325000,https://www.zillow.com/homedetails/4214-SW-Vesta-St-Portland-OR-97219/53983120_zpid/
+1,13468504,"14630 W Hidden Terrace Loop, Litchfield Park, AZ 85340 ",-156765.140625,214934.859375,371700,https://www.zillow.com/homedetails/14630-W-Hidden-Terrace-Loop-Litchfield-Park-AZ-85340/81972226_zpid/
+371,13413642,"18405 W Goldenrod St, Goodyear, AZ 85338 ",-160091.609375,221898.390625,381990,https://www.zillow.com/homedetails/18405-W-Goldenrod-St-Goodyear-AZ-85338/2094945825_zpid/
+192,13442193,"2041 N 9th St, Phoenix, AZ 85006 ",-160688.3828125,114311.6171875,275000,https://www.zillow.com/homedetails/2041-N-9th-St-Phoenix-AZ-85006/64772277_zpid/
+270,13429949,"16542 E Lost Arrow Dr, Fountain Hills, AZ 85268 ",-160776.921875,154123.078125,314900,https://www.zillow.com/homedetails/16542-E-Lost-Arrow-Dr-Fountain-Hills-AZ-85268/2095412227_zpid/
+355,13416787,"1316 Louis Dr, Antioch, CA 94509 ",-160851.265625,159148.734375,320000,https://www.zillow.com/homedetails/1316-Louis-Dr-Antioch-CA-94509/18305349_zpid/
+77,13460077,"4507 Warm Springs Rd, Houston, TX 77035 ",-161398.671875,113601.328125,275000,https://www.zillow.com/homedetails/4507-Warm-Springs-Rd-Houston-TX-77035/28032630_zpid/
+392,13409597,"1279 S Vine Ct, Gilbert, AZ 85233 ",-161400.671875,218499.328125,379900,https://www.zillow.com/homedetails/1279-S-Vine-Ct-Gilbert-AZ-85233/8194995_zpid/
+206,13440725,"2130 N 89th St, Mesa, AZ 85207 ",-161473.0,188477.0,349950,https://www.zillow.com/homedetails/2130-N-89th-St-Mesa-AZ-85207/125108059_zpid/
+236,13436324,"6149 Denton Ranch Rd, Las Vegas, NV 89131 ",-161941.828125,237058.171875,399000,https://www.zillow.com/homedetails/6149-Denton-Ranch-Rd-Las-Vegas-NV-89131/82532884_zpid/
+152,13447778,"15849 S 12th Way, Phoenix, AZ 85048 ",-163487.734375,171162.265625,334650,https://www.zillow.com/homedetails/15849-S-12th-Way-Phoenix-AZ-85048/125144732_zpid/
+220,13438383,"5222 Sanford Rd, Houston, TX 77035 ",-163591.03125,135408.96875,299000,https://www.zillow.com/homedetails/5222-Sanford-Rd-Houston-TX-77035/28025985_zpid/
+178,13445851,"316 W Kelton Ln, Phoenix, AZ 85023 ",-163592.359375,146407.640625,310000,https://www.zillow.com/homedetails/316-W-Kelton-Ln-Phoenix-AZ-85023/7965798_zpid/
+250,13432966,"4442 Cheena Dr, Houston, TX 77096 ",-164177.546875,210822.453125,375000,https://www.zillow.com/homedetails/4442-Cheena-Dr-Houston-TX-77096/28039444_zpid/
+365,13414635,"5020 Charmian Dr, Santa Rosa, CA 95409 ",-165889.09375,134060.90625,299950,https://www.zillow.com/homedetails/5020-Charmian-Dr-Santa-Rosa-CA-95409/15872876_zpid/
+363,13415568,"15826 S 32nd Pl, Phoenix, AZ 85048 ",-165902.78125,191097.21875,357000,https://www.zillow.com/homedetails/15826-S-32nd-Pl-Phoenix-AZ-85048/8257387_zpid/
+377,13412969,"3104 S Brandywood, Mesa, AZ 85212 ",-166095.15625,148904.84375,315000,https://www.zillow.com/homedetails/3104-S-Brandywood-Mesa-AZ-85212/2094957893_zpid/
+127,13450600,"4703 N 206th Dr, Buckeye, AZ 85396 ",-166395.828125,228594.171875,394990,https://www.zillow.com/homedetails/4703-N-206th-Dr-Buckeye-AZ-85396/2097984719_zpid/
+221,13438192,"6514 Schiller St, Houston, TX 77055 ",-166626.609375,141373.390625,308000,https://www.zillow.com/homedetails/6514-Schiller-St-Houston-TX-77055/27935102_zpid/
+101,13453895,"749 Sunnyside Rd, Saint Helena, CA 94574 ",-167393.40625,182606.59375,350000,https://www.zillow.com/homedetails/749-Sunnyside-Rd-Saint-Helena-CA-94574/19403237_zpid/
+347,13418001,"1369 N Downing St APT 2, Denver, CO 80218 ",-167559.328125,142440.671875,310000,https://www.zillow.com/homedetails/1369-N-Downing-St-APT-2-Denver-CO-80218/2094944970_zpid/
+231,13437002,"1062 Chamboard Ln, Houston, TX 77018 ",-168196.375,206803.625,375000,https://www.zillow.com/homedetails/1062-Chamboard-Ln-Houston-TX-77018/28063501_zpid/
+351,13417723,"10338 E Bergeron Ave, Mesa, AZ 85212 ",-168231.328125,221112.671875,389344,https://www.zillow.com/homedetails/10338-E-Bergeron-Ave-Mesa-AZ-85212/125143721_zpid/
+314,13423254,"10048 W Montoya Dr, Peoria, AZ 85383 ",-168884.59375,213607.40625,382492,https://www.zillow.com/homedetails/10048-W-Montoya-Dr-Peoria-AZ-85383/2095320807_zpid/
+91,13457090,"36 Longfellow St, Detroit, MI 48202 ",-169161.046875,225838.953125,395000,https://www.zillow.com/homedetails/36-Longfellow-St-Detroit-MI-48202/88663052_zpid/
+135,13450207,"8351 W Rosemonte Dr, Peoria, AZ 85382 ",-169355.546875,187644.453125,357000,https://www.zillow.com/homedetails/8351-W-Rosemonte-Dr-Peoria-AZ-85382/8101853_zpid/
+23,13465941,"1012 Los Gamos Rd, San Rafael, CA 94903 ",-171035.703125,133964.296875,305000,https://www.zillow.com/homedetails/1012-Los-Gamos-Rd-San-Rafael-CA-94903/2105351102_zpid/
+373,13413599,"6857 W Peak View Rd, Peoria, AZ 85383 ",-173793.03125,176206.96875,350000,https://www.zillow.com/homedetails/6857-W-Peak-View-Rd-Peoria-AZ-85383/71497519_zpid/
+70,13461784,"22022 W Montgomery Rd, Wittmann, AZ 85361 ",-174872.484375,140127.515625,315000,https://www.zillow.com/homedetails/22022-W-Montgomery-Rd-Wittmann-AZ-85361/2094827586_zpid/
+99,13454210,"10423 S 47th St, Phoenix, AZ 85044 ",-174916.171875,154083.828125,329000,https://www.zillow.com/homedetails/10423-S-47th-St-Phoenix-AZ-85044/8142062_zpid/
+95,13455703,"21832 N 39th St, Phoenix, AZ 85050 ",-174923.6875,190976.3125,365900,https://www.zillow.com/homedetails/21832-N-39th-St-Phoenix-AZ-85050/82800891_zpid/
+217,13439321,"101 Almanor Dr, Vacaville, CA 95687 ",-175959.1875,173940.8125,349900,https://www.zillow.com/homedetails/101-Almanor-Dr-Vacaville-CA-95687/15707810_zpid/
+85,13457799,"9306 N Buchanan Ave, Portland, OR 97203 ",-176562.421875,142937.578125,319500,https://www.zillow.com/homedetails/9306-N-Buchanan-Ave-Portland-OR-97203/53935607_zpid/
+55,13463520,"3032 Pier Harbor Dr, Las Vegas, NV 89117 ",-178819.578125,201180.421875,380000,https://www.zillow.com/homedetails/3032-Pier-Harbor-Dr-Las-Vegas-NV-89117/7112914_zpid/
+202,13441061,"3690 Grape St, Denver, CO 80207 ",-179055.453125,125944.546875,305000,https://www.zillow.com/homedetails/3690-Grape-St-Denver-CO-80207/2094880277_zpid/
+10,13467308,"3418 E Hawthorne St, Tucson, AZ 85716 ",-179226.484375,145773.515625,325000,https://www.zillow.com/homedetails/3418-E-Hawthorne-St-Tucson-AZ-85716/8503549_zpid/
+245,13434518,"2123 W Legends Way, Anthem, AZ 85086 ",-179301.9375,195698.0625,375000,https://www.zillow.com/homedetails/2123-W-Legends-Way-Anthem-AZ-85086/55263879_zpid/
+215,13439412,"912 Northwood St, Houston, TX 77009 ",-181380.53125,198519.46875,379900,https://www.zillow.com/homedetails/912-Northwood-St-Houston-TX-77009/27778621_zpid/
+388,13410682,"8122 N 13th Way, Phoenix, AZ 85020 ",-183297.109375,191602.890625,374900,https://www.zillow.com/homedetails/8122-N-13th-Way-Phoenix-AZ-85020/67400167_zpid/
+63,13462417,"926 Fleetwood Place Dr, Houston, TX 77079 ",-184151.1875,184848.8125,369000,https://www.zillow.com/homedetails/926-Fleetwood-Place-Dr-Houston-TX-77079/28256517_zpid/
+323,13422140,"5880 N Dapple Gray Rd, Las Vegas, NV 89149 ",-184490.140625,174509.859375,359000,https://www.zillow.com/homedetails/5880-N-Dapple-Gray-Rd-Las-Vegas-NV-89149/6898460_zpid/
+6,13467543,"7089 S Heather Dr, Tempe, AZ 85283 ",-184598.390625,140401.609375,325000,https://www.zillow.com/homedetails/7089-S-Heather-Dr-Tempe-AZ-85283/8267306_zpid/
+290,13426873,"16356 E Ridgeline Dr, Fountain Hills, AZ 85268 ",-185101.6875,163898.3125,349000,https://www.zillow.com/homedetails/16356-E-Ridgeline-Dr-Fountain-Hills-AZ-85268/2100590339_zpid/
+383,13411723,"854 E Torrey Pines Pl, Chandler, AZ 85249 ",-187341.8125,201658.1875,389000,https://www.zillow.com/homedetails/854-E-Torrey-Pines-Pl-Chandler-AZ-85249/60986467_zpid/
+281,13428758,"4845 E River Rd, Tucson, AZ 85718 ",-187419.09375,187580.90625,375000,https://www.zillow.com/homedetails/4845-E-River-Rd-Tucson-AZ-85718/8449174_zpid/
+374,13413588,"13239 W Skinner Dr, Peoria, AZ 85383 ",-188383.78125,170993.21875,359377,https://www.zillow.com/homedetails/13239-W-Skinner-Dr-Peoria-AZ-85383/2094961049_zpid/
+170,13446223,"6637 Meadow Pines Ave, Rohnert Park, CA 94928 ",-189493.140625,150506.859375,340000,https://www.zillow.com/homedetails/6637-Meadow-Pines-Ave-Rohnert-Park-CA-94928/15854019_zpid/
+375,13413586,"13225 W Skinner Dr, Peoria, AZ 85383 ",-190629.09375,164158.90625,354788,https://www.zillow.com/homedetails/13225-W-Skinner-Dr-Peoria-AZ-85383/2094961433_zpid/
+387,13410876,"6615 Hurst St, Houston, TX 77008 ",-190827.5,164172.5,355000,https://www.zillow.com/homedetails/6615-Hurst-St-Houston-TX-77008/123181712_zpid/
+352,13417381,"4885 S Monaco St # 210, Denver, CO 80237 ",-192665.4375,152334.5625,345000,https://www.zillow.com/homedetails/4885-S-Monaco-St-210-Denver-CO-80237/2095038929_zpid/
+109,13452987,"338 Redbud Ln, Hayward, CA 94541 ",-192857.75,137142.25,330000,https://www.zillow.com/homedetails/338-Redbud-Ln-Hayward-CA-94541/24975200_zpid/
+292,13426618,"18511 E Parada Cir, Rio Verde, AZ 85263 ",-194364.90625,190635.09375,385000,https://www.zillow.com/homedetails/18511-E-Parada-Cir-Rio-Verde-AZ-85263/8081720_zpid/
+133,13450283,"676 Stone Harbour Dr, Pittsburg, CA 94565 ",-197228.09375,167771.90625,365000,https://www.zillow.com/homedetails/676-Stone-Harbour-Dr-Pittsburg-CA-94565/18315695_zpid/
+57,13462661,"9421 Edes Ave, Oakland, CA 94603 ",-197721.296875,152278.703125,350000,https://www.zillow.com/homedetails/9421-Edes-Ave-Oakland-CA-94603/24802512_zpid/
+160,13446679,"5620 N 12th St, Phoenix, AZ 85014 ",-198090.765625,126909.234375,325000,https://www.zillow.com/homedetails/5620-N-12th-St-Phoenix-AZ-85014/7800275_zpid/
+232,13436627,"5910 Wigton Dr, Houston, TX 77096 ",-198251.09375,166748.90625,365000,https://www.zillow.com/homedetails/5910-Wigton-Dr-Houston-TX-77096/28090038_zpid/
+309,13423852,"906 Antelope Ter, Brentwood, CA 94513 ",-200910.84375,188089.15625,389000,https://www.zillow.com/homedetails/906-Antelope-Ter-Brentwood-CA-94513/18284115_zpid/
+94,13455990,"1535 W Marlin Dr, Chandler, AZ 85286 ",-200987.375,179002.625,379990,https://www.zillow.com/homedetails/1535-W-Marlin-Dr-Chandler-AZ-85286/2094998806_zpid/
+144,13449028,"5521 S Rocky Point Rd, Tempe, AZ 85283 ",-201995.953125,183004.046875,385000,https://www.zillow.com/homedetails/5521-S-Rocky-Point-Rd-Tempe-AZ-85283/92351843_zpid/
+367,13414208,"2882 Calaveras Dr, Fairfield, CA 94534 ",-202703.546875,172296.453125,375000,https://www.zillow.com/homedetails/2882-Calaveras-Dr-Fairfield-CA-94534/15726456_zpid/
+100,13454052,"4842 W Piedmont Dr, Laveen, AZ 85339 ",-204818.875,190181.125,395000,https://www.zillow.com/homedetails/4842-W-Piedmont-Dr-Laveen-AZ-85339/8129708_zpid/
+329,13419811,"738 W Portland St, Phoenix, AZ 85007 ",-205662.453125,193337.546875,399000,https://www.zillow.com/homedetails/738-W-Portland-St-Phoenix-AZ-85007/7521374_zpid/
+37,13465309,"20342 N Esperero Ln, Surprise, AZ 85387 ",-205852.8125,144047.1875,349900,https://www.zillow.com/homedetails/20342-N-Esperero-Ln-Surprise-AZ-85387/62646016_zpid/
+370,13413782,"811 W 43rd St, Houston, TX 77018 ",-206252.796875,193647.203125,399900,https://www.zillow.com/homedetails/811-W-43rd-St-Houston-TX-77018/27873457_zpid/
+393,13409216,"2501 Blodgett St, Houston, TX 77004 ",-206356.625,178643.375,385000,https://www.zillow.com/homedetails/2501-Blodgett-St-Houston-TX-77004/27850625_zpid/
+289,13427575,"8800 W Lone Mountain Rd, Las Vegas, NV 89129 ",-207049.71875,187950.28125,395000,https://www.zillow.com/homedetails/8800-W-Lone-Mountain-Rd-Las-Vegas-NV-89129/6899243_zpid/
+108,13453011,"2710 Virginia Dr, Brentwood, CA 94513 ",-208661.109375,151238.890625,359900,https://www.zillow.com/homedetails/2710-Virginia-Dr-Brentwood-CA-94513/18285274_zpid/
+145,13448830,"149 E Horseshoe Dr, Chandler, AZ 85249 ",-212667.203125,177331.796875,389999,https://www.zillow.com/homedetails/149-E-Horseshoe-Dr-Chandler-AZ-85249/119217414_zpid/
+304,13424313,"38500 Mary Ter, Fremont, CA 94538 ",-221603.859375,177396.140625,399000,https://www.zillow.com/homedetails/38500-Mary-Ter-Fremont-CA-94538/25012402_zpid/
+62,13462505,"40 La Cruz Ave, Benicia, CA 94510 ",-223428.53125,175571.46875,399000,https://www.zillow.com/homedetails/40-La-Cruz-Ave-Benicia-CA-94510/15686068_zpid/
+302,13425189,"262 E Tonto Pl, Chandler, AZ 85249 ",-225341.0,173539.0,398880,https://www.zillow.com/homedetails/262-E-Tonto-Pl-Chandler-AZ-85249/119226950_zpid/
+339,13418628,"2912 S 144th St, Seatac, WA 98168 ",-225490.203125,164409.796875,389900,https://www.zillow.com/homedetails/2912-S-144th-St-Seatac-WA-98168/48981934_zpid/
+254,13432412,"2115 Woodcrest Dr, Houston, TX 77018 ",-227266.5,151733.5,379000,https://www.zillow.com/homedetails/2115-Woodcrest-Dr-Houston-TX-77018/27912836_zpid/
+286,13428101,"11059 E Kilarea Ave, Mesa, AZ 85209 ",-230516.328125,146483.671875,377000,https://www.zillow.com/homedetails/11059-E-Kilarea-Ave-Mesa-AZ-85209/8228637_zpid/
+187,13444024,"245 Litchfield Ln, Houston, TX 77024 ",-232018.5625,147881.4375,379900,https://www.zillow.com/homedetails/245-Litchfield-Ln-Houston-TX-77024/28204000_zpid/
+76,13460726,"4315 SE 65th Ave, Portland, OR 97206 ",-240752.390625,134247.609375,375000,https://www.zillow.com/homedetails/4315-SE-65th-Ave-Portland-OR-97206/2094883806_zpid/
+113,13452698,"3301 Dexter St, Denver, CO 80207 ",-245470.515625,154429.484375,399900,https://www.zillow.com/homedetails/3301-Dexter-St-Denver-CO-80207/13283296_zpid/
+118,13452060,"3655 N Nevada St, Chandler, AZ 85225 ",-245686.234375,104313.765625,350000,https://www.zillow.com/homedetails/3655-N-Nevada-St-Chandler-AZ-85225/94639314_zpid/
+167,13446414,"14036 Reed Ave, San Leandro, CA 94578 ",-246413.46875,152586.53125,399000,https://www.zillow.com/homedetails/14036-Reed-Ave-San-Leandro-CA-94578/24885304_zpid/
+360,13416315,"192 Beverly Ave, San Leandro, CA 94577 ",-252775.46875,147174.53125,399950,https://www.zillow.com/homedetails/192-Beverly-Ave-San-Leandro-CA-94577/24876056_zpid/
+379,13412778,"1505 W Maryland Ave, Phoenix, AZ 85015 ",-260317.375,138682.625,399000,https://www.zillow.com/homedetails/1505-W-Maryland-Ave-Phoenix-AZ-85015/7774499_zpid/
+179,13445737,"1038 Lamonte Ln, Houston, TX 77018 ",-264307.5390625,110692.4609375,375000,https://www.zillow.com/homedetails/1038-Lamonte-Ln-Houston-TX-77018/27873983_zpid/
+123,13451272,"8542 Forum Dr, Houston, TX 77055 ",-285033.5,94866.5,379900,https://www.zillow.com/homedetails/8542-Forum-Dr-Houston-TX-77055/27971482_zpid/
