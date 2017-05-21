@@ -1,0 +1,54 @@
+property_id,transaction_id,address,ypred,predicted_price,list,url
+498244,13429173,"6903 W Vernon Ave, Phoenix, AZ 85035 ",-19462.0703125,97537.9296875,117000,https://www.zillow.com/homedetails/6903-W-Vernon-Ave-Phoenix-AZ-85035/7475532_zpid/
+7457340,13434419,"11032 N 28th Dr, Phoenix, AZ 85029 ",-23288.953125,91711.046875,115000,https://www.zillow.com/homedetails/11032-N-28th-Dr-Phoenix-AZ-85029/2094890947_zpid/
+7481500,13465463,"11833 W Bloomfield Rd, El Mirage, AZ 85335 ",-41869.5,132130.5,174000,https://www.zillow.com/homedetails/11833-W-Bloomfield-Rd-El-Mirage-AZ-85335/8829520_zpid/
+7471533,13461753,"374 Leisure World, Mesa, AZ 85206 ",-43722.9921875,81276.0078125,124999,https://www.zillow.com/homedetails/374-Leisure-World-Mesa-AZ-85206/2094830263_zpid/
+9715,13451997,"7814 E Rovey Ave, Scottsdale, AZ 85250 ",-45179.75,116720.25,161900,https://www.zillow.com/homedetails/7814-E-Rovey-Ave-Scottsdale-AZ-85250/7857178_zpid/
+417003,13457426,"4641 W Eva St, Glendale, AZ 85302 ",-47081.609375,102418.390625,149500,https://www.zillow.com/homedetails/4641-W-Eva-St-Glendale-AZ-85302/7729697_zpid/
+7481299,13465385,"8833 S 51st St, Phoenix, AZ 85044 ",-48629.84375,173870.15625,222500,https://www.zillow.com/homedetails/8833-S-51st-St-Phoenix-AZ-85044/2095487721_zpid/
+7459463,13441327,"18027 N Desert Drive Gln, Sun City West, AZ 85375 ",-51628.421875,105271.578125,156900,https://www.zillow.com/homedetails/18027-N-Desert-Drive-Gln-Sun-City-West-AZ-85375/2094874442_zpid/
+7457857,13436115,"5727 W Vista Ave, Glendale, AZ 85301 ",-65885.28125,74114.71875,140000,https://www.zillow.com/homedetails/5727-W-Vista-Ave-Glendale-AZ-85301/7726670_zpid/
+7455942,13429312,"6033 S 13th Ave, Phoenix, AZ 85041 ",-67083.6328125,117816.3671875,184900,https://www.zillow.com/homedetails/6033-S-13th-Ave-Phoenix-AZ-85041/2094915225_zpid/
+59366,13434518,"2123 W Legends Way, Anthem, AZ 85086 ",-68117.4375,306882.5625,375000,https://www.zillow.com/homedetails/2123-W-Legends-Way-Anthem-AZ-85086/55263879_zpid/
+59084,13438957,"1713 W Owens Way, Anthem, AZ 85086 ",-68351.890625,151648.109375,220000,https://www.zillow.com/homedetails/1713-W-Owens-Way-Anthem-AZ-85086/62731099_zpid/
+7464016,13454658,"4246 W Vogel Ave, Phoenix, AZ 85051 ",-68954.1484375,116045.8515625,185000,https://www.zillow.com/homedetails/4246-W-Vogel-Ave-Phoenix-AZ-85051/7746334_zpid/
+7463044,13453324,"8813 W Indianola Ave, Phoenix, AZ 85037 ",-72769.3125,82730.6875,155500,https://www.zillow.com/homedetails/8813-W-Indianola-Ave-Phoenix-AZ-85037/2094842382_zpid/
+1314994,13432854,"3867 E Palmer St, Gilbert, AZ 85298 ",-73934.53125,135965.46875,209900,https://www.zillow.com/homedetails/3867-E-Palmer-St-Gilbert-AZ-85298/67771936_zpid/
+682437,13431999,"9242 E Lobo Ave, Mesa, AZ 85209 ",-86302.734375,158697.265625,245000,https://www.zillow.com/homedetails/9242-E-Lobo-Ave-Mesa-AZ-85209/8285443_zpid/
+7402150,13446467,"24536 W Sheraton Ln, Buckeye, AZ 85326 ",-86355.9375,101544.0625,187900,https://www.zillow.com/homedetails/24536-W-Sheraton-Ln-Buckeye-AZ-85326/95177637_zpid/
+7436607,13447360,"2309 S 119th Dr, Avondale, AZ 85323 ",-91447.0625,116949.9375,208397,https://www.zillow.com/homedetails/2309-S-119th-Dr-Avondale-AZ-85323/95123250_zpid/
+7487228,13466705,"3213 W Desert Cove Ave, Phoenix, AZ 85029 ",-93558.7109375,100941.2890625,194500,https://www.zillow.com/homedetails/3213-W-Desert-Cove-Ave-Phoenix-AZ-85029/7740493_zpid/
+7461310,13447944,"14214 N 33rd Dr, Phoenix, AZ 85053 ",-93666.5,134333.5,228000,https://www.zillow.com/homedetails/14214-N-33rd-Dr-Phoenix-AZ-85053/7943466_zpid/
+917533,13446461,"22036 W Hadley St, Buckeye, AZ 85326 ",-94470.75,90529.25,185000,https://www.zillow.com/homedetails/22036-W-Hadley-St-Buckeye-AZ-85326/82385935_zpid/
+1682129,13450149,"12740 W Junipero Dr, Sun City West, AZ 85375 ",-96454.421875,163445.578125,259900,https://www.zillow.com/homedetails/12740-W-Junipero-Dr-Sun-City-West-AZ-85375/67799571_zpid/
+7460949,13446462,"24505 W Sheraton Ln, Buckeye, AZ 85326 ",-96840.625,103059.375,199900,https://www.zillow.com/homedetails/24505-W-Sheraton-Ln-Buckeye-AZ-85326/95168745_zpid/
+7480217,13465047,"1732 E Gail Dr, Chandler, AZ 85225 ",-100199.15625,144800.84375,245000,https://www.zillow.com/homedetails/1732-E-Gail-Dr-Chandler-AZ-85225/8280322_zpid/
+7452718,13446481,"4998 S 246TH Ln, Buckeye, AZ 85326 ",-100881.1640625,93018.8359375,193900,https://www.zillow.com/homedetails/4998-S-246TH-Ln-Buckeye-AZ-85326/95099671_zpid/
+7456530,13431824,"8133 W Pueblo Ave, Phoenix, AZ 85043 ",-107883.8828125,92016.1171875,199900,https://www.zillow.com/homedetails/8133-W-Pueblo-Ave-Phoenix-AZ-85043/95083521_zpid/
+7463066,13453468,"2314 E Claire Dr, Phoenix, AZ 85022 ",-110257.4375,97242.5625,207500,https://www.zillow.com/homedetails/2314-E-Claire-Dr-Phoenix-AZ-85022/8014012_zpid/
+7462654,13452266,"12010 W Rio Vista Ln, Avondale, AZ 85323 ",-115893.96875,114293.03125,230187,https://www.zillow.com/homedetails/12010-W-Rio-Vista-Ln-Avondale-AZ-85323/95186058_zpid/
+956030,13452045,"167 S Fir St, Chandler, AZ 85226 ",-116607.578125,153292.421875,269900,https://www.zillow.com/homedetails/167-S-Fir-St-Chandler-AZ-85226/8165716_zpid/
+396919,13461807,"4002 W Wethersfield Rd, Phoenix, AZ 85029 ",-117367.859375,162482.140625,279850,https://www.zillow.com/homedetails/4002-W-Wethersfield-Rd-Phoenix-AZ-85029/7742694_zpid/
+7459179,13440642,"2638 E Holmes Ave, Mesa, AZ 85204 ",-118416.46875,101583.53125,220000,https://www.zillow.com/homedetails/2638-E-Holmes-Ave-Mesa-AZ-85204/92347340_zpid/
+732049,13436194,"620 N Hall, Mesa, AZ 85203 ",-118458.0625,181541.9375,300000,https://www.zillow.com/homedetails/620-N-Hall-Mesa-AZ-85203/82779279_zpid/
+7462246,13450472,"1012 E Washington Ave, Gilbert, AZ 85234 ",-118879.0,221021.0,339900,https://www.zillow.com/homedetails/1012-E-Washington-Ave-Gilbert-AZ-85234/8276541_zpid/
+916408,13437543,"21836 W Casey Ln, Buckeye, AZ 85326 ",-119528.640625,108371.359375,227900,https://www.zillow.com/homedetails/21836-W-Casey-Ln-Buckeye-AZ-85326/95187503_zpid/
+7458299,13437552,"80 S 196th Ln, Buckeye, AZ 85326 ",-126475.8984375,103514.1015625,229990,https://www.zillow.com/homedetails/80-S-196th-Ln-Buckeye-AZ-85326/2094882813_zpid/
+7461267,13447771,"1209 E Muirwood Dr, Phoenix, AZ 85048 ",-144902.375,179798.625,324701,https://www.zillow.com/homedetails/1209-E-Muirwood-Dr-Phoenix-AZ-85048/125132789_zpid/
+255059,13445851,"316 W Kelton Ln, Phoenix, AZ 85023 ",-145430.28125,164569.71875,310000,https://www.zillow.com/homedetails/316-W-Kelton-Ln-Phoenix-AZ-85023/7965798_zpid/
+139088,13450154,"23318 N Las Positas Ct, Sun City West, AZ 85375 ",-148664.03125,150835.96875,299500,https://www.zillow.com/homedetails/23318-N-Las-Positas-Ct-Sun-City-West-AZ-85375/81966882_zpid/
+7461269,13447778,"15849 S 12th Way, Phoenix, AZ 85048 ",-155417.203125,179232.796875,334650,https://www.zillow.com/homedetails/15849-S-12th-Way-Phoenix-AZ-85048/125144732_zpid/
+352097,13429400,"2017 E Heartwood Ln, Phoenix, AZ 85022 ",-156319.609375,123580.390625,279900,https://www.zillow.com/homedetails/2017-E-Heartwood-Ln-Phoenix-AZ-85022/95134885_zpid/
+7473112,13464156,"2978 W Comstock Dr, Chandler, AZ 85224 ",-156773.4375,188226.5625,345000,https://www.zillow.com/homedetails/2978-W-Comstock-Dr-Chandler-AZ-85224/8192689_zpid/
+7433637,13435321,"1551 W Marlin Dr, Chandler, AZ 85286 ",-161142.0,141568.0,302710,https://www.zillow.com/homedetails/1551-W-Marlin-Dr-Chandler-AZ-85286/2095120768_zpid/
+1312719,13459734,"3438 E Appleby Dr, Gilbert, AZ 85298 ",-165184.65625,157715.34375,322900,https://www.zillow.com/homedetails/3438-E-Appleby-Dr-Gilbert-AZ-85298/121422123_zpid/
+7447416,13454210,"10423 S 47th St, Phoenix, AZ 85044 ",-169613.046875,159386.953125,329000,https://www.zillow.com/homedetails/10423-S-47th-St-Phoenix-AZ-85044/8142062_zpid/
+7460564,13445212,"10229 E Starion Ave, Mesa, AZ 85212 ",-175714.515625,124185.484375,299900,https://www.zillow.com/homedetails/10229-E-Starion-Ave-Mesa-AZ-85212/121423476_zpid/
+42786,13447657,"7114 W Globe Ave, Phoenix, AZ 85043 ",-184671.75,90328.25,275000,https://www.zillow.com/homedetails/7114-W-Globe-Ave-Phoenix-AZ-85043/67788720_zpid/
+5218084,13431972,"10417 E Sebring Ave, Mesa, AZ 85212 ",-187272.3125,138054.6875,325327,https://www.zillow.com/homedetails/10417-E-Sebring-Ave-Mesa-AZ-85212/125119313_zpid/
+2032111,13431979,"2620 S Canfield, Mesa, AZ 85209 ",-191487.3359375,123512.6640625,315000,https://www.zillow.com/homedetails/2620-S-Canfield-Mesa-AZ-85209/126055498_zpid/
+7462935,13452818,"623 W Kerry Ln, Phoenix, AZ 85027 ",-200727.8984375,103905.1015625,304633,https://www.zillow.com/homedetails/623-W-Kerry-Ln-Phoenix-AZ-85027/2094843634_zpid/
+7459225,13440719,"10141 E Stealth Ave, Mesa, AZ 85212 ",-217081.1875,109818.8125,326900,https://www.zillow.com/homedetails/10141-E-Stealth-Ave-Mesa-AZ-85212/125143544_zpid/
+7450378,13455990,"1535 W Marlin Dr, Chandler, AZ 85286 ",-227543.90625,152446.09375,379990,https://www.zillow.com/homedetails/1535-W-Marlin-Dr-Chandler-AZ-85286/2094998806_zpid/
+7461608,13448830,"149 E Horseshoe Dr, Chandler, AZ 85249 ",-249831.171875,140167.828125,389999,https://www.zillow.com/homedetails/149-E-Horseshoe-Dr-Chandler-AZ-85249/119217414_zpid/
+7462597,13452060,"3655 N Nevada St, Chandler, AZ 85225 ",-255018.4296875,94981.5703125,350000,https://www.zillow.com/homedetails/3655-N-Nevada-St-Chandler-AZ-85225/94639314_zpid/
