@@ -1,2 +1,0 @@
-Bad property id 1 detected
-Bad property id 2 detected
