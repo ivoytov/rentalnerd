@@ -1,0 +1,21 @@
+property_id,transaction_id,address,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+8953874,19984286,"27601 N 195TH Ave, Wittmann, AZ 85361 ",199900,219914.61,0.1,0.5,1748.5,https://www.zillow.com/homedetails/27601-N-195TH-Ave-Wittmann-AZ-85361/8310326_zpid/
+7551091,17885207,"643 S 87th Way, Mesa, AZ 85208 ",104700,121868.59,0.16,0.5,1753.5,https://www.zillow.com/homedetails/643-S-87th-Way-Mesa-AZ-85208/8072475_zpid/
+1518375,20936187,"154 N Madison St, Wickenburg, AZ 85390 ",120000,134035.0,0.12,0.5,1761.5,http://www.zillow.com/homedetails/154-N-Madison-St-Wickenburg-AZ-85390/8316534_zpid/
+1349159,20713871,"5543 W Northview Ave, Glendale, AZ 85301 ",120000,124004.41,0.03,0.5,1771.5,http://www.zillow.com/homedetails/5543-W-Northview-Ave-Glendale-AZ-85301/7726422_zpid
+8267850,13602397,"2001 E Catclaw St, Gilbert, AZ 85296 ",130000,132576.61,0.02,0.5,1775.5,https://www.zillow.com/homedetails/2001-E-Catclaw-St-Gilbert-AZ-85296/8275392_zpid/
+8948359,21666014,"286 Gompers Cir, Morristown, AZ 85342 ",125000,124785.52,-0.0,0.5,1782.5,https://www.zillow.com/homedetails/286-Gompers-Cir-Morristown-AZ-85342/50204206_zpid/
+35813,21732493,"312 E Illini St, Phoenix, AZ 85040 ",140000,139035.34,-0.01,0.5,1783.5,http://www.zillow.com/homedetails/312-E-Illini-St-Phoenix-AZ-85040/7523781_zpid/
+1865008,13943433,"469 Leisure World, Mesa, AZ 85206",122000,119808.58,-0.02,0.5,1790.5,http://www.zillow.com/homedetails/469-Leisure-World-Mesa-AZ-85206/7674748_zpid/
+7687156,13557102,"9142 E Aspen Ave, Mesa, AZ 85208 ",112000,109724.33,-0.02,0.5,1791.5,https://www.zillow.com/homedetails/9142-E-Aspen-Ave-Mesa-AZ-85208/8071675_zpid/
+7452585,17914978,"5621 E Calle Magdalena, Guadalupe, AZ 85283 ",125000,122583.87,-0.02,0.5,1792.5,https://www.zillow.com/homedetails/5621-E-Calle-Magdalena-Guadalupe-AZ-85283/8138260_zpid/
+7774687,13582333,"1727 E Wier Ave, Phoenix, AZ 85040 ",100700,98233.86,-0.02,0.5,1793.5,https://www.zillow.com/homedetails/1727-E-Wier-Ave-Phoenix-AZ-85040/7546549_zpid/
+7500616,20687530,"8920 E Sun Lakes Blvd S, Sun Lakes, AZ 85248 ",155900,152058.62,-0.02,0.5,1797.5,https://www.zillow.com/homedetails/8920-E-Sun-Lakes-Blvd-S-Sun-Lakes-AZ-85248/8219924_zpid/
+8954750,20689007,"921 W University Dr, Mesa, AZ 85201 ",114000,108361.42,-0.05,0.5,1800.5,https://www.zillow.com/homedetails/921-W-University-Dr-Mesa-AZ-85201/2104690726_zpid/
+440701,17864967,"2510 N 90th Ave, Phoenix, AZ 85037 ",170000,164075.36,-0.03,0.5,1802.5,https://www.zillow.com/homedetails/2510-N-90th-Ave-Phoenix-AZ-85037/7473866_zpid/
+7415052,17790125,"24 E Kinderman Dr, Avondale, AZ 85323 ",113000,106327.62,-0.06,0.5,1805.5,https://www.zillow.com/homedetails/24-E-Kinderman-Dr-Avondale-AZ-85323/8291868_zpid/
+1517947,20854860,"129 W Mohave St, Wickenburg, AZ 85390 ",120000,111505.14,-0.07,0.5,1809.5,http://www.zillow.com/homedetails/129-W-Mohave-St-Wickenburg-AZ-85390/8315407_zpid/
+1458583,17931137,"14287 W Indianola Ave, Goodyear, AZ 85395 ",179900,170785.05,-0.05,0.5,1811.5,https://www.zillow.com/homedetails/14287-W-Indianola-Ave-Goodyear-AZ-85395/50204762_zpid/
+570711,20702279,"2317 N Shannon Way, Mesa, AZ 85215 ",105000,95141.95,-0.09,0.5,1812.5,http://www.zillow.com/homedetails/2317-N-Shannon-Way-Mesa-AZ-85215/2099038919_zpid
+1531886,17762408,"18654 E Mazatzal Cir, Rio Verde, AZ 85263 ",202000,191584.7,-0.05,0.5,1816.5,https://www.zillow.com/homedetails/18654-E-Mazatzal-Cir-Rio-Verde-AZ-85263/8081793_zpid/
+1358145,17855382,"7874 N 47th Ave, Glendale, AZ 85301 ",121500,109462.19,-0.1,0.5,1821.5,https://www.zillow.com/homedetails/7874-N-47th-Ave-Glendale-AZ-85301/7724667_zpid/
