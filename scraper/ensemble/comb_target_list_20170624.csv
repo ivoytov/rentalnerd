@@ -1,0 +1,21 @@
+property_id,transaction_id,address,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+1531886,17762408,"18654 E Mazatzal Cir, Rio Verde, AZ 85263 ",202000,193905.38,-0.04,0.9,214.0,https://www.zillow.com/homedetails/18654-E-Mazatzal-Cir-Rio-Verde-AZ-85263/8081793_zpid/
+7500616,20687530,"8920 E Sun Lakes Blvd S, Sun Lakes, AZ 85248 ",155900,149379.83,-0.04,0.9,223.0,https://www.zillow.com/homedetails/8920-E-Sun-Lakes-Blvd-S-Sun-Lakes-AZ-85248/8219924_zpid/
+7420096,21906507,"951 S 224th Ln, Buckeye, AZ 85326 ",204900,180525.17,-0.12,0.9,348.0,https://www.zillow.com/homedetails/951-S-224th-Ln-Buckeye-AZ-85326/81988646_zpid/
+1550415,21603792,"26441 S New Town Dr, Sun Lakes, AZ 85248 ",200000,169293.92,-0.15,0.9,357.0,https://www.zillow.com/homedetails/26441-S-New-Town-Dr-Sun-Lakes-AZ-85248/8221262_zpid/
+7551091,17885207,"643 S 87th Way, Mesa, AZ 85208 ",104700,117173.78,0.12,0.89,469.0,https://www.zillow.com/homedetails/643-S-87th-Way-Mesa-AZ-85208/8072475_zpid/
+139434,21933205,"7438 E Hum Road STE 106, Carefree, AZ 85377 ",230000,195660.45,-0.15,0.89,664.0,https://www.zillow.com/homedetails/7438-E-Hum-Road-STE-106-Carefree-AZ-85377/8039469_zpid/
+919633,21899501,"22384 W Desert Bloom St, Buckeye, AZ 85326 ",189500,157550.83,-0.17,0.89,692.0,https://www.zillow.com/homedetails/22384-W-Desert-Bloom-St-Buckeye-AZ-85326/67796803_zpid/
+1858536,21536905,"9028 E Cactus Ln S, Sun Lakes, AZ 85248 ",125000,121801.27,-0.03,0.88,762.0,http://www.zillow.com/homedetails/9028-E-Cactus-Ln-S-Sun-Lakes-AZ-85248/8219056_zpid/
+8953874,21917003,"27601 N 195TH Ave, Wittmann, AZ 85361 ",199900,194958.3,-0.02,0.88,783.0,https://www.zillow.com/homedetails/27601-N-195TH-Ave-Wittmann-AZ-85361/8310326_zpid/
+8927149,21919794,"910 S 349th Ave, Tonopah, AZ 85354 ",122900,122517.2,-0.0,0.88,784.0,https://www.zillow.com/homedetails/910-S-349th-Ave-Tonopah-AZ-85354/55288055_zpid/
+7373578,20716073,"6841 E Golden Hills Way, Mesa, AZ 85208 ",190000,160908.22,-0.15,0.87,1039.0,http://www.zillow.com/homedetails/6841-E-Golden-Hills-Way-Mesa-AZ-85208/8073903_zpid/
+1591413,21909663,"100 Peretz Cir, Morristown, AZ 85342 ",196000,161907.09,-0.17,0.87,1058.0,https://www.zillow.com/homedetails/100-Peretz-Cir-Morristown-AZ-85342/114275093_zpid/
+7445063,21916751,"24326 W Fernwood Ct, Wittmann, AZ 85361 ",119700,126763.27,0.06,0.86,1148.0,https://www.zillow.com/homedetails/24326-W-Fernwood-Ct-Wittmann-AZ-85361/71625270_zpid/
+7445061,21916744,"24325 W Bobwhite Way, Wittmann, AZ 85361 ",122550,128156.3,0.05,0.86,1151.0,https://www.zillow.com/homedetails/24325-W-Bobwhite-Way-Wittmann-AZ-85361/71625280_zpid/
+398926,21644354,"915 W Mercer Ln, Phoenix, AZ 85029 ",157000,127732.73,-0.19,0.87,1153.0,https://www.zillow.com/homedetails/915-W-Mercer-Ln-Phoenix-AZ-85029/7785153_zpid/
+7445069,21917133,"29510 N 244th Dr, Wittmann, AZ 85361 ",122550,127601.66,0.04,0.86,1155.0,https://www.zillow.com/homedetails/29510-N-244th-Dr-Wittmann-AZ-85361/71625287_zpid/
+7445062,21916827,"24340 W Morning Vista Ln, Wittmann, AZ 85361 ",122550,127426.84,0.04,0.86,1156.0,https://www.zillow.com/homedetails/24340-W-Morning-Vista-Ln-Wittmann-AZ-85361/71625294_zpid/
+7445064,21916729,"24328 W Morning Vista Ln, Wittmann, AZ 85361 ",122550,127289.31,0.04,0.86,1157.0,https://www.zillow.com/homedetails/24328-W-Morning-Vista-Ln-Wittmann-AZ-85361/71625293_zpid/
+442111,21746664,"4124 N 105th Ln, Phoenix, AZ 85037 ",135000,130125.98,-0.04,0.86,1158.0,http://www.zillow.com/homedetails/4124-N-105th-Ln-Phoenix-AZ-85037/7465575_zpid/
+8950821,21917816,"7245 W Brown St, Peoria, AZ 85345 ",129999,108712.46,-0.16,0.86,1171.0,https://www.zillow.com/homedetails/7245-W-Brown-St-Peoria-AZ-85345/7701411_zpid/
