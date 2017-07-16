@@ -1,0 +1,21 @@
+property_id,transaction_id,address,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+139434,21960367,"7438 E Hum Road STE 106, Carefree, AZ 85377 ",230000,191688.2,-0.17,0.89,144.5,https://www.zillow.com/homedetails/7438-E-Hum-Road-STE-106-Carefree-AZ-85377/8039469_zpid/
+1531886,17762408,"18654 E Mazatzal Cir, Rio Verde, AZ 85263 ",202000,195540.28,-0.03,0.86,212.0,https://www.zillow.com/homedetails/18654-E-Mazatzal-Cir-Rio-Verde-AZ-85263/8081793_zpid/
+7500616,20687530,"8920 E Sun Lakes Blvd S, Sun Lakes, AZ 85248 ",155900,137109.09,-0.12,0.86,240.5,https://www.zillow.com/homedetails/8920-E-Sun-Lakes-Blvd-S-Sun-Lakes-AZ-85248/8219924_zpid/
+1550415,21603792,"26441 S New Town Dr, Sun Lakes, AZ 85248 ",200000,160192.23,-0.2,0.85,479.0,https://www.zillow.com/homedetails/26441-S-New-Town-Dr-Sun-Lakes-AZ-85248/8221262_zpid/
+1858536,21536905,"9028 E Cactus Ln S, Sun Lakes, AZ 85248 ",125000,108526.75,-0.13,0.82,867.0,http://www.zillow.com/homedetails/9028-E-Cactus-Ln-S-Sun-Lakes-AZ-85248/8219056_zpid/
+7458519,21968077,"14249 N Boxwood Ln, Fountain Hills, AZ 85268 ",127250,115999.09,-0.09,0.82,1023.0,https://www.zillow.com/homedetails/14249-N-Boxwood-Ln-Fountain-Hills-AZ-85268/2094881184_zpid/
+395593,22098740,"8023 N 31st Dr, Phoenix, AZ 85051 ",115000,100611.39,-0.13,0.81,1207.0,https://www.zillow.com/homedetails/8023-N-31st-Dr-Phoenix-AZ-85051/7754756_zpid/
+8958862,22214569,"214 E Bluefield Ave, Phoenix, AZ 85022 ",149900,137257.23,-0.08,0.8,1397.5,https://www.zillow.com/homedetails/214-E-Bluefield-Ave-Phoenix-AZ-85022/7955753_zpid/
+528357,21907281,"9920 W Madrugada Ave, Phoenix, AZ 85037 ",187000,155518.31,-0.17,0.8,1485.0,https://www.zillow.com/homedetails/9920-W-Madrugada-Ave-Phoenix-AZ-85037/7484438_zpid/
+7417877,22158861,"1120 N Val Vista Dr, Gilbert, AZ 85234 ",155000,127358.31,-0.18,0.8,1492.0,https://www.zillow.com/homedetails/1120-N-Val-Vista-Dr-Gilbert-AZ-85234/2113587966_zpid/
+8965082,22133190,"6169 S Sawgrass Dr, Chandler, AZ 85249 ",133000,123136.33,-0.07,0.79,1531.0,https://www.zillow.com/homedetails/6169-S-Sawgrass-Dr-Chandler-AZ-85249/8216408_zpid/
+7562645,22088634,"229 Leisure World, Mesa, AZ 85206 ",189500,155406.28,-0.18,0.79,1665.0,https://www.zillow.com/homedetails/229-Leisure-World-Mesa-AZ-85206/2094518894_zpid/
+8953874,21950467,"27601 N 195TH Ave, Wittmann, AZ 85361 ",199900,195716.73,-0.02,0.78,1676.0,https://www.zillow.com/homedetails/27601-N-195TH-Ave-Wittmann-AZ-85361/8310326_zpid/
+8962306,22100946,"13390 W Cambridge Ave, Goodyear, AZ 85395 ",170000,151935.44,-0.11,0.78,1713.5,https://www.zillow.com/homedetails/13390-W-Cambridge-Ave-Goodyear-AZ-85395/8301278_zpid/
+396637,22043221,"8224 N 32nd Dr, Phoenix, AZ 85051 ",110000,95170.97,-0.13,0.77,1764.0,https://www.zillow.com/homedetails/8224-N-32nd-Dr-Phoenix-AZ-85051/7751554_zpid/
+1077240,22179178,"1970 N Hartford St, Chandler, AZ 85225 ",109500,90991.76,-0.17,0.77,1786.0,https://www.zillow.com/homedetails/1970-N-Hartford-St-Chandler-AZ-85225/8183069_zpid/
+213729,22016834,"1230 E Lawrence Ln, Phoenix, AZ 85020 ",103000,87491.91,-0.15,0.76,1826.0,https://www.zillow.com/homedetails/1230-E-Lawrence-Ln-Phoenix-AZ-85020/2117421188_zpid/
+7452236,21991843,"9039 N 52nd Ave, Glendale, AZ 85302 ",104900,89279.25,-0.15,0.76,1831.0,https://www.zillow.com/homedetails/9039-N-52nd-Ave-Glendale-AZ-85302/7734172_zpid/
+729318,21809239,"446 N Hobson Plz, Mesa, AZ 85203 ",134900,111798.41,-0.17,0.76,1858.0,https://www.zillow.com/homedetails/446-N-Hobson-Plz-Mesa-AZ-85203/7620468_zpid/
+1342740,21982964,"4468 W Palmaire Ave, Glendale, AZ 85301 ",123000,112076.62,-0.09,0.74,1887.0,https://www.zillow.com/homedetails/4468-W-Palmaire-Ave-Glendale-AZ-85301/7725501_zpid/

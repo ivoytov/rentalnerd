@@ -1,0 +1,23 @@
+property_id,transaction_id,address,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+7526840,22235776,"15773 W Caribbean Ln, Surprise, AZ 85379 ",238000,221970.59,-0.07,0.66,66.5,https://www.zillow.com/homedetails/15773-W-Caribbean-Ln-Surprise-AZ-85379/64694580_zpid/
+7500616,20687530,"8920 E Sun Lakes Blvd S, Sun Lakes, AZ 85248 ",155900,134655.69,-0.14,0.64,113.0,https://www.zillow.com/homedetails/8920-E-Sun-Lakes-Blvd-S-Sun-Lakes-AZ-85248/8219924_zpid/
+1858536,21536905,"9028 E Cactus Ln S, Sun Lakes, AZ 85248 ",125000,108184.47,-0.13,0.62,182.0,http://www.zillow.com/homedetails/9028-E-Cactus-Ln-S-Sun-Lakes-AZ-85248/8219056_zpid/
+8967278,22245545,"56 S 73rd St, Mesa, AZ 85208 ",164900,156890.61,-0.05,0.6,254.0,https://www.zillow.com/homedetails/56-S-73rd-St-Mesa-AZ-85208/8069403_zpid/
+8959553,21943725,"11421 N 75th Dr, Peoria, AZ 85345 ",247000,201510.42,-0.18,0.62,390.5,https://www.zillow.com/homedetails/11421-N-75th-Dr-Peoria-AZ-85345/7680617_zpid/
+729318,21809239,"446 N Hobson Plz, Mesa, AZ 85203 ",134900,115820.3,-0.14,0.58,434.0,https://www.zillow.com/homedetails/446-N-Hobson-Plz-Mesa-AZ-85203/7620468_zpid/
+8959281,21819852,"148 N Crismon Rd, Mesa, AZ 85207 ",174900,147131.39,-0.16,0.58,441.0,https://www.zillow.com/homedetails/148-N-Crismon-Rd-Mesa-AZ-85207/8086224_zpid/
+7420096,21992237,"951 S 224th Ln, Buckeye, AZ 85326 ",204900,170334.55,-0.17,0.59,441.0,https://www.zillow.com/homedetails/951-S-224th-Ln-Buckeye-AZ-85326/81988646_zpid/
+8959281,21819852,"148 N Crismon Rd, Mesa, AZ 85207 ",174900,147131.39,-0.16,0.58,441.0,https://www.zillow.com/homedetails/148-N-Crismon-Rd-Mesa-AZ-85207/8086224_zpid/
+7420096,21992237,"951 S 224th Ln, Buckeye, AZ 85326 ",204900,170334.55,-0.17,0.59,441.0,https://www.zillow.com/homedetails/951-S-224th-Ln-Buckeye-AZ-85326/81988646_zpid/
+764064,22072195,"5447 E Baltimore St, Mesa, AZ 85205 ",162000,135114.73,-0.17,0.58,447.5,https://www.zillow.com/homedetails/5447-E-Baltimore-St-Mesa-AZ-85205/7672447_zpid/
+939805,22234140,"504 S 7th St, Buckeye, AZ 85326 ",154900,130800.99,-0.16,0.58,448.5,https://www.zillow.com/homedetails/504-S-7th-St-Buckeye-AZ-85326/8287031_zpid/
+7458519,21968077,"14249 N Boxwood Ln, Fountain Hills, AZ 85268 ",127250,137475.78,0.08,0.57,475.0,https://www.zillow.com/homedetails/14249-N-Boxwood-Ln-Fountain-Hills-AZ-85268/2094881184_zpid/
+33111,21809437,"1025 E Grenadine Rd, Phoenix, AZ 85040 ",125000,108717.08,-0.13,0.57,490.0,https://www.zillow.com/homedetails/1025-E-Grenadine-Rd-Phoenix-AZ-85040/62728029_zpid/
+8965802,22217240,"46 Leisure World, Mesa, AZ 85206 ",145000,128162.2,-0.12,0.57,508.0,https://www.zillow.com/homedetails/46-Leisure-World-Mesa-AZ-85206/2093688803_zpid/
+7440567,21836264,"15410 W Amelia Dr, Goodyear, AZ 85395 ",234000,194962.83,-0.17,0.58,536.0,https://www.zillow.com/homedetails/15410-W-Amelia-Dr-Goodyear-AZ-85395/8303396_zpid/
+139434,21960367,"7438 E Hum Road STE 106, Carefree, AZ 85377 ",230000,230932.58,0.0,0.56,586.0,https://www.zillow.com/homedetails/7438-E-Hum-Road-STE-106-Carefree-AZ-85377/8039469_zpid/
+7397708,22165727,"625 N Sunland Dr, Chandler, AZ 85225 ",179000,145120.98,-0.19,0.57,604.0,https://www.zillow.com/homedetails/625-N-Sunland-Dr-Chandler-AZ-85225/8187196_zpid/
+1197896,21698469,"897 N Kingston St, Gilbert, AZ 85233 ",245000,202931.77,-0.17,0.58,623.0,https://www.zillow.com/homedetails/897-N-Kingston-St-Gilbert-AZ-85233/8172842_zpid/
+569393,22105864,"10116 E Akron St, Mesa, AZ 85207 ",150000,121278.43,-0.19,0.56,656.5,https://www.zillow.com/homedetails/10116-E-Akron-St-Mesa-AZ-85207/8086675_zpid/
+1350197,21987016,"5752 W Vista Ave, Glendale, AZ 85301 ",188000,156441.2,-0.17,0.56,681.0,https://www.zillow.com/homedetails/5752-W-Vista-Ave-Glendale-AZ-85301/67083476_zpid/
+8953874,21950467,"27601 N 195TH Ave, Wittmann, AZ 85361 ",199900,203668.42,0.02,0.55,709.0,https://www.zillow.com/homedetails/27601-N-195TH-Ave-Wittmann-AZ-85361/8310326_zpid/

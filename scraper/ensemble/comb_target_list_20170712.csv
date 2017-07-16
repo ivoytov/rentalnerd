@@ -1,0 +1,21 @@
+property_id,transaction_id,address,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+7500616,20687530,"8920 E Sun Lakes Blvd S, Sun Lakes, AZ 85248 ",155900,137875.16,-0.12,0.64,302.0,https://www.zillow.com/homedetails/8920-E-Sun-Lakes-Blvd-S-Sun-Lakes-AZ-85248/8219924_zpid/
+7526840,22235776,"15773 W Caribbean Ln, Surprise, AZ 85379 ",238000,195404.27,-0.18,0.64,396.0,https://www.zillow.com/homedetails/15773-W-Caribbean-Ln-Surprise-AZ-85379/64694580_zpid/
+8967278,22245545,"56 S 73rd St, Mesa, AZ 85208 ",164900,144830.3,-0.12,0.62,461.0,https://www.zillow.com/homedetails/56-S-73rd-St-Mesa-AZ-85208/8069403_zpid/
+7397708,22165727,"625 N Sunland Dr, Chandler, AZ 85225 ",179000,146872.69,-0.18,0.58,800.0,https://www.zillow.com/homedetails/625-N-Sunland-Dr-Chandler-AZ-85225/8187196_zpid/
+139434,21960367,"7438 E Hum Road STE 106, Carefree, AZ 85377 ",230000,203043.28,-0.12,0.56,995.0,https://www.zillow.com/homedetails/7438-E-Hum-Road-STE-106-Carefree-AZ-85377/8039469_zpid/
+406968,22230303,"5416 W Hearn Rd, Glendale, AZ 85306 ",110000,104954.47,-0.05,0.55,1036.0,https://www.zillow.com/homedetails/5416-W-Hearn-Rd-Glendale-AZ-85306/92347321_zpid/
+7399174,21950606,"35301 W Steinway Dr, Tonopah, AZ 85354 ",139900,115854.32,-0.17,0.55,1037.0,https://www.zillow.com/homedetails/35301-W-Steinway-Dr-Tonopah-AZ-85354/2095437345_zpid/
+1077240,22179178,"1970 N Hartford St, Chandler, AZ 85225 ",109500,92821.54,-0.15,0.54,1146.0,https://www.zillow.com/homedetails/1970-N-Hartford-St-Chandler-AZ-85225/8183069_zpid/
+729265,22300625,"443 N Hobson Plz, Mesa, AZ 85203 ",125000,110000.91,-0.12,0.52,1252.0,https://www.zillow.com/homedetails/443-N-Hobson-Plz-Mesa-AZ-85203/7620472_zpid/
+7487144,22096130,"5833 S 42nd Pl, Phoenix, AZ 85040 ",106000,112244.55,0.06,0.51,1319.0,https://www.zillow.com/homedetails/5833-S-42nd-Pl-Phoenix-AZ-85040/7550688_zpid/
+308928,22285268,"41216 N Shadow Creek Ct, Anthem, AZ 85086 ",235000,188400.8,-0.2,0.53,1362.0,https://www.zillow.com/homedetails/41216-N-Shadow-Creek-Ct-Anthem-AZ-85086/55263949_zpid/
+1591806,22242568,"267 Gompers Cir, Morristown, AZ 85342 ",125000,147092.11,0.18,0.5,1428.0,https://www.zillow.com/homedetails/267-Gompers-Cir-Morristown-AZ-85342/50204209_zpid/
+8953874,21950467,"27601 N 195TH Ave, Wittmann, AZ 85361 ",199900,198005.09,-0.01,0.5,1460.0,https://www.zillow.com/homedetails/27601-N-195TH-Ave-Wittmann-AZ-85361/8310326_zpid/
+8958862,22214569,"214 E Bluefield Ave, Phoenix, AZ 85022 ",149900,121147.84,-0.19,0.49,1541.0,https://www.zillow.com/homedetails/214-E-Bluefield-Ave-Phoenix-AZ-85022/7955753_zpid/
+421166,22271241,"6126 W Townley Ave, Glendale, AZ 85302 ",105000,85047.6,-0.19,0.47,1660.0,https://www.zillow.com/homedetails/6126-W-Townley-Ave-Glendale-AZ-85302/7704098_zpid/
+7445063,21950316,"24326 W Fernwood Ct, Wittmann, AZ 85361 ",119700,109896.49,-0.08,0.47,1681.0,https://www.zillow.com/homedetails/24326-W-Fernwood-Ct-Wittmann-AZ-85361/71625270_zpid/
+7445061,21950305,"24325 W Bobwhite Way, Wittmann, AZ 85361 ",122550,105481.52,-0.14,0.46,1758.5,https://www.zillow.com/homedetails/24325-W-Bobwhite-Way-Wittmann-AZ-85361/71625280_zpid/
+7445062,21950319,"24340 W Morning Vista Ln, Wittmann, AZ 85361 ",122550,99283.17,-0.19,0.46,1771.5,https://www.zillow.com/homedetails/24340-W-Morning-Vista-Ln-Wittmann-AZ-85361/71625294_zpid/
+8965996,22228957,"963 S Power Rd, Mesa, AZ 85206 ",225000,189704.53,-0.16,0.46,1796.0,https://www.zillow.com/homedetails/963-S-Power-Rd-Mesa-AZ-85206/8078520_zpid/
+425641,22102223,"10004 W Sells Dr, Phoenix, AZ 85037 ",192900,157004.92,-0.19,0.46,1823.0,https://www.zillow.com/homedetails/10004-W-Sells-Dr-Phoenix-AZ-85037/7484287_zpid/
