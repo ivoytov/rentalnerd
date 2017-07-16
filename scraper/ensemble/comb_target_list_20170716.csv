@@ -1,0 +1,21 @@
+property_id,transaction_id,address,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+7500616,20687530,"8920 E Sun Lakes Blvd S, Sun Lakes, AZ 85248 ",155900,141670.56,-0.09,0.72,39.0,https://www.zillow.com/homedetails/8920-E-Sun-Lakes-Blvd-S-Sun-Lakes-AZ-85248/8219924_zpid/
+7399174,21950606,"35301 W Steinway Dr, Tonopah, AZ 85354 ",139900,123171.38,-0.12,0.68,133.0,https://www.zillow.com/homedetails/35301-W-Steinway-Dr-Tonopah-AZ-85354/2095437345_zpid/
+1077240,22179178,"1970 N Hartford St, Chandler, AZ 85225 ",109500,93850.13,-0.14,0.68,138.0,https://www.zillow.com/homedetails/1970-N-Hartford-St-Chandler-AZ-85225/8183069_zpid/
+139434,21960367,"7438 E Hum Road STE 106, Carefree, AZ 85377 ",230000,221843.66,-0.04,0.67,153.0,https://www.zillow.com/homedetails/7438-E-Hum-Road-STE-106-Carefree-AZ-85377/8039469_zpid/
+308928,22285268,"41216 N Shadow Creek Ct, Anthem, AZ 85086 ",235000,196558.33,-0.16,0.69,191.0,https://www.zillow.com/homedetails/41216-N-Shadow-Creek-Ct-Anthem-AZ-85086/55263949_zpid/
+942560,21990278,"719 S 223rd Ln, Buckeye, AZ 85326 ",215000,189871.0,-0.12,0.64,464.0,https://www.zillow.com/homedetails/719-S-223rd-Ln-Buckeye-AZ-85326/67787102_zpid/
+401623,22061637,"14412 N 57th Dr, Glendale, AZ 85306 ",145000,128957.72,-0.11,0.63,539.0,https://www.zillow.com/homedetails/14412-N-57th-Dr-Glendale-AZ-85306/8098573_zpid/
+395593,22098740,"8023 N 31st Dr, Phoenix, AZ 85051 ",115000,96149.18,-0.16,0.63,585.0,https://www.zillow.com/homedetails/8023-N-31st-Dr-Phoenix-AZ-85051/7754756_zpid/
+43572,22124718,"8011 W Gibson Ln, Phoenix, AZ 85043 ",225000,182214.58,-0.19,0.62,745.0,https://www.zillow.com/homedetails/8011-W-Gibson-Ln-Phoenix-AZ-85043/50123894_zpid/
+8967278,22245545,"56 S 73rd St, Mesa, AZ 85208 ",164900,137472.75,-0.17,0.61,790.0,https://www.zillow.com/homedetails/56-S-73rd-St-Mesa-AZ-85208/8069403_zpid/
+7458519,21968077,"14249 N Boxwood Ln, Fountain Hills, AZ 85268 ",127250,127083.35,-0.0,0.61,796.0,https://www.zillow.com/homedetails/14249-N-Boxwood-Ln-Fountain-Hills-AZ-85268/2094881184_zpid/
+7487144,22096130,"5833 S 42nd Pl, Phoenix, AZ 85040 ",106000,102436.18,-0.03,0.6,834.0,https://www.zillow.com/homedetails/5833-S-42nd-Pl-Phoenix-AZ-85040/7550688_zpid/
+396637,22043221,"8224 N 32nd Dr, Phoenix, AZ 85051 ",110000,89935.22,-0.18,0.6,856.0,https://www.zillow.com/homedetails/8224-N-32nd-Dr-Phoenix-AZ-85051/7751554_zpid/
+8953874,21950467,"27601 N 195TH Ave, Wittmann, AZ 85361 ",199900,211952.61,0.06,0.6,865.0,https://www.zillow.com/homedetails/27601-N-195TH-Ave-Wittmann-AZ-85361/8310326_zpid/
+8962306,22100946,"13390 W Cambridge Ave, Goodyear, AZ 85395 ",170000,143486.62,-0.16,0.6,874.0,https://www.zillow.com/homedetails/13390-W-Cambridge-Ave-Goodyear-AZ-85395/8301278_zpid/
+8959553,21943725,"11421 N 75th Dr, Peoria, AZ 85345 ",247000,201028.16,-0.19,0.6,1100.0,https://www.zillow.com/homedetails/11421-N-75th-Dr-Peoria-AZ-85345/7680617_zpid/
+8966095,22230301,"5714 W Winchcomb Dr, Glendale, AZ 85306 ",156900,126300.73,-0.2,0.58,1145.0,https://www.zillow.com/homedetails/5714-W-Winchcomb-Dr-Glendale-AZ-85306/8098593_zpid/
+1350197,21987016,"5752 W Vista Ave, Glendale, AZ 85301 ",188000,171811.19,-0.09,0.57,1259.0,https://www.zillow.com/homedetails/5752-W-Vista-Ave-Glendale-AZ-85301/67083476_zpid/
+7420096,21992237,"951 S 224th Ln, Buckeye, AZ 85326 ",204900,193174.08,-0.06,0.56,1391.0,https://www.zillow.com/homedetails/951-S-224th-Ln-Buckeye-AZ-85326/81988646_zpid/
+7490506,22098042,"7318 E Inverness Ave, Mesa, AZ 85209 ",109000,95339.55,-0.13,0.56,1400.0,https://www.zillow.com/homedetails/7318-E-Inverness-Ave-Mesa-AZ-85209/8074728_zpid/

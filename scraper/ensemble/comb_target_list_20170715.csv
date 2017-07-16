@@ -1,0 +1,23 @@
+property_id,transaction_id,address,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+7500616,20687530,"8920 E Sun Lakes Blvd S, Sun Lakes, AZ 85248 ",155900,133379.19,-0.14,0.68,192.0,https://www.zillow.com/homedetails/8920-E-Sun-Lakes-Blvd-S-Sun-Lakes-AZ-85248/8219924_zpid/
+8962306,22100946,"13390 W Cambridge Ave, Goodyear, AZ 85395 ",170000,136315.47,-0.2,0.65,480.0,https://www.zillow.com/homedetails/13390-W-Cambridge-Ave-Goodyear-AZ-85395/8301278_zpid/
+308928,22285268,"41216 N Shadow Creek Ct, Anthem, AZ 85086 ",235000,193091.56,-0.18,0.64,679.0,https://www.zillow.com/homedetails/41216-N-Shadow-Creek-Ct-Anthem-AZ-85086/55263949_zpid/
+401623,22061637,"14412 N 57th Dr, Glendale, AZ 85306 ",145000,124167.09,-0.14,0.62,799.0,https://www.zillow.com/homedetails/14412-N-57th-Dr-Glendale-AZ-85306/8098573_zpid/
+395593,22098740,"8023 N 31st Dr, Phoenix, AZ 85051 ",115000,96888.17,-0.16,0.61,916.0,https://www.zillow.com/homedetails/8023-N-31st-Dr-Phoenix-AZ-85051/7754756_zpid/
+1591806,22242568,"267 Gompers Cir, Morristown, AZ 85342 ",125000,105062.2,-0.16,0.6,1065.5,https://www.zillow.com/homedetails/267-Gompers-Cir-Morristown-AZ-85342/50204209_zpid/
+7487144,22096130,"5833 S 42nd Pl, Phoenix, AZ 85040 ",106000,104544.48,-0.01,0.59,1099.0,https://www.zillow.com/homedetails/5833-S-42nd-Pl-Phoenix-AZ-85040/7550688_zpid/
+8967278,22245545,"56 S 73rd St, Mesa, AZ 85208 ",164900,139261.03,-0.16,0.6,1112.0,https://www.zillow.com/homedetails/56-S-73rd-St-Mesa-AZ-85208/8069403_zpid/
+406968,22230303,"5416 W Hearn Rd, Glendale, AZ 85306 ",110000,91291.59,-0.17,0.59,1112.0,https://www.zillow.com/homedetails/5416-W-Hearn-Rd-Glendale-AZ-85306/92347321_zpid/
+8967278,22245545,"56 S 73rd St, Mesa, AZ 85208 ",164900,139261.03,-0.16,0.6,1112.0,https://www.zillow.com/homedetails/56-S-73rd-St-Mesa-AZ-85208/8069403_zpid/
+406968,22230303,"5416 W Hearn Rd, Glendale, AZ 85306 ",110000,91291.59,-0.17,0.59,1112.0,https://www.zillow.com/homedetails/5416-W-Hearn-Rd-Glendale-AZ-85306/92347321_zpid/
+139434,21960367,"7438 E Hum Road STE 106, Carefree, AZ 85377 ",230000,210193.02,-0.09,0.59,1119.0,https://www.zillow.com/homedetails/7438-E-Hum-Road-STE-106-Carefree-AZ-85377/8039469_zpid/
+8953874,21950467,"27601 N 195TH Ave, Wittmann, AZ 85361 ",199900,202574.38,0.01,0.59,1183.0,https://www.zillow.com/homedetails/27601-N-195TH-Ave-Wittmann-AZ-85361/8310326_zpid/
+7399174,21950606,"35301 W Steinway Dr, Tonopah, AZ 85354 ",139900,114165.64,-0.18,0.57,1497.0,https://www.zillow.com/homedetails/35301-W-Steinway-Dr-Tonopah-AZ-85354/2095437345_zpid/
+8949667,22039163,"6510 N 10th Pl, Phoenix, AZ 85014 ",245000,228814.81,-0.07,0.55,1728.5,https://www.zillow.com/homedetails/6510-N-10th-Pl-Phoenix-AZ-85014/7796568_zpid/
+7458519,21968077,"14249 N Boxwood Ln, Fountain Hills, AZ 85268 ",127250,119695.04,-0.06,0.54,1762.0,https://www.zillow.com/homedetails/14249-N-Boxwood-Ln-Fountain-Hills-AZ-85268/2094881184_zpid/
+2051201,22101115,"1060 E Clinton St, Phoenix, AZ 85020 ",235900,195200.52,-0.17,0.55,1858.5,http://www.zillow.com/homedetails/1060-E-Clinton-St-Phoenix-AZ-85020/7785998_zpid/
+442111,21746664,"4124 N 105th Ln, Phoenix, AZ 85037 ",135000,117576.67,-0.13,0.51,2052.0,http://www.zillow.com/homedetails/4124-N-105th-Ln-Phoenix-AZ-85037/7465575_zpid/
+421166,22271241,"6126 W Townley Ave, Glendale, AZ 85302 ",105000,102937.77,-0.02,0.51,2068.0,https://www.zillow.com/homedetails/6126-W-Townley-Ave-Glendale-AZ-85302/7704098_zpid/
+440701,22281707,"2510 N 90th Ave, Phoenix, AZ 85037 ",170000,166087.33,-0.02,0.51,2089.0,https://www.zillow.com/homedetails/2510-N-90th-Ave-Phoenix-AZ-85037/7473866_zpid/
+425641,22102223,"10004 W Sells Dr, Phoenix, AZ 85037 ",192900,167005.59,-0.13,0.49,2319.0,https://www.zillow.com/homedetails/10004-W-Sells-Dr-Phoenix-AZ-85037/7484287_zpid/
+7687156,13557102,"9142 E Aspen Ave, Mesa, AZ 85208 ",112000,107749.1,-0.04,0.48,2365.0,https://www.zillow.com/homedetails/9142-E-Aspen-Ave-Mesa-AZ-85208/8071675_zpid/
