@@ -1,0 +1,21 @@
+property_id,transaction_id,address,zipcode,ypred,list,url,lat,long
+222961,22178066,"1111 E Mohawk Dr, Phoenix, AZ 85024 ",85024,0.5247895121574402,311900,https://www.zillow.com/homedetails/1111-E-Mohawk-Dr-Phoenix-AZ-85024/50181925_zpid/,33.673,-112.05799999999999
+351686,21921581,"1953 E Wagoner Rd, Phoenix, AZ 85022 ",85022,0.5247895121574402,274450,https://www.zillow.com/homedetails/1953-E-Wagoner-Rd-Phoenix-AZ-85022/8000506_zpid/,33.6531,-112.04
+8953605,21812049,"4375 E Morrow Dr, Phoenix, AZ 85050 ",85050,0.5247895121574402,309999,https://www.zillow.com/homedetails/4375-E-Morrow-Dr-Phoenix-AZ-85050/81981099_zpid/,33.6576,-111.985
+308825,22243781,"41025 N Iron Horse Way, Anthem, AZ 85086 ",85086,0.5231596231460571,324700,https://www.zillow.com/homedetails/41025-N-Iron-Horse-Way-Anthem-AZ-85086/55264170_zpid/,33.8576,-112.115
+28888,21810962,"2506 W Red Fox Rd, Phoenix, AZ 85085 ",85085,0.5223936438560486,269500,https://www.zillow.com/homedetails/2506-W-Red-Fox-Rd-Phoenix-AZ-85085/62730471_zpid/,33.7399,-112.113
+1425630,21978774,"3528 W Mariposa Grande, Glendale, AZ 85310 ",85310,0.5220592617988586,271900,https://www.zillow.com/homedetails/3528-W-Mariposa-Grande-Glendale-AZ-85310/7932313_zpid/,33.7028,-112.13600000000001
+59112,22311661,"1727 W Kuralt Dr, Anthem, AZ 85086 ",85086,0.5214787125587463,280000,https://www.zillow.com/homedetails/1727-W-Kuralt-Dr-Anthem-AZ-85086/67785798_zpid/,33.8465,-112.09700000000001
+29517,21984919,"5022 W Tonto Rd, Glendale, AZ 85308 ",85308,0.521276593208313,244000,https://www.zillow.com/homedetails/5022-W-Tonto-Rd-Glendale-AZ-85308/7937994_zpid/,33.6652,-112.16799999999999
+22526,22102174,"28736 N 20th Ln, Phoenix, AZ 85085 ",85085,0.5209977626800537,265000,http://www.zillow.com/homedetails/28736-N-20th-Ln-Phoenix-AZ-85085/82823608_zpid/,33.7456,-112.104
+7448556,21985360,"5161 W Muriel Dr, Glendale, AZ 85308 ",85308,0.5204677581787109,275000,https://www.zillow.com/homedetails/5161-W-Muriel-Dr-Glendale-AZ-85308/8099962_zpid/,33.6459,-112.17
+1426345,22183092,"3813 W Cielo Grande, Glendale, AZ 85310 ",85310,0.52032071352005,234900,https://www.zillow.com/homedetails/3813-W-Cielo-Grande-Glendale-AZ-85310/7929833_zpid/,33.7021,-112.141
+62678,22251255,"39825 N River Bend Rd, Anthem, AZ 85086 ",85086,0.5200825929641724,265000,https://www.zillow.com/homedetails/39825-N-River-Bend-Rd-Anthem-AZ-85086/67791679_zpid/,33.8472,-112.09700000000001
+245340,22485170,"2001 W Carol Ann Way, Phoenix, AZ 85023 ",85023,0.5195884108543396,263900,https://www.zillow.com/homedetails/2001-W-Carol-Ann-Way-Phoenix-AZ-85023/7966014_zpid/,33.6284,-112.102
+354524,22214160,"2305 E Kelton Ln, Phoenix, AZ 85022 ",85022,0.5193743705749512,230000,https://www.zillow.com/homedetails/2305-E-Kelton-Ln-Phoenix-AZ-85022/8005205_zpid/,33.6377,-112.03299999999999
+345272,22179796,"17409 N 19th Run, Phoenix, AZ 85022 ",85022,0.5193743705749512,235000,https://www.zillow.com/homedetails/17409-N-19th-Run-Phoenix-AZ-85022/67776115_zpid/,33.6444,-112.041
+233255,22179816,"19827 N 20th Way, Phoenix, AZ 85024 ",85024,0.5191568732261658,284900,https://www.zillow.com/homedetails/19827-N-20th-Way-Phoenix-AZ-85024/7997317_zpid/,33.6669,-112.038
+350205,22055404,"1910 E Kings Ave, Phoenix, AZ 85022 ",85022,0.5189836025238037,289999,https://www.zillow.com/homedetails/1910-E-Kings-Ave-Phoenix-AZ-85022/8004907_zpid/,33.6363,-112.041
+62428,22208693,"39517 N Hillerman Way, Anthem, AZ 85086 ",85086,0.5186656713485718,262900,https://www.zillow.com/homedetails/39517-N-Hillerman-Way-Anthem-AZ-85086/62730961_zpid/,33.8439,-112.09899999999999
+273453,22113217,"2530 W Mark Ln, Phoenix, AZ 85085 ",85085,0.5182656645774841,314900,https://www.zillow.com/homedetails/2530-W-Mark-Ln-Phoenix-AZ-85085/71552275_zpid/,33.7445,-112.11399999999999
+249136,22485185,"2222 W Faria Ln, Phoenix, AZ 85023 ",85023,0.5182511806488037,306000,https://www.zillow.com/homedetails/2222-W-Faria-Ln-Phoenix-AZ-85023/82823692_zpid/,33.6316,-112.10700000000001

@@ -1,0 +1,21 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+33111,21809437,"1025 E Grenadine Rd, Phoenix, AZ 85040 ",85040,125000,81815.88,-0.35,0.53,207.0,https://www.zillow.com/homedetails/1025-E-Grenadine-Rd-Phoenix-AZ-85040/62728029_zpid/
+303079,22135487,"2508 W Shackleton Dr, Anthem, AZ 85086 ",85086,180000,126447.73,-0.3,0.54,327.0,https://www.zillow.com/homedetails/2508-W-Shackleton-Dr-Anthem-AZ-85086/61797076_zpid/
+8962306,22100946,"13390 W Cambridge Ave, Goodyear, AZ 85395 ",85395,170000,147449.52,-0.13,0.53,419.0,https://www.zillow.com/homedetails/13390-W-Cambridge-Ave-Goodyear-AZ-85395/8301278_zpid/
+396264,22124903,"8131 N 32nd Ave, Phoenix, AZ 85051 ",85051,122500,89681.92,-0.27,0.53,450.0,https://www.zillow.com/homedetails/8131-N-32nd-Ave-Phoenix-AZ-85051/7754856_zpid/
+470629,22115923,"3443 W Citrus Way, Phoenix, AZ 85017 ",85017,120000,93298.23,-0.22,0.53,452.0,https://www.zillow.com/homedetails/3443-W-Citrus-Way-Phoenix-AZ-85017/7758684_zpid/
+1591806,22242568,"267 Gompers Cir, Morristown, AZ 85342 ",85342,125000,136575.0,0.09,0.53,502.0,https://www.zillow.com/homedetails/267-Gompers-Cir-Morristown-AZ-85342/50204209_zpid/
+43572,22124718,"8011 W Gibson Ln, Phoenix, AZ 85043 ",85043,225000,166762.97,-0.26,0.53,517.0,https://www.zillow.com/homedetails/8011-W-Gibson-Ln-Phoenix-AZ-85043/50123894_zpid/
+835682,22236716,"3732 W Oregon Ave, Phoenix, AZ 85019 ",85019,155650,109619.18,-0.3,0.53,532.0,https://www.zillow.com/homedetails/3732-W-Oregon-Ave-Phoenix-AZ-85019/50188099_zpid/
+1848353,21929232,"15491 W Maui Ln, Surprise, AZ 85379 ",85379,175000,123363.81,-0.3,0.53,536.0,https://www.zillow.com/homedetails/15491-W-Maui-Ln-Surprise-AZ-85379/55286216_zpid/
+421166,22271241,"6126 W Townley Ave, Glendale, AZ 85302 ",85302,105000,89705.02,-0.15,0.52,550.0,https://www.zillow.com/homedetails/6126-W-Townley-Ave-Glendale-AZ-85302/7704098_zpid/
+395641,21815678,"8027 N 31st Dr, Phoenix, AZ 85051 ",85051,120000,89495.87,-0.25,0.53,551.0,https://www.zillow.com/homedetails/8027-N-31st-Dr-Phoenix-AZ-85051/7754758_zpid/
+8958862,22214569,"214 E Bluefield Ave, Phoenix, AZ 85022 ",85022,149900,124351.54,-0.17,0.52,570.0,https://www.zillow.com/homedetails/214-E-Bluefield-Ave-Phoenix-AZ-85022/7955753_zpid/
+7458519,21968077,"14249 N Boxwood Ln, Fountain Hills, AZ 85268 ",85268,127250,131831.78,0.04,0.52,585.5,https://www.zillow.com/homedetails/14249-N-Boxwood-Ln-Fountain-Hills-AZ-85268/2094881184_zpid/
+401623,22061637,"14412 N 57th Dr, Glendale, AZ 85306 ",85306,145000,116473.0,-0.2,0.52,586.0,https://www.zillow.com/homedetails/14412-N-57th-Dr-Glendale-AZ-85306/8098573_zpid/
+8967278,22245545,"56 S 73rd St, Mesa, AZ 85208 ",85208,164900,141263.84,-0.14,0.52,590.0,https://www.zillow.com/homedetails/56-S-73rd-St-Mesa-AZ-85208/8069403_zpid/
+8956883,21896945,"13914 N Luna St, El Mirage, AZ 85335 ",85335,125000,109703.1,-0.12,0.52,592.0,https://www.zillow.com/homedetails/13914-N-Luna-St-El-Mirage-AZ-85335/81979508_zpid/
+423554,22309754,"8802 N 47th Ln, Glendale, AZ 85302 ",85302,140000,107787.84,-0.23,0.53,602.0,https://www.zillow.com/homedetails/8802-N-47th-Ln-Glendale-AZ-85302/7738078_zpid/
+8953874,21950467,"27601 N 195TH Ave, Wittmann, AZ 85361 ",85361,199900,207959.41,0.04,0.52,603.0,https://www.zillow.com/homedetails/27601-N-195TH-Ave-Wittmann-AZ-85361/8310326_zpid/
+389192,21938480,"2514 W Rue De Lamour Ave, Phoenix, AZ 85029 ",85029,155000,100769.09,-0.35,0.53,605.0,https://www.zillow.com/homedetails/2514-W-Rue-De-Lamour-Ave-Phoenix-AZ-85029/7738103_zpid/
+7440567,21836264,"15410 W Amelia Dr, Goodyear, AZ 85395 ",85395,234000,190682.56,-0.19,0.53,616.0,https://www.zillow.com/homedetails/15410-W-Amelia-Dr-Goodyear-AZ-85395/8303396_zpid/

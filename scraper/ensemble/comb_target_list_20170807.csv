@@ -1,0 +1,29 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+896109,21972222,"209 N 110th Dr, Avondale, AZ 85323 ",85323,235900,109940.2422,-0.534,0.6231,3918.0,https://www.zillow.com/homedetails/209-N-110th-Dr-Avondale-AZ-85323/71611987_zpid/
+8955871,21959396,"6929 W Sophie Ln, Laveen, AZ 85339 ",85339,249800,116180.6953,-0.5349,0.6217,4127.0,https://www.zillow.com/homedetails/6929-W-Sophie-Ln-Laveen-AZ-85339/81981174_zpid/
+889057,22029538,"30206 W Cheery Lynn Rd, Buckeye, AZ 85396 ",85396,229999,130883.9297,-0.4309,0.6179,2492.0,https://www.zillow.com/homedetails/30206-W-Cheery-Lynn-Rd-Buckeye-AZ-85396/81983777_zpid/
+929097,22292407,"24117 W Hadley St, Buckeye, AZ 85326 ",85326,230000,116257.2656,-0.4945,0.6171,3405.5,https://www.zillow.com/homedetails/24117-W-Hadley-St-Buckeye-AZ-85326/67797767_zpid/
+925466,22168031,"23458 W Mohave St, Buckeye, AZ 85326 ",85326,225000,105516.3281,-0.531,0.6171,3672.5,https://www.zillow.com/homedetails/23458-W-Mohave-St-Buckeye-AZ-85326/67779766_zpid/
+929097,22292407,"24117 W Hadley St, Buckeye, AZ 85326 ",85326,230000,116257.2656,-0.4945,0.6171,3405.5,https://www.zillow.com/homedetails/24117-W-Hadley-St-Buckeye-AZ-85326/67797767_zpid/
+925466,22168031,"23458 W Mohave St, Buckeye, AZ 85326 ",85326,225000,105516.3281,-0.531,0.6171,3672.5,https://www.zillow.com/homedetails/23458-W-Mohave-St-Buckeye-AZ-85326/67779766_zpid/
+8959480,21975350,"25811 W Watkins St, Buckeye, AZ 85326 ",85326,234900,123134.9922,-0.4758,0.6167,3300.0,https://www.zillow.com/homedetails/25811-W-Watkins-St-Buckeye-AZ-85326/2093856636_zpid/
+1603789,21949441,"18551 W Sunnyslope Ln, Waddell, AZ 85355 ",85355,242777,111780.3906,-0.5396,0.6165,4070.0,https://www.zillow.com/homedetails/18551-W-Sunnyslope-Ln-Waddell-AZ-85355/71624880_zpid/
+934897,22127865,"25694 W Victory St, Buckeye, AZ 85326 ",85326,226900,85536.3672,-0.623,0.6156,4303.0,https://www.zillow.com/homedetails/25694-W-Victory-St-Buckeye-AZ-85326/67796928_zpid/
+1477275,22253015,"11354 W Austin Thomas Dr, Surprise, AZ 85378 ",85378,244900,142573.8125,-0.4178,0.6154,2747.0,https://www.zillow.com/homedetails/11354-W-Austin-Thomas-Dr-Surprise-AZ-85378/52426007_zpid/
+7449805,21979289,"3623 S 256th Ave, Buckeye, AZ 85326 ",85326,244978,132518.2969,-0.4591,0.6152,3344.0,https://www.zillow.com/homedetails/3623-S-256th-Ave-Buckeye-AZ-85326/95172982_zpid/
+8962076,21975250,"25741 W Watkins St, Buckeye, AZ 85326 ",85326,232950,109476.7578,-0.53,0.6152,3846.0,https://www.zillow.com/homedetails/25741-W-Watkins-St-Buckeye-AZ-85326/2093889774_zpid/
+195273,22029639,"3130 W Apollo Rd, Phoenix, AZ 85041 ",85041,249900,119576.2266,-0.5215,0.6152,4055.0,https://www.zillow.com/homedetails/3130-W-Apollo-Rd-Phoenix-AZ-85041/67764907_zpid/
+8951911,21972867,"22124 W Cantilever Ct, Buckeye, AZ 85326 ",85326,230000,118757.3594,-0.4837,0.6149,3280.0,https://www.zillow.com/homedetails/22124-W-Cantilever-Ct-Buckeye-AZ-85326/2094185244_zpid/
+1603217,21949374,"18468 W Carol Ave, Waddell, AZ 85355 ",85355,240000,82703.2266,-0.6554,0.6145,4469.0,https://www.zillow.com/homedetails/18468-W-Carol-Ave-Waddell-AZ-85355/95117522_zpid/
+1494862,22378761,"17618 W Eugene Ter, Surprise, AZ 85388 ",85388,244900,142524.1562,-0.418,0.614,2756.0,https://www.zillow.com/homedetails/17618-W-Eugene-Ter-Surprise-AZ-85388/71631155_zpid/
+5097687,22446555,"14807 W Larkspur Dr, Surprise, AZ 85379 ",85379,239900,116282.1016,-0.5153,0.6139,3856.0,https://www.zillow.com/homedetails/14807-W-Larkspur-Dr-Surprise-AZ-85379/60994105_zpid/
+5331368,22438405,"12436 N 150th Ln, Surprise, AZ 85379 ",85379,244900,99310.6484,-0.5945,0.6139,4367.0,https://www.zillow.com/homedetails/12436-N-150th-Ln-Surprise-AZ-85379/60993881_zpid/
+8967297,22245762,"15040 W Windrose Dr, Surprise, AZ 85379 ",85379,244900,98405.1484,-0.5982,0.6139,4375.0,https://www.zillow.com/homedetails/15040-W-Windrose-Dr-Surprise-AZ-85379/60993756_zpid/
+5097687,22446555,"14807 W Larkspur Dr, Surprise, AZ 85379 ",85379,239900,116282.1016,-0.5153,0.6139,3856.0,https://www.zillow.com/homedetails/14807-W-Larkspur-Dr-Surprise-AZ-85379/60994105_zpid/
+5331368,22438405,"12436 N 150th Ln, Surprise, AZ 85379 ",85379,244900,99310.6484,-0.5945,0.6139,4367.0,https://www.zillow.com/homedetails/12436-N-150th-Ln-Surprise-AZ-85379/60993881_zpid/
+8967297,22245762,"15040 W Windrose Dr, Surprise, AZ 85379 ",85379,244900,98405.1484,-0.5982,0.6139,4375.0,https://www.zillow.com/homedetails/15040-W-Windrose-Dr-Surprise-AZ-85379/60993756_zpid/
+5097687,22446555,"14807 W Larkspur Dr, Surprise, AZ 85379 ",85379,239900,116282.1016,-0.5153,0.6139,3856.0,https://www.zillow.com/homedetails/14807-W-Larkspur-Dr-Surprise-AZ-85379/60994105_zpid/
+5331368,22438405,"12436 N 150th Ln, Surprise, AZ 85379 ",85379,244900,99310.6484,-0.5945,0.6139,4367.0,https://www.zillow.com/homedetails/12436-N-150th-Ln-Surprise-AZ-85379/60993881_zpid/
+8967297,22245762,"15040 W Windrose Dr, Surprise, AZ 85379 ",85379,244900,98405.1484,-0.5982,0.6139,4375.0,https://www.zillow.com/homedetails/15040-W-Windrose-Dr-Surprise-AZ-85379/60993756_zpid/
+934976,22270988,"25702 W Forest Grove Ave, Buckeye, AZ 85326 ",85326,219000,106927.8516,-0.5117,0.6136,3328.0,https://www.zillow.com/homedetails/25702-W-Forest-Grove-Ave-Buckeye-AZ-85326/67796951_zpid/
+8955388,22182832,"14830 W Jenan Dr, Surprise, AZ 85379 ",85379,235000,132979.2969,-0.4341,0.6135,2736.0,https://www.zillow.com/homedetails/14830-W-Jenan-Dr-Surprise-AZ-85379/60999898_zpid/

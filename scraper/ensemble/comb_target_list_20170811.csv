@@ -1,0 +1,138 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+916454,21972705,"21849 W Pima St, Buckeye, AZ 85326 ",85326,205000,79880.4531,-0.6103,0.5368,3844.0,https://www.zillow.com/homedetails/21849-W-Pima-St-Buckeye-AZ-85326/71631306_zpid/
+930591,21974705,"24862 W Rancho Vista Dr, Buckeye, AZ 85326 ",85326,199000,71326.7812,-0.6416,0.5368,3926.0,https://www.zillow.com/homedetails/24862-W-Rancho-Vista-Dr-Buckeye-AZ-85326/71598995_zpid/
+934976,22270988,"25702 W Forest Grove Ave, Buckeye, AZ 85326 ",85326,219000,51428.6406,-0.7652,0.5368,4528.0,https://www.zillow.com/homedetails/25702-W-Forest-Grove-Ave-Buckeye-AZ-85326/67796951_zpid/
+916454,21972705,"21849 W Pima St, Buckeye, AZ 85326 ",85326,205000,79880.4531,-0.6103,0.5368,3844.0,https://www.zillow.com/homedetails/21849-W-Pima-St-Buckeye-AZ-85326/71631306_zpid/
+930591,21974705,"24862 W Rancho Vista Dr, Buckeye, AZ 85326 ",85326,199000,71326.7812,-0.6416,0.5368,3926.0,https://www.zillow.com/homedetails/24862-W-Rancho-Vista-Dr-Buckeye-AZ-85326/71598995_zpid/
+934976,22270988,"25702 W Forest Grove Ave, Buckeye, AZ 85326 ",85326,219000,51428.6406,-0.7652,0.5368,4528.0,https://www.zillow.com/homedetails/25702-W-Forest-Grove-Ave-Buckeye-AZ-85326/67796951_zpid/
+916454,21972705,"21849 W Pima St, Buckeye, AZ 85326 ",85326,205000,79880.4531,-0.6103,0.5368,3844.0,https://www.zillow.com/homedetails/21849-W-Pima-St-Buckeye-AZ-85326/71631306_zpid/
+930591,21974705,"24862 W Rancho Vista Dr, Buckeye, AZ 85326 ",85326,199000,71326.7812,-0.6416,0.5368,3926.0,https://www.zillow.com/homedetails/24862-W-Rancho-Vista-Dr-Buckeye-AZ-85326/71598995_zpid/
+934976,22270988,"25702 W Forest Grove Ave, Buckeye, AZ 85326 ",85326,219000,51428.6406,-0.7652,0.5368,4528.0,https://www.zillow.com/homedetails/25702-W-Forest-Grove-Ave-Buckeye-AZ-85326/67796951_zpid/
+8945436,22185595,"17631 Cavedale Dr, Surprise, AZ 85387 ",85387,224900,78750.6562,-0.6498,0.5362,4360.0,https://www.zillow.com/homedetails/17631-Cavedale-Dr-Surprise-AZ-85387/71631259_zpid/
+7422515,22228396,"25753 N Sandstone Way, Surprise, AZ 85387 ",85387,235900,105440.8516,-0.553,0.5358,4022.0,https://www.zillow.com/homedetails/25753-N-Sandstone-Way-Surprise-AZ-85387/81975994_zpid/
+889057,22029538,"30206 W Cheery Lynn Rd, Buckeye, AZ 85396 ",85396,229999,94275.4922,-0.5901,0.5356,4162.5,https://www.zillow.com/homedetails/30206-W-Cheery-Lynn-Rd-Buckeye-AZ-85396/81983777_zpid/
+896109,21972222,"209 N 110th Dr, Avondale, AZ 85323 ",85323,235900,96203.1875,-0.5922,0.5356,4261.5,https://www.zillow.com/homedetails/209-N-110th-Dr-Avondale-AZ-85323/71611987_zpid/
+912985,22286715,"1842 S 222nd Ln, Buckeye, AZ 85326 ",85326,235900,79965.5078,-0.661,0.5356,4462.5,https://www.zillow.com/homedetails/1842-S-222nd-Ln-Buckeye-AZ-85326/71615713_zpid/
+8959480,21975350,"25811 W Watkins St, Buckeye, AZ 85326 ",85326,234900,67371.5781,-0.7132,0.5356,4532.5,https://www.zillow.com/homedetails/25811-W-Watkins-St-Buckeye-AZ-85326/2093856636_zpid/
+889057,22029538,"30206 W Cheery Lynn Rd, Buckeye, AZ 85396 ",85396,229999,94275.4922,-0.5901,0.5356,4162.5,https://www.zillow.com/homedetails/30206-W-Cheery-Lynn-Rd-Buckeye-AZ-85396/81983777_zpid/
+896109,21972222,"209 N 110th Dr, Avondale, AZ 85323 ",85323,235900,96203.1875,-0.5922,0.5356,4261.5,https://www.zillow.com/homedetails/209-N-110th-Dr-Avondale-AZ-85323/71611987_zpid/
+912985,22286715,"1842 S 222nd Ln, Buckeye, AZ 85326 ",85326,235900,79965.5078,-0.661,0.5356,4462.5,https://www.zillow.com/homedetails/1842-S-222nd-Ln-Buckeye-AZ-85326/71615713_zpid/
+8959480,21975350,"25811 W Watkins St, Buckeye, AZ 85326 ",85326,234900,67371.5781,-0.7132,0.5356,4532.5,https://www.zillow.com/homedetails/25811-W-Watkins-St-Buckeye-AZ-85326/2093856636_zpid/
+889057,22029538,"30206 W Cheery Lynn Rd, Buckeye, AZ 85396 ",85396,229999,94275.4922,-0.5901,0.5356,4162.5,https://www.zillow.com/homedetails/30206-W-Cheery-Lynn-Rd-Buckeye-AZ-85396/81983777_zpid/
+896109,21972222,"209 N 110th Dr, Avondale, AZ 85323 ",85323,235900,96203.1875,-0.5922,0.5356,4261.5,https://www.zillow.com/homedetails/209-N-110th-Dr-Avondale-AZ-85323/71611987_zpid/
+912985,22286715,"1842 S 222nd Ln, Buckeye, AZ 85326 ",85326,235900,79965.5078,-0.661,0.5356,4462.5,https://www.zillow.com/homedetails/1842-S-222nd-Ln-Buckeye-AZ-85326/71615713_zpid/
+8959480,21975350,"25811 W Watkins St, Buckeye, AZ 85326 ",85326,234900,67371.5781,-0.7132,0.5356,4532.5,https://www.zillow.com/homedetails/25811-W-Watkins-St-Buckeye-AZ-85326/2093856636_zpid/
+889057,22029538,"30206 W Cheery Lynn Rd, Buckeye, AZ 85396 ",85396,229999,94275.4922,-0.5901,0.5356,4162.5,https://www.zillow.com/homedetails/30206-W-Cheery-Lynn-Rd-Buckeye-AZ-85396/81983777_zpid/
+896109,21972222,"209 N 110th Dr, Avondale, AZ 85323 ",85323,235900,96203.1875,-0.5922,0.5356,4261.5,https://www.zillow.com/homedetails/209-N-110th-Dr-Avondale-AZ-85323/71611987_zpid/
+912985,22286715,"1842 S 222nd Ln, Buckeye, AZ 85326 ",85326,235900,79965.5078,-0.661,0.5356,4462.5,https://www.zillow.com/homedetails/1842-S-222nd-Ln-Buckeye-AZ-85326/71615713_zpid/
+8959480,21975350,"25811 W Watkins St, Buckeye, AZ 85326 ",85326,234900,67371.5781,-0.7132,0.5356,4532.5,https://www.zillow.com/homedetails/25811-W-Watkins-St-Buckeye-AZ-85326/2093856636_zpid/
+43572,22124718,"8011 W Gibson Ln, Phoenix, AZ 85043 ",85043,225000,158425.9062,-0.2959,0.5355,584.0,https://www.zillow.com/homedetails/8011-W-Gibson-Ln-Phoenix-AZ-85043/50123894_zpid/
+7498975,21963340,"9009 S 57th Dr, Laveen, AZ 85339 ",85339,245000,108192.0469,-0.5584,0.5355,4192.0,https://www.zillow.com/homedetails/9009-S-57th-Dr-Laveen-AZ-85339/82800929_zpid/
+1485090,22027283,"20051 N Coyote Lakes Pkwy, Surprise, AZ 85378 ",85378,165000,123344.8125,-0.2525,0.5352,143.5,https://www.zillow.com/homedetails/20051-N-Coyote-Lakes-Pkwy-Surprise-AZ-85378/8318853_zpid/
+1848353,21929232,"15491 W Maui Ln, Surprise, AZ 85379 ",85379,175000,125572.5234,-0.2824,0.5352,229.5,https://www.zillow.com/homedetails/15491-W-Maui-Ln-Surprise-AZ-85379/55286216_zpid/
+1145331,22260940,"12229 W Larkspur Rd, El Mirage, AZ 85335 ",85335,150000,93850.0781,-0.3743,0.5352,314.5,https://www.zillow.com/homedetails/12229-W-Larkspur-Rd-El-Mirage-AZ-85335/29618318_zpid/
+447369,22075810,"8308 W Sheridan St, Phoenix, AZ 85037 ",85037,176000,108412.9531,-0.384,0.5352,621.5,https://www.zillow.com/homedetails/8308-W-Sheridan-St-Phoenix-AZ-85037/81967429_zpid/
+199079,22240825,"5621 S 5th Dr, Phoenix, AZ 85041 ",85041,169000,98072.5703,-0.4197,0.5352,752.5,https://www.zillow.com/homedetails/5621-S-5th-Dr-Phoenix-AZ-85041/55333628_zpid/
+345909,22262250,"5313 W Raymond St, Phoenix, AZ 85043 ",85043,150000,76021.6562,-0.4932,0.5352,897.5,https://www.zillow.com/homedetails/5313-W-Raymond-St-Phoenix-AZ-85043/67788825_zpid/
+1140418,21895366,"11601 W Poinsettia Dr, El Mirage, AZ 85335 ",85335,158000,80341.1875,-0.4915,0.5352,1098.5,https://www.zillow.com/homedetails/11601-W-Poinsettia-Dr-El-Mirage-AZ-85335/59277980_zpid/
+501545,22080380,"7823 W Palm Ln, Phoenix, AZ 85035 ",85035,165000,81819.1953,-0.5041,0.5352,1445.5,https://www.zillow.com/homedetails/7823-W-Palm-Ln-Phoenix-AZ-85035/95136297_zpid/
+921192,21973306,"22639 W Tonto St, Buckeye, AZ 85326 ",85326,155000,54894.6797,-0.6458,0.5352,2543.5,https://www.zillow.com/homedetails/22639-W-Tonto-St-Buckeye-AZ-85326/81990995_zpid/
+1158809,21897068,"14812 N El Frio St, El Mirage, AZ 85335 ",85335,174900,71021.7578,-0.5939,0.5352,2788.5,https://www.zillow.com/homedetails/14812-N-El-Frio-St-El-Mirage-AZ-85335/71609102_zpid/
+927870,21974002,"23870 W Twilight Trl, Buckeye, AZ 85326 ",85326,174000,69438.5391,-0.6009,0.5352,2835.5,https://www.zillow.com/homedetails/23870-W-Twilight-Trl-Buckeye-AZ-85326/61631270_zpid/
+935720,22168028,"25768 W Pleasant Ln, Buckeye, AZ 85326 ",85326,159900,49074.4961,-0.6931,0.5352,3182.5,https://www.zillow.com/homedetails/25768-W-Pleasant-Ln-Buckeye-AZ-85326/81994172_zpid/
+1485090,22027283,"20051 N Coyote Lakes Pkwy, Surprise, AZ 85378 ",85378,165000,123344.8125,-0.2525,0.5352,143.5,https://www.zillow.com/homedetails/20051-N-Coyote-Lakes-Pkwy-Surprise-AZ-85378/8318853_zpid/
+1848353,21929232,"15491 W Maui Ln, Surprise, AZ 85379 ",85379,175000,125572.5234,-0.2824,0.5352,229.5,https://www.zillow.com/homedetails/15491-W-Maui-Ln-Surprise-AZ-85379/55286216_zpid/
+1145331,22260940,"12229 W Larkspur Rd, El Mirage, AZ 85335 ",85335,150000,93850.0781,-0.3743,0.5352,314.5,https://www.zillow.com/homedetails/12229-W-Larkspur-Rd-El-Mirage-AZ-85335/29618318_zpid/
+447369,22075810,"8308 W Sheridan St, Phoenix, AZ 85037 ",85037,176000,108412.9531,-0.384,0.5352,621.5,https://www.zillow.com/homedetails/8308-W-Sheridan-St-Phoenix-AZ-85037/81967429_zpid/
+199079,22240825,"5621 S 5th Dr, Phoenix, AZ 85041 ",85041,169000,98072.5703,-0.4197,0.5352,752.5,https://www.zillow.com/homedetails/5621-S-5th-Dr-Phoenix-AZ-85041/55333628_zpid/
+345909,22262250,"5313 W Raymond St, Phoenix, AZ 85043 ",85043,150000,76021.6562,-0.4932,0.5352,897.5,https://www.zillow.com/homedetails/5313-W-Raymond-St-Phoenix-AZ-85043/67788825_zpid/
+1140418,21895366,"11601 W Poinsettia Dr, El Mirage, AZ 85335 ",85335,158000,80341.1875,-0.4915,0.5352,1098.5,https://www.zillow.com/homedetails/11601-W-Poinsettia-Dr-El-Mirage-AZ-85335/59277980_zpid/
+501545,22080380,"7823 W Palm Ln, Phoenix, AZ 85035 ",85035,165000,81819.1953,-0.5041,0.5352,1445.5,https://www.zillow.com/homedetails/7823-W-Palm-Ln-Phoenix-AZ-85035/95136297_zpid/
+921192,21973306,"22639 W Tonto St, Buckeye, AZ 85326 ",85326,155000,54894.6797,-0.6458,0.5352,2543.5,https://www.zillow.com/homedetails/22639-W-Tonto-St-Buckeye-AZ-85326/81990995_zpid/
+1158809,21897068,"14812 N El Frio St, El Mirage, AZ 85335 ",85335,174900,71021.7578,-0.5939,0.5352,2788.5,https://www.zillow.com/homedetails/14812-N-El-Frio-St-El-Mirage-AZ-85335/71609102_zpid/
+927870,21974002,"23870 W Twilight Trl, Buckeye, AZ 85326 ",85326,174000,69438.5391,-0.6009,0.5352,2835.5,https://www.zillow.com/homedetails/23870-W-Twilight-Trl-Buckeye-AZ-85326/61631270_zpid/
+935720,22168028,"25768 W Pleasant Ln, Buckeye, AZ 85326 ",85326,159900,49074.4961,-0.6931,0.5352,3182.5,https://www.zillow.com/homedetails/25768-W-Pleasant-Ln-Buckeye-AZ-85326/81994172_zpid/
+1485090,22027283,"20051 N Coyote Lakes Pkwy, Surprise, AZ 85378 ",85378,165000,123344.8125,-0.2525,0.5352,143.5,https://www.zillow.com/homedetails/20051-N-Coyote-Lakes-Pkwy-Surprise-AZ-85378/8318853_zpid/
+1848353,21929232,"15491 W Maui Ln, Surprise, AZ 85379 ",85379,175000,125572.5234,-0.2824,0.5352,229.5,https://www.zillow.com/homedetails/15491-W-Maui-Ln-Surprise-AZ-85379/55286216_zpid/
+1145331,22260940,"12229 W Larkspur Rd, El Mirage, AZ 85335 ",85335,150000,93850.0781,-0.3743,0.5352,314.5,https://www.zillow.com/homedetails/12229-W-Larkspur-Rd-El-Mirage-AZ-85335/29618318_zpid/
+447369,22075810,"8308 W Sheridan St, Phoenix, AZ 85037 ",85037,176000,108412.9531,-0.384,0.5352,621.5,https://www.zillow.com/homedetails/8308-W-Sheridan-St-Phoenix-AZ-85037/81967429_zpid/
+199079,22240825,"5621 S 5th Dr, Phoenix, AZ 85041 ",85041,169000,98072.5703,-0.4197,0.5352,752.5,https://www.zillow.com/homedetails/5621-S-5th-Dr-Phoenix-AZ-85041/55333628_zpid/
+345909,22262250,"5313 W Raymond St, Phoenix, AZ 85043 ",85043,150000,76021.6562,-0.4932,0.5352,897.5,https://www.zillow.com/homedetails/5313-W-Raymond-St-Phoenix-AZ-85043/67788825_zpid/
+1140418,21895366,"11601 W Poinsettia Dr, El Mirage, AZ 85335 ",85335,158000,80341.1875,-0.4915,0.5352,1098.5,https://www.zillow.com/homedetails/11601-W-Poinsettia-Dr-El-Mirage-AZ-85335/59277980_zpid/
+501545,22080380,"7823 W Palm Ln, Phoenix, AZ 85035 ",85035,165000,81819.1953,-0.5041,0.5352,1445.5,https://www.zillow.com/homedetails/7823-W-Palm-Ln-Phoenix-AZ-85035/95136297_zpid/
+921192,21973306,"22639 W Tonto St, Buckeye, AZ 85326 ",85326,155000,54894.6797,-0.6458,0.5352,2543.5,https://www.zillow.com/homedetails/22639-W-Tonto-St-Buckeye-AZ-85326/81990995_zpid/
+1158809,21897068,"14812 N El Frio St, El Mirage, AZ 85335 ",85335,174900,71021.7578,-0.5939,0.5352,2788.5,https://www.zillow.com/homedetails/14812-N-El-Frio-St-El-Mirage-AZ-85335/71609102_zpid/
+927870,21974002,"23870 W Twilight Trl, Buckeye, AZ 85326 ",85326,174000,69438.5391,-0.6009,0.5352,2835.5,https://www.zillow.com/homedetails/23870-W-Twilight-Trl-Buckeye-AZ-85326/61631270_zpid/
+935720,22168028,"25768 W Pleasant Ln, Buckeye, AZ 85326 ",85326,159900,49074.4961,-0.6931,0.5352,3182.5,https://www.zillow.com/homedetails/25768-W-Pleasant-Ln-Buckeye-AZ-85326/81994172_zpid/
+1485090,22027283,"20051 N Coyote Lakes Pkwy, Surprise, AZ 85378 ",85378,165000,123344.8125,-0.2525,0.5352,143.5,https://www.zillow.com/homedetails/20051-N-Coyote-Lakes-Pkwy-Surprise-AZ-85378/8318853_zpid/
+1848353,21929232,"15491 W Maui Ln, Surprise, AZ 85379 ",85379,175000,125572.5234,-0.2824,0.5352,229.5,https://www.zillow.com/homedetails/15491-W-Maui-Ln-Surprise-AZ-85379/55286216_zpid/
+1145331,22260940,"12229 W Larkspur Rd, El Mirage, AZ 85335 ",85335,150000,93850.0781,-0.3743,0.5352,314.5,https://www.zillow.com/homedetails/12229-W-Larkspur-Rd-El-Mirage-AZ-85335/29618318_zpid/
+447369,22075810,"8308 W Sheridan St, Phoenix, AZ 85037 ",85037,176000,108412.9531,-0.384,0.5352,621.5,https://www.zillow.com/homedetails/8308-W-Sheridan-St-Phoenix-AZ-85037/81967429_zpid/
+199079,22240825,"5621 S 5th Dr, Phoenix, AZ 85041 ",85041,169000,98072.5703,-0.4197,0.5352,752.5,https://www.zillow.com/homedetails/5621-S-5th-Dr-Phoenix-AZ-85041/55333628_zpid/
+345909,22262250,"5313 W Raymond St, Phoenix, AZ 85043 ",85043,150000,76021.6562,-0.4932,0.5352,897.5,https://www.zillow.com/homedetails/5313-W-Raymond-St-Phoenix-AZ-85043/67788825_zpid/
+1140418,21895366,"11601 W Poinsettia Dr, El Mirage, AZ 85335 ",85335,158000,80341.1875,-0.4915,0.5352,1098.5,https://www.zillow.com/homedetails/11601-W-Poinsettia-Dr-El-Mirage-AZ-85335/59277980_zpid/
+501545,22080380,"7823 W Palm Ln, Phoenix, AZ 85035 ",85035,165000,81819.1953,-0.5041,0.5352,1445.5,https://www.zillow.com/homedetails/7823-W-Palm-Ln-Phoenix-AZ-85035/95136297_zpid/
+921192,21973306,"22639 W Tonto St, Buckeye, AZ 85326 ",85326,155000,54894.6797,-0.6458,0.5352,2543.5,https://www.zillow.com/homedetails/22639-W-Tonto-St-Buckeye-AZ-85326/81990995_zpid/
+1158809,21897068,"14812 N El Frio St, El Mirage, AZ 85335 ",85335,174900,71021.7578,-0.5939,0.5352,2788.5,https://www.zillow.com/homedetails/14812-N-El-Frio-St-El-Mirage-AZ-85335/71609102_zpid/
+927870,21974002,"23870 W Twilight Trl, Buckeye, AZ 85326 ",85326,174000,69438.5391,-0.6009,0.5352,2835.5,https://www.zillow.com/homedetails/23870-W-Twilight-Trl-Buckeye-AZ-85326/61631270_zpid/
+935720,22168028,"25768 W Pleasant Ln, Buckeye, AZ 85326 ",85326,159900,49074.4961,-0.6931,0.5352,3182.5,https://www.zillow.com/homedetails/25768-W-Pleasant-Ln-Buckeye-AZ-85326/81994172_zpid/
+1485090,22027283,"20051 N Coyote Lakes Pkwy, Surprise, AZ 85378 ",85378,165000,123344.8125,-0.2525,0.5352,143.5,https://www.zillow.com/homedetails/20051-N-Coyote-Lakes-Pkwy-Surprise-AZ-85378/8318853_zpid/
+1848353,21929232,"15491 W Maui Ln, Surprise, AZ 85379 ",85379,175000,125572.5234,-0.2824,0.5352,229.5,https://www.zillow.com/homedetails/15491-W-Maui-Ln-Surprise-AZ-85379/55286216_zpid/
+1145331,22260940,"12229 W Larkspur Rd, El Mirage, AZ 85335 ",85335,150000,93850.0781,-0.3743,0.5352,314.5,https://www.zillow.com/homedetails/12229-W-Larkspur-Rd-El-Mirage-AZ-85335/29618318_zpid/
+447369,22075810,"8308 W Sheridan St, Phoenix, AZ 85037 ",85037,176000,108412.9531,-0.384,0.5352,621.5,https://www.zillow.com/homedetails/8308-W-Sheridan-St-Phoenix-AZ-85037/81967429_zpid/
+199079,22240825,"5621 S 5th Dr, Phoenix, AZ 85041 ",85041,169000,98072.5703,-0.4197,0.5352,752.5,https://www.zillow.com/homedetails/5621-S-5th-Dr-Phoenix-AZ-85041/55333628_zpid/
+345909,22262250,"5313 W Raymond St, Phoenix, AZ 85043 ",85043,150000,76021.6562,-0.4932,0.5352,897.5,https://www.zillow.com/homedetails/5313-W-Raymond-St-Phoenix-AZ-85043/67788825_zpid/
+1140418,21895366,"11601 W Poinsettia Dr, El Mirage, AZ 85335 ",85335,158000,80341.1875,-0.4915,0.5352,1098.5,https://www.zillow.com/homedetails/11601-W-Poinsettia-Dr-El-Mirage-AZ-85335/59277980_zpid/
+501545,22080380,"7823 W Palm Ln, Phoenix, AZ 85035 ",85035,165000,81819.1953,-0.5041,0.5352,1445.5,https://www.zillow.com/homedetails/7823-W-Palm-Ln-Phoenix-AZ-85035/95136297_zpid/
+921192,21973306,"22639 W Tonto St, Buckeye, AZ 85326 ",85326,155000,54894.6797,-0.6458,0.5352,2543.5,https://www.zillow.com/homedetails/22639-W-Tonto-St-Buckeye-AZ-85326/81990995_zpid/
+1158809,21897068,"14812 N El Frio St, El Mirage, AZ 85335 ",85335,174900,71021.7578,-0.5939,0.5352,2788.5,https://www.zillow.com/homedetails/14812-N-El-Frio-St-El-Mirage-AZ-85335/71609102_zpid/
+927870,21974002,"23870 W Twilight Trl, Buckeye, AZ 85326 ",85326,174000,69438.5391,-0.6009,0.5352,2835.5,https://www.zillow.com/homedetails/23870-W-Twilight-Trl-Buckeye-AZ-85326/61631270_zpid/
+935720,22168028,"25768 W Pleasant Ln, Buckeye, AZ 85326 ",85326,159900,49074.4961,-0.6931,0.5352,3182.5,https://www.zillow.com/homedetails/25768-W-Pleasant-Ln-Buckeye-AZ-85326/81994172_zpid/
+1485090,22027283,"20051 N Coyote Lakes Pkwy, Surprise, AZ 85378 ",85378,165000,123344.8125,-0.2525,0.5352,143.5,https://www.zillow.com/homedetails/20051-N-Coyote-Lakes-Pkwy-Surprise-AZ-85378/8318853_zpid/
+1848353,21929232,"15491 W Maui Ln, Surprise, AZ 85379 ",85379,175000,125572.5234,-0.2824,0.5352,229.5,https://www.zillow.com/homedetails/15491-W-Maui-Ln-Surprise-AZ-85379/55286216_zpid/
+1145331,22260940,"12229 W Larkspur Rd, El Mirage, AZ 85335 ",85335,150000,93850.0781,-0.3743,0.5352,314.5,https://www.zillow.com/homedetails/12229-W-Larkspur-Rd-El-Mirage-AZ-85335/29618318_zpid/
+447369,22075810,"8308 W Sheridan St, Phoenix, AZ 85037 ",85037,176000,108412.9531,-0.384,0.5352,621.5,https://www.zillow.com/homedetails/8308-W-Sheridan-St-Phoenix-AZ-85037/81967429_zpid/
+199079,22240825,"5621 S 5th Dr, Phoenix, AZ 85041 ",85041,169000,98072.5703,-0.4197,0.5352,752.5,https://www.zillow.com/homedetails/5621-S-5th-Dr-Phoenix-AZ-85041/55333628_zpid/
+345909,22262250,"5313 W Raymond St, Phoenix, AZ 85043 ",85043,150000,76021.6562,-0.4932,0.5352,897.5,https://www.zillow.com/homedetails/5313-W-Raymond-St-Phoenix-AZ-85043/67788825_zpid/
+1140418,21895366,"11601 W Poinsettia Dr, El Mirage, AZ 85335 ",85335,158000,80341.1875,-0.4915,0.5352,1098.5,https://www.zillow.com/homedetails/11601-W-Poinsettia-Dr-El-Mirage-AZ-85335/59277980_zpid/
+501545,22080380,"7823 W Palm Ln, Phoenix, AZ 85035 ",85035,165000,81819.1953,-0.5041,0.5352,1445.5,https://www.zillow.com/homedetails/7823-W-Palm-Ln-Phoenix-AZ-85035/95136297_zpid/
+921192,21973306,"22639 W Tonto St, Buckeye, AZ 85326 ",85326,155000,54894.6797,-0.6458,0.5352,2543.5,https://www.zillow.com/homedetails/22639-W-Tonto-St-Buckeye-AZ-85326/81990995_zpid/
+1158809,21897068,"14812 N El Frio St, El Mirage, AZ 85335 ",85335,174900,71021.7578,-0.5939,0.5352,2788.5,https://www.zillow.com/homedetails/14812-N-El-Frio-St-El-Mirage-AZ-85335/71609102_zpid/
+927870,21974002,"23870 W Twilight Trl, Buckeye, AZ 85326 ",85326,174000,69438.5391,-0.6009,0.5352,2835.5,https://www.zillow.com/homedetails/23870-W-Twilight-Trl-Buckeye-AZ-85326/61631270_zpid/
+935720,22168028,"25768 W Pleasant Ln, Buckeye, AZ 85326 ",85326,159900,49074.4961,-0.6931,0.5352,3182.5,https://www.zillow.com/homedetails/25768-W-Pleasant-Ln-Buckeye-AZ-85326/81994172_zpid/
+1485090,22027283,"20051 N Coyote Lakes Pkwy, Surprise, AZ 85378 ",85378,165000,123344.8125,-0.2525,0.5352,143.5,https://www.zillow.com/homedetails/20051-N-Coyote-Lakes-Pkwy-Surprise-AZ-85378/8318853_zpid/
+1848353,21929232,"15491 W Maui Ln, Surprise, AZ 85379 ",85379,175000,125572.5234,-0.2824,0.5352,229.5,https://www.zillow.com/homedetails/15491-W-Maui-Ln-Surprise-AZ-85379/55286216_zpid/
+1145331,22260940,"12229 W Larkspur Rd, El Mirage, AZ 85335 ",85335,150000,93850.0781,-0.3743,0.5352,314.5,https://www.zillow.com/homedetails/12229-W-Larkspur-Rd-El-Mirage-AZ-85335/29618318_zpid/
+447369,22075810,"8308 W Sheridan St, Phoenix, AZ 85037 ",85037,176000,108412.9531,-0.384,0.5352,621.5,https://www.zillow.com/homedetails/8308-W-Sheridan-St-Phoenix-AZ-85037/81967429_zpid/
+199079,22240825,"5621 S 5th Dr, Phoenix, AZ 85041 ",85041,169000,98072.5703,-0.4197,0.5352,752.5,https://www.zillow.com/homedetails/5621-S-5th-Dr-Phoenix-AZ-85041/55333628_zpid/
+345909,22262250,"5313 W Raymond St, Phoenix, AZ 85043 ",85043,150000,76021.6562,-0.4932,0.5352,897.5,https://www.zillow.com/homedetails/5313-W-Raymond-St-Phoenix-AZ-85043/67788825_zpid/
+1140418,21895366,"11601 W Poinsettia Dr, El Mirage, AZ 85335 ",85335,158000,80341.1875,-0.4915,0.5352,1098.5,https://www.zillow.com/homedetails/11601-W-Poinsettia-Dr-El-Mirage-AZ-85335/59277980_zpid/
+501545,22080380,"7823 W Palm Ln, Phoenix, AZ 85035 ",85035,165000,81819.1953,-0.5041,0.5352,1445.5,https://www.zillow.com/homedetails/7823-W-Palm-Ln-Phoenix-AZ-85035/95136297_zpid/
+921192,21973306,"22639 W Tonto St, Buckeye, AZ 85326 ",85326,155000,54894.6797,-0.6458,0.5352,2543.5,https://www.zillow.com/homedetails/22639-W-Tonto-St-Buckeye-AZ-85326/81990995_zpid/
+1158809,21897068,"14812 N El Frio St, El Mirage, AZ 85335 ",85335,174900,71021.7578,-0.5939,0.5352,2788.5,https://www.zillow.com/homedetails/14812-N-El-Frio-St-El-Mirage-AZ-85335/71609102_zpid/
+927870,21974002,"23870 W Twilight Trl, Buckeye, AZ 85326 ",85326,174000,69438.5391,-0.6009,0.5352,2835.5,https://www.zillow.com/homedetails/23870-W-Twilight-Trl-Buckeye-AZ-85326/61631270_zpid/
+935720,22168028,"25768 W Pleasant Ln, Buckeye, AZ 85326 ",85326,159900,49074.4961,-0.6931,0.5352,3182.5,https://www.zillow.com/homedetails/25768-W-Pleasant-Ln-Buckeye-AZ-85326/81994172_zpid/
+1485090,22027283,"20051 N Coyote Lakes Pkwy, Surprise, AZ 85378 ",85378,165000,123344.8125,-0.2525,0.5352,143.5,https://www.zillow.com/homedetails/20051-N-Coyote-Lakes-Pkwy-Surprise-AZ-85378/8318853_zpid/
+1848353,21929232,"15491 W Maui Ln, Surprise, AZ 85379 ",85379,175000,125572.5234,-0.2824,0.5352,229.5,https://www.zillow.com/homedetails/15491-W-Maui-Ln-Surprise-AZ-85379/55286216_zpid/
+1145331,22260940,"12229 W Larkspur Rd, El Mirage, AZ 85335 ",85335,150000,93850.0781,-0.3743,0.5352,314.5,https://www.zillow.com/homedetails/12229-W-Larkspur-Rd-El-Mirage-AZ-85335/29618318_zpid/
+447369,22075810,"8308 W Sheridan St, Phoenix, AZ 85037 ",85037,176000,108412.9531,-0.384,0.5352,621.5,https://www.zillow.com/homedetails/8308-W-Sheridan-St-Phoenix-AZ-85037/81967429_zpid/
+199079,22240825,"5621 S 5th Dr, Phoenix, AZ 85041 ",85041,169000,98072.5703,-0.4197,0.5352,752.5,https://www.zillow.com/homedetails/5621-S-5th-Dr-Phoenix-AZ-85041/55333628_zpid/
+345909,22262250,"5313 W Raymond St, Phoenix, AZ 85043 ",85043,150000,76021.6562,-0.4932,0.5352,897.5,https://www.zillow.com/homedetails/5313-W-Raymond-St-Phoenix-AZ-85043/67788825_zpid/
+1140418,21895366,"11601 W Poinsettia Dr, El Mirage, AZ 85335 ",85335,158000,80341.1875,-0.4915,0.5352,1098.5,https://www.zillow.com/homedetails/11601-W-Poinsettia-Dr-El-Mirage-AZ-85335/59277980_zpid/
+501545,22080380,"7823 W Palm Ln, Phoenix, AZ 85035 ",85035,165000,81819.1953,-0.5041,0.5352,1445.5,https://www.zillow.com/homedetails/7823-W-Palm-Ln-Phoenix-AZ-85035/95136297_zpid/
+921192,21973306,"22639 W Tonto St, Buckeye, AZ 85326 ",85326,155000,54894.6797,-0.6458,0.5352,2543.5,https://www.zillow.com/homedetails/22639-W-Tonto-St-Buckeye-AZ-85326/81990995_zpid/
+1158809,21897068,"14812 N El Frio St, El Mirage, AZ 85335 ",85335,174900,71021.7578,-0.5939,0.5352,2788.5,https://www.zillow.com/homedetails/14812-N-El-Frio-St-El-Mirage-AZ-85335/71609102_zpid/
+927870,21974002,"23870 W Twilight Trl, Buckeye, AZ 85326 ",85326,174000,69438.5391,-0.6009,0.5352,2835.5,https://www.zillow.com/homedetails/23870-W-Twilight-Trl-Buckeye-AZ-85326/61631270_zpid/
+935720,22168028,"25768 W Pleasant Ln, Buckeye, AZ 85326 ",85326,159900,49074.4961,-0.6931,0.5352,3182.5,https://www.zillow.com/homedetails/25768-W-Pleasant-Ln-Buckeye-AZ-85326/81994172_zpid/
+1485090,22027283,"20051 N Coyote Lakes Pkwy, Surprise, AZ 85378 ",85378,165000,123344.8125,-0.2525,0.5352,143.5,https://www.zillow.com/homedetails/20051-N-Coyote-Lakes-Pkwy-Surprise-AZ-85378/8318853_zpid/
+1848353,21929232,"15491 W Maui Ln, Surprise, AZ 85379 ",85379,175000,125572.5234,-0.2824,0.5352,229.5,https://www.zillow.com/homedetails/15491-W-Maui-Ln-Surprise-AZ-85379/55286216_zpid/
+1145331,22260940,"12229 W Larkspur Rd, El Mirage, AZ 85335 ",85335,150000,93850.0781,-0.3743,0.5352,314.5,https://www.zillow.com/homedetails/12229-W-Larkspur-Rd-El-Mirage-AZ-85335/29618318_zpid/
+447369,22075810,"8308 W Sheridan St, Phoenix, AZ 85037 ",85037,176000,108412.9531,-0.384,0.5352,621.5,https://www.zillow.com/homedetails/8308-W-Sheridan-St-Phoenix-AZ-85037/81967429_zpid/
+199079,22240825,"5621 S 5th Dr, Phoenix, AZ 85041 ",85041,169000,98072.5703,-0.4197,0.5352,752.5,https://www.zillow.com/homedetails/5621-S-5th-Dr-Phoenix-AZ-85041/55333628_zpid/
+345909,22262250,"5313 W Raymond St, Phoenix, AZ 85043 ",85043,150000,76021.6562,-0.4932,0.5352,897.5,https://www.zillow.com/homedetails/5313-W-Raymond-St-Phoenix-AZ-85043/67788825_zpid/
+1140418,21895366,"11601 W Poinsettia Dr, El Mirage, AZ 85335 ",85335,158000,80341.1875,-0.4915,0.5352,1098.5,https://www.zillow.com/homedetails/11601-W-Poinsettia-Dr-El-Mirage-AZ-85335/59277980_zpid/
+501545,22080380,"7823 W Palm Ln, Phoenix, AZ 85035 ",85035,165000,81819.1953,-0.5041,0.5352,1445.5,https://www.zillow.com/homedetails/7823-W-Palm-Ln-Phoenix-AZ-85035/95136297_zpid/
+921192,21973306,"22639 W Tonto St, Buckeye, AZ 85326 ",85326,155000,54894.6797,-0.6458,0.5352,2543.5,https://www.zillow.com/homedetails/22639-W-Tonto-St-Buckeye-AZ-85326/81990995_zpid/
+1158809,21897068,"14812 N El Frio St, El Mirage, AZ 85335 ",85335,174900,71021.7578,-0.5939,0.5352,2788.5,https://www.zillow.com/homedetails/14812-N-El-Frio-St-El-Mirage-AZ-85335/71609102_zpid/
+927870,21974002,"23870 W Twilight Trl, Buckeye, AZ 85326 ",85326,174000,69438.5391,-0.6009,0.5352,2835.5,https://www.zillow.com/homedetails/23870-W-Twilight-Trl-Buckeye-AZ-85326/61631270_zpid/
+935720,22168028,"25768 W Pleasant Ln, Buckeye, AZ 85326 ",85326,159900,49074.4961,-0.6931,0.5352,3182.5,https://www.zillow.com/homedetails/25768-W-Pleasant-Ln-Buckeye-AZ-85326/81994172_zpid/

@@ -1,0 +1,81 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+8962799,22186363,"9937 E Empress Ave, Mesa, AZ 85208 ",85208,207900,89792.7188,-0.5681,0.5304,3964.0,https://www.zillow.com/homedetails/9937-E-Empress-Ave-Mesa-AZ-85208/71621505_zpid/
+678798,22105596,"8425 E Milagro Cir, Mesa, AZ 85209 ",85209,233000,134491.0312,-0.4228,0.5302,2571.5,https://www.zillow.com/homedetails/8425-E-Milagro-Cir-Mesa-AZ-85209/52434474_zpid/
+1485090,22027283,"20051 N Coyote Lakes Pkwy, Surprise, AZ 85378 ",85378,165000,111325.2109,-0.3253,0.5297,320.0,https://www.zillow.com/homedetails/20051-N-Coyote-Lakes-Pkwy-Surprise-AZ-85378/8318853_zpid/
+1848353,21929232,"15491 W Maui Ln, Surprise, AZ 85379 ",85379,175000,118620.8984,-0.3222,0.5297,370.0,https://www.zillow.com/homedetails/15491-W-Maui-Ln-Surprise-AZ-85379/55286216_zpid/
+1145331,22260940,"12229 W Larkspur Rd, El Mirage, AZ 85335 ",85335,150000,88463.1797,-0.4102,0.5297,468.0,https://www.zillow.com/homedetails/12229-W-Larkspur-Rd-El-Mirage-AZ-85335/29618318_zpid/
+1140418,21895366,"11601 W Poinsettia Dr, El Mirage, AZ 85335 ",85335,158000,70501.4688,-0.5538,0.5297,1767.0,https://www.zillow.com/homedetails/11601-W-Poinsettia-Dr-El-Mirage-AZ-85335/59277980_zpid/
+1147980,21956913,"12477 W Via Camille, El Mirage, AZ 85335 ",85335,169000,76738.3906,-0.5459,0.5297,2104.0,https://www.zillow.com/homedetails/12477-W-Via-Camille-El-Mirage-AZ-85335/60999747_zpid/
+1492957,21994968,"17523 W Ventura St, Surprise, AZ 85388 ",85388,175000,75864.2656,-0.5665,0.5297,2621.0,https://www.zillow.com/homedetails/17523-W-Ventura-St-Surprise-AZ-85388/60995928_zpid/
+1158809,21897068,"14812 N El Frio St, El Mirage, AZ 85335 ",85335,174900,60510.1055,-0.654,0.5297,3766.0,https://www.zillow.com/homedetails/14812-N-El-Frio-St-El-Mirage-AZ-85335/71609102_zpid/
+1485090,22027283,"20051 N Coyote Lakes Pkwy, Surprise, AZ 85378 ",85378,165000,111325.2109,-0.3253,0.5297,320.0,https://www.zillow.com/homedetails/20051-N-Coyote-Lakes-Pkwy-Surprise-AZ-85378/8318853_zpid/
+1848353,21929232,"15491 W Maui Ln, Surprise, AZ 85379 ",85379,175000,118620.8984,-0.3222,0.5297,370.0,https://www.zillow.com/homedetails/15491-W-Maui-Ln-Surprise-AZ-85379/55286216_zpid/
+1145331,22260940,"12229 W Larkspur Rd, El Mirage, AZ 85335 ",85335,150000,88463.1797,-0.4102,0.5297,468.0,https://www.zillow.com/homedetails/12229-W-Larkspur-Rd-El-Mirage-AZ-85335/29618318_zpid/
+1140418,21895366,"11601 W Poinsettia Dr, El Mirage, AZ 85335 ",85335,158000,70501.4688,-0.5538,0.5297,1767.0,https://www.zillow.com/homedetails/11601-W-Poinsettia-Dr-El-Mirage-AZ-85335/59277980_zpid/
+1147980,21956913,"12477 W Via Camille, El Mirage, AZ 85335 ",85335,169000,76738.3906,-0.5459,0.5297,2104.0,https://www.zillow.com/homedetails/12477-W-Via-Camille-El-Mirage-AZ-85335/60999747_zpid/
+1492957,21994968,"17523 W Ventura St, Surprise, AZ 85388 ",85388,175000,75864.2656,-0.5665,0.5297,2621.0,https://www.zillow.com/homedetails/17523-W-Ventura-St-Surprise-AZ-85388/60995928_zpid/
+1158809,21897068,"14812 N El Frio St, El Mirage, AZ 85335 ",85335,174900,60510.1055,-0.654,0.5297,3766.0,https://www.zillow.com/homedetails/14812-N-El-Frio-St-El-Mirage-AZ-85335/71609102_zpid/
+1485090,22027283,"20051 N Coyote Lakes Pkwy, Surprise, AZ 85378 ",85378,165000,111325.2109,-0.3253,0.5297,320.0,https://www.zillow.com/homedetails/20051-N-Coyote-Lakes-Pkwy-Surprise-AZ-85378/8318853_zpid/
+1848353,21929232,"15491 W Maui Ln, Surprise, AZ 85379 ",85379,175000,118620.8984,-0.3222,0.5297,370.0,https://www.zillow.com/homedetails/15491-W-Maui-Ln-Surprise-AZ-85379/55286216_zpid/
+1145331,22260940,"12229 W Larkspur Rd, El Mirage, AZ 85335 ",85335,150000,88463.1797,-0.4102,0.5297,468.0,https://www.zillow.com/homedetails/12229-W-Larkspur-Rd-El-Mirage-AZ-85335/29618318_zpid/
+1140418,21895366,"11601 W Poinsettia Dr, El Mirage, AZ 85335 ",85335,158000,70501.4688,-0.5538,0.5297,1767.0,https://www.zillow.com/homedetails/11601-W-Poinsettia-Dr-El-Mirage-AZ-85335/59277980_zpid/
+1147980,21956913,"12477 W Via Camille, El Mirage, AZ 85335 ",85335,169000,76738.3906,-0.5459,0.5297,2104.0,https://www.zillow.com/homedetails/12477-W-Via-Camille-El-Mirage-AZ-85335/60999747_zpid/
+1492957,21994968,"17523 W Ventura St, Surprise, AZ 85388 ",85388,175000,75864.2656,-0.5665,0.5297,2621.0,https://www.zillow.com/homedetails/17523-W-Ventura-St-Surprise-AZ-85388/60995928_zpid/
+1158809,21897068,"14812 N El Frio St, El Mirage, AZ 85335 ",85335,174900,60510.1055,-0.654,0.5297,3766.0,https://www.zillow.com/homedetails/14812-N-El-Frio-St-El-Mirage-AZ-85335/71609102_zpid/
+1485090,22027283,"20051 N Coyote Lakes Pkwy, Surprise, AZ 85378 ",85378,165000,111325.2109,-0.3253,0.5297,320.0,https://www.zillow.com/homedetails/20051-N-Coyote-Lakes-Pkwy-Surprise-AZ-85378/8318853_zpid/
+1848353,21929232,"15491 W Maui Ln, Surprise, AZ 85379 ",85379,175000,118620.8984,-0.3222,0.5297,370.0,https://www.zillow.com/homedetails/15491-W-Maui-Ln-Surprise-AZ-85379/55286216_zpid/
+1145331,22260940,"12229 W Larkspur Rd, El Mirage, AZ 85335 ",85335,150000,88463.1797,-0.4102,0.5297,468.0,https://www.zillow.com/homedetails/12229-W-Larkspur-Rd-El-Mirage-AZ-85335/29618318_zpid/
+1140418,21895366,"11601 W Poinsettia Dr, El Mirage, AZ 85335 ",85335,158000,70501.4688,-0.5538,0.5297,1767.0,https://www.zillow.com/homedetails/11601-W-Poinsettia-Dr-El-Mirage-AZ-85335/59277980_zpid/
+1147980,21956913,"12477 W Via Camille, El Mirage, AZ 85335 ",85335,169000,76738.3906,-0.5459,0.5297,2104.0,https://www.zillow.com/homedetails/12477-W-Via-Camille-El-Mirage-AZ-85335/60999747_zpid/
+1492957,21994968,"17523 W Ventura St, Surprise, AZ 85388 ",85388,175000,75864.2656,-0.5665,0.5297,2621.0,https://www.zillow.com/homedetails/17523-W-Ventura-St-Surprise-AZ-85388/60995928_zpid/
+1158809,21897068,"14812 N El Frio St, El Mirage, AZ 85335 ",85335,174900,60510.1055,-0.654,0.5297,3766.0,https://www.zillow.com/homedetails/14812-N-El-Frio-St-El-Mirage-AZ-85335/71609102_zpid/
+1485090,22027283,"20051 N Coyote Lakes Pkwy, Surprise, AZ 85378 ",85378,165000,111325.2109,-0.3253,0.5297,320.0,https://www.zillow.com/homedetails/20051-N-Coyote-Lakes-Pkwy-Surprise-AZ-85378/8318853_zpid/
+1848353,21929232,"15491 W Maui Ln, Surprise, AZ 85379 ",85379,175000,118620.8984,-0.3222,0.5297,370.0,https://www.zillow.com/homedetails/15491-W-Maui-Ln-Surprise-AZ-85379/55286216_zpid/
+1145331,22260940,"12229 W Larkspur Rd, El Mirage, AZ 85335 ",85335,150000,88463.1797,-0.4102,0.5297,468.0,https://www.zillow.com/homedetails/12229-W-Larkspur-Rd-El-Mirage-AZ-85335/29618318_zpid/
+1140418,21895366,"11601 W Poinsettia Dr, El Mirage, AZ 85335 ",85335,158000,70501.4688,-0.5538,0.5297,1767.0,https://www.zillow.com/homedetails/11601-W-Poinsettia-Dr-El-Mirage-AZ-85335/59277980_zpid/
+1147980,21956913,"12477 W Via Camille, El Mirage, AZ 85335 ",85335,169000,76738.3906,-0.5459,0.5297,2104.0,https://www.zillow.com/homedetails/12477-W-Via-Camille-El-Mirage-AZ-85335/60999747_zpid/
+1492957,21994968,"17523 W Ventura St, Surprise, AZ 85388 ",85388,175000,75864.2656,-0.5665,0.5297,2621.0,https://www.zillow.com/homedetails/17523-W-Ventura-St-Surprise-AZ-85388/60995928_zpid/
+1158809,21897068,"14812 N El Frio St, El Mirage, AZ 85335 ",85335,174900,60510.1055,-0.654,0.5297,3766.0,https://www.zillow.com/homedetails/14812-N-El-Frio-St-El-Mirage-AZ-85335/71609102_zpid/
+1485090,22027283,"20051 N Coyote Lakes Pkwy, Surprise, AZ 85378 ",85378,165000,111325.2109,-0.3253,0.5297,320.0,https://www.zillow.com/homedetails/20051-N-Coyote-Lakes-Pkwy-Surprise-AZ-85378/8318853_zpid/
+1848353,21929232,"15491 W Maui Ln, Surprise, AZ 85379 ",85379,175000,118620.8984,-0.3222,0.5297,370.0,https://www.zillow.com/homedetails/15491-W-Maui-Ln-Surprise-AZ-85379/55286216_zpid/
+1145331,22260940,"12229 W Larkspur Rd, El Mirage, AZ 85335 ",85335,150000,88463.1797,-0.4102,0.5297,468.0,https://www.zillow.com/homedetails/12229-W-Larkspur-Rd-El-Mirage-AZ-85335/29618318_zpid/
+1140418,21895366,"11601 W Poinsettia Dr, El Mirage, AZ 85335 ",85335,158000,70501.4688,-0.5538,0.5297,1767.0,https://www.zillow.com/homedetails/11601-W-Poinsettia-Dr-El-Mirage-AZ-85335/59277980_zpid/
+1147980,21956913,"12477 W Via Camille, El Mirage, AZ 85335 ",85335,169000,76738.3906,-0.5459,0.5297,2104.0,https://www.zillow.com/homedetails/12477-W-Via-Camille-El-Mirage-AZ-85335/60999747_zpid/
+1492957,21994968,"17523 W Ventura St, Surprise, AZ 85388 ",85388,175000,75864.2656,-0.5665,0.5297,2621.0,https://www.zillow.com/homedetails/17523-W-Ventura-St-Surprise-AZ-85388/60995928_zpid/
+1158809,21897068,"14812 N El Frio St, El Mirage, AZ 85335 ",85335,174900,60510.1055,-0.654,0.5297,3766.0,https://www.zillow.com/homedetails/14812-N-El-Frio-St-El-Mirage-AZ-85335/71609102_zpid/
+1485090,22027283,"20051 N Coyote Lakes Pkwy, Surprise, AZ 85378 ",85378,165000,111325.2109,-0.3253,0.5297,320.0,https://www.zillow.com/homedetails/20051-N-Coyote-Lakes-Pkwy-Surprise-AZ-85378/8318853_zpid/
+1848353,21929232,"15491 W Maui Ln, Surprise, AZ 85379 ",85379,175000,118620.8984,-0.3222,0.5297,370.0,https://www.zillow.com/homedetails/15491-W-Maui-Ln-Surprise-AZ-85379/55286216_zpid/
+1145331,22260940,"12229 W Larkspur Rd, El Mirage, AZ 85335 ",85335,150000,88463.1797,-0.4102,0.5297,468.0,https://www.zillow.com/homedetails/12229-W-Larkspur-Rd-El-Mirage-AZ-85335/29618318_zpid/
+1140418,21895366,"11601 W Poinsettia Dr, El Mirage, AZ 85335 ",85335,158000,70501.4688,-0.5538,0.5297,1767.0,https://www.zillow.com/homedetails/11601-W-Poinsettia-Dr-El-Mirage-AZ-85335/59277980_zpid/
+1147980,21956913,"12477 W Via Camille, El Mirage, AZ 85335 ",85335,169000,76738.3906,-0.5459,0.5297,2104.0,https://www.zillow.com/homedetails/12477-W-Via-Camille-El-Mirage-AZ-85335/60999747_zpid/
+1492957,21994968,"17523 W Ventura St, Surprise, AZ 85388 ",85388,175000,75864.2656,-0.5665,0.5297,2621.0,https://www.zillow.com/homedetails/17523-W-Ventura-St-Surprise-AZ-85388/60995928_zpid/
+1158809,21897068,"14812 N El Frio St, El Mirage, AZ 85335 ",85335,174900,60510.1055,-0.654,0.5297,3766.0,https://www.zillow.com/homedetails/14812-N-El-Frio-St-El-Mirage-AZ-85335/71609102_zpid/
+1283610,22127829,"2332 E Stottler Dr, Gilbert, AZ 85296 ",85296,217000,116206.8516,-0.4645,0.5297,2764.0,https://www.zillow.com/homedetails/2332-E-Stottler-Dr-Gilbert-AZ-85296/8242019_zpid/
+679977,22099519,"8545 E Desert Ln, Mesa, AZ 85209 ",85209,223900,113073.2969,-0.495,0.5297,3533.0,https://www.zillow.com/homedetails/8545-E-Desert-Ln-Mesa-AZ-85209/55275145_zpid/
+8945782,22071727,"5219 E Florian Ave, Mesa, AZ 85206 ",85206,213900,121608.1016,-0.4315,0.5296,2114.0,https://www.zillow.com/homedetails/5219-E-Florian-Ave-Mesa-AZ-85206/50187102_zpid/
+8962791,21938665,"325 S Aaron, Mesa, AZ 85208 ",85208,190000,86744.9922,-0.5434,0.5296,2969.0,https://www.zillow.com/homedetails/325-S-Aaron-Mesa-AZ-85208/81989888_zpid/
+2043003,22101262,"1163 W Argon St, Mesa, AZ 85201 ",85201,238900,128510.0625,-0.4621,0.5296,3503.0,http://www.zillow.com/homedetails/1163-W-Argon-St-Mesa-AZ-85201/95176902_zpid/
+8945782,22071727,"5219 E Florian Ave, Mesa, AZ 85206 ",85206,213900,121608.1016,-0.4315,0.5296,2114.0,https://www.zillow.com/homedetails/5219-E-Florian-Ave-Mesa-AZ-85206/50187102_zpid/
+8962791,21938665,"325 S Aaron, Mesa, AZ 85208 ",85208,190000,86744.9922,-0.5434,0.5296,2969.0,https://www.zillow.com/homedetails/325-S-Aaron-Mesa-AZ-85208/81989888_zpid/
+2043003,22101262,"1163 W Argon St, Mesa, AZ 85201 ",85201,238900,128510.0625,-0.4621,0.5296,3503.0,http://www.zillow.com/homedetails/1163-W-Argon-St-Mesa-AZ-85201/95176902_zpid/
+8945782,22071727,"5219 E Florian Ave, Mesa, AZ 85206 ",85206,213900,121608.1016,-0.4315,0.5296,2114.0,https://www.zillow.com/homedetails/5219-E-Florian-Ave-Mesa-AZ-85206/50187102_zpid/
+8962791,21938665,"325 S Aaron, Mesa, AZ 85208 ",85208,190000,86744.9922,-0.5434,0.5296,2969.0,https://www.zillow.com/homedetails/325-S-Aaron-Mesa-AZ-85208/81989888_zpid/
+2043003,22101262,"1163 W Argon St, Mesa, AZ 85201 ",85201,238900,128510.0625,-0.4621,0.5296,3503.0,http://www.zillow.com/homedetails/1163-W-Argon-St-Mesa-AZ-85201/95176902_zpid/
+66572,21972157,"2075 E Stottler Ct, Gilbert, AZ 85296 ",85296,235000,132734.3438,-0.4352,0.5292,2892.0,https://www.zillow.com/homedetails/2075-E-Stottler-Ct-Gilbert-AZ-85296/8242188_zpid/
+8958678,22240727,"11035 E Wier Ave, Mesa, AZ 85208 ",85208,209900,112262.0703,-0.4652,0.529,2530.5,https://www.zillow.com/homedetails/11035-E-Wier-Ave-Mesa-AZ-85208/50192777_zpid/
+565089,22016727,"10032 E Isleta Ave, Mesa, AZ 85209 ",85209,195500,87737.0,-0.5512,0.529,3312.5,https://www.zillow.com/homedetails/10032-E-Isleta-Ave-Mesa-AZ-85209/71551707_zpid/
+653716,21819836,"1309 S Loomis, Mesa, AZ 85209 ",85209,194750,82032.6406,-0.5788,0.529,3661.5,https://www.zillow.com/homedetails/1309-S-Loomis-Mesa-AZ-85209/58732660_zpid/
+685105,22228617,"9717 E Jerome Ave, Mesa, AZ 85209 ",85209,230000,110650.7734,-0.5189,0.529,4036.5,https://www.zillow.com/homedetails/9717-E-Jerome-Ave-Mesa-AZ-85209/8090797_zpid/
+8958678,22240727,"11035 E Wier Ave, Mesa, AZ 85208 ",85208,209900,112262.0703,-0.4652,0.529,2530.5,https://www.zillow.com/homedetails/11035-E-Wier-Ave-Mesa-AZ-85208/50192777_zpid/
+565089,22016727,"10032 E Isleta Ave, Mesa, AZ 85209 ",85209,195500,87737.0,-0.5512,0.529,3312.5,https://www.zillow.com/homedetails/10032-E-Isleta-Ave-Mesa-AZ-85209/71551707_zpid/
+653716,21819836,"1309 S Loomis, Mesa, AZ 85209 ",85209,194750,82032.6406,-0.5788,0.529,3661.5,https://www.zillow.com/homedetails/1309-S-Loomis-Mesa-AZ-85209/58732660_zpid/
+685105,22228617,"9717 E Jerome Ave, Mesa, AZ 85209 ",85209,230000,110650.7734,-0.5189,0.529,4036.5,https://www.zillow.com/homedetails/9717-E-Jerome-Ave-Mesa-AZ-85209/8090797_zpid/
+8958678,22240727,"11035 E Wier Ave, Mesa, AZ 85208 ",85208,209900,112262.0703,-0.4652,0.529,2530.5,https://www.zillow.com/homedetails/11035-E-Wier-Ave-Mesa-AZ-85208/50192777_zpid/
+565089,22016727,"10032 E Isleta Ave, Mesa, AZ 85209 ",85209,195500,87737.0,-0.5512,0.529,3312.5,https://www.zillow.com/homedetails/10032-E-Isleta-Ave-Mesa-AZ-85209/71551707_zpid/
+653716,21819836,"1309 S Loomis, Mesa, AZ 85209 ",85209,194750,82032.6406,-0.5788,0.529,3661.5,https://www.zillow.com/homedetails/1309-S-Loomis-Mesa-AZ-85209/58732660_zpid/
+685105,22228617,"9717 E Jerome Ave, Mesa, AZ 85209 ",85209,230000,110650.7734,-0.5189,0.529,4036.5,https://www.zillow.com/homedetails/9717-E-Jerome-Ave-Mesa-AZ-85209/8090797_zpid/
+8958678,22240727,"11035 E Wier Ave, Mesa, AZ 85208 ",85208,209900,112262.0703,-0.4652,0.529,2530.5,https://www.zillow.com/homedetails/11035-E-Wier-Ave-Mesa-AZ-85208/50192777_zpid/
+565089,22016727,"10032 E Isleta Ave, Mesa, AZ 85209 ",85209,195500,87737.0,-0.5512,0.529,3312.5,https://www.zillow.com/homedetails/10032-E-Isleta-Ave-Mesa-AZ-85209/71551707_zpid/
+653716,21819836,"1309 S Loomis, Mesa, AZ 85209 ",85209,194750,82032.6406,-0.5788,0.529,3661.5,https://www.zillow.com/homedetails/1309-S-Loomis-Mesa-AZ-85209/58732660_zpid/
+685105,22228617,"9717 E Jerome Ave, Mesa, AZ 85209 ",85209,230000,110650.7734,-0.5189,0.529,4036.5,https://www.zillow.com/homedetails/9717-E-Jerome-Ave-Mesa-AZ-85209/8090797_zpid/
+864709,21966577,"12018 W Hopi St, Avondale, AZ 85323 ",85323,195000,90705.5547,-0.5348,0.5288,3046.0,https://www.zillow.com/homedetails/12018-W-Hopi-St-Avondale-AZ-85323/55283019_zpid/

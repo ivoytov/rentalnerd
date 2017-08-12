@@ -1,0 +1,105 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+41669,22399528,"6334 W Miami St, Phoenix, AZ 85043 ",85043,229900,89847.2188,-0.6092,0.5174,4232.0,https://www.zillow.com/homedetails/6334-W-Miami-St-Phoenix-AZ-85043/52699356_zpid/
+346815,22404134,"5631 W Jones Ave, Phoenix, AZ 85043 ",85043,215000,60322.6055,-0.7194,0.5174,4402.0,https://www.zillow.com/homedetails/5631-W-Jones-Ave-Phoenix-AZ-85043/71601685_zpid/
+41171,22404170,"5634 W Wood St, Phoenix, AZ 85043 ",85043,225000,56527.3008,-0.7488,0.5174,4460.0,https://www.zillow.com/homedetails/5634-W-Wood-St-Phoenix-AZ-85043/71601657_zpid/
+41669,22399528,"6334 W Miami St, Phoenix, AZ 85043 ",85043,229900,89847.2188,-0.6092,0.5174,4232.0,https://www.zillow.com/homedetails/6334-W-Miami-St-Phoenix-AZ-85043/52699356_zpid/
+346815,22404134,"5631 W Jones Ave, Phoenix, AZ 85043 ",85043,215000,60322.6055,-0.7194,0.5174,4402.0,https://www.zillow.com/homedetails/5631-W-Jones-Ave-Phoenix-AZ-85043/71601685_zpid/
+41171,22404170,"5634 W Wood St, Phoenix, AZ 85043 ",85043,225000,56527.3008,-0.7488,0.5174,4460.0,https://www.zillow.com/homedetails/5634-W-Wood-St-Phoenix-AZ-85043/71601657_zpid/
+41669,22399528,"6334 W Miami St, Phoenix, AZ 85043 ",85043,229900,89847.2188,-0.6092,0.5174,4232.0,https://www.zillow.com/homedetails/6334-W-Miami-St-Phoenix-AZ-85043/52699356_zpid/
+346815,22404134,"5631 W Jones Ave, Phoenix, AZ 85043 ",85043,215000,60322.6055,-0.7194,0.5174,4402.0,https://www.zillow.com/homedetails/5631-W-Jones-Ave-Phoenix-AZ-85043/71601685_zpid/
+41171,22404170,"5634 W Wood St, Phoenix, AZ 85043 ",85043,225000,56527.3008,-0.7488,0.5174,4460.0,https://www.zillow.com/homedetails/5634-W-Wood-St-Phoenix-AZ-85043/71601657_zpid/
+896109,21972222,"209 N 110th Dr, Avondale, AZ 85323 ",85323,235900,86796.0781,-0.6321,0.5173,4366.0,https://www.zillow.com/homedetails/209-N-110th-Dr-Avondale-AZ-85323/71611987_zpid/
+767973,22038544,"6215 E Decatur St, Mesa, AZ 85205 ",85205,227900,145085.4844,-0.3634,0.5169,1269.0,https://www.zillow.com/homedetails/6215-E-Decatur-St-Mesa-AZ-85205/7667920_zpid/
+344901,22031695,"4016 S 56th Ave, Phoenix, AZ 85043 ",85043,224900,54537.0117,-0.7575,0.5169,4471.0,https://www.zillow.com/homedetails/4016-S-56th-Ave-Phoenix-AZ-85043/71601620_zpid/
+352545,22429773,"7124 W Southgate Ave, Phoenix, AZ 85043 ",85043,240000,108599.4062,-0.5475,0.5167,4006.0,https://www.zillow.com/homedetails/7124-W-Southgate-Ave-Phoenix-AZ-85043/95156190_zpid/
+42871,22361547,"7130 W Globe Ave, Phoenix, AZ 85043 ",85043,248900,108363.9766,-0.5646,0.5167,4256.0,https://www.zillow.com/homedetails/7130-W-Globe-Ave-Phoenix-AZ-85043/81951182_zpid/
+44022,22429760,"8226 W Miami St, Phoenix, AZ 85043 ",85043,242000,99917.3516,-0.5871,0.5167,4278.0,https://www.zillow.com/homedetails/8226-W-Miami-St-Phoenix-AZ-85043/67764595_zpid/
+352545,22429773,"7124 W Southgate Ave, Phoenix, AZ 85043 ",85043,240000,108599.4062,-0.5475,0.5167,4006.0,https://www.zillow.com/homedetails/7124-W-Southgate-Ave-Phoenix-AZ-85043/95156190_zpid/
+42871,22361547,"7130 W Globe Ave, Phoenix, AZ 85043 ",85043,248900,108363.9766,-0.5646,0.5167,4256.0,https://www.zillow.com/homedetails/7130-W-Globe-Ave-Phoenix-AZ-85043/81951182_zpid/
+44022,22429760,"8226 W Miami St, Phoenix, AZ 85043 ",85043,242000,99917.3516,-0.5871,0.5167,4278.0,https://www.zillow.com/homedetails/8226-W-Miami-St-Phoenix-AZ-85043/67764595_zpid/
+352545,22429773,"7124 W Southgate Ave, Phoenix, AZ 85043 ",85043,240000,108599.4062,-0.5475,0.5167,4006.0,https://www.zillow.com/homedetails/7124-W-Southgate-Ave-Phoenix-AZ-85043/95156190_zpid/
+42871,22361547,"7130 W Globe Ave, Phoenix, AZ 85043 ",85043,248900,108363.9766,-0.5646,0.5167,4256.0,https://www.zillow.com/homedetails/7130-W-Globe-Ave-Phoenix-AZ-85043/81951182_zpid/
+44022,22429760,"8226 W Miami St, Phoenix, AZ 85043 ",85043,242000,99917.3516,-0.5871,0.5167,4278.0,https://www.zillow.com/homedetails/8226-W-Miami-St-Phoenix-AZ-85043/67764595_zpid/
+8955871,21959396,"6929 W Sophie Ln, Laveen, AZ 85339 ",85339,249800,109625.7812,-0.5611,0.5165,4243.0,https://www.zillow.com/homedetails/6929-W-Sophie-Ln-Laveen-AZ-85339/81981174_zpid/
+7485224,21957925,"4830 W Donner Dr, Laveen, AZ 85339 ",85339,224900,91027.2031,-0.5953,0.516,4082.0,https://www.zillow.com/homedetails/4830-W-Donner-Dr-Laveen-AZ-85339/81954212_zpid/
+1414927,21990557,"7413 N 67th Dr, Glendale, AZ 85303 ",85303,219900,136017.9844,-0.3815,0.5157,1354.0,https://www.zillow.com/homedetails/7413-N-67th-Dr-Glendale-AZ-85303/7705033_zpid/
+1406908,22468508,"6810 N 77th Ave, Glendale, AZ 85303 ",85303,224999,137114.7812,-0.3906,0.5157,1625.0,https://www.zillow.com/homedetails/6810-N-77th-Ave-Glendale-AZ-85303/7463194_zpid/
+1409763,22318217,"7010 W Cactus Wren Dr, Glendale, AZ 85303 ",85303,218500,126618.7109,-0.4205,0.5157,1922.0,https://www.zillow.com/homedetails/7010-W-Cactus-Wren-Dr-Glendale-AZ-85303/55260460_zpid/
+1406312,22271258,"6747 N 75th Dr, Glendale, AZ 85303 ",85303,229900,136019.3906,-0.4084,0.5157,2074.0,https://www.zillow.com/homedetails/6747-N-75th-Dr-Glendale-AZ-85303/7463223_zpid/
+43053,22040818,"7226 W Superior Ave, Phoenix, AZ 85043 ",85043,208000,108958.8672,-0.4762,0.5157,2460.0,https://www.zillow.com/homedetails/7226-W-Superior-Ave-Phoenix-AZ-85043/67788591_zpid/
+40390,22029849,"3216 S 81st Dr, Phoenix, AZ 85043 ",85043,223900,122631.6484,-0.4523,0.5157,2626.0,https://www.zillow.com/homedetails/3216-S-81st-Dr-Phoenix-AZ-85043/60975397_zpid/
+1415648,22318220,"7555 W Krall St, Glendale, AZ 85303 ",85303,240000,132043.6719,-0.4498,0.5157,3029.0,https://www.zillow.com/homedetails/7555-W-Krall-St-Glendale-AZ-85303/7463220_zpid/
+352934,22260417,"7230 W Kingman St, Phoenix, AZ 85043 ",85043,219900,111394.9609,-0.4934,0.5157,3056.0,https://www.zillow.com/homedetails/7230-W-Kingman-St-Phoenix-AZ-85043/67700006_zpid/
+8969588,22280000,"8226 W Wood Ln, Phoenix, AZ 85043 ",85043,233900,116477.3203,-0.502,0.5157,3508.0,https://www.zillow.com/homedetails/8226-W-Wood-Ln-Phoenix-AZ-85043/95090421_zpid/
+1414927,21990557,"7413 N 67th Dr, Glendale, AZ 85303 ",85303,219900,136017.9844,-0.3815,0.5157,1354.0,https://www.zillow.com/homedetails/7413-N-67th-Dr-Glendale-AZ-85303/7705033_zpid/
+1406908,22468508,"6810 N 77th Ave, Glendale, AZ 85303 ",85303,224999,137114.7812,-0.3906,0.5157,1625.0,https://www.zillow.com/homedetails/6810-N-77th-Ave-Glendale-AZ-85303/7463194_zpid/
+1409763,22318217,"7010 W Cactus Wren Dr, Glendale, AZ 85303 ",85303,218500,126618.7109,-0.4205,0.5157,1922.0,https://www.zillow.com/homedetails/7010-W-Cactus-Wren-Dr-Glendale-AZ-85303/55260460_zpid/
+1406312,22271258,"6747 N 75th Dr, Glendale, AZ 85303 ",85303,229900,136019.3906,-0.4084,0.5157,2074.0,https://www.zillow.com/homedetails/6747-N-75th-Dr-Glendale-AZ-85303/7463223_zpid/
+43053,22040818,"7226 W Superior Ave, Phoenix, AZ 85043 ",85043,208000,108958.8672,-0.4762,0.5157,2460.0,https://www.zillow.com/homedetails/7226-W-Superior-Ave-Phoenix-AZ-85043/67788591_zpid/
+40390,22029849,"3216 S 81st Dr, Phoenix, AZ 85043 ",85043,223900,122631.6484,-0.4523,0.5157,2626.0,https://www.zillow.com/homedetails/3216-S-81st-Dr-Phoenix-AZ-85043/60975397_zpid/
+1415648,22318220,"7555 W Krall St, Glendale, AZ 85303 ",85303,240000,132043.6719,-0.4498,0.5157,3029.0,https://www.zillow.com/homedetails/7555-W-Krall-St-Glendale-AZ-85303/7463220_zpid/
+352934,22260417,"7230 W Kingman St, Phoenix, AZ 85043 ",85043,219900,111394.9609,-0.4934,0.5157,3056.0,https://www.zillow.com/homedetails/7230-W-Kingman-St-Phoenix-AZ-85043/67700006_zpid/
+8969588,22280000,"8226 W Wood Ln, Phoenix, AZ 85043 ",85043,233900,116477.3203,-0.502,0.5157,3508.0,https://www.zillow.com/homedetails/8226-W-Wood-Ln-Phoenix-AZ-85043/95090421_zpid/
+1414927,21990557,"7413 N 67th Dr, Glendale, AZ 85303 ",85303,219900,136017.9844,-0.3815,0.5157,1354.0,https://www.zillow.com/homedetails/7413-N-67th-Dr-Glendale-AZ-85303/7705033_zpid/
+1406908,22468508,"6810 N 77th Ave, Glendale, AZ 85303 ",85303,224999,137114.7812,-0.3906,0.5157,1625.0,https://www.zillow.com/homedetails/6810-N-77th-Ave-Glendale-AZ-85303/7463194_zpid/
+1409763,22318217,"7010 W Cactus Wren Dr, Glendale, AZ 85303 ",85303,218500,126618.7109,-0.4205,0.5157,1922.0,https://www.zillow.com/homedetails/7010-W-Cactus-Wren-Dr-Glendale-AZ-85303/55260460_zpid/
+1406312,22271258,"6747 N 75th Dr, Glendale, AZ 85303 ",85303,229900,136019.3906,-0.4084,0.5157,2074.0,https://www.zillow.com/homedetails/6747-N-75th-Dr-Glendale-AZ-85303/7463223_zpid/
+43053,22040818,"7226 W Superior Ave, Phoenix, AZ 85043 ",85043,208000,108958.8672,-0.4762,0.5157,2460.0,https://www.zillow.com/homedetails/7226-W-Superior-Ave-Phoenix-AZ-85043/67788591_zpid/
+40390,22029849,"3216 S 81st Dr, Phoenix, AZ 85043 ",85043,223900,122631.6484,-0.4523,0.5157,2626.0,https://www.zillow.com/homedetails/3216-S-81st-Dr-Phoenix-AZ-85043/60975397_zpid/
+1415648,22318220,"7555 W Krall St, Glendale, AZ 85303 ",85303,240000,132043.6719,-0.4498,0.5157,3029.0,https://www.zillow.com/homedetails/7555-W-Krall-St-Glendale-AZ-85303/7463220_zpid/
+352934,22260417,"7230 W Kingman St, Phoenix, AZ 85043 ",85043,219900,111394.9609,-0.4934,0.5157,3056.0,https://www.zillow.com/homedetails/7230-W-Kingman-St-Phoenix-AZ-85043/67700006_zpid/
+8969588,22280000,"8226 W Wood Ln, Phoenix, AZ 85043 ",85043,233900,116477.3203,-0.502,0.5157,3508.0,https://www.zillow.com/homedetails/8226-W-Wood-Ln-Phoenix-AZ-85043/95090421_zpid/
+1414927,21990557,"7413 N 67th Dr, Glendale, AZ 85303 ",85303,219900,136017.9844,-0.3815,0.5157,1354.0,https://www.zillow.com/homedetails/7413-N-67th-Dr-Glendale-AZ-85303/7705033_zpid/
+1406908,22468508,"6810 N 77th Ave, Glendale, AZ 85303 ",85303,224999,137114.7812,-0.3906,0.5157,1625.0,https://www.zillow.com/homedetails/6810-N-77th-Ave-Glendale-AZ-85303/7463194_zpid/
+1409763,22318217,"7010 W Cactus Wren Dr, Glendale, AZ 85303 ",85303,218500,126618.7109,-0.4205,0.5157,1922.0,https://www.zillow.com/homedetails/7010-W-Cactus-Wren-Dr-Glendale-AZ-85303/55260460_zpid/
+1406312,22271258,"6747 N 75th Dr, Glendale, AZ 85303 ",85303,229900,136019.3906,-0.4084,0.5157,2074.0,https://www.zillow.com/homedetails/6747-N-75th-Dr-Glendale-AZ-85303/7463223_zpid/
+43053,22040818,"7226 W Superior Ave, Phoenix, AZ 85043 ",85043,208000,108958.8672,-0.4762,0.5157,2460.0,https://www.zillow.com/homedetails/7226-W-Superior-Ave-Phoenix-AZ-85043/67788591_zpid/
+40390,22029849,"3216 S 81st Dr, Phoenix, AZ 85043 ",85043,223900,122631.6484,-0.4523,0.5157,2626.0,https://www.zillow.com/homedetails/3216-S-81st-Dr-Phoenix-AZ-85043/60975397_zpid/
+1415648,22318220,"7555 W Krall St, Glendale, AZ 85303 ",85303,240000,132043.6719,-0.4498,0.5157,3029.0,https://www.zillow.com/homedetails/7555-W-Krall-St-Glendale-AZ-85303/7463220_zpid/
+352934,22260417,"7230 W Kingman St, Phoenix, AZ 85043 ",85043,219900,111394.9609,-0.4934,0.5157,3056.0,https://www.zillow.com/homedetails/7230-W-Kingman-St-Phoenix-AZ-85043/67700006_zpid/
+8969588,22280000,"8226 W Wood Ln, Phoenix, AZ 85043 ",85043,233900,116477.3203,-0.502,0.5157,3508.0,https://www.zillow.com/homedetails/8226-W-Wood-Ln-Phoenix-AZ-85043/95090421_zpid/
+1414927,21990557,"7413 N 67th Dr, Glendale, AZ 85303 ",85303,219900,136017.9844,-0.3815,0.5157,1354.0,https://www.zillow.com/homedetails/7413-N-67th-Dr-Glendale-AZ-85303/7705033_zpid/
+1406908,22468508,"6810 N 77th Ave, Glendale, AZ 85303 ",85303,224999,137114.7812,-0.3906,0.5157,1625.0,https://www.zillow.com/homedetails/6810-N-77th-Ave-Glendale-AZ-85303/7463194_zpid/
+1409763,22318217,"7010 W Cactus Wren Dr, Glendale, AZ 85303 ",85303,218500,126618.7109,-0.4205,0.5157,1922.0,https://www.zillow.com/homedetails/7010-W-Cactus-Wren-Dr-Glendale-AZ-85303/55260460_zpid/
+1406312,22271258,"6747 N 75th Dr, Glendale, AZ 85303 ",85303,229900,136019.3906,-0.4084,0.5157,2074.0,https://www.zillow.com/homedetails/6747-N-75th-Dr-Glendale-AZ-85303/7463223_zpid/
+43053,22040818,"7226 W Superior Ave, Phoenix, AZ 85043 ",85043,208000,108958.8672,-0.4762,0.5157,2460.0,https://www.zillow.com/homedetails/7226-W-Superior-Ave-Phoenix-AZ-85043/67788591_zpid/
+40390,22029849,"3216 S 81st Dr, Phoenix, AZ 85043 ",85043,223900,122631.6484,-0.4523,0.5157,2626.0,https://www.zillow.com/homedetails/3216-S-81st-Dr-Phoenix-AZ-85043/60975397_zpid/
+1415648,22318220,"7555 W Krall St, Glendale, AZ 85303 ",85303,240000,132043.6719,-0.4498,0.5157,3029.0,https://www.zillow.com/homedetails/7555-W-Krall-St-Glendale-AZ-85303/7463220_zpid/
+352934,22260417,"7230 W Kingman St, Phoenix, AZ 85043 ",85043,219900,111394.9609,-0.4934,0.5157,3056.0,https://www.zillow.com/homedetails/7230-W-Kingman-St-Phoenix-AZ-85043/67700006_zpid/
+8969588,22280000,"8226 W Wood Ln, Phoenix, AZ 85043 ",85043,233900,116477.3203,-0.502,0.5157,3508.0,https://www.zillow.com/homedetails/8226-W-Wood-Ln-Phoenix-AZ-85043/95090421_zpid/
+1414927,21990557,"7413 N 67th Dr, Glendale, AZ 85303 ",85303,219900,136017.9844,-0.3815,0.5157,1354.0,https://www.zillow.com/homedetails/7413-N-67th-Dr-Glendale-AZ-85303/7705033_zpid/
+1406908,22468508,"6810 N 77th Ave, Glendale, AZ 85303 ",85303,224999,137114.7812,-0.3906,0.5157,1625.0,https://www.zillow.com/homedetails/6810-N-77th-Ave-Glendale-AZ-85303/7463194_zpid/
+1409763,22318217,"7010 W Cactus Wren Dr, Glendale, AZ 85303 ",85303,218500,126618.7109,-0.4205,0.5157,1922.0,https://www.zillow.com/homedetails/7010-W-Cactus-Wren-Dr-Glendale-AZ-85303/55260460_zpid/
+1406312,22271258,"6747 N 75th Dr, Glendale, AZ 85303 ",85303,229900,136019.3906,-0.4084,0.5157,2074.0,https://www.zillow.com/homedetails/6747-N-75th-Dr-Glendale-AZ-85303/7463223_zpid/
+43053,22040818,"7226 W Superior Ave, Phoenix, AZ 85043 ",85043,208000,108958.8672,-0.4762,0.5157,2460.0,https://www.zillow.com/homedetails/7226-W-Superior-Ave-Phoenix-AZ-85043/67788591_zpid/
+40390,22029849,"3216 S 81st Dr, Phoenix, AZ 85043 ",85043,223900,122631.6484,-0.4523,0.5157,2626.0,https://www.zillow.com/homedetails/3216-S-81st-Dr-Phoenix-AZ-85043/60975397_zpid/
+1415648,22318220,"7555 W Krall St, Glendale, AZ 85303 ",85303,240000,132043.6719,-0.4498,0.5157,3029.0,https://www.zillow.com/homedetails/7555-W-Krall-St-Glendale-AZ-85303/7463220_zpid/
+352934,22260417,"7230 W Kingman St, Phoenix, AZ 85043 ",85043,219900,111394.9609,-0.4934,0.5157,3056.0,https://www.zillow.com/homedetails/7230-W-Kingman-St-Phoenix-AZ-85043/67700006_zpid/
+8969588,22280000,"8226 W Wood Ln, Phoenix, AZ 85043 ",85043,233900,116477.3203,-0.502,0.5157,3508.0,https://www.zillow.com/homedetails/8226-W-Wood-Ln-Phoenix-AZ-85043/95090421_zpid/
+1414927,21990557,"7413 N 67th Dr, Glendale, AZ 85303 ",85303,219900,136017.9844,-0.3815,0.5157,1354.0,https://www.zillow.com/homedetails/7413-N-67th-Dr-Glendale-AZ-85303/7705033_zpid/
+1406908,22468508,"6810 N 77th Ave, Glendale, AZ 85303 ",85303,224999,137114.7812,-0.3906,0.5157,1625.0,https://www.zillow.com/homedetails/6810-N-77th-Ave-Glendale-AZ-85303/7463194_zpid/
+1409763,22318217,"7010 W Cactus Wren Dr, Glendale, AZ 85303 ",85303,218500,126618.7109,-0.4205,0.5157,1922.0,https://www.zillow.com/homedetails/7010-W-Cactus-Wren-Dr-Glendale-AZ-85303/55260460_zpid/
+1406312,22271258,"6747 N 75th Dr, Glendale, AZ 85303 ",85303,229900,136019.3906,-0.4084,0.5157,2074.0,https://www.zillow.com/homedetails/6747-N-75th-Dr-Glendale-AZ-85303/7463223_zpid/
+43053,22040818,"7226 W Superior Ave, Phoenix, AZ 85043 ",85043,208000,108958.8672,-0.4762,0.5157,2460.0,https://www.zillow.com/homedetails/7226-W-Superior-Ave-Phoenix-AZ-85043/67788591_zpid/
+40390,22029849,"3216 S 81st Dr, Phoenix, AZ 85043 ",85043,223900,122631.6484,-0.4523,0.5157,2626.0,https://www.zillow.com/homedetails/3216-S-81st-Dr-Phoenix-AZ-85043/60975397_zpid/
+1415648,22318220,"7555 W Krall St, Glendale, AZ 85303 ",85303,240000,132043.6719,-0.4498,0.5157,3029.0,https://www.zillow.com/homedetails/7555-W-Krall-St-Glendale-AZ-85303/7463220_zpid/
+352934,22260417,"7230 W Kingman St, Phoenix, AZ 85043 ",85043,219900,111394.9609,-0.4934,0.5157,3056.0,https://www.zillow.com/homedetails/7230-W-Kingman-St-Phoenix-AZ-85043/67700006_zpid/
+8969588,22280000,"8226 W Wood Ln, Phoenix, AZ 85043 ",85043,233900,116477.3203,-0.502,0.5157,3508.0,https://www.zillow.com/homedetails/8226-W-Wood-Ln-Phoenix-AZ-85043/95090421_zpid/
+1414927,21990557,"7413 N 67th Dr, Glendale, AZ 85303 ",85303,219900,136017.9844,-0.3815,0.5157,1354.0,https://www.zillow.com/homedetails/7413-N-67th-Dr-Glendale-AZ-85303/7705033_zpid/
+1406908,22468508,"6810 N 77th Ave, Glendale, AZ 85303 ",85303,224999,137114.7812,-0.3906,0.5157,1625.0,https://www.zillow.com/homedetails/6810-N-77th-Ave-Glendale-AZ-85303/7463194_zpid/
+1409763,22318217,"7010 W Cactus Wren Dr, Glendale, AZ 85303 ",85303,218500,126618.7109,-0.4205,0.5157,1922.0,https://www.zillow.com/homedetails/7010-W-Cactus-Wren-Dr-Glendale-AZ-85303/55260460_zpid/
+1406312,22271258,"6747 N 75th Dr, Glendale, AZ 85303 ",85303,229900,136019.3906,-0.4084,0.5157,2074.0,https://www.zillow.com/homedetails/6747-N-75th-Dr-Glendale-AZ-85303/7463223_zpid/
+43053,22040818,"7226 W Superior Ave, Phoenix, AZ 85043 ",85043,208000,108958.8672,-0.4762,0.5157,2460.0,https://www.zillow.com/homedetails/7226-W-Superior-Ave-Phoenix-AZ-85043/67788591_zpid/
+40390,22029849,"3216 S 81st Dr, Phoenix, AZ 85043 ",85043,223900,122631.6484,-0.4523,0.5157,2626.0,https://www.zillow.com/homedetails/3216-S-81st-Dr-Phoenix-AZ-85043/60975397_zpid/
+1415648,22318220,"7555 W Krall St, Glendale, AZ 85303 ",85303,240000,132043.6719,-0.4498,0.5157,3029.0,https://www.zillow.com/homedetails/7555-W-Krall-St-Glendale-AZ-85303/7463220_zpid/
+352934,22260417,"7230 W Kingman St, Phoenix, AZ 85043 ",85043,219900,111394.9609,-0.4934,0.5157,3056.0,https://www.zillow.com/homedetails/7230-W-Kingman-St-Phoenix-AZ-85043/67700006_zpid/
+8969588,22280000,"8226 W Wood Ln, Phoenix, AZ 85043 ",85043,233900,116477.3203,-0.502,0.5157,3508.0,https://www.zillow.com/homedetails/8226-W-Wood-Ln-Phoenix-AZ-85043/95090421_zpid/
+1414927,21990557,"7413 N 67th Dr, Glendale, AZ 85303 ",85303,219900,136017.9844,-0.3815,0.5157,1354.0,https://www.zillow.com/homedetails/7413-N-67th-Dr-Glendale-AZ-85303/7705033_zpid/
+1406908,22468508,"6810 N 77th Ave, Glendale, AZ 85303 ",85303,224999,137114.7812,-0.3906,0.5157,1625.0,https://www.zillow.com/homedetails/6810-N-77th-Ave-Glendale-AZ-85303/7463194_zpid/
+1409763,22318217,"7010 W Cactus Wren Dr, Glendale, AZ 85303 ",85303,218500,126618.7109,-0.4205,0.5157,1922.0,https://www.zillow.com/homedetails/7010-W-Cactus-Wren-Dr-Glendale-AZ-85303/55260460_zpid/
+1406312,22271258,"6747 N 75th Dr, Glendale, AZ 85303 ",85303,229900,136019.3906,-0.4084,0.5157,2074.0,https://www.zillow.com/homedetails/6747-N-75th-Dr-Glendale-AZ-85303/7463223_zpid/
+43053,22040818,"7226 W Superior Ave, Phoenix, AZ 85043 ",85043,208000,108958.8672,-0.4762,0.5157,2460.0,https://www.zillow.com/homedetails/7226-W-Superior-Ave-Phoenix-AZ-85043/67788591_zpid/
+40390,22029849,"3216 S 81st Dr, Phoenix, AZ 85043 ",85043,223900,122631.6484,-0.4523,0.5157,2626.0,https://www.zillow.com/homedetails/3216-S-81st-Dr-Phoenix-AZ-85043/60975397_zpid/
+1415648,22318220,"7555 W Krall St, Glendale, AZ 85303 ",85303,240000,132043.6719,-0.4498,0.5157,3029.0,https://www.zillow.com/homedetails/7555-W-Krall-St-Glendale-AZ-85303/7463220_zpid/
+352934,22260417,"7230 W Kingman St, Phoenix, AZ 85043 ",85043,219900,111394.9609,-0.4934,0.5157,3056.0,https://www.zillow.com/homedetails/7230-W-Kingman-St-Phoenix-AZ-85043/67700006_zpid/
+8969588,22280000,"8226 W Wood Ln, Phoenix, AZ 85043 ",85043,233900,116477.3203,-0.502,0.5157,3508.0,https://www.zillow.com/homedetails/8226-W-Wood-Ln-Phoenix-AZ-85043/95090421_zpid/

@@ -1,0 +1,86 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+101769,21159555,"2950 W Gold Dust Ave, Queen Creek, AZ 85142 ",85142,219900,60580.8438,-0.7245,0.5261,4343.5,http://www.zillow.com/homedetails/2950-W-Gold-Dust-Ave-Queen-Creek-AZ-85142/82253439_zpid/
+1852740,21254438,"4003 W Kirkland Ave, Queen Creek, AZ 85142 ",85142,239500,76394.3516,-0.681,0.5261,4383.5,http://www.zillow.com/homedetails/4003-W-Kirkland-Ave-Queen-Creek-AZ-85142/124170942_zpid/
+101769,21159555,"2950 W Gold Dust Ave, Queen Creek, AZ 85142 ",85142,219900,60580.8438,-0.7245,0.5261,4343.5,http://www.zillow.com/homedetails/2950-W-Gold-Dust-Ave-Queen-Creek-AZ-85142/82253439_zpid/
+1852740,21254438,"4003 W Kirkland Ave, Queen Creek, AZ 85142 ",85142,239500,76394.3516,-0.681,0.5261,4383.5,http://www.zillow.com/homedetails/4003-W-Kirkland-Ave-Queen-Creek-AZ-85142/124170942_zpid/
+8980181,22430542,"1001 S Canfield, Mesa, AZ 85208 ",85208,240000,170514.1406,-0.2895,0.5246,676.0,https://www.zillow.com/homedetails/1001-S-Canfield-Mesa-AZ-85208/8088923_zpid/
+107243,22469783,"34409 N Levi Ct, Queen Creek, AZ 85142 ",85142,190000,73267.4531,-0.6144,0.5246,3229.0,https://www.zillow.com/homedetails/34409-N-Levi-Ct-Queen-Creek-AZ-85142/111039502_zpid/
+108025,22469830,"35217 N Thurber Rd, Queen Creek, AZ 85142 ",85142,218000,60259.75,-0.7236,0.5246,4327.0,https://www.zillow.com/homedetails/35217-N-Thurber-Rd-Queen-Creek-AZ-85142/119078325_zpid/
+8980181,22430542,"1001 S Canfield, Mesa, AZ 85208 ",85208,240000,170514.1406,-0.2895,0.5246,676.0,https://www.zillow.com/homedetails/1001-S-Canfield-Mesa-AZ-85208/8088923_zpid/
+107243,22469783,"34409 N Levi Ct, Queen Creek, AZ 85142 ",85142,190000,73267.4531,-0.6144,0.5246,3229.0,https://www.zillow.com/homedetails/34409-N-Levi-Ct-Queen-Creek-AZ-85142/111039502_zpid/
+108025,22469830,"35217 N Thurber Rd, Queen Creek, AZ 85142 ",85142,218000,60259.75,-0.7236,0.5246,4327.0,https://www.zillow.com/homedetails/35217-N-Thurber-Rd-Queen-Creek-AZ-85142/119078325_zpid/
+8980181,22430542,"1001 S Canfield, Mesa, AZ 85208 ",85208,240000,170514.1406,-0.2895,0.5246,676.0,https://www.zillow.com/homedetails/1001-S-Canfield-Mesa-AZ-85208/8088923_zpid/
+107243,22469783,"34409 N Levi Ct, Queen Creek, AZ 85142 ",85142,190000,73267.4531,-0.6144,0.5246,3229.0,https://www.zillow.com/homedetails/34409-N-Levi-Ct-Queen-Creek-AZ-85142/111039502_zpid/
+108025,22469830,"35217 N Thurber Rd, Queen Creek, AZ 85142 ",85142,218000,60259.75,-0.7236,0.5246,4327.0,https://www.zillow.com/homedetails/35217-N-Thurber-Rd-Queen-Creek-AZ-85142/119078325_zpid/
+857604,21966427,"11253 W Chase Dr, Avondale, AZ 85323 ",85323,209000,101169.9766,-0.5159,0.5246,2737.0,https://www.zillow.com/homedetails/11253-W-Chase-Dr-Avondale-AZ-85323/60973903_zpid/
+896109,21972222,"209 N 110th Dr, Avondale, AZ 85323 ",85323,235900,68066.625,-0.7115,0.5246,4428.0,https://www.zillow.com/homedetails/209-N-110th-Dr-Avondale-AZ-85323/71611987_zpid/
+870236,22035513,"509 S 112th Dr, Avondale, AZ 85323 ",85323,245000,60245.1016,-0.7541,0.5246,4481.0,https://www.zillow.com/homedetails/509-S-112th-Dr-Avondale-AZ-85323/67787713_zpid/
+857604,21966427,"11253 W Chase Dr, Avondale, AZ 85323 ",85323,209000,101169.9766,-0.5159,0.5246,2737.0,https://www.zillow.com/homedetails/11253-W-Chase-Dr-Avondale-AZ-85323/60973903_zpid/
+896109,21972222,"209 N 110th Dr, Avondale, AZ 85323 ",85323,235900,68066.625,-0.7115,0.5246,4428.0,https://www.zillow.com/homedetails/209-N-110th-Dr-Avondale-AZ-85323/71611987_zpid/
+870236,22035513,"509 S 112th Dr, Avondale, AZ 85323 ",85323,245000,60245.1016,-0.7541,0.5246,4481.0,https://www.zillow.com/homedetails/509-S-112th-Dr-Avondale-AZ-85323/67787713_zpid/
+857604,21966427,"11253 W Chase Dr, Avondale, AZ 85323 ",85323,209000,101169.9766,-0.5159,0.5246,2737.0,https://www.zillow.com/homedetails/11253-W-Chase-Dr-Avondale-AZ-85323/60973903_zpid/
+896109,21972222,"209 N 110th Dr, Avondale, AZ 85323 ",85323,235900,68066.625,-0.7115,0.5246,4428.0,https://www.zillow.com/homedetails/209-N-110th-Dr-Avondale-AZ-85323/71611987_zpid/
+870236,22035513,"509 S 112th Dr, Avondale, AZ 85323 ",85323,245000,60245.1016,-0.7541,0.5246,4481.0,https://www.zillow.com/homedetails/509-S-112th-Dr-Avondale-AZ-85323/67787713_zpid/
+7388461,22463815,"6628 S 76th Dr, Laveen, AZ 85339 ",85339,239000,89291.4297,-0.6264,0.5245,4224.0,https://www.zillow.com/homedetails/6628-S-76th-Dr-Laveen-AZ-85339/95095797_zpid/
+447369,22075810,"8308 W Sheridan St, Phoenix, AZ 85037 ",85037,176000,103418.2734,-0.4124,0.5243,810.0,https://www.zillow.com/homedetails/8308-W-Sheridan-St-Phoenix-AZ-85037/81967429_zpid/
+680850,22126163,"8727 E Knowles Ave, Mesa, AZ 85209 ",85209,245000,117730.3594,-0.5195,0.5241,3676.0,https://www.zillow.com/homedetails/8727-E-Knowles-Ave-Mesa-AZ-85209/59258871_zpid/
+524648,22126590,"9124 W Elm St, Phoenix, AZ 85037 ",85037,230560,143837.3281,-0.3761,0.524,1481.0,https://www.zillow.com/homedetails/9124-W-Elm-St-Phoenix-AZ-85037/7466467_zpid/
+527882,22045907,"9520 W Monte Vista Rd, Phoenix, AZ 85037 ",85037,192000,104612.2734,-0.4551,0.524,1518.0,https://www.zillow.com/homedetails/9520-W-Monte-Vista-Rd-Phoenix-AZ-85037/60975025_zpid/
+524930,22304530,"9134 W Vernon Ave, Phoenix, AZ 85037 ",85037,249000,92220.2891,-0.6296,0.524,4326.0,https://www.zillow.com/homedetails/9134-W-Vernon-Ave-Phoenix-AZ-85037/67764424_zpid/
+524648,22126590,"9124 W Elm St, Phoenix, AZ 85037 ",85037,230560,143837.3281,-0.3761,0.524,1481.0,https://www.zillow.com/homedetails/9124-W-Elm-St-Phoenix-AZ-85037/7466467_zpid/
+527882,22045907,"9520 W Monte Vista Rd, Phoenix, AZ 85037 ",85037,192000,104612.2734,-0.4551,0.524,1518.0,https://www.zillow.com/homedetails/9520-W-Monte-Vista-Rd-Phoenix-AZ-85037/60975025_zpid/
+524930,22304530,"9134 W Vernon Ave, Phoenix, AZ 85037 ",85037,249000,92220.2891,-0.6296,0.524,4326.0,https://www.zillow.com/homedetails/9134-W-Vernon-Ave-Phoenix-AZ-85037/67764424_zpid/
+524648,22126590,"9124 W Elm St, Phoenix, AZ 85037 ",85037,230560,143837.3281,-0.3761,0.524,1481.0,https://www.zillow.com/homedetails/9124-W-Elm-St-Phoenix-AZ-85037/7466467_zpid/
+527882,22045907,"9520 W Monte Vista Rd, Phoenix, AZ 85037 ",85037,192000,104612.2734,-0.4551,0.524,1518.0,https://www.zillow.com/homedetails/9520-W-Monte-Vista-Rd-Phoenix-AZ-85037/60975025_zpid/
+524930,22304530,"9134 W Vernon Ave, Phoenix, AZ 85037 ",85037,249000,92220.2891,-0.6296,0.524,4326.0,https://www.zillow.com/homedetails/9134-W-Vernon-Ave-Phoenix-AZ-85037/67764424_zpid/
+430779,21984809,"5010 N 103rd Dr, Glendale, AZ 85307 ",85307,218000,137015.0781,-0.3715,0.5235,1186.0,https://www.zillow.com/homedetails/5010-N-103rd-Dr-Glendale-AZ-85307/7488375_zpid/
+1404898,21878628,"6338 N 69th Dr, Glendale, AZ 85303 ",85303,215000,104235.9453,-0.5152,0.5234,2921.5,http://www.zillow.com/homedetails/6338-N-69th-Dr-Glendale-AZ-85303/59270854_zpid/
+8799151,21958021,"5107 W Glass Ln, Laveen, AZ 85339 ",85339,205000,93835.1719,-0.5423,0.5234,2945.5,https://www.zillow.com/homedetails/5107-W-Glass-Ln-Laveen-AZ-85339/67789279_zpid/
+422010,21988907,"6457 W Diana Ave, Glendale, AZ 85302 ",85302,219000,102625.6328,-0.5314,0.5234,3225.5,https://www.zillow.com/homedetails/6457-W-Diana-Ave-Glendale-AZ-85302/67790210_zpid/
+7485224,21957925,"4830 W Donner Dr, Laveen, AZ 85339 ",85339,224900,92431.2266,-0.589,0.5234,3838.5,https://www.zillow.com/homedetails/4830-W-Donner-Dr-Laveen-AZ-85339/81954212_zpid/
+422009,22230001,"6456 W Ruth Ave, Glendale, AZ 85302 ",85302,219900,83544.5703,-0.6201,0.5234,3937.5,https://www.zillow.com/homedetails/6456-W-Ruth-Ave-Glendale-AZ-85302/67790229_zpid/
+631372,22182925,"7103 S 53rd Ln, Laveen, AZ 85339 ",85339,219900,77404.5859,-0.648,0.5234,4095.5,https://www.zillow.com/homedetails/7103-S-53rd-Ln-Laveen-AZ-85339/68956947_zpid/
+7498975,21963340,"9009 S 57th Dr, Laveen, AZ 85339 ",85339,245000,99566.3047,-0.5936,0.5234,4159.5,https://www.zillow.com/homedetails/9009-S-57th-Dr-Laveen-AZ-85339/82800929_zpid/
+8955871,21959396,"6929 W Sophie Ln, Laveen, AZ 85339 ",85339,249800,101059.8516,-0.5954,0.5234,4214.5,https://www.zillow.com/homedetails/6929-W-Sophie-Ln-Laveen-AZ-85339/81981174_zpid/
+1404112,21878345,"5781 N 72nd Dr, Glendale, AZ 85303 ",85303,230000,69343.6172,-0.6985,0.5234,4380.5,http://www.zillow.com/homedetails/5781-N-72nd-Dr-Glendale-AZ-85303/95181688_zpid/
+533039,21959185,"6808 S 45th Gln, Laveen, AZ 85339 ",85339,230000,58864.2812,-0.7441,0.5234,4459.5,https://www.zillow.com/homedetails/6808-S-45th-Gln-Laveen-AZ-85339/81981163_zpid/
+1404898,21878628,"6338 N 69th Dr, Glendale, AZ 85303 ",85303,215000,104235.9453,-0.5152,0.5234,2921.5,http://www.zillow.com/homedetails/6338-N-69th-Dr-Glendale-AZ-85303/59270854_zpid/
+8799151,21958021,"5107 W Glass Ln, Laveen, AZ 85339 ",85339,205000,93835.1719,-0.5423,0.5234,2945.5,https://www.zillow.com/homedetails/5107-W-Glass-Ln-Laveen-AZ-85339/67789279_zpid/
+422010,21988907,"6457 W Diana Ave, Glendale, AZ 85302 ",85302,219000,102625.6328,-0.5314,0.5234,3225.5,https://www.zillow.com/homedetails/6457-W-Diana-Ave-Glendale-AZ-85302/67790210_zpid/
+7485224,21957925,"4830 W Donner Dr, Laveen, AZ 85339 ",85339,224900,92431.2266,-0.589,0.5234,3838.5,https://www.zillow.com/homedetails/4830-W-Donner-Dr-Laveen-AZ-85339/81954212_zpid/
+422009,22230001,"6456 W Ruth Ave, Glendale, AZ 85302 ",85302,219900,83544.5703,-0.6201,0.5234,3937.5,https://www.zillow.com/homedetails/6456-W-Ruth-Ave-Glendale-AZ-85302/67790229_zpid/
+631372,22182925,"7103 S 53rd Ln, Laveen, AZ 85339 ",85339,219900,77404.5859,-0.648,0.5234,4095.5,https://www.zillow.com/homedetails/7103-S-53rd-Ln-Laveen-AZ-85339/68956947_zpid/
+7498975,21963340,"9009 S 57th Dr, Laveen, AZ 85339 ",85339,245000,99566.3047,-0.5936,0.5234,4159.5,https://www.zillow.com/homedetails/9009-S-57th-Dr-Laveen-AZ-85339/82800929_zpid/
+8955871,21959396,"6929 W Sophie Ln, Laveen, AZ 85339 ",85339,249800,101059.8516,-0.5954,0.5234,4214.5,https://www.zillow.com/homedetails/6929-W-Sophie-Ln-Laveen-AZ-85339/81981174_zpid/
+1404112,21878345,"5781 N 72nd Dr, Glendale, AZ 85303 ",85303,230000,69343.6172,-0.6985,0.5234,4380.5,http://www.zillow.com/homedetails/5781-N-72nd-Dr-Glendale-AZ-85303/95181688_zpid/
+533039,21959185,"6808 S 45th Gln, Laveen, AZ 85339 ",85339,230000,58864.2812,-0.7441,0.5234,4459.5,https://www.zillow.com/homedetails/6808-S-45th-Gln-Laveen-AZ-85339/81981163_zpid/
+1404898,21878628,"6338 N 69th Dr, Glendale, AZ 85303 ",85303,215000,104235.9453,-0.5152,0.5234,2921.5,http://www.zillow.com/homedetails/6338-N-69th-Dr-Glendale-AZ-85303/59270854_zpid/
+8799151,21958021,"5107 W Glass Ln, Laveen, AZ 85339 ",85339,205000,93835.1719,-0.5423,0.5234,2945.5,https://www.zillow.com/homedetails/5107-W-Glass-Ln-Laveen-AZ-85339/67789279_zpid/
+422010,21988907,"6457 W Diana Ave, Glendale, AZ 85302 ",85302,219000,102625.6328,-0.5314,0.5234,3225.5,https://www.zillow.com/homedetails/6457-W-Diana-Ave-Glendale-AZ-85302/67790210_zpid/
+7485224,21957925,"4830 W Donner Dr, Laveen, AZ 85339 ",85339,224900,92431.2266,-0.589,0.5234,3838.5,https://www.zillow.com/homedetails/4830-W-Donner-Dr-Laveen-AZ-85339/81954212_zpid/
+422009,22230001,"6456 W Ruth Ave, Glendale, AZ 85302 ",85302,219900,83544.5703,-0.6201,0.5234,3937.5,https://www.zillow.com/homedetails/6456-W-Ruth-Ave-Glendale-AZ-85302/67790229_zpid/
+631372,22182925,"7103 S 53rd Ln, Laveen, AZ 85339 ",85339,219900,77404.5859,-0.648,0.5234,4095.5,https://www.zillow.com/homedetails/7103-S-53rd-Ln-Laveen-AZ-85339/68956947_zpid/
+7498975,21963340,"9009 S 57th Dr, Laveen, AZ 85339 ",85339,245000,99566.3047,-0.5936,0.5234,4159.5,https://www.zillow.com/homedetails/9009-S-57th-Dr-Laveen-AZ-85339/82800929_zpid/
+8955871,21959396,"6929 W Sophie Ln, Laveen, AZ 85339 ",85339,249800,101059.8516,-0.5954,0.5234,4214.5,https://www.zillow.com/homedetails/6929-W-Sophie-Ln-Laveen-AZ-85339/81981174_zpid/
+1404112,21878345,"5781 N 72nd Dr, Glendale, AZ 85303 ",85303,230000,69343.6172,-0.6985,0.5234,4380.5,http://www.zillow.com/homedetails/5781-N-72nd-Dr-Glendale-AZ-85303/95181688_zpid/
+533039,21959185,"6808 S 45th Gln, Laveen, AZ 85339 ",85339,230000,58864.2812,-0.7441,0.5234,4459.5,https://www.zillow.com/homedetails/6808-S-45th-Gln-Laveen-AZ-85339/81981163_zpid/
+1404898,21878628,"6338 N 69th Dr, Glendale, AZ 85303 ",85303,215000,104235.9453,-0.5152,0.5234,2921.5,http://www.zillow.com/homedetails/6338-N-69th-Dr-Glendale-AZ-85303/59270854_zpid/
+8799151,21958021,"5107 W Glass Ln, Laveen, AZ 85339 ",85339,205000,93835.1719,-0.5423,0.5234,2945.5,https://www.zillow.com/homedetails/5107-W-Glass-Ln-Laveen-AZ-85339/67789279_zpid/
+422010,21988907,"6457 W Diana Ave, Glendale, AZ 85302 ",85302,219000,102625.6328,-0.5314,0.5234,3225.5,https://www.zillow.com/homedetails/6457-W-Diana-Ave-Glendale-AZ-85302/67790210_zpid/
+7485224,21957925,"4830 W Donner Dr, Laveen, AZ 85339 ",85339,224900,92431.2266,-0.589,0.5234,3838.5,https://www.zillow.com/homedetails/4830-W-Donner-Dr-Laveen-AZ-85339/81954212_zpid/
+422009,22230001,"6456 W Ruth Ave, Glendale, AZ 85302 ",85302,219900,83544.5703,-0.6201,0.5234,3937.5,https://www.zillow.com/homedetails/6456-W-Ruth-Ave-Glendale-AZ-85302/67790229_zpid/
+631372,22182925,"7103 S 53rd Ln, Laveen, AZ 85339 ",85339,219900,77404.5859,-0.648,0.5234,4095.5,https://www.zillow.com/homedetails/7103-S-53rd-Ln-Laveen-AZ-85339/68956947_zpid/
+7498975,21963340,"9009 S 57th Dr, Laveen, AZ 85339 ",85339,245000,99566.3047,-0.5936,0.5234,4159.5,https://www.zillow.com/homedetails/9009-S-57th-Dr-Laveen-AZ-85339/82800929_zpid/
+8955871,21959396,"6929 W Sophie Ln, Laveen, AZ 85339 ",85339,249800,101059.8516,-0.5954,0.5234,4214.5,https://www.zillow.com/homedetails/6929-W-Sophie-Ln-Laveen-AZ-85339/81981174_zpid/
+1404112,21878345,"5781 N 72nd Dr, Glendale, AZ 85303 ",85303,230000,69343.6172,-0.6985,0.5234,4380.5,http://www.zillow.com/homedetails/5781-N-72nd-Dr-Glendale-AZ-85303/95181688_zpid/
+533039,21959185,"6808 S 45th Gln, Laveen, AZ 85339 ",85339,230000,58864.2812,-0.7441,0.5234,4459.5,https://www.zillow.com/homedetails/6808-S-45th-Gln-Laveen-AZ-85339/81981163_zpid/
+1404898,21878628,"6338 N 69th Dr, Glendale, AZ 85303 ",85303,215000,104235.9453,-0.5152,0.5234,2921.5,http://www.zillow.com/homedetails/6338-N-69th-Dr-Glendale-AZ-85303/59270854_zpid/
+8799151,21958021,"5107 W Glass Ln, Laveen, AZ 85339 ",85339,205000,93835.1719,-0.5423,0.5234,2945.5,https://www.zillow.com/homedetails/5107-W-Glass-Ln-Laveen-AZ-85339/67789279_zpid/
+422010,21988907,"6457 W Diana Ave, Glendale, AZ 85302 ",85302,219000,102625.6328,-0.5314,0.5234,3225.5,https://www.zillow.com/homedetails/6457-W-Diana-Ave-Glendale-AZ-85302/67790210_zpid/
+7485224,21957925,"4830 W Donner Dr, Laveen, AZ 85339 ",85339,224900,92431.2266,-0.589,0.5234,3838.5,https://www.zillow.com/homedetails/4830-W-Donner-Dr-Laveen-AZ-85339/81954212_zpid/
+422009,22230001,"6456 W Ruth Ave, Glendale, AZ 85302 ",85302,219900,83544.5703,-0.6201,0.5234,3937.5,https://www.zillow.com/homedetails/6456-W-Ruth-Ave-Glendale-AZ-85302/67790229_zpid/
+631372,22182925,"7103 S 53rd Ln, Laveen, AZ 85339 ",85339,219900,77404.5859,-0.648,0.5234,4095.5,https://www.zillow.com/homedetails/7103-S-53rd-Ln-Laveen-AZ-85339/68956947_zpid/
+7498975,21963340,"9009 S 57th Dr, Laveen, AZ 85339 ",85339,245000,99566.3047,-0.5936,0.5234,4159.5,https://www.zillow.com/homedetails/9009-S-57th-Dr-Laveen-AZ-85339/82800929_zpid/
+8955871,21959396,"6929 W Sophie Ln, Laveen, AZ 85339 ",85339,249800,101059.8516,-0.5954,0.5234,4214.5,https://www.zillow.com/homedetails/6929-W-Sophie-Ln-Laveen-AZ-85339/81981174_zpid/
+1404112,21878345,"5781 N 72nd Dr, Glendale, AZ 85303 ",85303,230000,69343.6172,-0.6985,0.5234,4380.5,http://www.zillow.com/homedetails/5781-N-72nd-Dr-Glendale-AZ-85303/95181688_zpid/
+533039,21959185,"6808 S 45th Gln, Laveen, AZ 85339 ",85339,230000,58864.2812,-0.7441,0.5234,4459.5,https://www.zillow.com/homedetails/6808-S-45th-Gln-Laveen-AZ-85339/81981163_zpid/
