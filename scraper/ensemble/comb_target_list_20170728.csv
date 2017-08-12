@@ -1,0 +1,21 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+809535,22134218,"832 E 10th Dr, Mesa, AZ 85204 ",85204,112900,93118.38,-0.18,0.52,52.0,https://www.zillow.com/homedetails/832-E-10th-Dr-Mesa-AZ-85204/7629557_zpid/
+8967278,22245545,"56 S 73rd St, Mesa, AZ 85208 ",85208,164900,154016.14,-0.07,0.51,57.0,https://www.zillow.com/homedetails/56-S-73rd-St-Mesa-AZ-85208/8069403_zpid/
+626371,22243380,"254 E 2nd Ave, Mesa, AZ 85210 ",85210,125000,114128.2,-0.09,0.51,65.0,https://www.zillow.com/homedetails/254-E-2nd-Ave-Mesa-AZ-85210/7625919_zpid/
+764064,22072195,"5447 E Baltimore St, Mesa, AZ 85205 ",85205,162000,129431.51,-0.2,0.51,139.0,https://www.zillow.com/homedetails/5447-E-Baltimore-St-Mesa-AZ-85205/7672447_zpid/
+775575,22399459,"6316 E Covina St, Mesa, AZ 85205 ",85205,175000,136629.31,-0.22,0.52,160.0,https://www.zillow.com/homedetails/6316-E-Covina-St-Mesa-AZ-85205/89573096_zpid/
+793667,21598347,"2254 E Birchwood Ave, Mesa, AZ 85204 ",85204,159900,120667.67,-0.25,0.52,164.5,https://www.zillow.com/homedetails/2254-E-Birchwood-Ave-Mesa-AZ-85204/7640723_zpid/
+8962363,22252724,"327 N 169th Ave, Goodyear, AZ 85338 ",85338,140000,105355.28,-0.25,0.51,168.0,https://www.zillow.com/homedetails/327-N-169th-Ave-Goodyear-AZ-85338/88788226_zpid/
+621245,22404533,"6446 E Aspen Ave, Mesa, AZ 85206 ",85206,170000,126686.26,-0.25,0.52,221.0,https://www.zillow.com/homedetails/6446-E-Aspen-Ave-Mesa-AZ-85206/7666513_zpid/
+560989,22402760,"1038 W Obispo Ave, Mesa, AZ 85210 ",85210,190000,149822.88,-0.21,0.51,233.5,https://www.zillow.com/homedetails/1038-W-Obispo-Ave-Mesa-AZ-85210/8190375_zpid/
+774085,18260520,"5415 E Duncan St, Mesa, AZ 85205 ",85205,165000,127711.73,-0.23,0.51,279.0,https://www.zillow.com/homedetails/5415-E-Duncan-St-Mesa-AZ-85205/7662537_zpid/
+764263,18260522,"5463 E Boise St, Mesa, AZ 85205 ",85205,159900,114617.34,-0.28,0.51,283.0,https://www.zillow.com/homedetails/5463-E-Boise-St-Mesa-AZ-85205/7672333_zpid/
+801091,22143391,"916 E Gable Ave, Mesa, AZ 85204 ",85204,189900,140253.19,-0.26,0.52,295.0,https://www.zillow.com/homedetails/916-E-Gable-Ave-Mesa-AZ-85204/7629201_zpid/
+763916,22184252,"5421 E Covina Rd, Mesa, AZ 85205 ",85205,155000,107342.28,-0.31,0.51,302.5,https://www.zillow.com/homedetails/5421-E-Covina-Rd-Mesa-AZ-85205/7662156_zpid/
+7110,22421664,"5529 E Player Pl, Mesa, AZ 85215 ",85215,130000,104613.63,-0.2,0.51,305.0,https://www.zillow.com/homedetails/5529-E-Player-Pl-Mesa-AZ-85215/7675065_zpid/
+804853,22300626,"2622 E Garnet Ave, Mesa, AZ 85204 ",85204,199900,149175.28,-0.25,0.52,310.0,https://www.zillow.com/homedetails/2622-E-Garnet-Ave-Mesa-AZ-85204/7652372_zpid/
+1485090,22027283,"20051 N Coyote Lakes Pkwy, Surprise, AZ 85378 ",85378,165000,118697.55,-0.28,0.51,311.5,https://www.zillow.com/homedetails/20051-N-Coyote-Lakes-Pkwy-Surprise-AZ-85378/8318853_zpid/
+699582,22077459,"961 S Grand, Mesa, AZ 85210 ",85210,147000,94110.39,-0.36,0.52,335.5,https://www.zillow.com/homedetails/961-S-Grand-Mesa-AZ-85210/7632394_zpid/
+5062208,21958814,"6319 W Branham Ln, Laveen, AZ 85339 ",85339,175000,126062.23,-0.28,0.51,371.0,https://www.zillow.com/homedetails/6319-W-Branham-Ln-Laveen-AZ-85339/67792568_zpid/
+775650,22059281,"6332 E Billings St, Mesa, AZ 85205 ",85205,169777,117614.14,-0.31,0.51,372.5,https://www.zillow.com/homedetails/6332-E-Billings-St-Mesa-AZ-85205/7666851_zpid/
+8961778,21943472,"11140 N 82nd Dr, Peoria, AZ 85345 ",85345,159900,110342.81,-0.31,0.51,375.0,https://www.zillow.com/homedetails/11140-N-82nd-Dr-Peoria-AZ-85345/7681317_zpid/

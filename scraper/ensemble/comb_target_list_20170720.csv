@@ -1,0 +1,21 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+303079,22135487,"2508 W Shackleton Dr, Anthem, AZ 85086 ",85086,180000,155152.28,-0.14,0.52,178.5,https://www.zillow.com/homedetails/2508-W-Shackleton-Dr-Anthem-AZ-85086/61797076_zpid/
+1485090,22027283,"20051 N Coyote Lakes Pkwy, Surprise, AZ 85378 ",85378,165000,122820.63,-0.26,0.52,204.5,https://www.zillow.com/homedetails/20051-N-Coyote-Lakes-Pkwy-Surprise-AZ-85378/8318853_zpid/
+1848353,21929232,"15491 W Maui Ln, Surprise, AZ 85379 ",85379,175000,130665.49,-0.25,0.52,234.5,https://www.zillow.com/homedetails/15491-W-Maui-Ln-Surprise-AZ-85379/55286216_zpid/
+433223,20685123,"11211 W Heatherbrae Dr, Phoenix, AZ 85037 ",85037,155000,108043.06,-0.3,0.52,285.5,https://www.zillow.com/homedetails/11211-W-Heatherbrae-Dr-Phoenix-AZ-85037/50185931_zpid/
+528357,21907281,"9920 W Madrugada Ave, Phoenix, AZ 85037 ",85037,187000,144642.3,-0.23,0.52,291.5,https://www.zillow.com/homedetails/9920-W-Madrugada-Ave-Phoenix-AZ-85037/7484438_zpid/
+8961778,21943472,"11140 N 82nd Dr, Peoria, AZ 85345 ",85345,159900,111893.1,-0.3,0.52,308.5,https://www.zillow.com/homedetails/11140-N-82nd-Dr-Peoria-AZ-85345/7681317_zpid/
+26685,22125543,"8462 W Lewis Ave, Phoenix, AZ 85037 ",85037,159999,110966.45,-0.31,0.52,326.5,https://www.zillow.com/homedetails/8462-W-Lewis-Ave-Phoenix-AZ-85037/82823097_zpid/
+835682,22236716,"3732 W Oregon Ave, Phoenix, AZ 85019 ",85019,155650,112181.35,-0.28,0.52,374.0,https://www.zillow.com/homedetails/3732-W-Oregon-Ave-Phoenix-AZ-85019/50188099_zpid/
+1476679,21955891,"11310 W Campana Dr, Surprise, AZ 85378 ",85378,176000,123573.81,-0.3,0.52,389.5,https://www.zillow.com/homedetails/11310-W-Campana-Dr-Surprise-AZ-85378/52426284_zpid/
+33111,21809437,"1025 E Grenadine Rd, Phoenix, AZ 85040 ",85040,125000,88300.55,-0.29,0.52,402.5,https://www.zillow.com/homedetails/1025-E-Grenadine-Rd-Phoenix-AZ-85040/62728029_zpid/
+43572,22124718,"8011 W Gibson Ln, Phoenix, AZ 85043 ",85043,225000,173248.36,-0.23,0.52,411.5,https://www.zillow.com/homedetails/8011-W-Gibson-Ln-Phoenix-AZ-85043/50123894_zpid/
+441013,21907162,"2709 N 90th Dr, Phoenix, AZ 85037 ",85037,167900,114186.79,-0.32,0.52,428.5,https://www.zillow.com/homedetails/2709-N-90th-Dr-Phoenix-AZ-85037/7487856_zpid/
+430137,22315237,"11113 W Lewis Ave, Avondale, AZ 85392 ",85392,187000,150116.62,-0.2,0.52,451.5,https://www.zillow.com/homedetails/11113-W-Lewis-Ave-Avondale-AZ-85392/55256756_zpid/
+1550415,21603792,"26441 S New Town Dr, Sun Lakes, AZ 85248 ",85248,200000,169578.47,-0.15,0.52,452.5,https://www.zillow.com/homedetails/26441-S-New-Town-Dr-Sun-Lakes-AZ-85248/8221262_zpid/
+942560,21990278,"719 S 223rd Ln, Buckeye, AZ 85326 ",85326,215000,162335.77,-0.24,0.52,478.5,https://www.zillow.com/homedetails/719-S-223rd-Ln-Buckeye-AZ-85326/67787102_zpid/
+7551173,22097811,"720 S 79th Pl, Mesa, AZ 85208 ",85208,153500,107892.84,-0.3,0.52,480.0,https://www.zillow.com/homedetails/720-S-79th-Pl-Mesa-AZ-85208/8078272_zpid/
+7487144,22096130,"5833 S 42nd Pl, Phoenix, AZ 85040 ",85040,106000,105019.07,-0.01,0.52,509.0,https://www.zillow.com/homedetails/5833-S-42nd-Pl-Phoenix-AZ-85040/7550688_zpid/
+447597,22030642,"3616 N 106th Dr, Avondale, AZ 85392 ",85392,169000,111155.51,-0.34,0.52,542.5,https://www.zillow.com/homedetails/3616-N-106th-Dr-Avondale-AZ-85392/7471478_zpid/
+437384,21835167,"12871 W Cambridge Ave, Avondale, AZ 85392 ",85392,175000,116622.27,-0.33,0.52,560.5,https://www.zillow.com/homedetails/12871-W-Cambridge-Ave-Avondale-AZ-85392/8305532_zpid/
+5062208,21958814,"6319 W Branham Ln, Laveen, AZ 85339 ",85339,175000,121907.05,-0.3,0.52,565.0,https://www.zillow.com/homedetails/6319-W-Branham-Ln-Laveen-AZ-85339/67792568_zpid/

@@ -1,0 +1,31 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+8955871,21959396,"6929 W Sophie Ln, Laveen, AZ 85339 ",85339,249800,78913.1953,-0.6841,0.5889,4472.0,https://www.zillow.com/homedetails/6929-W-Sophie-Ln-Laveen-AZ-85339/81981174_zpid/
+896109,21972222,"209 N 110th Dr, Avondale, AZ 85323 ",85323,235900,75527.2969,-0.6798,0.5879,4417.0,https://www.zillow.com/homedetails/209-N-110th-Dr-Avondale-AZ-85323/71611987_zpid/
+942962,22066630,"7397 S 253rd Dr, Buckeye, AZ 85326 ",85326,219900,43004.4688,-0.8044,0.5872,4496.5,https://www.zillow.com/homedetails/7397-S-253rd-Dr-Buckeye-AZ-85326/95090252_zpid/
+934976,22270988,"25702 W Forest Grove Ave, Buckeye, AZ 85326 ",85326,219000,40891.2773,-0.8133,0.5872,4502.5,https://www.zillow.com/homedetails/25702-W-Forest-Grove-Ave-Buckeye-AZ-85326/67796951_zpid/
+942962,22066630,"7397 S 253rd Dr, Buckeye, AZ 85326 ",85326,219900,43004.4688,-0.8044,0.5872,4496.5,https://www.zillow.com/homedetails/7397-S-253rd-Dr-Buckeye-AZ-85326/95090252_zpid/
+934976,22270988,"25702 W Forest Grove Ave, Buckeye, AZ 85326 ",85326,219000,40891.2773,-0.8133,0.5872,4502.5,https://www.zillow.com/homedetails/25702-W-Forest-Grove-Ave-Buckeye-AZ-85326/67796951_zpid/
+1528056,21923776,"10912 N 162nd Ln, Surprise, AZ 85379 ",85379,239900,73359.4844,-0.6942,0.5871,4461.0,https://www.zillow.com/homedetails/10912-N-162nd-Ln-Surprise-AZ-85379/71609297_zpid/
+1499722,21995148,"17904 W Maui Ln, Surprise, AZ 85388 ",85388,249000,65834.3281,-0.7356,0.5869,4520.0,https://www.zillow.com/homedetails/17904-W-Maui-Ln-Surprise-AZ-85388/67778887_zpid/
+930591,21974705,"24862 W Rancho Vista Dr, Buckeye, AZ 85326 ",85326,199000,71542.9297,-0.6405,0.5857,3809.5,https://www.zillow.com/homedetails/24862-W-Rancho-Vista-Dr-Buckeye-AZ-85326/71598995_zpid/
+938511,21978651,"3487 S 257th Ln, Buckeye, AZ 85326 ",85326,215000,34444.4375,-0.8398,0.5857,4515.5,https://www.zillow.com/homedetails/3487-S-257th-Ln-Buckeye-AZ-85326/67787172_zpid/
+930591,21974705,"24862 W Rancho Vista Dr, Buckeye, AZ 85326 ",85326,199000,71542.9297,-0.6405,0.5857,3809.5,https://www.zillow.com/homedetails/24862-W-Rancho-Vista-Dr-Buckeye-AZ-85326/71598995_zpid/
+938511,21978651,"3487 S 257th Ln, Buckeye, AZ 85326 ",85326,215000,34444.4375,-0.8398,0.5857,4515.5,https://www.zillow.com/homedetails/3487-S-257th-Ln-Buckeye-AZ-85326/67787172_zpid/
+8951911,21972867,"22124 W Cantilever Ct, Buckeye, AZ 85326 ",85326,230000,81193.2656,-0.647,0.5851,4300.5,https://www.zillow.com/homedetails/22124-W-Cantilever-Ct-Buckeye-AZ-85326/2094185244_zpid/
+524890,22104506,"9133 W Vernon Ave, Phoenix, AZ 85037 ",85037,249900,83611.3047,-0.6654,0.5851,4462.5,https://www.zillow.com/homedetails/9133-W-Vernon-Ave-Phoenix-AZ-85037/67764436_zpid/
+8951911,21972867,"22124 W Cantilever Ct, Buckeye, AZ 85326 ",85326,230000,81193.2656,-0.647,0.5851,4300.5,https://www.zillow.com/homedetails/22124-W-Cantilever-Ct-Buckeye-AZ-85326/2094185244_zpid/
+524890,22104506,"9133 W Vernon Ave, Phoenix, AZ 85037 ",85037,249900,83611.3047,-0.6654,0.5851,4462.5,https://www.zillow.com/homedetails/9133-W-Vernon-Ave-Phoenix-AZ-85037/67764436_zpid/
+925466,22168031,"23458 W Mohave St, Buckeye, AZ 85326 ",85326,225000,40477.9727,-0.8201,0.5842,4528.0,https://www.zillow.com/homedetails/23458-W-Mohave-St-Buckeye-AZ-85326/67779766_zpid/
+889057,22029538,"30206 W Cheery Lynn Rd, Buckeye, AZ 85396 ",85396,229999,74436.4766,-0.6764,0.5841,4377.0,https://www.zillow.com/homedetails/30206-W-Cheery-Lynn-Rd-Buckeye-AZ-85396/81983777_zpid/
+8964834,22104744,"6925 W Beverly Rd, Laveen, AZ 85339 ",85339,244900,72992.6484,-0.7019,0.584,4489.0,https://www.zillow.com/homedetails/6925-W-Beverly-Rd-Laveen-AZ-85339/71613670_zpid/
+8963811,22387497,"5510 W Vineyard Rd, Laveen, AZ 85339 ",85339,240000,155859.1562,-0.3506,0.5839,1492.0,https://www.zillow.com/homedetails/5510-W-Vineyard-Rd-Laveen-AZ-85339/60975998_zpid/
+929097,22292407,"24117 W Hadley St, Buckeye, AZ 85326 ",85326,230000,64887.1055,-0.7179,0.5835,4464.0,https://www.zillow.com/homedetails/24117-W-Hadley-St-Buckeye-AZ-85326/67797767_zpid/
+1483613,22365774,"16436 N 172nd Ave, Surprise, AZ 85388 ",85388,225000,75513.9141,-0.6644,0.5833,4316.0,https://www.zillow.com/homedetails/16436-N-172nd-Ave-Surprise-AZ-85388/67768260_zpid/
+7526840,22235776,"15773 W Caribbean Ln, Surprise, AZ 85379 ",85379,238000,169684.0,-0.287,0.5832,743.5,https://www.zillow.com/homedetails/15773-W-Caribbean-Ln-Surprise-AZ-85379/64694580_zpid/
+1494862,22378761,"17618 W Eugene Ter, Surprise, AZ 85388 ",85388,244900,64999.0195,-0.7346,0.5832,4523.5,https://www.zillow.com/homedetails/17618-W-Eugene-Ter-Surprise-AZ-85388/71631155_zpid/
+7526840,22235776,"15773 W Caribbean Ln, Surprise, AZ 85379 ",85379,238000,169684.0,-0.287,0.5832,743.5,https://www.zillow.com/homedetails/15773-W-Caribbean-Ln-Surprise-AZ-85379/64694580_zpid/
+1494862,22378761,"17618 W Eugene Ter, Surprise, AZ 85388 ",85388,244900,64999.0195,-0.7346,0.5832,4523.5,https://www.zillow.com/homedetails/17618-W-Eugene-Ter-Surprise-AZ-85388/71631155_zpid/
+8963823,22362997,"7103 W St Catherine Ave, Laveen, AZ 85339 ",85339,203000,78496.0625,-0.6133,0.5829,3733.5,https://www.zillow.com/homedetails/7103-W-St-Catherine-Ave-Laveen-AZ-85339/67788999_zpid/
+630959,22387554,"7010 S 45th Ave, Laveen, AZ 85339 ",85339,219900,72817.3203,-0.6689,0.5829,4282.5,https://www.zillow.com/homedetails/7010-S-45th-Ave-Laveen-AZ-85339/67789296_zpid/
+8963823,22362997,"7103 W St Catherine Ave, Laveen, AZ 85339 ",85339,203000,78496.0625,-0.6133,0.5829,3733.5,https://www.zillow.com/homedetails/7103-W-St-Catherine-Ave-Laveen-AZ-85339/67788999_zpid/
+630959,22387554,"7010 S 45th Ave, Laveen, AZ 85339 ",85339,219900,72817.3203,-0.6689,0.5829,4282.5,https://www.zillow.com/homedetails/7010-S-45th-Ave-Laveen-AZ-85339/67789296_zpid/

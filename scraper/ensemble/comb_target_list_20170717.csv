@@ -1,0 +1,21 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+1211147,22286392,"1139 N Arroyo Ln, Gilbert, AZ 85234 ",85234,199900,155384.2,-0.22,0.56,207.0,https://www.zillow.com/homedetails/1139-N-Arroyo-Ln-Gilbert-AZ-85234/8231755_zpid/
+1212902,20724398,"1308 E Mineral Rd, Gilbert, AZ 85234 ",85234,245000,196332.98,-0.2,0.56,268.0,https://www.zillow.com/homedetails/1308-E-Mineral-Rd-Gilbert-AZ-85234/8236057_zpid/
+864834,21821287,"12038 W Yuma St, Avondale, AZ 85323 ",85323,170000,119400.86,-0.3,0.56,341.0,https://www.zillow.com/homedetails/12038-W-Yuma-St-Avondale-AZ-85323/55282905_zpid/
+731255,22284147,"560 N Hobson Plz, Mesa, AZ 85203 ",85203,145900,127874.32,-0.12,0.55,396.0,https://www.zillow.com/homedetails/560-N-Hobson-Plz-Mesa-AZ-85203/7620448_zpid/
+8962364,21907107,"373 N 168th Dr, Goodyear, AZ 85338 ",85338,149900,99115.7,-0.34,0.55,413.0,https://www.zillow.com/homedetails/373-N-168th-Dr-Goodyear-AZ-85338/88794367_zpid/
+939805,22234140,"504 S 7th St, Buckeye, AZ 85326 ",85326,154900,99513.05,-0.36,0.56,414.0,https://www.zillow.com/homedetails/504-S-7th-St-Buckeye-AZ-85326/8287031_zpid/
+1591806,22242568,"267 Gompers Cir, Morristown, AZ 85342 ",85342,125000,135975.19,0.09,0.55,421.0,https://www.zillow.com/homedetails/267-Gompers-Cir-Morristown-AZ-85342/50204209_zpid/
+1550415,21603792,"26441 S New Town Dr, Sun Lakes, AZ 85248 ",85248,200000,164062.64,-0.18,0.55,422.0,https://www.zillow.com/homedetails/26441-S-New-Town-Dr-Sun-Lakes-AZ-85248/8221262_zpid/
+8965082,22133190,"6169 S Sawgrass Dr, Chandler, AZ 85249 ",85249,133000,104304.58,-0.22,0.55,462.0,https://www.zillow.com/homedetails/6169-S-Sawgrass-Dr-Chandler-AZ-85249/8216408_zpid/
+7526840,22235776,"15773 W Caribbean Ln, Surprise, AZ 85379 ",85379,238000,178100.44,-0.25,0.56,471.5,https://www.zillow.com/homedetails/15773-W-Caribbean-Ln-Surprise-AZ-85379/64694580_zpid/
+1858536,21536905,"9028 E Cactus Ln S, Sun Lakes, AZ 85248 ",85248,125000,104863.66,-0.16,0.55,474.0,http://www.zillow.com/homedetails/9028-E-Cactus-Ln-S-Sun-Lakes-AZ-85248/8219056_zpid/
+433223,20685123,"11211 W Heatherbrae Dr, Phoenix, AZ 85037 ",85037,155000,105491.38,-0.32,0.55,479.0,https://www.zillow.com/homedetails/11211-W-Heatherbrae-Dr-Phoenix-AZ-85037/50185931_zpid/
+406968,22230303,"5416 W Hearn Rd, Glendale, AZ 85306 ",85306,110000,82837.41,-0.25,0.55,495.0,https://www.zillow.com/homedetails/5416-W-Hearn-Rd-Glendale-AZ-85306/92347321_zpid/
+1025798,22133093,"1866 E Lindrick Dr, Chandler, AZ 85249 ",85249,163000,102178.31,-0.37,0.56,503.0,https://www.zillow.com/homedetails/1866-E-Lindrick-Dr-Chandler-AZ-85249/8224975_zpid/
+866038,21966815,"12355 W Jackson St, Avondale, AZ 85323 ",85323,178000,121872.29,-0.32,0.55,507.5,https://www.zillow.com/homedetails/12355-W-Jackson-St-Avondale-AZ-85323/55205752_zpid/
+5062208,21958814,"6319 W Branham Ln, Laveen, AZ 85339 ",85339,175000,120904.12,-0.31,0.55,524.0,https://www.zillow.com/homedetails/6319-W-Branham-Ln-Laveen-AZ-85339/67792568_zpid/
+8961778,21943472,"11140 N 82nd Dr, Peoria, AZ 85345 ",85345,159900,108467.95,-0.32,0.55,525.0,https://www.zillow.com/homedetails/11140-N-82nd-Dr-Peoria-AZ-85345/7681317_zpid/
+729318,21809239,"446 N Hobson Plz, Mesa, AZ 85203 ",85203,134900,97052.87,-0.28,0.55,528.0,https://www.zillow.com/homedetails/446-N-Hobson-Plz-Mesa-AZ-85203/7620468_zpid/
+8962306,22100946,"13390 W Cambridge Ave, Goodyear, AZ 85395 ",85395,170000,143197.56,-0.16,0.55,559.0,https://www.zillow.com/homedetails/13390-W-Cambridge-Ave-Goodyear-AZ-85395/8301278_zpid/
+1476679,21955891,"11310 W Campana Dr, Surprise, AZ 85378 ",85378,176000,125062.06,-0.29,0.55,574.0,https://www.zillow.com/homedetails/11310-W-Campana-Dr-Surprise-AZ-85378/52426284_zpid/

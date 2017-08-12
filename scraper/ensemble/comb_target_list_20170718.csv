@@ -1,0 +1,21 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+5062208,21958814,"6319 W Branham Ln, Laveen, AZ 85339 ",85339,175000,131418.23,-0.25,0.57,210.0,https://www.zillow.com/homedetails/6319-W-Branham-Ln-Laveen-AZ-85339/67792568_zpid/
+303079,22135487,"2508 W Shackleton Dr, Anthem, AZ 85086 ",85086,180000,152121.22,-0.15,0.56,279.0,https://www.zillow.com/homedetails/2508-W-Shackleton-Dr-Anthem-AZ-85086/61797076_zpid/
+8962363,22252724,"327 N 169th Ave, Goodyear, AZ 85338 ",85338,140000,97142.29,-0.31,0.56,326.0,https://www.zillow.com/homedetails/327-N-169th-Ave-Goodyear-AZ-85338/88788226_zpid/
+8962364,21907107,"373 N 168th Dr, Goodyear, AZ 85338 ",85338,149900,98757.98,-0.34,0.56,374.0,https://www.zillow.com/homedetails/373-N-168th-Dr-Goodyear-AZ-85338/88794367_zpid/
+942560,21990278,"719 S 223rd Ln, Buckeye, AZ 85326 ",85326,215000,157090.38,-0.27,0.57,477.0,https://www.zillow.com/homedetails/719-S-223rd-Ln-Buckeye-AZ-85326/67787102_zpid/
+26685,22125543,"8462 W Lewis Ave, Phoenix, AZ 85037 ",85037,159999,101617.14,-0.36,0.57,506.0,https://www.zillow.com/homedetails/8462-W-Lewis-Ave-Phoenix-AZ-85037/82823097_zpid/
+503861,22111066,"2038 N 78th Gln, Phoenix, AZ 85035 ",85035,169900,105935.18,-0.38,0.57,651.0,https://www.zillow.com/homedetails/2038-N-78th-Gln-Phoenix-AZ-85035/82823194_zpid/
+33111,21809437,"1025 E Grenadine Rd, Phoenix, AZ 85040 ",85040,125000,93252.41,-0.25,0.55,655.0,https://www.zillow.com/homedetails/1025-E-Grenadine-Rd-Phoenix-AZ-85040/62728029_zpid/
+200978,21876846,"6913 S 7th Ln, Phoenix, AZ 85041 ",85041,159500,100499.4,-0.37,0.56,685.5,https://www.zillow.com/homedetails/6913-S-7th-Ln-Phoenix-AZ-85041/82823420_zpid/
+8946347,21960835,"7814 S 50th Dr, Laveen, AZ 85339 ",85339,192000,131480.39,-0.32,0.56,689.0,https://www.zillow.com/homedetails/7814-S-50th-Dr-Laveen-AZ-85339/82820609_zpid/
+632336,21960058,"7317 S 48th Dr, Laveen, AZ 85339 ",85339,179000,109615.86,-0.39,0.57,732.0,https://www.zillow.com/homedetails/7317-S-48th-Dr-Laveen-AZ-85339/88793921_zpid/
+8962306,22100946,"13390 W Cambridge Ave, Goodyear, AZ 85395 ",85395,170000,147302.12,-0.13,0.55,768.0,https://www.zillow.com/homedetails/13390-W-Cambridge-Ave-Goodyear-AZ-85395/8301278_zpid/
+7420096,21992237,"951 S 224th Ln, Buckeye, AZ 85326 ",85326,204900,149886.8,-0.27,0.56,803.0,https://www.zillow.com/homedetails/951-S-224th-Ln-Buckeye-AZ-85326/81988646_zpid/
+447369,22075810,"8308 W Sheridan St, Phoenix, AZ 85037 ",85037,176000,106503.95,-0.39,0.57,810.0,https://www.zillow.com/homedetails/8308-W-Sheridan-St-Phoenix-AZ-85037/81967429_zpid/
+864834,21821287,"12038 W Yuma St, Avondale, AZ 85323 ",85323,170000,121611.68,-0.28,0.55,820.5,https://www.zillow.com/homedetails/12038-W-Yuma-St-Avondale-AZ-85323/55282905_zpid/
+7500616,20687530,"8920 E Sun Lakes Blvd S, Sun Lakes, AZ 85248 ",85248,155900,146995.42,-0.06,0.55,825.0,https://www.zillow.com/homedetails/8920-E-Sun-Lakes-Blvd-S-Sun-Lakes-AZ-85248/8219924_zpid/
+8950826,21961565,"8238 W Purdue Ave, Peoria, AZ 85345 ",85345,163500,92714.35,-0.43,0.56,881.5,https://www.zillow.com/homedetails/8238-W-Purdue-Ave-Peoria-AZ-85345/60978250_zpid/
+501654,22042240,"7835 W Cypress St, Phoenix, AZ 85035 ",85035,169000,98115.84,-0.42,0.56,884.5,https://www.zillow.com/homedetails/7835-W-Cypress-St-Phoenix-AZ-85035/95157236_zpid/
+924048,21973553,"23184 W Moonlight Path, Buckeye, AZ 85326 ",85326,189999,152428.97,-0.2,0.55,900.0,https://www.zillow.com/homedetails/23184-W-Moonlight-Path-Buckeye-AZ-85326/67769331_zpid/
+1848353,21929232,"15491 W Maui Ln, Surprise, AZ 85379 ",85379,175000,121453.96,-0.31,0.55,936.5,https://www.zillow.com/homedetails/15491-W-Maui-Ln-Surprise-AZ-85379/55286216_zpid/

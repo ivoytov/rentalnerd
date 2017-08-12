@@ -1,0 +1,23 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+1485090,22027283,"20051 N Coyote Lakes Pkwy, Surprise, AZ 85378 ",85378,165000,131809.25,-0.2,0.59,251.0,https://www.zillow.com/homedetails/20051-N-Coyote-Lakes-Pkwy-Surprise-AZ-85378/8318853_zpid/
+8967278,22245545,"56 S 73rd St, Mesa, AZ 85208 ",85208,164900,149871.94,-0.09,0.58,293.0,https://www.zillow.com/homedetails/56-S-73rd-St-Mesa-AZ-85208/8069403_zpid/
+1848353,21929232,"15491 W Maui Ln, Surprise, AZ 85379 ",85379,175000,126317.48,-0.28,0.6,305.0,https://www.zillow.com/homedetails/15491-W-Maui-Ln-Surprise-AZ-85379/55286216_zpid/
+5734,17749569,"16405 W Remuda Dr, Surprise, AZ 85387 ",85387,204900,167565.05,-0.18,0.59,307.0,https://www.zillow.com/homedetails/16405-W-Remuda-Dr-Surprise-AZ-85387/71610104_zpid/
+942560,21990278,"719 S 223rd Ln, Buckeye, AZ 85326 ",85326,215000,158831.58,-0.26,0.61,369.0,https://www.zillow.com/homedetails/719-S-223rd-Ln-Buckeye-AZ-85326/67787102_zpid/
+1212902,20724398,"1308 E Mineral Rd, Gilbert, AZ 85234 ",85234,245000,193593.97,-0.21,0.6,370.0,https://www.zillow.com/homedetails/1308-E-Mineral-Rd-Gilbert-AZ-85234/8236057_zpid/
+8961778,21943472,"11140 N 82nd Dr, Peoria, AZ 85345 ",85345,159900,110701.85,-0.31,0.59,386.0,https://www.zillow.com/homedetails/11140-N-82nd-Dr-Peoria-AZ-85345/7681317_zpid/
+5062208,21958814,"6319 W Branham Ln, Laveen, AZ 85339 ",85339,175000,119502.49,-0.32,0.6,387.0,https://www.zillow.com/homedetails/6319-W-Branham-Ln-Laveen-AZ-85339/67792568_zpid/
+33111,21809437,"1025 E Grenadine Rd, Phoenix, AZ 85040 ",85040,125000,85511.04,-0.32,0.58,392.0,https://www.zillow.com/homedetails/1025-E-Grenadine-Rd-Phoenix-AZ-85040/62728029_zpid/
+8966095,22230301,"5714 W Winchcomb Dr, Glendale, AZ 85306 ",85306,156900,126599.62,-0.19,0.58,396.0,https://www.zillow.com/homedetails/5714-W-Winchcomb-Dr-Glendale-AZ-85306/8098593_zpid/
+1025798,22133093,"1866 E Lindrick Dr, Chandler, AZ 85249 ",85249,163000,116269.01,-0.29,0.59,405.0,https://www.zillow.com/homedetails/1866-E-Lindrick-Dr-Chandler-AZ-85249/8224975_zpid/
+7420096,21992237,"951 S 224th Ln, Buckeye, AZ 85326 ",85326,204900,153247.91,-0.25,0.59,408.0,https://www.zillow.com/homedetails/951-S-224th-Ln-Buckeye-AZ-85326/81988646_zpid/
+835682,22236716,"3732 W Oregon Ave, Phoenix, AZ 85019 ",85019,155650,107214.56,-0.31,0.59,419.0,https://www.zillow.com/homedetails/3732-W-Oregon-Ave-Phoenix-AZ-85019/50188099_zpid/
+43572,22124718,"8011 W Gibson Ln, Phoenix, AZ 85043 ",85043,225000,164999.03,-0.27,0.61,426.0,https://www.zillow.com/homedetails/8011-W-Gibson-Ln-Phoenix-AZ-85043/50123894_zpid/
+8958862,22214569,"214 E Bluefield Ave, Phoenix, AZ 85022 ",85022,149900,123583.89,-0.18,0.57,441.0,https://www.zillow.com/homedetails/214-E-Bluefield-Ave-Phoenix-AZ-85022/7955753_zpid/
+8962306,22100946,"13390 W Cambridge Ave, Goodyear, AZ 85395 ",85395,170000,145780.45,-0.14,0.57,451.0,https://www.zillow.com/homedetails/13390-W-Cambridge-Ave-Goodyear-AZ-85395/8301278_zpid/
+7526840,22235776,"15773 W Caribbean Ln, Surprise, AZ 85379 ",85379,238000,182607.08,-0.23,0.59,456.5,https://www.zillow.com/homedetails/15773-W-Caribbean-Ln-Surprise-AZ-85379/64694580_zpid/
+396264,22124903,"8131 N 32nd Ave, Phoenix, AZ 85051 ",85051,122500,82353.85,-0.33,0.58,484.0,https://www.zillow.com/homedetails/8131-N-32nd-Ave-Phoenix-AZ-85051/7754856_zpid/
+936204,21975391,"25805 W Elizabeth Ave, Buckeye, AZ 85326 ",85326,162000,102715.52,-0.37,0.6,484.0,https://www.zillow.com/homedetails/25805-W-Elizabeth-Ave-Buckeye-AZ-85326/81993561_zpid/
+396264,22124903,"8131 N 32nd Ave, Phoenix, AZ 85051 ",85051,122500,82353.85,-0.33,0.58,484.0,https://www.zillow.com/homedetails/8131-N-32nd-Ave-Phoenix-AZ-85051/7754856_zpid/
+936204,21975391,"25805 W Elizabeth Ave, Buckeye, AZ 85326 ",85326,162000,102715.52,-0.37,0.6,484.0,https://www.zillow.com/homedetails/25805-W-Elizabeth-Ave-Buckeye-AZ-85326/81993561_zpid/
+425940,22228695,"10021 W Sells Dr, Phoenix, AZ 85037 ",85037,160000,106616.98,-0.33,0.58,563.0,https://www.zillow.com/homedetails/10021-W-Sells-Dr-Phoenix-AZ-85037/7484304_zpid/

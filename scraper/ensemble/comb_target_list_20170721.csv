@@ -1,0 +1,23 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+8967278,22245545,"56 S 73rd St, Mesa, AZ 85208 ",85208,164900,128889.45,-0.22,0.63,141.0,https://www.zillow.com/homedetails/56-S-73rd-St-Mesa-AZ-85208/8069403_zpid/
+1476679,21955891,"11310 W Campana Dr, Surprise, AZ 85378 ",85378,176000,131631.8,-0.25,0.63,221.0,https://www.zillow.com/homedetails/11310-W-Campana-Dr-Surprise-AZ-85378/52426284_zpid/
+1485090,22027283,"20051 N Coyote Lakes Pkwy, Surprise, AZ 85378 ",85378,165000,122590.52,-0.26,0.62,242.0,https://www.zillow.com/homedetails/20051-N-Coyote-Lakes-Pkwy-Surprise-AZ-85378/8318853_zpid/
+401623,22061637,"14412 N 57th Dr, Glendale, AZ 85306 ",85306,145000,120430.09,-0.17,0.61,256.0,https://www.zillow.com/homedetails/14412-N-57th-Dr-Glendale-AZ-85306/8098573_zpid/
+8962306,22100946,"13390 W Cambridge Ave, Goodyear, AZ 85395 ",85395,170000,147431.91,-0.13,0.61,266.0,https://www.zillow.com/homedetails/13390-W-Cambridge-Ave-Goodyear-AZ-85395/8301278_zpid/
+303079,22135487,"2508 W Shackleton Dr, Anthem, AZ 85086 ",85086,180000,132779.86,-0.26,0.63,278.0,https://www.zillow.com/homedetails/2508-W-Shackleton-Dr-Anthem-AZ-85086/61797076_zpid/
+8961778,21943472,"11140 N 82nd Dr, Peoria, AZ 85345 ",85345,159900,116588.45,-0.27,0.62,315.0,https://www.zillow.com/homedetails/11140-N-82nd-Dr-Peoria-AZ-85345/7681317_zpid/
+866038,21966815,"12355 W Jackson St, Avondale, AZ 85323 ",85323,178000,128788.57,-0.28,0.62,317.0,https://www.zillow.com/homedetails/12355-W-Jackson-St-Avondale-AZ-85323/55205752_zpid/
+8958862,22214569,"214 E Bluefield Ave, Phoenix, AZ 85022 ",85022,149900,121091.99,-0.19,0.61,319.0,https://www.zillow.com/homedetails/214-E-Bluefield-Ave-Phoenix-AZ-85022/7955753_zpid/
+775575,21809303,"6316 E Covina St, Mesa, AZ 85205 ",85205,175000,131281.19,-0.25,0.62,322.0,https://www.zillow.com/homedetails/6316-E-Covina-St-Mesa-AZ-85205/89573096_zpid/
+1070129,22303132,"13421 E Boston St, Chandler, AZ 85225 ",85225,165000,121892.6,-0.26,0.62,334.0,https://www.zillow.com/homedetails/13421-E-Boston-St-Chandler-AZ-85225/8222052_zpid/
+433223,20685123,"11211 W Heatherbrae Dr, Phoenix, AZ 85037 ",85037,155000,107099.88,-0.31,0.62,339.0,https://www.zillow.com/homedetails/11211-W-Heatherbrae-Dr-Phoenix-AZ-85037/50185931_zpid/
+8965802,22217240,"46 Leisure World, Mesa, AZ 85206 ",85206,145000,101219.32,-0.3,0.62,351.0,https://www.zillow.com/homedetails/46-Leisure-World-Mesa-AZ-85206/2093688803_zpid/
+1848353,21929232,"15491 W Maui Ln, Surprise, AZ 85379 ",85379,175000,121023.84,-0.31,0.63,368.0,https://www.zillow.com/homedetails/15491-W-Maui-Ln-Surprise-AZ-85379/55286216_zpid/
+33111,21809437,"1025 E Grenadine Rd, Phoenix, AZ 85040 ",85040,125000,101583.7,-0.19,0.6,391.0,https://www.zillow.com/homedetails/1025-E-Grenadine-Rd-Phoenix-AZ-85040/62728029_zpid/
+1025798,22133093,"1866 E Lindrick Dr, Chandler, AZ 85249 ",85249,163000,119560.83,-0.27,0.61,391.0,https://www.zillow.com/homedetails/1866-E-Lindrick-Dr-Chandler-AZ-85249/8224975_zpid/
+33111,21809437,"1025 E Grenadine Rd, Phoenix, AZ 85040 ",85040,125000,101583.7,-0.19,0.6,391.0,https://www.zillow.com/homedetails/1025-E-Grenadine-Rd-Phoenix-AZ-85040/62728029_zpid/
+1025798,22133093,"1866 E Lindrick Dr, Chandler, AZ 85249 ",85249,163000,119560.83,-0.27,0.61,391.0,https://www.zillow.com/homedetails/1866-E-Lindrick-Dr-Chandler-AZ-85249/8224975_zpid/
+8966095,22230301,"5714 W Winchcomb Dr, Glendale, AZ 85306 ",85306,156900,127803.98,-0.19,0.61,399.0,https://www.zillow.com/homedetails/5714-W-Winchcomb-Dr-Glendale-AZ-85306/8098593_zpid/
+8959281,21819852,"148 N Crismon Rd, Mesa, AZ 85207 ",85207,174900,125456.46,-0.28,0.62,405.0,https://www.zillow.com/homedetails/148-N-Crismon-Rd-Mesa-AZ-85207/8086224_zpid/
+1146764,21895873,"12408 N 121st Ave, El Mirage, AZ 85335 ",85335,159900,103265.31,-0.35,0.63,428.0,https://www.zillow.com/homedetails/12408-N-121st-Ave-El-Mirage-AZ-85335/11884762_zpid/
+835682,22236716,"3732 W Oregon Ave, Phoenix, AZ 85019 ",85019,155650,114623.2,-0.26,0.61,437.0,https://www.zillow.com/homedetails/3732-W-Oregon-Ave-Phoenix-AZ-85019/50188099_zpid/
