@@ -1,0 +1,21 @@
+property_id,transaction_id,address,zipcode,ypred,list,url,lat,long
+308825,22243781,"41025 N Iron Horse Way, Anthem, AZ 85086 ",85086,0.5509459972381592,324700,https://www.zillow.com/homedetails/41025-N-Iron-Horse-Way-Anthem-AZ-85086/55264170_zpid/,33.8576,-112.115
+505728,22118935,"4439 W Magellan Dr, Phoenix, AZ 85087 ",85087,0.5441088080406189,279000,https://www.zillow.com/homedetails/4439-W-Magellan-Dr-Phoenix-AZ-85087/71601978_zpid/,33.8765,-112.156
+29517,21984919,"5022 W Tonto Rd, Glendale, AZ 85308 ",85308,0.5433887839317322,244000,https://www.zillow.com/homedetails/5022-W-Tonto-Rd-Glendale-AZ-85308/7937994_zpid/,33.6652,-112.16799999999999
+50648,21809855,"43810 N 48th Ln, Phoenix, AZ 85087 ",85087,0.5412665605545044,349000,https://www.zillow.com/homedetails/43810-N-48th-Ln-Phoenix-AZ-85087/81954439_zpid/,33.8829,-112.165
+375942,21984436,"4902 E Barwick Dr, Cave Creek, AZ 85331 ",85331,0.5396690368652344,355000,https://www.zillow.com/homedetails/4902-E-Barwick-Dr-Cave-Creek-AZ-85331/7976269_zpid/,33.753,-111.978
+62428,22208693,"39517 N Hillerman Way, Anthem, AZ 85086 ",85086,0.5379157066345215,262900,https://www.zillow.com/homedetails/39517-N-Hillerman-Way-Anthem-AZ-85086/62730961_zpid/,33.8439,-112.09899999999999
+62404,21615324,"39504 N Prairie Ln, Anthem, AZ 85086 ",85086,0.537440299987793,255000,https://www.zillow.com/homedetails/39504-N-Prairie-Ln-Anthem-AZ-85086/64510921_zpid/,33.8443,-112.096
+505114,17734641,"43317 N 50th Ave, Phoenix, AZ 85087 ",85087,0.5366151928901672,385000,https://www.zillow.com/homedetails/43317-N-50th-Ave-Phoenix-AZ-85087/89220541_zpid/,33.8779,-112.16799999999999
+63256,22184820,"40715 N Lytham Ct, Phoenix, AZ 85086 ",85086,0.5359612107276917,349500,https://www.zillow.com/homedetails/40715-N-Lytham-Ct-Phoenix-AZ-85086/67785640_zpid/,33.8553,-112.09100000000001
+350205,22055404,"1910 E Kings Ave, Phoenix, AZ 85022 ",85022,0.535483181476593,289999,https://www.zillow.com/homedetails/1910-E-Kings-Ave-Phoenix-AZ-85022/8004907_zpid/,33.6363,-112.041
+376870,21985232,"5133 E Duane Ln, Cave Creek, AZ 85331 ",85331,0.5352091193199158,324000,https://www.zillow.com/homedetails/5133-E-Duane-Ln-Cave-Creek-AZ-85331/7980905_zpid/,33.7548,-111.97
+59166,22205328,"1806 W Twain Dr, Anthem, AZ 85086 ",85086,0.5352083444595337,282900,https://www.zillow.com/homedetails/1806-W-Twain-Dr-Anthem-AZ-85086/67716429_zpid/,33.8485,-112.098
+351686,21921581,"1953 E Wagoner Rd, Phoenix, AZ 85022 ",85022,0.5343288779258728,274450,https://www.zillow.com/homedetails/1953-E-Wagoner-Rd-Phoenix-AZ-85022/8000506_zpid/,33.6531,-112.04
+8953605,21812049,"4375 E Morrow Dr, Phoenix, AZ 85050 ",85050,0.532951295375824,309999,https://www.zillow.com/homedetails/4375-E-Morrow-Dr-Phoenix-AZ-85050/81981099_zpid/,33.6576,-111.985
+1425630,21978774,"3528 W Mariposa Grande, Glendale, AZ 85310 ",85310,0.5328879952430725,271900,https://www.zillow.com/homedetails/3528-W-Mariposa-Grande-Glendale-AZ-85310/7932313_zpid/,33.7028,-112.13600000000001
+222961,22178066,"1111 E Mohawk Dr, Phoenix, AZ 85024 ",85024,0.5318301916122437,311900,https://www.zillow.com/homedetails/1111-E-Mohawk-Dr-Phoenix-AZ-85024/50181925_zpid/,33.673,-112.05799999999999
+223639,22378264,"14021 N 30th Dr, Phoenix, AZ 85053 ",85053,0.531792163848877,168900,https://www.zillow.com/homedetails/14021-N-30th-Dr-Phoenix-AZ-85053/7942830_zpid/,33.6132,-112.12200000000001
+310073,21283037,"42902 N Hudson Ct, Anthem, AZ 85086 ",85086,0.5304422974586487,279000,http://www.zillow.com/homedetails/42902-N-Hudson-Ct-Anthem-AZ-85086/55263650_zpid,33.8739,-112.14200000000001
+258956,21970555,"18056 N 45th Ave, Glendale, AZ 85308 ",85308,0.5298214554786682,145000,https://www.zillow.com/homedetails/18056-N-45th-Ave-Glendale-AZ-85308/7948897_zpid/,33.6506,-112.15700000000001
+59128,22493023,"1735 W Kuralt Dr, Anthem, AZ 85086 ",85086,0.5290579199790955,269000,https://www.zillow.com/homedetails/1735-W-Kuralt-Dr-Anthem-AZ-85086/67785800_zpid/,33.8465,-112.09700000000001

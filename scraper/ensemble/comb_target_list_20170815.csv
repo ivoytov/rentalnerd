@@ -1,0 +1,23 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+8944927,21974537,"24640 W Sheraton Ln, Buckeye, AZ 85326 ",85326,178900,23192.3418,-0.8704,0.5504,5150.0,https://www.zillow.com/homedetails/24640-W-Sheraton-Ln-Buckeye-AZ-85326/95186732_zpid/
+927136,21973950,"23802 W Chipman Rd, Buckeye, AZ 85326 ",85326,219900,39810.8789,-0.819,0.5501,5293.0,https://www.zillow.com/homedetails/23802-W-Chipman-Rd-Buckeye-AZ-85326/95158921_zpid/
+8959480,21975350,"25811 W Watkins St, Buckeye, AZ 85326 ",85326,234900,72748.0703,-0.6903,0.5498,5220.0,https://www.zillow.com/homedetails/25811-W-Watkins-St-Buckeye-AZ-85326/2093856636_zpid/
+1852740,21254438,"4003 W Kirkland Ave, Queen Creek, AZ 85142 ",85142,239500,75768.7734,-0.6836,0.5489,5232.0,http://www.zillow.com/homedetails/4003-W-Kirkland-Ave-Queen-Creek-AZ-85142/124170942_zpid/
+935720,22168028,"25768 W Pleasant Ln, Buckeye, AZ 85326 ",85326,159900,50155.457,-0.6863,0.5485,3341.0,https://www.zillow.com/homedetails/25768-W-Pleasant-Ln-Buckeye-AZ-85326/81994172_zpid/
+933684,21975036,"25557 W St Kateri Dr, Buckeye, AZ 85326 ",85326,239000,73418.6875,-0.6928,0.5455,5249.0,https://www.zillow.com/homedetails/25557-W-St-Kateri-Dr-Buckeye-AZ-85326/81998195_zpid/
+8962076,21975250,"25741 W Watkins St, Buckeye, AZ 85326 ",85326,232950,63940.4414,-0.7255,0.5452,5270.0,https://www.zillow.com/homedetails/25741-W-Watkins-St-Buckeye-AZ-85326/2093889774_zpid/
+8957471,21975281,"25756 W Watkins St, Buckeye, AZ 85326 ",85326,229456,65321.9375,-0.7153,0.5447,5240.0,https://www.zillow.com/homedetails/25756-W-Watkins-St-Buckeye-AZ-85326/2093960925_zpid/
+889057,22029538,"30206 W Cheery Lynn Rd, Buckeye, AZ 85396 ",85396,229999,131282.7656,-0.4292,0.5445,2480.0,https://www.zillow.com/homedetails/30206-W-Cheery-Lynn-Rd-Buckeye-AZ-85396/81983777_zpid/
+8951488,21899311,"2026 S 172nd Ln, Goodyear, AZ 85338 ",85338,174900,71907.0938,-0.5889,0.5437,2811.0,https://www.zillow.com/homedetails/2026-S-172nd-Ln-Goodyear-AZ-85338/55287385_zpid/
+7550962,22091787,"349 N 88th St, Mesa, AZ 85207 ",85207,145900,13535.7344,-0.9072,0.5433,4615.0,https://www.zillow.com/homedetails/349-N-88th-St-Mesa-AZ-85207/8071420_zpid/
+940741,21987084,"5764 S 236th Dr, Buckeye, AZ 85326 ",85326,183900,71286.2578,-0.6124,0.5432,3548.0,https://www.zillow.com/homedetails/5764-S-236th-Dr-Buckeye-AZ-85326/82826956_zpid/
+934897,22127865,"25694 W Victory St, Buckeye, AZ 85326 ",85326,226900,58620.7891,-0.7416,0.543,5273.0,https://www.zillow.com/homedetails/25694-W-Victory-St-Buckeye-AZ-85326/67796928_zpid/
+934976,22270988,"25702 W Forest Grove Ave, Buckeye, AZ 85326 ",85326,219000,76064.4844,-0.6527,0.5428,4938.0,https://www.zillow.com/homedetails/25702-W-Forest-Grove-Ave-Buckeye-AZ-85326/67796951_zpid/
+7434050,22053634,"10218 E Bramble Ave, Mesa, AZ 85208 ",85208,159000,87814.125,-0.4477,0.5425,677.0,https://www.zillow.com/homedetails/10218-E-Bramble-Ave-Mesa-AZ-85208/8087032_zpid/
+926566,21973917,"23712 W La Salle St, Buckeye, AZ 85326 ",85326,163000,59214.3164,-0.6367,0.5423,2876.5,https://www.zillow.com/homedetails/23712-W-La-Salle-St-Buckeye-AZ-85326/82828752_zpid/
+928709,21974127,"24005 W Chambers St, Buckeye, AZ 85326 ",85326,166000,60311.8438,-0.6367,0.5423,3033.5,https://www.zillow.com/homedetails/24005-W-Chambers-St-Buckeye-AZ-85326/82827236_zpid/
+926566,21973917,"23712 W La Salle St, Buckeye, AZ 85326 ",85326,163000,59214.3164,-0.6367,0.5423,2876.5,https://www.zillow.com/homedetails/23712-W-La-Salle-St-Buckeye-AZ-85326/82828752_zpid/
+928709,21974127,"24005 W Chambers St, Buckeye, AZ 85326 ",85326,166000,60311.8438,-0.6367,0.5423,3033.5,https://www.zillow.com/homedetails/24005-W-Chambers-St-Buckeye-AZ-85326/82827236_zpid/
+8952461,21974494,"24617 W Sheraton Ln, Buckeye, AZ 85326 ",85326,191900,35920.7148,-0.8128,0.542,5174.0,https://www.zillow.com/homedetails/24617-W-Sheraton-Ln-Buckeye-AZ-85326/95127725_zpid/
+8955871,21959396,"6929 W Sophie Ln, Laveen, AZ 85339 ",85339,249800,101382.6562,-0.5941,0.542,5069.0,https://www.zillow.com/homedetails/6929-W-Sophie-Ln-Laveen-AZ-85339/81981174_zpid/
+940340,21986309,"5461 S Dove Hl, Buckeye, AZ 85326 ",85326,184900,59412.8867,-0.6787,0.5407,4333.0,https://www.zillow.com/homedetails/5461-S-Dove-Hl-Buckeye-AZ-85326/62739577_zpid/

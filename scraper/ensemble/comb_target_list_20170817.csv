@@ -1,0 +1,21 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+8962076,21975250,"25741 W Watkins St, Buckeye, AZ 85326 ",85326,232950,58515.0391,-0.7488,0.5704,5383.0,https://www.zillow.com/homedetails/25741-W-Watkins-St-Buckeye-AZ-85326/2093889774_zpid/
+8944927,21974537,"24640 W Sheraton Ln, Buckeye, AZ 85326 ",85326,178900,40311.2344,-0.7747,0.5675,4930.0,https://www.zillow.com/homedetails/24640-W-Sheraton-Ln-Buckeye-AZ-85326/95186732_zpid/
+8962077,21975249,"25748 W Watkins St, Buckeye, AZ 85326 ",85326,212900,52592.543,-0.753,0.567,5318.0,https://www.zillow.com/homedetails/25748-W-Watkins-St-Buckeye-AZ-85326/2093772852_zpid/
+8952461,21974494,"24617 W Sheraton Ln, Buckeye, AZ 85326 ",85326,191900,42669.5117,-0.7776,0.5656,5183.0,https://www.zillow.com/homedetails/24617-W-Sheraton-Ln-Buckeye-AZ-85326/95127725_zpid/
+8957471,21975281,"25756 W Watkins St, Buckeye, AZ 85326 ",85326,229456,56164.9766,-0.7552,0.5649,5384.0,https://www.zillow.com/homedetails/25756-W-Watkins-St-Buckeye-AZ-85326/2093960925_zpid/
+8959479,21975342,"25773 W Watkins St, Buckeye, AZ 85326 ",85326,222025,51719.2148,-0.7671,0.5642,5372.0,https://www.zillow.com/homedetails/25773-W-Watkins-St-Buckeye-AZ-85326/2093889466_zpid/
+8959480,21975350,"25811 W Watkins St, Buckeye, AZ 85326 ",85326,234900,49176.0391,-0.7907,0.5602,5410.0,https://www.zillow.com/homedetails/25811-W-Watkins-St-Buckeye-AZ-85326/2093856636_zpid/
+7478654,21975344,"25780 W Watkins St, Buckeye, AZ 85326 ",85326,204898,56036.2734,-0.7265,0.5595,5180.0,https://www.zillow.com/homedetails/25780-W-Watkins-St-Buckeye-AZ-85326/2094788129_zpid/
+915987,21972605,"21607 W Durango St, Buckeye, AZ 85326 ",85326,209000,67601.2188,-0.6765,0.5584,5007.0,https://www.zillow.com/homedetails/21607-W-Durango-St-Buckeye-AZ-85326/95136061_zpid/
+927136,21973950,"23802 W Chipman Rd, Buckeye, AZ 85326 ",85326,219900,72282.6172,-0.6713,0.558,5158.0,https://www.zillow.com/homedetails/23802-W-Chipman-Rd-Buckeye-AZ-85326/95158921_zpid/
+912985,22286715,"1842 S 222nd Ln, Buckeye, AZ 85326 ",85326,235900,70057.8359,-0.703,0.5549,5363.0,https://www.zillow.com/homedetails/1842-S-222nd-Ln-Buckeye-AZ-85326/71615713_zpid/
+8947789,17960840,"12334 W Cactus Blossom Trl, Peoria, AZ 85383 ",85383,246087,74876.6484,-0.6957,0.5549,5387.0,https://www.zillow.com/homedetails/12334-W-Cactus-Blossom-Trl-Peoria-AZ-85383/2094266970_zpid/
+2043003,22101262,"1163 W Argon St, Mesa, AZ 85201 ",85201,238900,109971.7578,-0.5397,0.5541,4601.0,http://www.zillow.com/homedetails/1163-W-Argon-St-Mesa-AZ-85201/95176902_zpid/
+934976,22270988,"25702 W Forest Grove Ave, Buckeye, AZ 85326 ",85326,219000,41985.3711,-0.8083,0.5527,5402.0,https://www.zillow.com/homedetails/25702-W-Forest-Grove-Ave-Buckeye-AZ-85326/67796951_zpid/
+7433027,22243221,"10352 W Devonshire Ave, Phoenix, AZ 85037 ",85037,192500,77013.7422,-0.5999,0.5527,3915.0,https://www.zillow.com/homedetails/10352-W-Devonshire-Ave-Phoenix-AZ-85037/95131190_zpid/
+8963876,22236728,"443 N 63rd Ln, Phoenix, AZ 85043 ",85043,179900,43946.0391,-0.7557,0.5516,4874.0,https://www.zillow.com/homedetails/443-N-63rd-Ln-Phoenix-AZ-85043/2093759310_zpid/
+1431074,21966254,"6911 W Via Del Sol Dr, Glendale, AZ 85310 ",85310,240000,130376.8672,-0.4568,0.5511,3527.0,http://www.zillow.com/homedetails/6911-W-Via-Del-Sol-Dr-Glendale-AZ-85310/7880849_zpid
+935720,22168028,"25768 W Pleasant Ln, Buckeye, AZ 85326 ",85326,159900,50365.0,-0.685,0.5507,3522.0,https://www.zillow.com/homedetails/25768-W-Pleasant-Ln-Buckeye-AZ-85326/81994172_zpid/
+889057,22029538,"30206 W Cheery Lynn Rd, Buckeye, AZ 85396 ",85396,229999,65248.2578,-0.7163,0.5498,5363.0,https://www.zillow.com/homedetails/30206-W-Cheery-Lynn-Rd-Buckeye-AZ-85396/81983777_zpid/
+1847885,21923883,"11437 W St John Rd Surprise, AZ 85378 ",85378,227479,67509.3281,-0.7032,0.5497,5333.0,https://www.zillow.com/homedetails/11437-W-St-John-Rd-Surprise-AZ-85378/95141806_zpid/

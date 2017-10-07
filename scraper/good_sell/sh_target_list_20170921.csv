@@ -1,0 +1,21 @@
+property_id,transaction_id,address,zipcode,ypred,list,url,lat,long
+1427461,22385279,"4108 W Mariposa Grande, Glendale, AZ 85310 ",85310,0.9152395725250244,279900,https://www.zillow.com/homedetails/4108-W-Mariposa-Grande-Glendale-AZ-85310/7930042_zpid/,33.7035,-112.149
+8954938,22431157,"1644 E Villa Maria Dr, Phoenix, AZ 85022 ",85022,0.9074310064315796,264900,https://www.zillow.com/homedetails/1644-E-Villa-Maria-Dr-Phoenix-AZ-85022/8001263_zpid/,33.6521,-112.046
+59112,22311661,"1727 W Kuralt Dr, Anthem, AZ 85086 ",85086,0.9010940790176392,280000,https://www.zillow.com/homedetails/1727-W-Kuralt-Dr-Anthem-AZ-85086/67785798_zpid/,33.8465,-112.09700000000001
+59109,22363595,"1725 W Maddock Rd, Phoenix, AZ 85086 ",85086,0.8939561247825623,299000,https://www.zillow.com/homedetails/1725-W-Maddock-Rd-Phoenix-AZ-85086/81960480_zpid/,33.8209,-112.096
+240143,22485152,"17424 N 2nd Ave, Phoenix, AZ 85023 ",85023,0.8913041353225708,260000,https://www.zillow.com/homedetails/17424-N-2nd-Ave-Phoenix-AZ-85023/7958707_zpid/,33.6449,-112.07700000000001
+8978879,22533137,"3626 W Villa Maria Dr, Glendale, AZ 85308 ",85308,0.8903157711029053,262500,https://www.zillow.com/homedetails/3626-W-Villa-Maria-Dr-Glendale-AZ-85308/7947889_zpid/,33.6518,-112.137
+8987314,22485154,"17842 N 41st Dr, Glendale, AZ 85308 ",85308,0.8842600584030151,234000,https://www.zillow.com/homedetails/17842-N-41st-Dr-Glendale-AZ-85308/88889414_zpid/,33.649,-112.148
+252595,22362127,"3042 W Country Club Ter, Phoenix, AZ 85027 ",85027,0.8820602297782898,299000,https://www.zillow.com/homedetails/3042-W-Country-Club-Ter-Phoenix-AZ-85027/7932940_zpid/,33.6917,-112.124
+310033,22434236,"42708 N Livingstone Way, Anthem, AZ 85086 ",85086,0.8797160387039185,290000,https://www.zillow.com/homedetails/42708-N-Livingstone-Way-Anthem-AZ-85086/59269036_zpid/,33.8724,-112.137
+62198,22493048,"3826 W Ghost Flower Ln, Phoenix, AZ 85086 ",85086,0.8781924247741699,290000,https://www.zillow.com/homedetails/3826-W-Ghost-Flower-Ln-Phoenix-AZ-85086/81954479_zpid/,33.8283,-112.14200000000001
+235047,22485137,"16014 N 23rd Ave, Phoenix, AZ 85023 ",85023,0.8764563202857971,223500,https://www.zillow.com/homedetails/16014-N-23rd-Ave-Phoenix-AZ-85023/7961296_zpid/,33.6317,-112.10799999999999
+8968872,22541378,"3232 E Sequoia Dr, Phoenix, AZ 85050 ",85050,0.8708138465881348,305000,https://www.zillow.com/homedetails/3232-E-Sequoia-Dr-Phoenix-AZ-85050/7997588_zpid/,33.6633,-112.012
+372017,22526092,"4219 E Renee Dr, Phoenix, AZ 85050 ",85050,0.8707036375999451,305000,https://www.zillow.com/homedetails/4219-E-Renee-Dr-Phoenix-AZ-85050/8015156_zpid/,33.6555,-111.991
+374176,22293226,"4462 E Creosote Dr, Cave Creek, AZ 85331 ",85331,0.8676418662071228,293000,https://www.zillow.com/homedetails/4462-E-Creosote-Dr-Cave-Creek-AZ-85331/7980662_zpid/,33.7698,-111.984
+8976900,22371833,"34838 N 3rd Ave, Phoenix, AZ 85086 ",85086,0.8664851188659668,349900,https://www.zillow.com/homedetails/34838-N-3rd-Ave-Phoenix-AZ-85086/2093398563_zpid/,33.8012,-112.07799999999999
+223344,22632124,"1107 W Piute Ave, Phoenix, AZ 85027 ",85027,0.8652950525283813,269000,https://www.zillow.com/homedetails/1107-W-Piute-Ave-Phoenix-AZ-85027/7971983_zpid/,33.6625,-112.086
+8988453,22591153,"4028 W Blackhawk Dr, Glendale, AZ 85308 ",85308,0.8645880222320557,300000,https://www.zillow.com/homedetails/4028-W-Blackhawk-Dr-Glendale-AZ-85308/7936786_zpid/,33.6709,-112.146
+8987867,22485334,"902 W Utopia Rd, Phoenix, AZ 85027 ",85027,0.8637877106666565,273000,https://www.zillow.com/homedetails/902-W-Utopia-Rd-Phoenix-AZ-85027/7971995_zpid/,33.6622,-112.085
+8980132,22533687,"4125 W Hartford Ave, Glendale, AZ 85308 ",85308,0.8607985377311707,245000,https://www.zillow.com/homedetails/4125-W-Hartford-Ave-Glendale-AZ-85308/7947016_zpid/,33.641999999999996,-112.148
+247392,22564589,"3426 W Phelps Rd, Phoenix, AZ 85053 ",85053,0.8606685996055603,263000,https://www.zillow.com/homedetails/3426-W-Phelps-Rd-Phoenix-AZ-85053/7953392_zpid/,33.6385,-112.133

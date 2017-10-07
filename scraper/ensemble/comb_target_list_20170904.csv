@@ -1,0 +1,23 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+921192,21973306,"22639 W Tonto St, Buckeye, AZ 85326 ",85326,155000,41935.5156,-0.7294,0.5678,4296.0,https://www.zillow.com/homedetails/22639-W-Tonto-St-Buckeye-AZ-85326/81990995_zpid/
+1025798,22133093,"1866 E Lindrick Dr, Chandler, AZ 85249 ",85249,163000,102466.2891,-0.3714,0.5583,467.0,https://www.zillow.com/homedetails/1866-E-Lindrick-Dr-Chandler-AZ-85249/8224975_zpid/
+935720,22168028,"25768 W Pleasant Ln, Buckeye, AZ 85326 ",85326,159900,56637.0859,-0.6458,0.5581,3460.0,https://www.zillow.com/homedetails/25768-W-Pleasant-Ln-Buckeye-AZ-85326/81994172_zpid/
+8962076,21975250,"25741 W Watkins St, Buckeye, AZ 85326 ",85326,232950,76348.0547,-0.6723,0.5544,5974.0,https://www.zillow.com/homedetails/25741-W-Watkins-St-Buckeye-AZ-85326/2093889774_zpid/
+926566,21973917,"23712 W La Salle St, Buckeye, AZ 85326 ",85326,163000,74177.375,-0.5449,0.5536,2136.0,https://www.zillow.com/homedetails/23712-W-La-Salle-St-Buckeye-AZ-85326/82828752_zpid/
+8959480,21975350,"25811 W Watkins St, Buckeye, AZ 85326 ",85326,234900,56528.2344,-0.7594,0.5521,6147.0,https://www.zillow.com/homedetails/25811-W-Watkins-St-Buckeye-AZ-85326/2093856636_zpid/
+1140418,21895366,"11601 W Poinsettia Dr, El Mirage, AZ 85335 ",85335,158000,67165.8828,-0.5749,0.5517,2302.0,https://www.zillow.com/homedetails/11601-W-Poinsettia-Dr-El-Mirage-AZ-85335/59277980_zpid/
+8962363,22252724,"327 N 169th Ave, Goodyear, AZ 85338 ",85338,140000,57840.1484,-0.5869,0.551,1571.0,https://www.zillow.com/homedetails/327-N-169th-Ave-Goodyear-AZ-85338/88788226_zpid/
+1145331,22260940,"12229 W Larkspur Rd, El Mirage, AZ 85335 ",85335,150000,82835.2031,-0.4478,0.5505,717.0,https://www.zillow.com/homedetails/12229-W-Larkspur-Rd-El-Mirage-AZ-85335/29618318_zpid/
+8944927,21974537,"24640 W Sheraton Ln, Buckeye, AZ 85326 ",85326,178900,51520.6055,-0.712,0.5498,5206.5,https://www.zillow.com/homedetails/24640-W-Sheraton-Ln-Buckeye-AZ-85326/95186732_zpid/
+8952461,21974494,"24617 W Sheraton Ln, Buckeye, AZ 85326 ",85326,191900,59982.8047,-0.6874,0.5498,5380.5,https://www.zillow.com/homedetails/24617-W-Sheraton-Ln-Buckeye-AZ-85326/95127725_zpid/
+8944927,21974537,"24640 W Sheraton Ln, Buckeye, AZ 85326 ",85326,178900,51520.6055,-0.712,0.5498,5206.5,https://www.zillow.com/homedetails/24640-W-Sheraton-Ln-Buckeye-AZ-85326/95186732_zpid/
+8952461,21974494,"24617 W Sheraton Ln, Buckeye, AZ 85326 ",85326,191900,59982.8047,-0.6874,0.5498,5380.5,https://www.zillow.com/homedetails/24617-W-Sheraton-Ln-Buckeye-AZ-85326/95127725_zpid/
+8957471,21975281,"25756 W Watkins St, Buckeye, AZ 85326 ",85326,229456,80714.6328,-0.6482,0.5487,5850.0,https://www.zillow.com/homedetails/25756-W-Watkins-St-Buckeye-AZ-85326/2093960925_zpid/
+928709,21974127,"24005 W Chambers St, Buckeye, AZ 85326 ",85326,166000,74044.5234,-0.5539,0.5475,2402.0,https://www.zillow.com/homedetails/24005-W-Chambers-St-Buckeye-AZ-85326/82827236_zpid/
+8959479,21975342,"25773 W Watkins St, Buckeye, AZ 85326 ",85326,222025,58862.0117,-0.7349,0.547,6054.0,https://www.zillow.com/homedetails/25773-W-Watkins-St-Buckeye-AZ-85326/2093889466_zpid/
+8962077,21975249,"25748 W Watkins St, Buckeye, AZ 85326 ",85326,212900,55547.9844,-0.7391,0.5457,6001.0,https://www.zillow.com/homedetails/25748-W-Watkins-St-Buckeye-AZ-85326/2093772852_zpid/
+927136,21973950,"23802 W Chipman Rd, Buckeye, AZ 85326 ",85326,219900,75267.6484,-0.6577,0.5454,5760.0,https://www.zillow.com/homedetails/23802-W-Chipman-Rd-Buckeye-AZ-85326/95158921_zpid/
+26685,22125543,"8462 W Lewis Ave, Phoenix, AZ 85037 ",85037,159999,88724.2188,-0.4455,0.5446,904.0,https://www.zillow.com/homedetails/8462-W-Lewis-Ave-Phoenix-AZ-85037/82823097_zpid/
+8951488,21899311,"2026 S 172nd Ln, Goodyear, AZ 85338 ",85338,174900,58892.9688,-0.6633,0.5444,4537.0,https://www.zillow.com/homedetails/2026-S-172nd-Ln-Goodyear-AZ-85338/55287385_zpid/
+7478654,21975344,"25780 W Watkins St, Buckeye, AZ 85326 ",85326,204898,45338.5625,-0.7787,0.5443,6024.0,https://www.zillow.com/homedetails/25780-W-Watkins-St-Buckeye-AZ-85326/2094788129_zpid/
+8970449,22291038,"14530 S Tuthill Rd, Buckeye, AZ 85326 ",85326,203990,49824.5508,-0.7558,0.5443,5965.0,https://www.zillow.com/homedetails/14530-S-Tuthill-Rd-Buckeye-AZ-85326/2093580904_zpid/

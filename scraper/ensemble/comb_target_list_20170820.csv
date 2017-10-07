@@ -1,0 +1,25 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+8959480,21975350,"25811 W Watkins St, Buckeye, AZ 85326 ",85326,234900,32424.4824,-0.862,0.5544,5437.0,https://www.zillow.com/homedetails/25811-W-Watkins-St-Buckeye-AZ-85326/2093856636_zpid/
+7478654,21975344,"25780 W Watkins St, Buckeye, AZ 85326 ",85326,204898,34957.5898,-0.8294,0.5514,5374.0,https://www.zillow.com/homedetails/25780-W-Watkins-St-Buckeye-AZ-85326/2094788129_zpid/
+1852740,21254438,"4003 W Kirkland Ave, Queen Creek, AZ 85142 ",85142,239500,85223.4609,-0.6442,0.5512,5225.0,http://www.zillow.com/homedetails/4003-W-Kirkland-Ave-Queen-Creek-AZ-85142/124170942_zpid/
+8847810,22183198,"849 E Devon Rd, Gilbert, AZ 85296 ",85296,249900,105813.0391,-0.5766,0.5508,5044.0,https://www.zillow.com/homedetails/849-E-Devon-Rd-Gilbert-AZ-85296/67766936_zpid/
+8944927,21974537,"24640 W Sheraton Ln, Buckeye, AZ 85326 ",85326,178900,44556.1875,-0.7509,0.5499,4781.0,https://www.zillow.com/homedetails/24640-W-Sheraton-Ln-Buckeye-AZ-85326/95186732_zpid/
+8952461,21974494,"24617 W Sheraton Ln, Buckeye, AZ 85326 ",85326,191900,53404.4727,-0.7217,0.5485,4910.0,https://www.zillow.com/homedetails/24617-W-Sheraton-Ln-Buckeye-AZ-85326/95127725_zpid/
+2043003,22101262,"1163 W Argon St, Mesa, AZ 85201 ",85201,238900,84316.4453,-0.6471,0.5484,5233.0,http://www.zillow.com/homedetails/1163-W-Argon-St-Mesa-AZ-85201/95176902_zpid/
+7550962,22091787,"349 N 88th St, Mesa, AZ 85207 ",85207,145900,29559.9199,-0.7974,0.5476,3973.0,https://www.zillow.com/homedetails/349-N-88th-St-Mesa-AZ-85207/8071420_zpid/
+927136,21973950,"23802 W Chipman Rd, Buckeye, AZ 85326 ",85326,219900,61840.9219,-0.7188,0.5473,5281.0,https://www.zillow.com/homedetails/23802-W-Chipman-Rd-Buckeye-AZ-85326/95158921_zpid/
+8957471,21975281,"25756 W Watkins St, Buckeye, AZ 85326 ",85326,229456,70913.75,-0.6909,0.5457,5288.5,https://www.zillow.com/homedetails/25756-W-Watkins-St-Buckeye-AZ-85326/2093960925_zpid/
+8962076,21975250,"25741 W Watkins St, Buckeye, AZ 85326 ",85326,232950,67574.7812,-0.7099,0.5457,5358.5,https://www.zillow.com/homedetails/25741-W-Watkins-St-Buckeye-AZ-85326/2093889774_zpid/
+8957471,21975281,"25756 W Watkins St, Buckeye, AZ 85326 ",85326,229456,70913.75,-0.6909,0.5457,5288.5,https://www.zillow.com/homedetails/25756-W-Watkins-St-Buckeye-AZ-85326/2093960925_zpid/
+8962076,21975250,"25741 W Watkins St, Buckeye, AZ 85326 ",85326,232950,67574.7812,-0.7099,0.5457,5358.5,https://www.zillow.com/homedetails/25741-W-Watkins-St-Buckeye-AZ-85326/2093889774_zpid/
+7433027,22243221,"10352 W Devonshire Ave, Phoenix, AZ 85037 ",85037,192500,76680.3359,-0.6017,0.5451,3947.0,https://www.zillow.com/homedetails/10352-W-Devonshire-Ave-Phoenix-AZ-85037/95131190_zpid/
+8970449,22291038,"14530 S Tuthill Rd, Buckeye, AZ 85326 ",85326,203990,58581.8438,-0.7128,0.5447,5091.0,https://www.zillow.com/homedetails/14530-S-Tuthill-Rd-Buckeye-AZ-85326/2093580904_zpid/
+8962077,21975249,"25748 W Watkins St, Buckeye, AZ 85326 ",85326,212900,54333.2617,-0.7448,0.5439,5293.5,https://www.zillow.com/homedetails/25748-W-Watkins-St-Buckeye-AZ-85326/2093772852_zpid/
+8959479,21975342,"25773 W Watkins St, Buckeye, AZ 85326 ",85326,222025,48485.6211,-0.7816,0.5439,5403.5,https://www.zillow.com/homedetails/25773-W-Watkins-St-Buckeye-AZ-85326/2093889466_zpid/
+8962077,21975249,"25748 W Watkins St, Buckeye, AZ 85326 ",85326,212900,54333.2617,-0.7448,0.5439,5293.5,https://www.zillow.com/homedetails/25748-W-Watkins-St-Buckeye-AZ-85326/2093772852_zpid/
+8959479,21975342,"25773 W Watkins St, Buckeye, AZ 85326 ",85326,222025,48485.6211,-0.7816,0.5439,5403.5,https://www.zillow.com/homedetails/25773-W-Watkins-St-Buckeye-AZ-85326/2093889466_zpid/
+8708656,21948735,"17992 N Painted Spurge Ct, Surprise, AZ 85374 ",85374,244000,134343.7812,-0.4494,0.543,3508.0,https://www.zillow.com/homedetails/17992-N-Painted-Spurge-Ct-Surprise-AZ-85374/8126581_zpid/
+1847885,21923883,"11437 W St John Rd Surprise, AZ 85378 ",85378,227479,37109.5703,-0.8369,0.543,5450.0,https://www.zillow.com/homedetails/11437-W-St-John-Rd-Surprise-AZ-85378/95141806_zpid/
+8962799,22186363,"9937 E Empress Ave, Mesa, AZ 85208 ",85208,207900,73811.4688,-0.645,0.5421,4783.0,https://www.zillow.com/homedetails/9937-E-Empress-Ave-Mesa-AZ-85208/71621505_zpid/
+8963876,22236728,"443 N 63rd Ln, Phoenix, AZ 85043 ",85043,179900,15855.2744,-0.9119,0.5408,5354.0,https://www.zillow.com/homedetails/443-N-63rd-Ln-Phoenix-AZ-85043/2093759310_zpid/
+8958678,22240727,"11035 E Wier Ave, Mesa, AZ 85208 ",85208,209900,114936.625,-0.4524,0.5404,2411.0,https://www.zillow.com/homedetails/11035-E-Wier-Ave-Mesa-AZ-85208/50192777_zpid/

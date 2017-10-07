@@ -1,0 +1,21 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+694254,22692550,"3401 W Thomas Rd, Phoenix, AZ 85017 ",85017,149900,196557.8594,0.3113,0.5912,1036.0,https://www.zillow.com/homedetails/3401-W-Thomas-Rd-Phoenix-AZ-85017/2098520423_zpid/
+8958977,22539508,"2545 E Piute Ave, Phoenix, AZ 85050 ",85050,159000,183516.9219,0.1542,0.5912,1038.0,https://www.zillow.com/homedetails/2545-E-Piute-Ave-Phoenix-AZ-85050/7994601_zpid/
+9019126,22731642,"3703 W Lawrence Rd, Phoenix, AZ 85019 ",85019,115000,124787.1016,0.0851,0.5912,1055.0,https://www.zillow.com/homedetails/3703-W-Lawrence-Rd-Phoenix-AZ-85019/7758466_zpid/
+1351681,22644247,"5976 W Augusta Ave, Glendale, AZ 85301 ",85301,110000,117818.7109,0.0711,0.5912,1060.0,https://www.zillow.com/homedetails/5976-W-Augusta-Ave-Glendale-AZ-85301/7705387_zpid/
+695550,22513634,"2702 N 40th Dr, Phoenix, AZ 85009 ",85009,109900,116027.9609,0.0558,0.5912,1062.0,https://www.zillow.com/homedetails/2702-N-40th-Dr-Phoenix-AZ-85009/7512843_zpid/
+445988,22692559,"4719 N 92nd Ave, Phoenix, AZ 85037 ",85037,135000,140900.0,0.0437,0.5912,1063.0,https://www.zillow.com/homedetails/4719-N-92nd-Ave-Phoenix-AZ-85037/7466534_zpid/
+34588,22711819,"2228 E Roeser Rd, Phoenix, AZ 85040 ",85040,119000,122173.9609,0.0267,0.5912,1073.0,https://www.zillow.com/homedetails/2228-E-Roeser-Rd-Phoenix-AZ-85040/7545893_zpid/
+427189,22566216,"6002 W Clarendon Ave, Phoenix, AZ 85033 ",85033,139900,138641.625,-0.009,0.5912,1092.0,https://www.zillow.com/homedetails/6002-W-Clarendon-Ave-Phoenix-AZ-85033/7496670_zpid/
+8989493,22505820,"3646 N 79th Dr, Phoenix, AZ 85033 ",85033,115000,113657.0,-0.0117,0.5912,1094.0,https://www.zillow.com/homedetails/3646-N-79th-Dr-Phoenix-AZ-85033/7478627_zpid/
+458856,22503684,"5551 W Whitton Ave, Phoenix, AZ 85031 ",85031,124888,123250.4844,-0.0131,0.5912,1096.0,https://www.zillow.com/homedetails/5551-W-Whitton-Ave-Phoenix-AZ-85031/7489728_zpid/
+8997446,22571730,"3205 W Washington St, Phoenix, AZ 85009 ",85009,135000,132734.7188,-0.0168,0.5912,1103.0,https://www.zillow.com/homedetails/3205-W-Washington-St-Phoenix-AZ-85009/7514655_zpid/
+343877,22545341,"2123 W Tonto St, Phoenix, AZ 85009 ",85009,105000,102170.9141,-0.0269,0.5912,1107.0,https://www.zillow.com/homedetails/2123-W-Tonto-St-Phoenix-AZ-85009/7515873_zpid/
+460110,22637518,"5744 W Fairmount Ave, Phoenix, AZ 85031 ",85031,150000,146846.2812,-0.021,0.5912,1111.0,https://www.zillow.com/homedetails/5744-W-Fairmount-Ave-Phoenix-AZ-85031/67081866_zpid/
+451186,22543113,"3607 N 51st Ave, Phoenix, AZ 85031 ",85031,130000,126411.7891,-0.0276,0.5912,1114.0,https://www.zillow.com/homedetails/3607-N-51st-Ave-Phoenix-AZ-85031/7508531_zpid/
+8966815,22701018,"8146 W Weldon Ave, Phoenix, AZ 85033 ",85033,159999,155468.3281,-0.0283,0.5912,1120.0,https://www.zillow.com/homedetails/8146-W-Weldon-Ave-Phoenix-AZ-85033/7479034_zpid/
+33794,22527520,"1646 E Chambers St, Phoenix, AZ 85040 ",85040,115000,110303.7031,-0.0408,0.5912,1121.0,https://www.zillow.com/homedetails/1646-E-Chambers-St-Phoenix-AZ-85040/7547157_zpid/
+341514,22579457,"1323 N 30th Dr, Phoenix, AZ 85009 ",85009,109900,104570.2188,-0.0485,0.5912,1124.0,https://www.zillow.com/homedetails/1323-N-30th-Dr-Phoenix-AZ-85009/7515891_zpid/
+491847,22692554,"5624 W Edgemont Ave, Phoenix, AZ 85035 ",85035,129000,123149.1719,-0.0454,0.5912,1127.0,https://www.zillow.com/homedetails/5624-W-Edgemont-Ave-Phoenix-AZ-85035/7492343_zpid/
+479557,22645200,"2212 N 49th Ave, Phoenix, AZ 85035 ",85035,110000,103945.5,-0.055,0.5912,1128.0,https://www.zillow.com/homedetails/2212-N-49th-Ave-Phoenix-AZ-85035/7494255_zpid/
+9004507,22628304,"1756 W Argon St, Mesa, AZ 85201 ",85201,130000,123931.7344,-0.0467,0.5912,1130.0,https://www.zillow.com/homedetails/1756-W-Argon-St-Mesa-AZ-85201/7612388_zpid/

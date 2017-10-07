@@ -1,0 +1,8 @@
+property_id,transaction_id,address,zipcode,good_sell_prob,list,url,lat,long,date_listed,transaction_date,price,good_sell
+40413,22115312,"3226 S 74th Ln, Phoenix, AZ 85043 ",85043,0.4606114625930786,175000,https://www.zillow.com/homedetails/3226-S-74th-Ln-Phoenix-AZ-85043/59271905_zpid/,33.4181,-112.221,2017-05-20,2017-05-20,176000,True
+325257,22580286,"732 W Rose Ln, Phoenix, AZ 85013 ",85013,0.4162093102931976,379900,https://www.zillow.com/homedetails/732-W-Rose-Ln-Phoenix-AZ-85013/7775033_zpid/,33.5282,-112.084,2017-08-25,2017-08-25,375000,True
+480845,22488168,"2323 N 48th Dr, Phoenix, AZ 85035 ",85035,0.4162093102931976,153000,https://www.zillow.com/homedetails/2323-N-48th-Dr-Phoenix-AZ-85035/7499199_zpid/,33.4742,-112.163,2017-08-05,2017-08-05,153000,True
+1089168,22524403,"549 W Shannon St, Chandler, AZ 85225 ",85225,0.4162093102931976,235000,https://www.zillow.com/homedetails/549-W-Shannon-St-Chandler-AZ-85225/2093059391_zpid/,33.3196,-111.849,2017-08-19,2017-08-19,175500,False
+7419640,22493593,"19419 N 67th Dr, Glendale, AZ 85308 ",85308,0.4162093102931976,329000,https://www.zillow.com/homedetails/19419-N-67th-Dr-Glendale-AZ-85308/7890987_zpid/,33.6609,-112.203,2017-08-08,2017-08-08,321000,True
+8995826,22559011,"4319 W Kimberly Way, Glendale, AZ 85308 ",85308,0.4162093102931976,229900,https://www.zillow.com/homedetails/4319-W-Kimberly-Way-Glendale-AZ-85308/7938744_zpid/,33.6578,-112.153,2017-08-22,2017-08-22,227700,True
+9006630,22719287,"4201 N 27th Dr, Phoenix, AZ 85017 ",85017,0.4162093102931976,115900,https://www.zillow.com/homedetails/4201-N-27th-Dr-Phoenix-AZ-85017/7768652_zpid/,33.4972,-112.118,2017-09-25,2017-09-25,98000,False

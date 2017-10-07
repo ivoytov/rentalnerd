@@ -1,0 +1,21 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+89807,22582038,"2096 W Vineyard Plains Dr, Queen Creek, AZ 85142 ",85142,215000,33587.4492,-0.8438,0.9039,7731.0,https://www.zillow.com/homedetails/2096-W-Vineyard-Plains-Dr-Queen-Creek-AZ-85142/67434083_zpid/
+107243,22469783,"34409 N Levi Ct, Queen Creek, AZ 85142 ",85142,190000,64415.4961,-0.661,0.9021,6857.0,https://www.zillow.com/homedetails/34409-N-Levi-Ct-Queen-Creek-AZ-85142/111039502_zpid/
+89170,22582009,"2075 W Vineyard Plains Dr, Queen Creek, AZ 85142 ",85142,214000,34019.7852,-0.841,0.9007,7728.0,https://www.zillow.com/homedetails/2075-W-Vineyard-Plains-Dr-Queen-Creek-AZ-85142/67433786_zpid/
+8985348,22581788,"1731 W Cool Water Way, San Tan Valley, AZ 85142 ",85142,242000,56273.7695,-0.7675,0.8881,7743.5,https://www.zillow.com/homedetails/1731-W-Cool-Water-Way-San-Tan-Valley-AZ-85142/2093521740_zpid/
+80921,22581860,"1723 W Dugan Dr, Queen Creek, AZ 85142 ",85142,240000,-13124.0723,-1.0547,0.8881,7765.5,https://www.zillow.com/homedetails/1723-W-Dugan-Dr-Queen-Creek-AZ-85142/82260262_zpid/
+8996258,22562578,"509 S Mountain Rd, Mesa, AZ 85208 ",85208,182000,126348.9688,-0.3058,0.8749,638.0,https://www.zillow.com/homedetails/509-S-Mountain-Rd-Mesa-AZ-85208/8089896_zpid/
+3357780,22609257,"16129 W Miami St, Goodyear, AZ 85338 ",85338,209900,116179.5156,-0.4465,0.873,4022.0,https://www.zillow.com/homedetails/16129-W-Miami-St-Goodyear-AZ-85338/71624003_zpid/
+1150392,22485910,"12637 W Charter Oak Rd, El Mirage, AZ 85335 ",85335,169000,103516.5469,-0.3875,0.8673,1115.0,https://www.zillow.com/homedetails/12637-W-Charter-Oak-Rd-El-Mirage-AZ-85335/55284374_zpid/
+81434,22581820,"1778 W Sawtooth Way, Queen Creek, AZ 85142 ",85142,217500,111054.5703,-0.4894,0.8652,5521.0,https://www.zillow.com/homedetails/1778-W-Sawtooth-Way-Queen-Creek-AZ-85142/88903800_zpid/
+8971803,22628976,"314 S Aaron, Mesa, AZ 85208 ",85208,179900,106117.8281,-0.4101,0.8554,1804.0,https://www.zillow.com/homedetails/314-S-Aaron-Mesa-AZ-85208/81970140_zpid/
+433601,22566498,"11228 W Roma Ave, Phoenix, AZ 85037 ",85037,180000,108614.8438,-0.3966,0.8543,1568.0,https://www.zillow.com/homedetails/11228-W-Roma-Ave-Phoenix-AZ-85037/7488923_zpid/
+8989833,22512592,"9901 E Flower Ave, Mesa, AZ 85208 ",85208,219900,129093.7266,-0.4129,0.8536,3676.0,https://www.zillow.com/homedetails/9901-E-Flower-Ave-Mesa-AZ-85208/8091315_zpid/
+8951309,22583496,"9934 E Forge Ave, Mesa, AZ 85208 ",85208,235000,141426.0312,-0.3982,0.8536,4009.0,https://www.zillow.com/homedetails/9934-E-Forge-Ave-Mesa-AZ-85208/50193071_zpid/
+8998246,22577657,"1110 S Cerise, Mesa, AZ 85208 ",85208,225000,128474.9375,-0.429,0.8536,4371.0,https://www.zillow.com/homedetails/1110-S-Cerise-Mesa-AZ-85208/50193004_zpid/
+8996259,22562593,"520 S 111th Pl, Mesa, AZ 85208 ",85208,209000,103420.2266,-0.5052,0.8515,5430.0,https://www.zillow.com/homedetails/520-S-111th-Pl-Mesa-AZ-85208/67711193_zpid/
+1470871,22499541,"8875 W Willowbrook Dr, Peoria, AZ 85382 ",85382,219900,129747.625,-0.41,0.8506,3592.0,https://www.zillow.com/homedetails/8875-W-Willowbrook-Dr-Peoria-AZ-85382/67084751_zpid/
+8990681,22514496,"1711 N Queensbury, Mesa, AZ 85201 ",85201,229999,106928.6875,-0.5351,0.8462,6746.0,https://www.zillow.com/homedetails/1711-N-Queensbury-Mesa-AZ-85201/7605739_zpid/
+8999928,22590025,"3001 S 102nd Ln, Tolleson, AZ 85353 ",85353,214900,125595.625,-0.4156,0.8457,3502.0,https://www.zillow.com/homedetails/3001-S-102nd-Ln-Tolleson-AZ-85353/55255900_zpid/
+8951530,22604951,"9408 E Michigan Ave, Sun Lakes, AZ 85248 ",85248,239900,119188.1016,-0.5032,0.8454,6613.0,https://www.zillow.com/homedetails/9408-E-Michigan-Ave-Sun-Lakes-AZ-85248/8220886_zpid/
+511682,22662161,"12036 W Avenida Del Rey, Peoria, AZ 85383 ",85383,245000,113706.4297,-0.5359,0.8452,7127.0,https://www.zillow.com/homedetails/12036-W-Avenida-Del-Rey-Peoria-AZ-85383/95134281_zpid/
