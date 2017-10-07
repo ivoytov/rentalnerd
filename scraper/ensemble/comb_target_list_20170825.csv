@@ -1,0 +1,23 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+8944927,21974537,"24640 W Sheraton Ln, Buckeye, AZ 85326 ",85326,178900,67733.75,-0.6214,0.5511,4146.0,https://www.zillow.com/homedetails/24640-W-Sheraton-Ln-Buckeye-AZ-85326/95186732_zpid/
+8970449,22291038,"14530 S Tuthill Rd, Buckeye, AZ 85326 ",85326,203990,81215.3828,-0.6019,0.5502,4994.0,https://www.zillow.com/homedetails/14530-S-Tuthill-Rd-Buckeye-AZ-85326/2093580904_zpid/
+934976,22270988,"25702 W Forest Grove Ave, Buckeye, AZ 85326 ",85326,219000,92906.5859,-0.5758,0.5484,5186.0,https://www.zillow.com/homedetails/25702-W-Forest-Grove-Ave-Buckeye-AZ-85326/67796951_zpid/
+8952461,21974494,"24617 W Sheraton Ln, Buckeye, AZ 85326 ",85326,191900,73556.9219,-0.6167,0.548,4709.0,https://www.zillow.com/homedetails/24617-W-Sheraton-Ln-Buckeye-AZ-85326/95127725_zpid/
+8955871,21959396,"6929 W Sophie Ln, Laveen, AZ 85339 ",85339,249800,120910.7734,-0.516,0.5454,5338.0,https://www.zillow.com/homedetails/6929-W-Sophie-Ln-Laveen-AZ-85339/81981174_zpid/
+8962363,22252724,"327 N 169th Ave, Goodyear, AZ 85338 ",85338,140000,79668.0156,-0.4309,0.5454,430.0,https://www.zillow.com/homedetails/327-N-169th-Ave-Goodyear-AZ-85338/88788226_zpid/
+8962791,21938665,"325 S Aaron, Mesa, AZ 85208 ",85208,190000,96128.7656,-0.4941,0.544,2555.0,https://www.zillow.com/homedetails/325-S-Aaron-Mesa-AZ-85208/81989888_zpid/
+8957471,21975281,"25756 W Watkins St, Buckeye, AZ 85326 ",85326,229456,86792.1094,-0.6217,0.5434,5807.0,https://www.zillow.com/homedetails/25756-W-Watkins-St-Buckeye-AZ-85326/2093960925_zpid/
+927136,21973950,"23802 W Chipman Rd, Buckeye, AZ 85326 ",85326,219900,80913.5,-0.632,0.5433,5711.0,https://www.zillow.com/homedetails/23802-W-Chipman-Rd-Buckeye-AZ-85326/95158921_zpid/
+926566,21973917,"23712 W La Salle St, Buckeye, AZ 85326 ",85326,163000,72536.1406,-0.555,0.543,2251.5,https://www.zillow.com/homedetails/23712-W-La-Salle-St-Buckeye-AZ-85326/82828752_zpid/
+928709,21974127,"24005 W Chambers St, Buckeye, AZ 85326 ",85326,166000,69066.6875,-0.5839,0.543,2856.5,https://www.zillow.com/homedetails/24005-W-Chambers-St-Buckeye-AZ-85326/82827236_zpid/
+926566,21973917,"23712 W La Salle St, Buckeye, AZ 85326 ",85326,163000,72536.1406,-0.555,0.543,2251.5,https://www.zillow.com/homedetails/23712-W-La-Salle-St-Buckeye-AZ-85326/82828752_zpid/
+928709,21974127,"24005 W Chambers St, Buckeye, AZ 85326 ",85326,166000,69066.6875,-0.5839,0.543,2856.5,https://www.zillow.com/homedetails/24005-W-Chambers-St-Buckeye-AZ-85326/82827236_zpid/
+940741,21987084,"5764 S 236th Dr, Buckeye, AZ 85326 ",85326,183900,76599.1016,-0.5835,0.5413,3814.0,https://www.zillow.com/homedetails/5764-S-236th-Dr-Buckeye-AZ-85326/82826956_zpid/
+930591,21974705,"24862 W Rancho Vista Dr, Buckeye, AZ 85326 ",85326,199000,92404.5781,-0.5357,0.5412,3761.0,https://www.zillow.com/homedetails/24862-W-Rancho-Vista-Dr-Buckeye-AZ-85326/71598995_zpid/
+864709,21966577,"12018 W Hopi St, Avondale, AZ 85323 ",85323,195000,92665.8047,-0.5248,0.5409,3355.0,https://www.zillow.com/homedetails/12018-W-Hopi-St-Avondale-AZ-85323/55283019_zpid/
+934897,22127865,"25694 W Victory St, Buckeye, AZ 85326 ",85326,226900,86434.1562,-0.6191,0.5402,5762.0,https://www.zillow.com/homedetails/25694-W-Victory-St-Buckeye-AZ-85326/67796928_zpid/
+874837,22183204,"923 E Randy St, Avondale, AZ 85323 ",85323,199900,74545.7188,-0.6271,0.5398,5162.0,https://www.zillow.com/homedetails/923-E-Randy-St-Avondale-AZ-85323/81996826_zpid/
+866678,21966967,"12516 W Adams St, Avondale, AZ 85323 ",85323,209000,102461.6094,-0.5098,0.5396,3755.0,https://www.zillow.com/homedetails/12516-W-Adams-St-Avondale-AZ-85323/55030786_zpid/
+8962799,22186363,"9937 E Empress Ave, Mesa, AZ 85208 ",85208,207900,92902.2812,-0.5531,0.5394,4483.0,https://www.zillow.com/homedetails/9937-E-Empress-Ave-Mesa-AZ-85208/71621505_zpid/
+8962076,21975250,"25741 W Watkins St, Buckeye, AZ 85326 ",85326,232950,87104.7188,-0.6261,0.5392,5875.0,https://www.zillow.com/homedetails/25741-W-Watkins-St-Buckeye-AZ-85326/2093889774_zpid/
+896109,21972222,"209 N 110th Dr, Avondale, AZ 85323 ",85323,235900,73355.9766,-0.689,0.5391,6023.0,https://www.zillow.com/homedetails/209-N-110th-Dr-Avondale-AZ-85323/71611987_zpid/

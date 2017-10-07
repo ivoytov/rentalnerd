@@ -1,0 +1,21 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+1944321,22703136,"2513 W Monroe St, Phoenix, AZ 85009 ",85009,101000,142893.1562,0.4148,0.5866,216.5,https://www.zillow.com/homedetails/2513-W-Monroe-St-Phoenix-AZ-85009/2097246184_zpid/
+343301,22549568,"2022 W Tonto St, Phoenix, AZ 85009 ",85009,105000,143795.1719,0.3695,0.5866,220.5,https://www.zillow.com/homedetails/2022-W-Tonto-St-Phoenix-AZ-85009/7515751_zpid/
+696692,22541764,"2915 W Washington St, Phoenix, AZ 85009 ",85009,105000,142720.1406,0.3592,0.5866,222.5,https://www.zillow.com/homedetails/2915-W-Washington-St-Phoenix-AZ-85009/7514852_zpid/
+343877,22545341,"2123 W Tonto St, Phoenix, AZ 85009 ",85009,105000,142682.2812,0.3589,0.5866,223.5,https://www.zillow.com/homedetails/2123-W-Tonto-St-Phoenix-AZ-85009/7515873_zpid/
+34967,22527405,"2429 E Tamarisk Ave, Phoenix, AZ 85040 ",85040,106000,142370.7188,0.3431,0.5866,226.5,https://www.zillow.com/homedetails/2429-E-Tamarisk-Ave-Phoenix-AZ-85040/7547888_zpid/
+1351681,22644247,"5976 W Augusta Ave, Glendale, AZ 85301 ",85301,110000,145884.0781,0.3262,0.5866,227.5,https://www.zillow.com/homedetails/5976-W-Augusta-Ave-Glendale-AZ-85301/7705387_zpid/
+695550,22513634,"2702 N 40th Dr, Phoenix, AZ 85009 ",85009,109900,145736.6875,0.3261,0.5866,228.5,https://www.zillow.com/homedetails/2702-N-40th-Dr-Phoenix-AZ-85009/7512843_zpid/
+8987380,22488189,"4335 W Crittenden Ln, Phoenix, AZ 85031 ",85031,109000,144365.5938,0.3245,0.5866,229.5,https://www.zillow.com/homedetails/4335-W-Crittenden-Ln-Phoenix-AZ-85031/7508300_zpid/
+554650,22665807,"2130 W Maricopa St, Phoenix, AZ 85009 ",85009,109900,145167.5,0.3209,0.5866,230.5,https://www.zillow.com/homedetails/2130-W-Maricopa-St-Phoenix-AZ-85009/7515876_zpid/
+463577,22332341,"2745 W Mackenzie Dr, Phoenix, AZ 85017 ",85017,110000,144830.6562,0.3166,0.5866,232.5,https://www.zillow.com/homedetails/2745-W-Mackenzie-Dr-Phoenix-AZ-85017/7768715_zpid/
+479557,22645200,"2212 N 49th Ave, Phoenix, AZ 85035 ",85035,110000,144503.5312,0.3137,0.5866,233.5,https://www.zillow.com/homedetails/2212-N-49th-Ave-Phoenix-AZ-85035/7494255_zpid/
+341514,22579457,"1323 N 30th Dr, Phoenix, AZ 85009 ",85009,109900,144324.5312,0.3132,0.5866,235.5,https://www.zillow.com/homedetails/1323-N-30th-Dr-Phoenix-AZ-85009/7515891_zpid/
+8968966,22730045,"3220 W Polk St, Phoenix, AZ 85009 ",85009,110000,144259.4531,0.3114,0.5866,238.5,https://www.zillow.com/homedetails/3220-W-Polk-St-Phoenix-AZ-85009/7514004_zpid/
+317439,22418428,"907 S 15th Ave, Phoenix, AZ 85007 ",85007,109900,143982.5781,0.3101,0.5866,239.5,https://www.zillow.com/homedetails/907-S-15th-Ave-Phoenix-AZ-85007/7522678_zpid/
+321394,22729088,"327 N 13th Pl, Phoenix, AZ 85006 ",85006,110000,143289.8906,0.3026,0.5866,243.5,https://www.zillow.com/homedetails/327-N-13th-Pl-Phoenix-AZ-85006/7529628_zpid/
+8989493,22505820,"3646 N 79th Dr, Phoenix, AZ 85033 ",85033,115000,148079.1719,0.2876,0.5866,244.5,https://www.zillow.com/homedetails/3646-N-79th-Dr-Phoenix-AZ-85033/7478627_zpid/
+9017931,22722137,"535 E Purdue Ave, Phoenix, AZ 85020 ",85020,109500,142278.0156,0.2993,0.5866,245.5,https://www.zillow.com/homedetails/535-E-Purdue-Ave-Phoenix-AZ-85020/113979986_zpid/
+8975233,22345581,"3614 N 87th Ave, Phoenix, AZ 85037 ",85037,115000,147604.6562,0.2835,0.5866,246.5,https://www.zillow.com/homedetails/3614-N-87th-Ave-Phoenix-AZ-85037/2093437112_zpid/
+8988612,22498864,"619 W Cocopah St, Phoenix, AZ 85003 ",85003,113000,145585.4688,0.2884,0.5866,247.5,https://www.zillow.com/homedetails/619-W-Cocopah-St-Phoenix-AZ-85003/119220771_zpid/
+8980728,22703133,"1623 S 28th Ave, Phoenix, AZ 85009 ",85009,115000,147535.9062,0.2829,0.5866,248.5,https://www.zillow.com/homedetails/1623-S-28th-Ave-Phoenix-AZ-85009/7501029_zpid/

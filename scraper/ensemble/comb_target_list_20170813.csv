@@ -1,0 +1,23 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+8952461,21974494,"24617 W Sheraton Ln, Buckeye, AZ 85326 ",85326,191900,84268.3594,-0.5609,0.5553,3642.5,https://www.zillow.com/homedetails/24617-W-Sheraton-Ln-Buckeye-AZ-85326/95127725_zpid/
+8944927,21974537,"24640 W Sheraton Ln, Buckeye, AZ 85326 ",85326,178900,71032.6016,-0.6029,0.5553,3662.5,https://www.zillow.com/homedetails/24640-W-Sheraton-Ln-Buckeye-AZ-85326/95186732_zpid/
+8952461,21974494,"24617 W Sheraton Ln, Buckeye, AZ 85326 ",85326,191900,84268.3594,-0.5609,0.5553,3642.5,https://www.zillow.com/homedetails/24617-W-Sheraton-Ln-Buckeye-AZ-85326/95127725_zpid/
+8944927,21974537,"24640 W Sheraton Ln, Buckeye, AZ 85326 ",85326,178900,71032.6016,-0.6029,0.5553,3662.5,https://www.zillow.com/homedetails/24640-W-Sheraton-Ln-Buckeye-AZ-85326/95186732_zpid/
+930591,21974705,"24862 W Rancho Vista Dr, Buckeye, AZ 85326 ",85326,199000,76511.2891,-0.6155,0.5546,4458.0,https://www.zillow.com/homedetails/24862-W-Rancho-Vista-Dr-Buckeye-AZ-85326/71598995_zpid/
+927136,21973950,"23802 W Chipman Rd, Buckeye, AZ 85326 ",85326,219900,78630.8281,-0.6424,0.5529,4978.0,https://www.zillow.com/homedetails/23802-W-Chipman-Rd-Buckeye-AZ-85326/95158921_zpid/
+935720,22168028,"25768 W Pleasant Ln, Buckeye, AZ 85326 ",85326,159900,67659.9062,-0.5769,0.5511,2400.0,https://www.zillow.com/homedetails/25768-W-Pleasant-Ln-Buckeye-AZ-85326/81994172_zpid/
+968287,22133163,"5138 W Jupiter Way, Chandler, AZ 85226 ",85226,218000,105671.0391,-0.5153,0.551,3928.0,https://www.zillow.com/homedetails/5138-W-Jupiter-Way-Chandler-AZ-85226/8165981_zpid/
+934976,22270988,"25702 W Forest Grove Ave, Buckeye, AZ 85326 ",85326,219000,68720.3516,-0.6862,0.5495,5115.0,https://www.zillow.com/homedetails/25702-W-Forest-Grove-Ave-Buckeye-AZ-85326/67796951_zpid/
+926566,21973917,"23712 W La Salle St, Buckeye, AZ 85326 ",85326,163000,84874.3906,-0.4793,0.5483,1291.0,https://www.zillow.com/homedetails/23712-W-La-Salle-St-Buckeye-AZ-85326/82828752_zpid/
+8959480,21975350,"25811 W Watkins St, Buckeye, AZ 85326 ",85326,234900,92799.6328,-0.6049,0.5482,5003.0,https://www.zillow.com/homedetails/25811-W-Watkins-St-Buckeye-AZ-85326/2093856636_zpid/
+8962076,21975250,"25741 W Watkins St, Buckeye, AZ 85326 ",85326,232950,90934.0469,-0.6096,0.5479,5000.0,https://www.zillow.com/homedetails/25741-W-Watkins-St-Buckeye-AZ-85326/2093889774_zpid/
+940340,21986309,"5461 S Dove Hl, Buckeye, AZ 85326 ",85326,184900,89931.0234,-0.5136,0.547,2636.0,https://www.zillow.com/homedetails/5461-S-Dove-Hl-Buckeye-AZ-85326/62739577_zpid/
+8962077,21975249,"25748 W Watkins St, Buckeye, AZ 85326 ",85326,212900,71123.6562,-0.6659,0.5461,4997.0,https://www.zillow.com/homedetails/25748-W-Watkins-St-Buckeye-AZ-85326/2093772852_zpid/
+934897,22127865,"25694 W Victory St, Buckeye, AZ 85326 ",85326,226900,89851.7578,-0.604,0.546,4924.0,https://www.zillow.com/homedetails/25694-W-Victory-St-Buckeye-AZ-85326/67796928_zpid/
+967937,22071382,"5076 W Boston Way, Chandler, AZ 85226 ",85226,225000,113161.6953,-0.4971,0.5457,3909.0,https://www.zillow.com/homedetails/5076-W-Boston-Way-Chandler-AZ-85226/8165956_zpid/
+926082,21973871,"23629 W Tamarisk Ave, Buckeye, AZ 85326 ",85326,185000,78529.8047,-0.5755,0.5456,3560.0,https://www.zillow.com/homedetails/23629-W-Tamarisk-Ave-Buckeye-AZ-85326/88785570_zpid/
+8957471,21975281,"25756 W Watkins St, Buckeye, AZ 85326 ",85326,229456,92847.5859,-0.5954,0.5454,4918.0,https://www.zillow.com/homedetails/25756-W-Watkins-St-Buckeye-AZ-85326/2093960925_zpid/
+2043003,22101262,"1163 W Argon St, Mesa, AZ 85201 ",85201,238900,108102.7656,-0.5475,0.5451,4779.0,http://www.zillow.com/homedetails/1163-W-Argon-St-Mesa-AZ-85201/95176902_zpid/
+1603789,21949441,"18551 W Sunnyslope Ln, Waddell, AZ 85355 ",85355,242777,104931.6562,-0.5678,0.5448,4942.0,https://www.zillow.com/homedetails/18551-W-Sunnyslope-Ln-Waddell-AZ-85355/71624880_zpid/
+931199,21974722,"25005 W Illini St, Buckeye, AZ 85326 ",85326,180000,97064.9922,-0.4608,0.5446,1640.0,https://www.zillow.com/homedetails/25005-W-Illini-St-Buckeye-AZ-85326/67769470_zpid/
+1603217,21949374,"18468 W Carol Ave, Waddell, AZ 85355 ",85355,240000,104649.9219,-0.564,0.5443,4892.0,https://www.zillow.com/homedetails/18468-W-Carol-Ave-Waddell-AZ-85355/95117522_zpid/

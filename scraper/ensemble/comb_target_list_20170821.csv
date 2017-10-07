@@ -1,0 +1,21 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+8962363,22252724,"327 N 169th Ave, Goodyear, AZ 85338 ",85338,140000,81704.0156,-0.4164,0.5486,392.0,https://www.zillow.com/homedetails/327-N-169th-Ave-Goodyear-AZ-85338/88788226_zpid/
+8962799,22186363,"9937 E Empress Ave, Mesa, AZ 85208 ",85208,207900,83536.7969,-0.5982,0.5444,4541.0,https://www.zillow.com/homedetails/9937-E-Empress-Ave-Mesa-AZ-85208/71621505_zpid/
+8962791,21938665,"325 S Aaron, Mesa, AZ 85208 ",85208,190000,92926.8359,-0.5109,0.5433,2599.0,https://www.zillow.com/homedetails/325-S-Aaron-Mesa-AZ-85208/81989888_zpid/
+7540228,21898609,"17825 W Lincoln St, Goodyear, AZ 85338 ",85338,234900,98088.4531,-0.5824,0.5429,4999.0,https://www.zillow.com/homedetails/17825-W-Lincoln-St-Goodyear-AZ-85338/89221054_zpid/
+7551363,22100886,"9637 E Baltimore St, Mesa, AZ 85207 ",85207,200000,95480.1094,-0.5226,0.5424,3251.0,https://www.zillow.com/homedetails/9637-E-Baltimore-St-Mesa-AZ-85207/59264505_zpid/
+8955871,21959396,"6929 W Sophie Ln, Laveen, AZ 85339 ",85339,249800,111170.4922,-0.555,0.5417,5058.0,https://www.zillow.com/homedetails/6929-W-Sophie-Ln-Laveen-AZ-85339/81981174_zpid/
+8958678,22240727,"11035 E Wier Ave, Mesa, AZ 85208 ",85208,209900,112629.1719,-0.4634,0.5411,2617.0,https://www.zillow.com/homedetails/11035-E-Wier-Ave-Mesa-AZ-85208/50192777_zpid/
+938511,21978651,"3487 S 257th Ln, Buckeye, AZ 85326 ",85326,215000,57405.6055,-0.733,0.5402,5362.0,https://www.zillow.com/homedetails/3487-S-257th-Ln-Buckeye-AZ-85326/67787172_zpid/
+565089,22016727,"10032 E Isleta Ave, Mesa, AZ 85209 ",85209,195500,96527.0625,-0.5063,0.5401,2769.0,https://www.zillow.com/homedetails/10032-E-Isleta-Ave-Mesa-AZ-85209/71551707_zpid/
+935720,22168028,"25768 W Pleasant Ln, Buckeye, AZ 85326 ",85326,159900,55728.3828,-0.6515,0.5397,3219.0,https://www.zillow.com/homedetails/25768-W-Pleasant-Ln-Buckeye-AZ-85326/81994172_zpid/
+685105,22228617,"9717 E Jerome Ave, Mesa, AZ 85209 ",85209,230000,124404.7656,-0.4591,0.5393,3345.0,https://www.zillow.com/homedetails/9717-E-Jerome-Ave-Mesa-AZ-85209/8090797_zpid/
+7484938,22081601,"10103 E Capri Ave, Mesa, AZ 85208 ",85208,200000,96958.3125,-0.5152,0.5381,3126.0,https://www.zillow.com/homedetails/10103-E-Capri-Ave-Mesa-AZ-85208/41713134_zpid/
+8959480,21975350,"25811 W Watkins St, Buckeye, AZ 85326 ",85326,234900,61321.3398,-0.7389,0.5372,5422.0,https://www.zillow.com/homedetails/25811-W-Watkins-St-Buckeye-AZ-85326/2093856636_zpid/
+8944927,21974537,"24640 W Sheraton Ln, Buckeye, AZ 85326 ",85326,178900,49558.1836,-0.723,0.5369,4770.0,https://www.zillow.com/homedetails/24640-W-Sheraton-Ln-Buckeye-AZ-85326/95186732_zpid/
+8969104,22271645,"9915 E El Moro Ave, Mesa, AZ 85208 ",85208,234900,89595.2266,-0.6186,0.5369,5215.0,https://www.zillow.com/homedetails/9915-E-El-Moro-Ave-Mesa-AZ-85208/71616934_zpid/
+927136,21973950,"23802 W Chipman Rd, Buckeye, AZ 85326 ",85326,219900,77241.875,-0.6487,0.5364,5160.0,https://www.zillow.com/homedetails/23802-W-Chipman-Rd-Buckeye-AZ-85326/95158921_zpid/
+8952461,21974494,"24617 W Sheraton Ln, Buckeye, AZ 85326 ",85326,191900,60107.6992,-0.6868,0.5364,4852.0,https://www.zillow.com/homedetails/24617-W-Sheraton-Ln-Buckeye-AZ-85326/95127725_zpid/
+934976,22270988,"25702 W Forest Grove Ave, Buckeye, AZ 85326 ",85326,219000,56972.8789,-0.7398,0.5363,5394.0,https://www.zillow.com/homedetails/25702-W-Forest-Grove-Ave-Buckeye-AZ-85326/67796951_zpid/
+1852740,21254438,"4003 W Kirkland Ave, Queen Creek, AZ 85142 ",85142,239500,104142.2734,-0.5652,0.536,4972.0,http://www.zillow.com/homedetails/4003-W-Kirkland-Ave-Queen-Creek-AZ-85142/124170942_zpid/
+7495330,21959283,"6814 W Gary Way, Laveen, AZ 85339 ",85339,195000,105845.1094,-0.4572,0.5359,1973.0,https://www.zillow.com/homedetails/6814-W-Gary-Way-Laveen-AZ-85339/67782782_zpid/

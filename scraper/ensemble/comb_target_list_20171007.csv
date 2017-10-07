@@ -1,0 +1,21 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+42157,22540803,"6602 W Papago St, Phoenix, AZ 85043 ",85043,156900,149879.0781,-0.0447,0.6033,422.0,https://www.zillow.com/homedetails/6602-W-Papago-St-Phoenix-AZ-85043/7499905_zpid/
+360963,22641528,"8504 W Taylor St, Tolleson, AZ 85353 ",85353,159900,145080.875,-0.0927,0.6033,653.0,https://www.zillow.com/homedetails/8504-W-Taylor-St-Tolleson-AZ-85353/7476498_zpid/
+445116,22669295,"4623 N 99th Dr, Phoenix, AZ 85037 ",85037,229900,193242.0625,-0.1595,0.6033,2988.0,https://www.zillow.com/homedetails/4623-N-99th-Dr-Phoenix-AZ-85037/7484459_zpid/
+8991089,22517320,"9941 W Hilton Ave, Tolleson, AZ 85353 ",85353,200000,178068.5625,-0.1097,0.5988,1047.5,https://www.zillow.com/homedetails/9941-W-Hilton-Ave-Tolleson-AZ-85353/2093083273_zpid/
+365924,22576385,"9933 W Wood St, Tolleson, AZ 85353 ",85353,199900,177106.1406,-0.114,0.5988,1117.5,https://www.zillow.com/homedetails/9933-W-Wood-St-Tolleson-AZ-85353/88795745_zpid/
+7400587,22528918,"7421 W Darrel Rd, Laveen, AZ 85339 ",85339,177000,151447.9062,-0.1444,0.5988,1435.0,https://www.zillow.com/homedetails/7421-W-Darrel-Rd-Laveen-AZ-85339/88785132_zpid/
+8954173,22613302,"8213 W Wood Ln, Phoenix, AZ 85043 ",85043,204900,177674.7344,-0.1329,0.5988,1659.5,https://www.zillow.com/homedetails/8213-W-Wood-Ln-Phoenix-AZ-85043/95184242_zpid/
+8998064,22576381,"8754 W Riverside Ave, Tolleson, AZ 85353 ",85353,197000,167363.5,-0.1504,0.5988,2003.5,https://www.zillow.com/homedetails/8754-W-Riverside-Ave-Tolleson-AZ-85353/95164828_zpid/
+9002577,22613295,"8136 W Wood Ln, Phoenix, AZ 85043 ",85043,224900,184518.6875,-0.1796,0.5988,3393.5,https://www.zillow.com/homedetails/8136-W-Wood-Ln-Phoenix-AZ-85043/95157310_zpid/
+9002576,22613300,"8147 W Wood Ln, Phoenix, AZ 85043 ",85043,214900,173947.3906,-0.1906,0.5988,3438.5,https://www.zillow.com/homedetails/8147-W-Wood-Ln-Phoenix-AZ-85043/95167159_zpid/
+9002575,22613254,"4205 S 81ST Dr, Phoenix, AZ 85043 ",85043,236900,189614.9688,-0.1996,0.5988,3881.5,https://www.zillow.com/homedetails/4205-S-81ST-Dr-Phoenix-AZ-85043/95089138_zpid/
+359258,22631279,"1925 S 85th Ave, Tolleson, AZ 85353 ",85353,209900,174122.6406,-0.1704,0.5963,2896.0,https://www.zillow.com/homedetails/1925-S-85th-Ave-Tolleson-AZ-85353/59271566_zpid/
+8997446,22571730,"3205 W Washington St, Phoenix, AZ 85009 ",85009,135000,145668.5,0.079,0.5949,181.0,https://www.zillow.com/homedetails/3205-W-Washington-St-Phoenix-AZ-85009/7514655_zpid/
+197471,22508622,"4048 W Alta Vista Rd, Phoenix, AZ 85041 ",85041,145000,150156.0781,0.0356,0.5934,251.0,https://www.zillow.com/homedetails/4048-W-Alta-Vista-Rd-Phoenix-AZ-85041/7504657_zpid/
+43605,22613290,"8017 W Superior Ave, Phoenix, AZ 85043 ",85043,199500,178690.5781,-0.1043,0.5933,977.0,https://www.zillow.com/homedetails/8017-W-Superior-Ave-Phoenix-AZ-85043/60975300_zpid/
+40651,22636540,"3802 S 73rd Dr, Phoenix, AZ 85043 ",85043,169987,148846.9375,-0.1244,0.5933,992.0,https://www.zillow.com/homedetails/3802-S-73rd-Dr-Phoenix-AZ-85043/55257664_zpid/
+364248,22631328,"9347 W Williams St, Tolleson, AZ 85353 ",85353,175500,152646.2969,-0.1302,0.5933,1145.0,https://www.zillow.com/homedetails/9347-W-Williams-St-Tolleson-AZ-85353/67788186_zpid/
+43857,22540811,"8137 W Pima St, Phoenix, AZ 85043 ",85043,180000,156932.6562,-0.1282,0.5933,1166.0,https://www.zillow.com/homedetails/8137-W-Pima-St-Phoenix-AZ-85043/60034278_zpid/
+354263,22558173,"8114 W Whyman Ave, Phoenix, AZ 85043 ",85043,175000,151164.4688,-0.1362,0.5933,1260.0,https://www.zillow.com/homedetails/8114-W-Whyman-Ave-Phoenix-AZ-85043/52423848_zpid/
+40503,22716552,"3410 S 82nd Ln, Phoenix, AZ 85043 ",85043,187000,161530.1562,-0.1362,0.5933,1441.0,https://www.zillow.com/homedetails/3410-S-82nd-Ln-Phoenix-AZ-85043/60975422_zpid/

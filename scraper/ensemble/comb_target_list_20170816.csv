@@ -1,0 +1,25 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+889057,22029538,"30206 W Cheery Lynn Rd, Buckeye, AZ 85396 ",85396,229999,112964.1406,-0.5088,0.5561,3976.0,https://www.zillow.com/homedetails/30206-W-Cheery-Lynn-Rd-Buckeye-AZ-85396/81983777_zpid/
+1025798,22133093,"1866 E Lindrick Dr, Chandler, AZ 85249 ",85249,163000,90654.75,-0.4438,0.5548,737.0,https://www.zillow.com/homedetails/1866-E-Lindrick-Dr-Chandler-AZ-85249/8224975_zpid/
+1852740,21254438,"4003 W Kirkland Ave, Queen Creek, AZ 85142 ",85142,239500,90947.7891,-0.6203,0.553,5203.0,http://www.zillow.com/homedetails/4003-W-Kirkland-Ave-Queen-Creek-AZ-85142/124170942_zpid/
+8959480,21975350,"25811 W Watkins St, Buckeye, AZ 85326 ",85326,234900,72816.0312,-0.69,0.551,5325.0,https://www.zillow.com/homedetails/25811-W-Watkins-St-Buckeye-AZ-85326/2093856636_zpid/
+8962363,22252724,"327 N 169th Ave, Goodyear, AZ 85338 ",85338,140000,88029.8516,-0.3712,0.5466,216.0,https://www.zillow.com/homedetails/327-N-169th-Ave-Goodyear-AZ-85338/88788226_zpid/
+8957471,21975281,"25756 W Watkins St, Buckeye, AZ 85326 ",85326,229456,101827.6953,-0.5562,0.5462,4595.5,https://www.zillow.com/homedetails/25756-W-Watkins-St-Buckeye-AZ-85326/2093960925_zpid/
+8962076,21975250,"25741 W Watkins St, Buckeye, AZ 85326 ",85326,232950,101867.8828,-0.5627,0.5462,4746.5,https://www.zillow.com/homedetails/25741-W-Watkins-St-Buckeye-AZ-85326/2093889774_zpid/
+8957471,21975281,"25756 W Watkins St, Buckeye, AZ 85326 ",85326,229456,101827.6953,-0.5562,0.5462,4595.5,https://www.zillow.com/homedetails/25756-W-Watkins-St-Buckeye-AZ-85326/2093960925_zpid/
+8962076,21975250,"25741 W Watkins St, Buckeye, AZ 85326 ",85326,232950,101867.8828,-0.5627,0.5462,4746.5,https://www.zillow.com/homedetails/25741-W-Watkins-St-Buckeye-AZ-85326/2093889774_zpid/
+7478654,21975344,"25780 W Watkins St, Buckeye, AZ 85326 ",85326,204898,67520.7969,-0.6705,0.5459,4963.0,https://www.zillow.com/homedetails/25780-W-Watkins-St-Buckeye-AZ-85326/2094788129_zpid/
+926566,21973917,"23712 W La Salle St, Buckeye, AZ 85326 ",85326,163000,64166.0469,-0.6063,0.5457,2539.0,https://www.zillow.com/homedetails/23712-W-La-Salle-St-Buckeye-AZ-85326/82828752_zpid/
+8958121,21982102,"4242 E Gail Dr, Gilbert, AZ 85296 ",85296,242000,130040.0781,-0.4626,0.5441,3647.0,https://www.zillow.com/homedetails/4242-E-Gail-Dr-Gilbert-AZ-85296/59209408_zpid/
+1047160,22102216,"6438 S Nash Way, Chandler, AZ 85249 ",85249,224900,112112.1172,-0.5015,0.544,3700.0,http://www.zillow.com/homedetails/6438-S-Nash-Way-Chandler-AZ-85249/8215978_zpid
+928709,21974127,"24005 W Chambers St, Buckeye, AZ 85326 ",85326,166000,66852.0156,-0.5973,0.5439,2573.0,https://www.zillow.com/homedetails/24005-W-Chambers-St-Buckeye-AZ-85326/82827236_zpid/
+975965,22230266,"721 N Hazelton Dr, Chandler, AZ 85226 ",85226,219000,123935.3125,-0.4341,0.5428,2205.0,https://www.zillow.com/homedetails/721-N-Hazelton-Dr-Chandler-AZ-85226/8155302_zpid/
+7540228,21898609,"17825 W Lincoln St, Goodyear, AZ 85338 ",85338,234900,100463.9844,-0.5723,0.5425,4877.0,https://www.zillow.com/homedetails/17825-W-Lincoln-St-Goodyear-AZ-85338/89221054_zpid/
+8959479,21975342,"25773 W Watkins St, Buckeye, AZ 85326 ",85326,222025,84895.125,-0.6176,0.5424,4963.0,https://www.zillow.com/homedetails/25773-W-Watkins-St-Buckeye-AZ-85326/2093889466_zpid/
+1046757,21831026,"6322 S Onyx Dr, Chandler, AZ 85249 ",85249,236100,133544.2812,-0.4344,0.5421,2862.0,https://www.zillow.com/homedetails/6322-S-Onyx-Dr-Chandler-AZ-85249/67807441_zpid/
+1603217,21949374,"18468 W Carol Ave, Waddell, AZ 85355 ",85355,240000,110899.9922,-0.5379,0.5418,4674.0,https://www.zillow.com/homedetails/18468-W-Carol-Ave-Waddell-AZ-85355/95117522_zpid/
+26685,22125543,"8462 W Lewis Ave, Phoenix, AZ 85037 ",85037,159999,88815.9766,-0.4449,0.5414,697.0,https://www.zillow.com/homedetails/8462-W-Lewis-Ave-Phoenix-AZ-85037/82823097_zpid/
+1140418,21895366,"11601 W Poinsettia Dr, El Mirage, AZ 85335 ",85335,158000,72012.7422,-0.5442,0.5412,1508.5,https://www.zillow.com/homedetails/11601-W-Poinsettia-Dr-El-Mirage-AZ-85335/59277980_zpid/
+921192,21973306,"22639 W Tonto St, Buckeye, AZ 85326 ",85326,155000,54838.0039,-0.6462,0.5412,2672.5,https://www.zillow.com/homedetails/22639-W-Tonto-St-Buckeye-AZ-85326/81990995_zpid/
+1140418,21895366,"11601 W Poinsettia Dr, El Mirage, AZ 85335 ",85335,158000,72012.7422,-0.5442,0.5412,1508.5,https://www.zillow.com/homedetails/11601-W-Poinsettia-Dr-El-Mirage-AZ-85335/59277980_zpid/
+921192,21973306,"22639 W Tonto St, Buckeye, AZ 85326 ",85326,155000,54838.0039,-0.6462,0.5412,2672.5,https://www.zillow.com/homedetails/22639-W-Tonto-St-Buckeye-AZ-85326/81990995_zpid/

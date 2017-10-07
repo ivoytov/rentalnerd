@@ -1,0 +1,73 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+8959480,21975350,"25811 W Watkins St, Buckeye, AZ 85326 ",85326,234900,77329.7109,-0.6708,0.5246,5284.0,https://www.zillow.com/homedetails/25811-W-Watkins-St-Buckeye-AZ-85326/2093856636_zpid/
+8962076,21975250,"25741 W Watkins St, Buckeye, AZ 85326 ",85326,232950,82117.8359,-0.6475,0.5245,5173.0,https://www.zillow.com/homedetails/25741-W-Watkins-St-Buckeye-AZ-85326/2093889774_zpid/
+7478654,21975344,"25780 W Watkins St, Buckeye, AZ 85326 ",85326,204898,62881.6367,-0.6931,0.5214,4997.0,https://www.zillow.com/homedetails/25780-W-Watkins-St-Buckeye-AZ-85326/2094788129_zpid/
+7433027,22243221,"10352 W Devonshire Ave, Phoenix, AZ 85037 ",85037,192500,71460.1328,-0.6288,0.5213,4091.5,https://www.zillow.com/homedetails/10352-W-Devonshire-Ave-Phoenix-AZ-85037/95131190_zpid/
+8962077,21975249,"25748 W Watkins St, Buckeye, AZ 85326 ",85326,212900,67302.1406,-0.6839,0.5213,5077.5,https://www.zillow.com/homedetails/25748-W-Watkins-St-Buckeye-AZ-85326/2093772852_zpid/
+7433027,22243221,"10352 W Devonshire Ave, Phoenix, AZ 85037 ",85037,192500,71460.1328,-0.6288,0.5213,4091.5,https://www.zillow.com/homedetails/10352-W-Devonshire-Ave-Phoenix-AZ-85037/95131190_zpid/
+8962077,21975249,"25748 W Watkins St, Buckeye, AZ 85326 ",85326,212900,67302.1406,-0.6839,0.5213,5077.5,https://www.zillow.com/homedetails/25748-W-Watkins-St-Buckeye-AZ-85326/2093772852_zpid/
+920747,22270980,"22593 W Solano Dr, Buckeye, AZ 85326 ",85326,180000,92788.9297,-0.4845,0.5196,1648.0,https://www.zillow.com/homedetails/22593-W-Solano-Dr-Buckeye-AZ-85326/71492592_zpid/
+7420504,22320081,"4321 W St Kateri Dr, Laveen, AZ 85339 ",85339,190400,99161.9922,-0.4792,0.5184,1921.5,https://www.zillow.com/homedetails/4321-W-St-Kateri-Dr-Laveen-AZ-85339/67773750_zpid/
+8966425,22234832,"5117 W T Ryan Ln, Laveen, AZ 85339 ",85339,199900,91100.1797,-0.5443,0.5184,3296.5,https://www.zillow.com/homedetails/5117-W-T-Ryan-Ln-Laveen-AZ-85339/71612340_zpid/
+533416,22239733,"6841 W Lynne Ln, Laveen, AZ 85339 ",85339,224900,113170.7266,-0.4968,0.5184,3503.5,https://www.zillow.com/homedetails/6841-W-Lynne-Ln-Laveen-AZ-85339/71604703_zpid/
+8966236,22232707,"6920 S 54th Ln, Laveen, AZ 85339 ",85339,220000,105659.4219,-0.5197,0.5184,3681.5,https://www.zillow.com/homedetails/6920-S-54th-Ln-Laveen-AZ-85339/71619413_zpid/
+8963799,22320066,"4930 W Shumway Farm Rd, Laveen, AZ 85339 ",85339,219000,95624.7344,-0.5634,0.5184,4218.5,https://www.zillow.com/homedetails/4930-W-Shumway-Farm-Rd-Laveen-AZ-85339/71599775_zpid/
+8965862,22217760,"5312 W Glass Ln, Laveen, AZ 85339 ",85339,220000,84633.5234,-0.6153,0.5184,4800.5,https://www.zillow.com/homedetails/5312-W-Glass-Ln-Laveen-AZ-85339/67789160_zpid/
+7420504,22320081,"4321 W St Kateri Dr, Laveen, AZ 85339 ",85339,190400,99161.9922,-0.4792,0.5184,1921.5,https://www.zillow.com/homedetails/4321-W-St-Kateri-Dr-Laveen-AZ-85339/67773750_zpid/
+8966425,22234832,"5117 W T Ryan Ln, Laveen, AZ 85339 ",85339,199900,91100.1797,-0.5443,0.5184,3296.5,https://www.zillow.com/homedetails/5117-W-T-Ryan-Ln-Laveen-AZ-85339/71612340_zpid/
+533416,22239733,"6841 W Lynne Ln, Laveen, AZ 85339 ",85339,224900,113170.7266,-0.4968,0.5184,3503.5,https://www.zillow.com/homedetails/6841-W-Lynne-Ln-Laveen-AZ-85339/71604703_zpid/
+8966236,22232707,"6920 S 54th Ln, Laveen, AZ 85339 ",85339,220000,105659.4219,-0.5197,0.5184,3681.5,https://www.zillow.com/homedetails/6920-S-54th-Ln-Laveen-AZ-85339/71619413_zpid/
+8963799,22320066,"4930 W Shumway Farm Rd, Laveen, AZ 85339 ",85339,219000,95624.7344,-0.5634,0.5184,4218.5,https://www.zillow.com/homedetails/4930-W-Shumway-Farm-Rd-Laveen-AZ-85339/71599775_zpid/
+8965862,22217760,"5312 W Glass Ln, Laveen, AZ 85339 ",85339,220000,84633.5234,-0.6153,0.5184,4800.5,https://www.zillow.com/homedetails/5312-W-Glass-Ln-Laveen-AZ-85339/67789160_zpid/
+7420504,22320081,"4321 W St Kateri Dr, Laveen, AZ 85339 ",85339,190400,99161.9922,-0.4792,0.5184,1921.5,https://www.zillow.com/homedetails/4321-W-St-Kateri-Dr-Laveen-AZ-85339/67773750_zpid/
+8966425,22234832,"5117 W T Ryan Ln, Laveen, AZ 85339 ",85339,199900,91100.1797,-0.5443,0.5184,3296.5,https://www.zillow.com/homedetails/5117-W-T-Ryan-Ln-Laveen-AZ-85339/71612340_zpid/
+533416,22239733,"6841 W Lynne Ln, Laveen, AZ 85339 ",85339,224900,113170.7266,-0.4968,0.5184,3503.5,https://www.zillow.com/homedetails/6841-W-Lynne-Ln-Laveen-AZ-85339/71604703_zpid/
+8966236,22232707,"6920 S 54th Ln, Laveen, AZ 85339 ",85339,220000,105659.4219,-0.5197,0.5184,3681.5,https://www.zillow.com/homedetails/6920-S-54th-Ln-Laveen-AZ-85339/71619413_zpid/
+8963799,22320066,"4930 W Shumway Farm Rd, Laveen, AZ 85339 ",85339,219000,95624.7344,-0.5634,0.5184,4218.5,https://www.zillow.com/homedetails/4930-W-Shumway-Farm-Rd-Laveen-AZ-85339/71599775_zpid/
+8965862,22217760,"5312 W Glass Ln, Laveen, AZ 85339 ",85339,220000,84633.5234,-0.6153,0.5184,4800.5,https://www.zillow.com/homedetails/5312-W-Glass-Ln-Laveen-AZ-85339/67789160_zpid/
+7420504,22320081,"4321 W St Kateri Dr, Laveen, AZ 85339 ",85339,190400,99161.9922,-0.4792,0.5184,1921.5,https://www.zillow.com/homedetails/4321-W-St-Kateri-Dr-Laveen-AZ-85339/67773750_zpid/
+8966425,22234832,"5117 W T Ryan Ln, Laveen, AZ 85339 ",85339,199900,91100.1797,-0.5443,0.5184,3296.5,https://www.zillow.com/homedetails/5117-W-T-Ryan-Ln-Laveen-AZ-85339/71612340_zpid/
+533416,22239733,"6841 W Lynne Ln, Laveen, AZ 85339 ",85339,224900,113170.7266,-0.4968,0.5184,3503.5,https://www.zillow.com/homedetails/6841-W-Lynne-Ln-Laveen-AZ-85339/71604703_zpid/
+8966236,22232707,"6920 S 54th Ln, Laveen, AZ 85339 ",85339,220000,105659.4219,-0.5197,0.5184,3681.5,https://www.zillow.com/homedetails/6920-S-54th-Ln-Laveen-AZ-85339/71619413_zpid/
+8963799,22320066,"4930 W Shumway Farm Rd, Laveen, AZ 85339 ",85339,219000,95624.7344,-0.5634,0.5184,4218.5,https://www.zillow.com/homedetails/4930-W-Shumway-Farm-Rd-Laveen-AZ-85339/71599775_zpid/
+8965862,22217760,"5312 W Glass Ln, Laveen, AZ 85339 ",85339,220000,84633.5234,-0.6153,0.5184,4800.5,https://www.zillow.com/homedetails/5312-W-Glass-Ln-Laveen-AZ-85339/67789160_zpid/
+7420504,22320081,"4321 W St Kateri Dr, Laveen, AZ 85339 ",85339,190400,99161.9922,-0.4792,0.5184,1921.5,https://www.zillow.com/homedetails/4321-W-St-Kateri-Dr-Laveen-AZ-85339/67773750_zpid/
+8966425,22234832,"5117 W T Ryan Ln, Laveen, AZ 85339 ",85339,199900,91100.1797,-0.5443,0.5184,3296.5,https://www.zillow.com/homedetails/5117-W-T-Ryan-Ln-Laveen-AZ-85339/71612340_zpid/
+533416,22239733,"6841 W Lynne Ln, Laveen, AZ 85339 ",85339,224900,113170.7266,-0.4968,0.5184,3503.5,https://www.zillow.com/homedetails/6841-W-Lynne-Ln-Laveen-AZ-85339/71604703_zpid/
+8966236,22232707,"6920 S 54th Ln, Laveen, AZ 85339 ",85339,220000,105659.4219,-0.5197,0.5184,3681.5,https://www.zillow.com/homedetails/6920-S-54th-Ln-Laveen-AZ-85339/71619413_zpid/
+8963799,22320066,"4930 W Shumway Farm Rd, Laveen, AZ 85339 ",85339,219000,95624.7344,-0.5634,0.5184,4218.5,https://www.zillow.com/homedetails/4930-W-Shumway-Farm-Rd-Laveen-AZ-85339/71599775_zpid/
+8965862,22217760,"5312 W Glass Ln, Laveen, AZ 85339 ",85339,220000,84633.5234,-0.6153,0.5184,4800.5,https://www.zillow.com/homedetails/5312-W-Glass-Ln-Laveen-AZ-85339/67789160_zpid/
+7420504,22320081,"4321 W St Kateri Dr, Laveen, AZ 85339 ",85339,190400,99161.9922,-0.4792,0.5184,1921.5,https://www.zillow.com/homedetails/4321-W-St-Kateri-Dr-Laveen-AZ-85339/67773750_zpid/
+8966425,22234832,"5117 W T Ryan Ln, Laveen, AZ 85339 ",85339,199900,91100.1797,-0.5443,0.5184,3296.5,https://www.zillow.com/homedetails/5117-W-T-Ryan-Ln-Laveen-AZ-85339/71612340_zpid/
+533416,22239733,"6841 W Lynne Ln, Laveen, AZ 85339 ",85339,224900,113170.7266,-0.4968,0.5184,3503.5,https://www.zillow.com/homedetails/6841-W-Lynne-Ln-Laveen-AZ-85339/71604703_zpid/
+8966236,22232707,"6920 S 54th Ln, Laveen, AZ 85339 ",85339,220000,105659.4219,-0.5197,0.5184,3681.5,https://www.zillow.com/homedetails/6920-S-54th-Ln-Laveen-AZ-85339/71619413_zpid/
+8963799,22320066,"4930 W Shumway Farm Rd, Laveen, AZ 85339 ",85339,219000,95624.7344,-0.5634,0.5184,4218.5,https://www.zillow.com/homedetails/4930-W-Shumway-Farm-Rd-Laveen-AZ-85339/71599775_zpid/
+8965862,22217760,"5312 W Glass Ln, Laveen, AZ 85339 ",85339,220000,84633.5234,-0.6153,0.5184,4800.5,https://www.zillow.com/homedetails/5312-W-Glass-Ln-Laveen-AZ-85339/67789160_zpid/
+8944927,21974537,"24640 W Sheraton Ln, Buckeye, AZ 85326 ",85326,178900,47934.3828,-0.7321,0.5178,4627.0,https://www.zillow.com/homedetails/24640-W-Sheraton-Ln-Buckeye-AZ-85326/95186732_zpid/
+1194593,22272062,"730 N Laguna Dr, Gilbert, AZ 85233 ",85233,199990,107359.5391,-0.4632,0.5178,2035.0,https://www.zillow.com/homedetails/730-N-Laguna-Dr-Gilbert-AZ-85233/62735089_zpid/
+8971803,22307400,"314 S Aaron, Mesa, AZ 85208 ",85208,179900,86864.6406,-0.5172,0.5177,2071.0,https://www.zillow.com/homedetails/314-S-Aaron-Mesa-AZ-85208/81970140_zpid/
+7454795,22419893,"3521 W Paseo Way, Laveen, AZ 85339 ",85339,218500,133958.5156,-0.3869,0.5176,1486.0,https://www.zillow.com/homedetails/3521-W-Paseo-Way-Laveen-AZ-85339/67792504_zpid/
+8965863,22387559,"7016 S 54th Ln, Laveen, AZ 85339 ",85339,215000,115733.0469,-0.4617,0.5176,2543.0,https://www.zillow.com/homedetails/7016-S-54th-Ln-Laveen-AZ-85339/71619419_zpid/
+8977910,22387517,"5214 W Hasan Dr, Laveen, AZ 85339 ",85339,193000,90808.2969,-0.5295,0.5176,2792.0,https://www.zillow.com/homedetails/5214-W-Hasan-Dr-Laveen-AZ-85339/81979376_zpid/
+8986929,22486790,"5704 W Milada Dr, Laveen, AZ 85339 ",85339,215000,109003.7266,-0.493,0.5176,3078.0,https://www.zillow.com/homedetails/5704-W-Milada-Dr-Laveen-AZ-85339/95169292_zpid/
+8963797,22486773,"4825 W Donner Dr, Laveen, AZ 85339 ",85339,209999,89873.1641,-0.572,0.5176,4045.0,https://www.zillow.com/homedetails/4825-W-Donner-Dr-Laveen-AZ-85339/95121124_zpid/
+7454795,22419893,"3521 W Paseo Way, Laveen, AZ 85339 ",85339,218500,133958.5156,-0.3869,0.5176,1486.0,https://www.zillow.com/homedetails/3521-W-Paseo-Way-Laveen-AZ-85339/67792504_zpid/
+8965863,22387559,"7016 S 54th Ln, Laveen, AZ 85339 ",85339,215000,115733.0469,-0.4617,0.5176,2543.0,https://www.zillow.com/homedetails/7016-S-54th-Ln-Laveen-AZ-85339/71619419_zpid/
+8977910,22387517,"5214 W Hasan Dr, Laveen, AZ 85339 ",85339,193000,90808.2969,-0.5295,0.5176,2792.0,https://www.zillow.com/homedetails/5214-W-Hasan-Dr-Laveen-AZ-85339/81979376_zpid/
+8986929,22486790,"5704 W Milada Dr, Laveen, AZ 85339 ",85339,215000,109003.7266,-0.493,0.5176,3078.0,https://www.zillow.com/homedetails/5704-W-Milada-Dr-Laveen-AZ-85339/95169292_zpid/
+8963797,22486773,"4825 W Donner Dr, Laveen, AZ 85339 ",85339,209999,89873.1641,-0.572,0.5176,4045.0,https://www.zillow.com/homedetails/4825-W-Donner-Dr-Laveen-AZ-85339/95121124_zpid/
+7454795,22419893,"3521 W Paseo Way, Laveen, AZ 85339 ",85339,218500,133958.5156,-0.3869,0.5176,1486.0,https://www.zillow.com/homedetails/3521-W-Paseo-Way-Laveen-AZ-85339/67792504_zpid/
+8965863,22387559,"7016 S 54th Ln, Laveen, AZ 85339 ",85339,215000,115733.0469,-0.4617,0.5176,2543.0,https://www.zillow.com/homedetails/7016-S-54th-Ln-Laveen-AZ-85339/71619419_zpid/
+8977910,22387517,"5214 W Hasan Dr, Laveen, AZ 85339 ",85339,193000,90808.2969,-0.5295,0.5176,2792.0,https://www.zillow.com/homedetails/5214-W-Hasan-Dr-Laveen-AZ-85339/81979376_zpid/
+8986929,22486790,"5704 W Milada Dr, Laveen, AZ 85339 ",85339,215000,109003.7266,-0.493,0.5176,3078.0,https://www.zillow.com/homedetails/5704-W-Milada-Dr-Laveen-AZ-85339/95169292_zpid/
+8963797,22486773,"4825 W Donner Dr, Laveen, AZ 85339 ",85339,209999,89873.1641,-0.572,0.5176,4045.0,https://www.zillow.com/homedetails/4825-W-Donner-Dr-Laveen-AZ-85339/95121124_zpid/
+7454795,22419893,"3521 W Paseo Way, Laveen, AZ 85339 ",85339,218500,133958.5156,-0.3869,0.5176,1486.0,https://www.zillow.com/homedetails/3521-W-Paseo-Way-Laveen-AZ-85339/67792504_zpid/
+8965863,22387559,"7016 S 54th Ln, Laveen, AZ 85339 ",85339,215000,115733.0469,-0.4617,0.5176,2543.0,https://www.zillow.com/homedetails/7016-S-54th-Ln-Laveen-AZ-85339/71619419_zpid/
+8977910,22387517,"5214 W Hasan Dr, Laveen, AZ 85339 ",85339,193000,90808.2969,-0.5295,0.5176,2792.0,https://www.zillow.com/homedetails/5214-W-Hasan-Dr-Laveen-AZ-85339/81979376_zpid/
+8986929,22486790,"5704 W Milada Dr, Laveen, AZ 85339 ",85339,215000,109003.7266,-0.493,0.5176,3078.0,https://www.zillow.com/homedetails/5704-W-Milada-Dr-Laveen-AZ-85339/95169292_zpid/
+8963797,22486773,"4825 W Donner Dr, Laveen, AZ 85339 ",85339,209999,89873.1641,-0.572,0.5176,4045.0,https://www.zillow.com/homedetails/4825-W-Donner-Dr-Laveen-AZ-85339/95121124_zpid/
+7454795,22419893,"3521 W Paseo Way, Laveen, AZ 85339 ",85339,218500,133958.5156,-0.3869,0.5176,1486.0,https://www.zillow.com/homedetails/3521-W-Paseo-Way-Laveen-AZ-85339/67792504_zpid/
+8965863,22387559,"7016 S 54th Ln, Laveen, AZ 85339 ",85339,215000,115733.0469,-0.4617,0.5176,2543.0,https://www.zillow.com/homedetails/7016-S-54th-Ln-Laveen-AZ-85339/71619419_zpid/
+8977910,22387517,"5214 W Hasan Dr, Laveen, AZ 85339 ",85339,193000,90808.2969,-0.5295,0.5176,2792.0,https://www.zillow.com/homedetails/5214-W-Hasan-Dr-Laveen-AZ-85339/81979376_zpid/
+8986929,22486790,"5704 W Milada Dr, Laveen, AZ 85339 ",85339,215000,109003.7266,-0.493,0.5176,3078.0,https://www.zillow.com/homedetails/5704-W-Milada-Dr-Laveen-AZ-85339/95169292_zpid/
+8963797,22486773,"4825 W Donner Dr, Laveen, AZ 85339 ",85339,209999,89873.1641,-0.572,0.5176,4045.0,https://www.zillow.com/homedetails/4825-W-Donner-Dr-Laveen-AZ-85339/95121124_zpid/

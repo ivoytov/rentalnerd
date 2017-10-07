@@ -1,0 +1,21 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+9001872,22604124,"3034 N 71st Dr, Phoenix, AZ 85033 ",85033,125000,153078.7344,0.2246,0.5044,45.5,https://www.zillow.com/homedetails/3034-N-71st-Dr-Phoenix-AZ-85033/7468971_zpid/
+388395,22374282,"3823 W Northview Ave, Phoenix, AZ 85051 ",85051,105000,129133.7266,0.2298,0.5044,68.5,https://www.zillow.com/homedetails/3823-W-Northview-Ave-Phoenix-AZ-85051/7757400_zpid/
+386839,22413795,"3712 W Seldon Ln, Phoenix, AZ 85051 ",85051,135000,159118.5469,0.1787,0.5044,69.5,https://www.zillow.com/homedetails/3712-W-Seldon-Ln-Phoenix-AZ-85051/7752377_zpid/
+8975929,22356562,"8722 W Bobby Lopez Dr, Tolleson, AZ 85353 ",85353,137300,159486.7812,0.1616,0.5044,74.5,https://www.zillow.com/homedetails/8722-W-Bobby-Lopez-Dr-Tolleson-AZ-85353/7476772_zpid/
+554022,22726630,"2045 W Washington St, Phoenix, AZ 85009 ",85009,140000,161715.0469,0.1551,0.5044,77.5,https://www.zillow.com/homedetails/2045-W-Washington-St-Phoenix-AZ-85009/7515364_zpid/
+8976427,22364465,"3836 W Vernon Ave, Phoenix, AZ 85009 ",85009,139000,159795.7969,0.1496,0.5044,85.5,https://www.zillow.com/homedetails/3836-W-Vernon-Ave-Phoenix-AZ-85009/7510560_zpid/
+314319,22355677,"1759 W Hadley St, Phoenix, AZ 85007 ",85007,139000,157997.8125,0.1367,0.5044,100.5,https://www.zillow.com/homedetails/1759-W-Hadley-St-Phoenix-AZ-85007/7522568_zpid/
+472121,22331201,"4708 N 27th Ave, Phoenix, AZ 85017 ",85017,130000,148210.375,0.1401,0.5044,103.5,https://www.zillow.com/homedetails/4708-N-27th-Ave-Phoenix-AZ-85017/7766034_zpid/
+481708,22326627,"2509 N 51st Dr, Phoenix, AZ 85035 ",85035,124500,141169.3594,0.1339,0.5044,120.5,https://www.zillow.com/homedetails/2509-N-51st-Dr-Phoenix-AZ-85035/7493014_zpid/
+190375,22333246,"1538 W Wier Ave, Phoenix, AZ 85041 ",85041,120000,136472.2969,0.1373,0.5044,123.5,https://www.zillow.com/homedetails/1538-W-Wier-Ave-Phoenix-AZ-85041/7502059_zpid/
+8977484,22377507,"6737 N 55th Dr, Glendale, AZ 85301 ",85301,126000,142417.9688,0.1303,0.5044,125.5,https://www.zillow.com/homedetails/6737-N-55th-Dr-Glendale-AZ-85301/7722024_zpid/
+8973881,22539551,"3455 N 51st Ave, Phoenix, AZ 85031 ",85031,137950,154311.6875,0.1186,0.5044,126.5,https://www.zillow.com/homedetails/3455-N-51st-Ave-Phoenix-AZ-85031/7508529_zpid/
+8973738,22417891,"8233 W Avalon Dr, Phoenix, AZ 85033 ",85033,134900,150830.4375,0.1181,0.5044,128.5,https://www.zillow.com/homedetails/8233-W-Avalon-Dr-Phoenix-AZ-85033/7479705_zpid/
+835497,22634895,"3702 W Denton Ln, Phoenix, AZ 85019 ",85019,140000,154861.9219,0.1062,0.5044,139.5,https://www.zillow.com/homedetails/3702-W-Denton-Ln-Phoenix-AZ-85019/7719648_zpid/
+36218,22371859,"4029 S 17th St, Phoenix, AZ 85040 ",85040,135000,148217.375,0.0979,0.5044,158.5,https://www.zillow.com/homedetails/4029-S-17th-St-Phoenix-AZ-85040/7546441_zpid/
+351961,22316000,"816 S 31st Ave, Phoenix, AZ 85009 ",85009,144900,157575.25,0.0875,0.5044,163.5,https://www.zillow.com/homedetails/816-S-31st-Ave-Phoenix-AZ-85009/68533253_zpid/
+533519,22301780,"1019 N 42nd Ave, Phoenix, AZ 85009 ",85009,134500,146773.1094,0.0912,0.5044,174.5,https://www.zillow.com/homedetails/1019-N-42nd-Ave-Phoenix-AZ-85009/7506427_zpid/
+462473,22374277,"2629 W Luke Ave, Phoenix, AZ 85017 ",85017,125000,135132.2031,0.0811,0.5044,201.5,https://www.zillow.com/homedetails/2629-W-Luke-Ave-Phoenix-AZ-85017/7763822_zpid/
+407653,22391418,"5845 W Gelding Dr, Glendale, AZ 85306 ",85306,150000,160040.1875,0.0669,0.5044,202.5,https://www.zillow.com/homedetails/5845-W-Gelding-Dr-Glendale-AZ-85306/8098466_zpid/
+491289,22353052,"5551 W Wilshire Dr, Phoenix, AZ 85035 ",85035,149900,159558.4219,0.0644,0.5044,209.5,https://www.zillow.com/homedetails/5551-W-Wilshire-Dr-Phoenix-AZ-85035/7491935_zpid/

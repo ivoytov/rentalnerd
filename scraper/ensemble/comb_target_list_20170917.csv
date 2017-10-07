@@ -1,0 +1,21 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+921192,21973306,"22639 W Tonto St, Buckeye, AZ 85326 ",85326,155000,43393.043,-0.72,0.5694,5148.0,https://www.zillow.com/homedetails/22639-W-Tonto-St-Buckeye-AZ-85326/81990995_zpid/
+8962076,21975250,"25741 W Watkins St, Buckeye, AZ 85326 ",85326,232950,80447.9297,-0.6547,0.5636,6981.0,https://www.zillow.com/homedetails/25741-W-Watkins-St-Buckeye-AZ-85326/2093889774_zpid/
+885739,21839347,"27044 W Escuda Dr, Buckeye, AZ 85396 ",85396,185000,80526.1328,-0.5647,0.5621,4438.0,https://www.zillow.com/homedetails/27044-W-Escuda-Dr-Buckeye-AZ-85396/89137010_zpid/
+8963876,22236728,"443 N 63rd Ln, Phoenix, AZ 85043 ",85043,179900,31680.7598,-0.8239,0.5606,6925.0,https://www.zillow.com/homedetails/443-N-63rd-Ln-Phoenix-AZ-85043/2093759310_zpid/
+8962077,21975249,"25748 W Watkins St, Buckeye, AZ 85326 ",85326,212900,59930.4766,-0.7185,0.5603,6991.0,https://www.zillow.com/homedetails/25748-W-Watkins-St-Buckeye-AZ-85326/2093772852_zpid/
+8944927,21974537,"24640 W Sheraton Ln, Buckeye, AZ 85326 ",85326,178900,37863.0898,-0.7884,0.5587,6788.0,https://www.zillow.com/homedetails/24640-W-Sheraton-Ln-Buckeye-AZ-85326/95186732_zpid/
+8959480,21975350,"25811 W Watkins St, Buckeye, AZ 85326 ",85326,234900,77803.2109,-0.6688,0.5586,7057.0,https://www.zillow.com/homedetails/25811-W-Watkins-St-Buckeye-AZ-85326/2093856636_zpid/
+935720,22168028,"25768 W Pleasant Ln, Buckeye, AZ 85326 ",85326,159900,60172.1484,-0.6237,0.5555,3934.0,https://www.zillow.com/homedetails/25768-W-Pleasant-Ln-Buckeye-AZ-85326/81994172_zpid/
+7478654,21975344,"25780 W Watkins St, Buckeye, AZ 85326 ",85326,204898,75094.7812,-0.6335,0.5554,6415.0,https://www.zillow.com/homedetails/25780-W-Watkins-St-Buckeye-AZ-85326/2094788129_zpid/
+8959284,22016793,"1147 N 90th St, Mesa, AZ 85207 ",85207,229900,91932.3047,-0.6001,0.5552,6721.0,https://www.zillow.com/homedetails/1147-N-90th-St-Mesa-AZ-85207/25776388_zpid/
+501545,22080380,"7823 W Palm Ln, Phoenix, AZ 85035 ",85035,165000,69710.6172,-0.5775,0.5552,3448.0,https://www.zillow.com/homedetails/7823-W-Palm-Ln-Phoenix-AZ-85035/95136297_zpid/
+1140418,21895366,"11601 W Poinsettia Dr, El Mirage, AZ 85335 ",85335,158000,78657.4609,-0.5022,0.555,1758.0,https://www.zillow.com/homedetails/11601-W-Poinsettia-Dr-El-Mirage-AZ-85335/59277980_zpid/
+1145331,22260940,"12229 W Larkspur Rd, El Mirage, AZ 85335 ",85335,150000,86792.7422,-0.4214,0.5535,688.0,https://www.zillow.com/homedetails/12229-W-Larkspur-Rd-El-Mirage-AZ-85335/29618318_zpid/
+8957471,21975281,"25756 W Watkins St, Buckeye, AZ 85326 ",85326,229456,80367.2422,-0.6497,0.5514,6947.0,https://www.zillow.com/homedetails/25756-W-Watkins-St-Buckeye-AZ-85326/2093960925_zpid/
+565089,22016727,"10032 E Isleta Ave, Mesa, AZ 85209 ",85209,195500,79698.5391,-0.5923,0.5504,5517.0,https://www.zillow.com/homedetails/10032-E-Isleta-Ave-Mesa-AZ-85209/71551707_zpid/
+8847803,21991757,"885 S Porter Ct, Gilbert, AZ 85296 ",85296,205000,60988.707,-0.7025,0.5496,6867.0,https://www.zillow.com/homedetails/885-S-Porter-Ct-Gilbert-AZ-85296/60990033_zpid/
+8962799,22186363,"9937 E Empress Ave, Mesa, AZ 85208 ",85208,207900,90748.4922,-0.5635,0.5493,5642.0,https://www.zillow.com/homedetails/9937-E-Empress-Ave-Mesa-AZ-85208/71621505_zpid/
+1485090,22027283,"20051 N Coyote Lakes Pkwy, Surprise, AZ 85378 ",85378,165000,118592.8203,-0.2813,0.5485,246.0,https://www.zillow.com/homedetails/20051-N-Coyote-Lakes-Pkwy-Surprise-AZ-85378/8318853_zpid/
+26685,22125543,"8462 W Lewis Ave, Phoenix, AZ 85037 ",85037,159999,87835.2422,-0.451,0.5484,1219.0,https://www.zillow.com/homedetails/8462-W-Lewis-Ave-Phoenix-AZ-85037/82823097_zpid/
+7484938,22081601,"10103 E Capri Ave, Mesa, AZ 85208 ",85208,200000,112739.5703,-0.4363,0.5483,2567.0,https://www.zillow.com/homedetails/10103-E-Capri-Ave-Mesa-AZ-85208/41713134_zpid/

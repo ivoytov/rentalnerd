@@ -1,0 +1,21 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+8959480,21975350,"25811 W Watkins St, Buckeye, AZ 85326 ",85326,234900,68936.4531,-0.7065,0.5687,6198.0,https://www.zillow.com/homedetails/25811-W-Watkins-St-Buckeye-AZ-85326/2093856636_zpid/
+8962076,21975250,"25741 W Watkins St, Buckeye, AZ 85326 ",85326,232950,63513.582,-0.7274,0.5669,6213.0,https://www.zillow.com/homedetails/25741-W-Watkins-St-Buckeye-AZ-85326/2093889774_zpid/
+921192,21973306,"22639 W Tonto St, Buckeye, AZ 85326 ",85326,155000,66732.7266,-0.5695,0.5618,2399.0,https://www.zillow.com/homedetails/22639-W-Tonto-St-Buckeye-AZ-85326/81990995_zpid/
+889057,22029538,"30206 W Cheery Lynn Rd, Buckeye, AZ 85396 ",85396,229999,100106.6641,-0.5648,0.5615,5650.0,https://www.zillow.com/homedetails/30206-W-Cheery-Lynn-Rd-Buckeye-AZ-85396/81983777_zpid/
+934976,22270988,"25702 W Forest Grove Ave, Buckeye, AZ 85326 ",85326,219000,65448.7812,-0.7011,0.5609,6133.0,https://www.zillow.com/homedetails/25702-W-Forest-Grove-Ave-Buckeye-AZ-85326/67796951_zpid/
+1603789,21949441,"18551 W Sunnyslope Ln, Waddell, AZ 85355 ",85355,242777,116576.8047,-0.5198,0.5605,5514.0,https://www.zillow.com/homedetails/18551-W-Sunnyslope-Ln-Waddell-AZ-85355/71624880_zpid/
+680850,22126163,"8727 E Knowles Ave, Mesa, AZ 85209 ",85209,245000,118954.6562,-0.5145,0.5602,5506.0,https://www.zillow.com/homedetails/8727-E-Knowles-Ave-Mesa-AZ-85209/59258871_zpid/
+912985,22286715,"1842 S 222nd Ln, Buckeye, AZ 85326 ",85326,235900,75298.2734,-0.6808,0.5602,6180.0,https://www.zillow.com/homedetails/1842-S-222nd-Ln-Buckeye-AZ-85326/71615713_zpid/
+8959284,22016793,"1147 N 90th St, Mesa, AZ 85207 ",85207,229900,111349.0859,-0.5157,0.5596,5114.0,https://www.zillow.com/homedetails/1147-N-90th-St-Mesa-AZ-85207/25776388_zpid/
+1025798,22133093,"1866 E Lindrick Dr, Chandler, AZ 85249 ",85249,163000,93790.1953,-0.4246,0.5585,812.0,https://www.zillow.com/homedetails/1866-E-Lindrick-Dr-Chandler-AZ-85249/8224975_zpid/
+916454,21972705,"21849 W Pima St, Buckeye, AZ 85326 ",85326,205000,78351.6016,-0.6178,0.5585,5539.0,https://www.zillow.com/homedetails/21849-W-Pima-St-Buckeye-AZ-85326/71631306_zpid/
+885739,21839347,"27044 W Escuda Dr, Buckeye, AZ 85396 ",85396,185000,78068.8828,-0.578,0.5579,4279.0,https://www.zillow.com/homedetails/27044-W-Escuda-Dr-Buckeye-AZ-85396/89137010_zpid/
+8962799,22186363,"9937 E Empress Ave, Mesa, AZ 85208 ",85208,207900,70457.9531,-0.6611,0.5571,5896.0,https://www.zillow.com/homedetails/9937-E-Empress-Ave-Mesa-AZ-85208/71621505_zpid/
+8951488,21899311,"2026 S 172nd Ln, Goodyear, AZ 85338 ",85338,174900,81252.3516,-0.5354,0.5571,2977.0,https://www.zillow.com/homedetails/2026-S-172nd-Ln-Goodyear-AZ-85338/55287385_zpid/
+8962791,21938665,"325 S Aaron, Mesa, AZ 85208 ",85208,190000,109245.2031,-0.425,0.5568,1664.0,https://www.zillow.com/homedetails/325-S-Aaron-Mesa-AZ-85208/81989888_zpid/
+1603217,21949374,"18468 W Carol Ave, Waddell, AZ 85355 ",85355,240000,99199.8594,-0.5867,0.5553,5982.0,https://www.zillow.com/homedetails/18468-W-Carol-Ave-Waddell-AZ-85355/95117522_zpid/
+930591,21974705,"24862 W Rancho Vista Dr, Buckeye, AZ 85326 ",85326,199000,74407.1016,-0.6261,0.5539,5437.0,https://www.zillow.com/homedetails/24862-W-Rancho-Vista-Dr-Buckeye-AZ-85326/71598995_zpid/
+934897,22127865,"25694 W Victory St, Buckeye, AZ 85326 ",85326,226900,84494.2031,-0.6276,0.5538,6012.0,https://www.zillow.com/homedetails/25694-W-Victory-St-Buckeye-AZ-85326/67796928_zpid/
+7478654,21975344,"25780 W Watkins St, Buckeye, AZ 85326 ",85326,204898,77242.5078,-0.623,0.5535,5586.0,https://www.zillow.com/homedetails/25780-W-Watkins-St-Buckeye-AZ-85326/2094788129_zpid/
+364147,21964133,"9335 W Payson Rd, Tolleson, AZ 85353 ",85353,210000,92887.0391,-0.5577,0.553,5035.0,https://www.zillow.com/homedetails/9335-W-Payson-Rd-Tolleson-AZ-85353/81982004_zpid/

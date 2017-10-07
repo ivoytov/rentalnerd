@@ -1,0 +1,22 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+8962791,21938665,"325 S Aaron, Mesa, AZ 85208 ",85208,190000,107229.5859,-0.4356,0.5491,1657.0,https://www.zillow.com/homedetails/325-S-Aaron-Mesa-AZ-85208/81989888_zpid/
+8962799,22186363,"9937 E Empress Ave, Mesa, AZ 85208 ",85208,207900,84835.6484,-0.5919,0.5481,5020.0,https://www.zillow.com/homedetails/9937-E-Empress-Ave-Mesa-AZ-85208/71621505_zpid/
+968287,22133163,"5138 W Jupiter Way, Chandler, AZ 85226 ",85226,218000,103068.2266,-0.5272,0.546,4453.0,https://www.zillow.com/homedetails/5138-W-Jupiter-Way-Chandler-AZ-85226/8165981_zpid/
+7551363,22100886,"9637 E Baltimore St, Mesa, AZ 85207 ",85207,200000,108346.5391,-0.4583,0.5439,2362.0,https://www.zillow.com/homedetails/9637-E-Baltimore-St-Mesa-AZ-85207/59264505_zpid/
+8847810,22183198,"849 E Devon Rd, Gilbert, AZ 85296 ",85296,249900,103009.1406,-0.5878,0.5438,5859.0,https://www.zillow.com/homedetails/849-E-Devon-Rd-Gilbert-AZ-85296/67766936_zpid/
+678798,22105596,"8425 E Milagro Cir, Mesa, AZ 85209 ",85209,233000,127811.4531,-0.4515,0.5427,3627.0,https://www.zillow.com/homedetails/8425-E-Milagro-Cir-Mesa-AZ-85209/52434474_zpid/
+8847803,21991757,"885 S Porter Ct, Gilbert, AZ 85296 ",85296,205000,75141.125,-0.6335,0.5423,5354.0,https://www.zillow.com/homedetails/885-S-Porter-Ct-Gilbert-AZ-85296/60990033_zpid/
+8958718,21809406,"9932 E Diamond Ave, Mesa, AZ 85208 ",85208,185999,99575.6875,-0.4646,0.5422,1917.0,https://www.zillow.com/homedetails/9932-E-Diamond-Ave-Mesa-AZ-85208/8091207_zpid/
+7484938,22081601,"10103 E Capri Ave, Mesa, AZ 85208 ",85208,200000,102532.2578,-0.4873,0.5416,2889.0,https://www.zillow.com/homedetails/10103-E-Capri-Ave-Mesa-AZ-85208/41713134_zpid/
+679977,22099519,"8545 E Desert Ln, Mesa, AZ 85209 ",85209,223900,110409.1719,-0.5069,0.5411,4339.0,https://www.zillow.com/homedetails/8545-E-Desert-Ln-Mesa-AZ-85209/55275145_zpid/
+685105,22228617,"9717 E Jerome Ave, Mesa, AZ 85209 ",85209,230000,120355.6797,-0.4767,0.5409,4019.0,https://www.zillow.com/homedetails/9717-E-Jerome-Ave-Mesa-AZ-85209/8090797_zpid/
+565089,22016727,"10032 E Isleta Ave, Mesa, AZ 85209 ",85209,195500,84507.7109,-0.5677,0.5409,4140.0,https://www.zillow.com/homedetails/10032-E-Isleta-Ave-Mesa-AZ-85209/71551707_zpid/
+2043003,22101262,"1163 W Argon St, Mesa, AZ 85201 ",85201,238900,127610.9297,-0.4658,0.5406,4168.0,http://www.zillow.com/homedetails/1163-W-Argon-St-Mesa-AZ-85201/95176902_zpid/
+8708656,21948735,"17992 N Painted Spurge Ct, Surprise, AZ 85374 ",85374,244000,127953.9453,-0.4756,0.5398,4537.0,https://www.zillow.com/homedetails/17992-N-Painted-Spurge-Ct-Surprise-AZ-85374/8126581_zpid/
+875646,22182001,"20553 W Maiden Ln, Buckeye, AZ 85396 ",85396,215000,81555.6016,-0.6207,0.5384,5503.0,https://www.zillow.com/homedetails/20553-W-Maiden-Ln-Buckeye-AZ-85396/81996209_zpid/
+8958678,22240727,"11035 E Wier Ave, Mesa, AZ 85208 ",85208,209900,126156.3203,-0.399,0.5382,1743.0,https://www.zillow.com/homedetails/11035-E-Wier-Ave-Mesa-AZ-85208/50192777_zpid/
+681653,21809336,"9223 E Lompoc Ave, Mesa, AZ 85209 ",85209,209900,107529.2031,-0.4877,0.5372,3355.0,https://www.zillow.com/homedetails/9223-E-Lompoc-Ave-Mesa-AZ-85209/52434598_zpid/
+680850,22126163,"8727 E Knowles Ave, Mesa, AZ 85209 ",85209,245000,132390.0625,-0.4596,0.5357,4282.0,https://www.zillow.com/homedetails/8727-E-Knowles-Ave-Mesa-AZ-85209/59258871_zpid/
+7434050,22053634,"10218 E Bramble Ave, Mesa, AZ 85208 ",85208,159000,92384.1875,-0.419,0.5352,714.0,https://www.zillow.com/homedetails/10218-E-Bramble-Ave-Mesa-AZ-85208/8087032_zpid/
+8959480,21975350,"25811 W Watkins St, Buckeye, AZ 85326 ",85326,234900,74424.875,-0.6832,0.535,6018.5,https://www.zillow.com/homedetails/25811-W-Watkins-St-Buckeye-AZ-85326/2093856636_zpid/
+8962076,21975250,"25741 W Watkins St, Buckeye, AZ 85326 ",85326,232950,54187.2578,-0.7674,0.535,6106.5,https://www.zillow.com/homedetails/25741-W-Watkins-St-Buckeye-AZ-85326/2093889774_zpid/

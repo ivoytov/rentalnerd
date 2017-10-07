@@ -1,0 +1,21 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+8966006,22229128,"1905 E Village Dr, Phoenix, AZ 85022 ",85022,245900,214169.4375,-0.129,0.4736,3952.0,https://www.zillow.com/homedetails/1905-E-Village-Dr-Phoenix-AZ-85022/62731338_zpid/
+354868,22069463,"2323 E Aire Libre Ave, Phoenix, AZ 85022 ",85022,249900,206616.0312,-0.1732,0.4736,4176.0,https://www.zillow.com/homedetails/2323-E-Aire-Libre-Ave-Phoenix-AZ-85022/8005146_zpid/
+354524,22214160,"2305 E Kelton Ln, Phoenix, AZ 85022 ",85022,230000,185045.7031,-0.1955,0.4736,4187.0,https://www.zillow.com/homedetails/2305-E-Kelton-Ln-Phoenix-AZ-85022/8005205_zpid/
+241092,22109561,"17638 N 6th Ave, Phoenix, AZ 85023 ",85023,239900,191084.5156,-0.2035,0.4736,4210.0,https://www.zillow.com/homedetails/17638-N-6th-Ave-Phoenix-AZ-85023/7958907_zpid/
+345272,22179796,"17409 N 19th Run, Phoenix, AZ 85022 ",85022,235000,185822.3281,-0.2093,0.4736,4212.0,https://www.zillow.com/homedetails/17409-N-19th-Run-Phoenix-AZ-85022/67776115_zpid/
+8955855,21958091,"5135 W Glass Ln, Laveen, AZ 85339 ",85339,225000,230233.9219,0.0233,0.4702,2086.5,https://www.zillow.com/homedetails/5135-W-Glass-Ln-Laveen-AZ-85339/67789272_zpid/
+8966236,22232707,"6920 S 54th Ln, Laveen, AZ 85339 ",85339,220000,221128.3906,0.0051,0.4702,2385.5,https://www.zillow.com/homedetails/6920-S-54th-Ln-Laveen-AZ-85339/71619413_zpid/
+195456,17161035,"3206 W Saint Catherine Ave, Phoenix, AZ 85041 ",85041,209900,210529.75,0.003,0.4702,2408.5,https://www.zillow.com/homedetails/3206-W-Saint-Catherine-Ave-Phoenix-AZ-85041/67764961_zpid/
+365302,22402178,"9662 W Payson Rd, Tolleson, AZ 85353 ",85353,209999,209519.3281,-0.0023,0.4702,2500.5,https://www.zillow.com/homedetails/9662-W-Payson-Rd-Tolleson-AZ-85353/60046567_zpid/
+195025,22215523,"3045 W Graham Trl, Phoenix, AZ 85041 ",85041,169900,169050.2656,-0.005,0.4702,2524.5,https://www.zillow.com/homedetails/3045-W-Graham-Trl-Phoenix-AZ-85041/67789499_zpid/
+526436,22126983,"9405 W Hazelwood St, Phoenix, AZ 85037 ",85037,224900,222778.375,-0.0094,0.4702,2624.5,https://www.zillow.com/homedetails/9405-W-Hazelwood-St-Phoenix-AZ-85037/7466352_zpid/
+1410517,21990149,"7108 N 73rd Dr, Glendale, AZ 85303 ",85303,229000,225142.3125,-0.0168,0.4702,2763.5,https://www.zillow.com/homedetails/7108-N-73rd-Dr-Glendale-AZ-85303/82823489_zpid/
+43821,22075535,"8129 W Globe Ave, Phoenix, AZ 85043 ",85043,230000,224581.0312,-0.0236,0.4702,2886.5,https://www.zillow.com/homedetails/8129-W-Globe-Ave-Phoenix-AZ-85043/67764556_zpid/
+201118,22123122,"7005 S 41st Dr, Phoenix, AZ 85041 ",85041,185000,179562.0312,-0.0294,0.4702,2888.5,https://www.zillow.com/homedetails/7005-S-41st-Dr-Phoenix-AZ-85041/60047567_zpid/
+41171,22404170,"5634 W Wood St, Phoenix, AZ 85043 ",85043,225000,218724.1094,-0.0279,0.4702,2936.5,https://www.zillow.com/homedetails/5634-W-Wood-St-Phoenix-AZ-85043/71601657_zpid/
+633852,22042135,"7804 S 48th Ln, Laveen, AZ 85339 ",85339,219900,211807.9844,-0.0368,0.4702,3033.5,https://www.zillow.com/homedetails/7804-S-48th-Ln-Laveen-AZ-85339/82799683_zpid/
+359490,21950198,"2411 S 84th Dr, Tolleson, AZ 85353 ",85353,180000,170878.6875,-0.0507,0.4702,3097.5,https://www.zillow.com/homedetails/2411-S-84th-Dr-Tolleson-AZ-85353/56392405_zpid/
+8965862,22217760,"5312 W Glass Ln, Laveen, AZ 85339 ",85339,220000,209475.6406,-0.0478,0.4702,3162.5,https://www.zillow.com/homedetails/5312-W-Glass-Ln-Laveen-AZ-85339/67789160_zpid/
+359804,22029353,"3019 S 85th Dr, Tolleson, AZ 85353 ",85353,214900,203476.2656,-0.0532,0.4702,3212.5,https://www.zillow.com/homedetails/3019-S-85th-Dr-Tolleson-AZ-85353/71598240_zpid/
+8799151,21958021,"5107 W Glass Ln, Laveen, AZ 85339 ",85339,205000,190710.6094,-0.0697,0.4702,3312.5,https://www.zillow.com/homedetails/5107-W-Glass-Ln-Laveen-AZ-85339/67789279_zpid/

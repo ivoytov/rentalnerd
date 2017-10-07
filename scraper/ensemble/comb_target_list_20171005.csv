@@ -1,0 +1,21 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+1944321,22703136,"2513 W Monroe St, Phoenix, AZ 85009 ",85009,101000,119896.4531,0.1871,0.5,1790.5,https://www.zillow.com/homedetails/2513-W-Monroe-St-Phoenix-AZ-85009/2097246184_zpid/
+479557,22645200,"2212 N 49th Ave, Phoenix, AZ 85035 ",85035,110000,124598.5859,0.1327,0.5,1791.5,https://www.zillow.com/homedetails/2212-N-49th-Ave-Phoenix-AZ-85035/7494255_zpid/
+696692,22541764,"2915 W Washington St, Phoenix, AZ 85009 ",85009,105000,119225.9453,0.1355,0.5,1792.5,https://www.zillow.com/homedetails/2915-W-Washington-St-Phoenix-AZ-85009/7514852_zpid/
+1351681,22644247,"5976 W Augusta Ave, Glendale, AZ 85301 ",85301,110000,123934.3828,0.1267,0.5,1793.5,https://www.zillow.com/homedetails/5976-W-Augusta-Ave-Glendale-AZ-85301/7705387_zpid/
+341514,22579457,"1323 N 30th Dr, Phoenix, AZ 85009 ",85009,109900,123672.5156,0.1253,0.5,1794.5,https://www.zillow.com/homedetails/1323-N-30th-Dr-Phoenix-AZ-85009/7515891_zpid/
+343301,22549568,"2022 W Tonto St, Phoenix, AZ 85009 ",85009,105000,118144.1641,0.1252,0.5,1795.5,https://www.zillow.com/homedetails/2022-W-Tonto-St-Phoenix-AZ-85009/7515751_zpid/
+34967,22527405,"2429 E Tamarisk Ave, Phoenix, AZ 85040 ",85040,106000,118991.1484,0.1226,0.5,1796.5,https://www.zillow.com/homedetails/2429-E-Tamarisk-Ave-Phoenix-AZ-85040/7547888_zpid/
+463577,22332341,"2745 W Mackenzie Dr, Phoenix, AZ 85017 ",85017,110000,122279.2969,0.1116,0.5,1799.5,https://www.zillow.com/homedetails/2745-W-Mackenzie-Dr-Phoenix-AZ-85017/7768715_zpid/
+321375,22729090,"323 N 13th Pl, Phoenix, AZ 85006 ",85006,110000,121066.2422,0.1006,0.5,1800.5,https://www.zillow.com/homedetails/323-N-13th-Pl-Phoenix-AZ-85006/7529627_zpid/
+9017931,22722137,"535 E Purdue Ave, Phoenix, AZ 85020 ",85020,109500,120465.0234,0.1001,0.5,1801.5,https://www.zillow.com/homedetails/535-E-Purdue-Ave-Phoenix-AZ-85020/113979986_zpid/
+8987380,22488189,"4335 W Crittenden Ln, Phoenix, AZ 85031 ",85031,109000,119736.6016,0.0985,0.5,1802.5,https://www.zillow.com/homedetails/4335-W-Crittenden-Ln-Phoenix-AZ-85031/7508300_zpid/
+332413,22601836,"1138 W Ironwood Dr, Phoenix, AZ 85021 ",85021,123900,134186.2812,0.083,0.5,1803.5,https://www.zillow.com/homedetails/1138-W-Ironwood-Dr-Phoenix-AZ-85021/7781687_zpid/
+8998480,22737276,"296 E Saragosa St, Chandler, AZ 85225 ",85225,110000,120019.7656,0.0911,0.5,1804.5,https://www.zillow.com/homedetails/296-E-Saragosa-St-Chandler-AZ-85225/8206473_zpid/
+554650,22665807,"2130 W Maricopa St, Phoenix, AZ 85009 ",85009,109900,119737.5547,0.0895,0.5,1805.5,https://www.zillow.com/homedetails/2130-W-Maricopa-St-Phoenix-AZ-85009/7515876_zpid/
+445988,22692559,"4719 N 92nd Ave, Phoenix, AZ 85037 ",85037,135000,144806.0938,0.0726,0.5,1806.5,https://www.zillow.com/homedetails/4719-N-92nd-Ave-Phoenix-AZ-85037/7466534_zpid/
+695550,22513634,"2702 N 40th Dr, Phoenix, AZ 85009 ",85009,109900,118947.2578,0.0823,0.5,1807.5,https://www.zillow.com/homedetails/2702-N-40th-Dr-Phoenix-AZ-85009/7512843_zpid/
+321900,22584257,"757 E Mckinley St, Phoenix, AZ 85006 ",85006,135000,143992.9375,0.0666,0.5,1808.5,https://www.zillow.com/homedetails/757-E-Mckinley-St-Phoenix-AZ-85006/7530176_zpid/
+317439,22418428,"907 S 15th Ave, Phoenix, AZ 85007 ",85007,109900,118887.6797,0.0818,0.5,1809.5,https://www.zillow.com/homedetails/907-S-15th-Ave-Phoenix-AZ-85007/7522678_zpid/
+33075,22688152,"1015 E Grove St, Phoenix, AZ 85040 ",85040,127900,136862.9531,0.0701,0.5,1810.5,https://www.zillow.com/homedetails/1015-E-Grove-St-Phoenix-AZ-85040/62728057_zpid/
+464542,22374280,"2905 W Bethany Home Rd, Phoenix, AZ 85017 ",85017,123000,131711.7344,0.0708,0.5,1811.5,https://www.zillow.com/homedetails/2905-W-Bethany-Home-Rd-Phoenix-AZ-85017/7762753_zpid/
