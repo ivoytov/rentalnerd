@@ -1,0 +1,21 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+9017931,22745709,"535 E Purdue Ave, Phoenix, AZ 85020 ",85020,109000,147941.5156,0.3573,0.5,1152.0,https://www.zillow.com/homedetails/535-E-Purdue-Ave-Phoenix-AZ-85020/113979986_zpid/
+8998480,22737276,"296 E Saragosa St, Chandler, AZ 85225 ",85225,110000,147624.2031,0.342,0.5,1153.0,https://www.zillow.com/homedetails/296-E-Saragosa-St-Chandler-AZ-85225/8206473_zpid/
+494244,22745283,"6107 W Cambridge Ave, Phoenix, AZ 85035 ",85035,110000,147407.2812,0.3401,0.5,1154.0,https://www.zillow.com/homedetails/6107-W-Cambridge-Ave-Phoenix-AZ-85035/7491643_zpid/
+1351681,22742506,"5976 W Augusta Ave, Glendale, AZ 85301 ",85301,110000,146955.7812,0.336,0.5,1156.0,https://www.zillow.com/homedetails/5976-W-Augusta-Ave-Glendale-AZ-85301/7705387_zpid/
+9016642,22712000,"6402 W Weldon Ave, Phoenix, AZ 85033 ",85033,121000,157394.0625,0.3008,0.5,1157.0,https://www.zillow.com/homedetails/6402-W-Weldon-Ave-Phoenix-AZ-85033/7489112_zpid/
+1944321,22742777,"2513 W Monroe St, Phoenix, AZ 85009 ",85009,111000,146441.125,0.3193,0.5,1158.0,https://www.zillow.com/homedetails/2513-W-Monroe-St-Phoenix-AZ-85009/2097246184_zpid/
+8962037,22706185,"3731 E Taylor St, Phoenix, AZ 85008 ",85008,109900,145134.4531,0.3206,0.5,1159.0,https://www.zillow.com/homedetails/3731-E-Taylor-St-Phoenix-AZ-85008/7544415_zpid/
+479557,22645200,"2212 N 49th Ave, Phoenix, AZ 85035 ",85035,110000,145053.5,0.3187,0.5,1161.0,https://www.zillow.com/homedetails/2212-N-49th-Ave-Phoenix-AZ-85035/7494255_zpid/
+314843,22737194,"1827 W Pima St, Phoenix, AZ 85007 ",85007,120000,154552.0469,0.2879,0.5,1162.0,https://www.zillow.com/homedetails/1827-W-Pima-St-Phoenix-AZ-85007/7501192_zpid/
+475203,22731664,"6805 N 33rd Ave, Phoenix, AZ 85017 ",85017,120000,154428.4219,0.2869,0.5,1163.0,https://www.zillow.com/homedetails/6805-N-33rd-Ave-Phoenix-AZ-85017/7759238_zpid/
+9019126,22747337,"3703 W Lawrence Rd, Phoenix, AZ 85019 ",85019,115000,148805.5469,0.294,0.5,1166.0,https://www.zillow.com/homedetails/3703-W-Lawrence-Rd-Phoenix-AZ-85019/7758466_zpid/
+363771,22712428,"9210 W Taylor St, Tolleson, AZ 85353 ",85353,120000,153786.2031,0.2816,0.5,1167.0,https://www.zillow.com/homedetails/9210-W-Taylor-St-Tolleson-AZ-85353/95176813_zpid/
+341514,22579457,"1323 N 30th Dr, Phoenix, AZ 85009 ",85009,109900,142661.5156,0.2981,0.5,1169.0,https://www.zillow.com/homedetails/1323-N-30th-Dr-Phoenix-AZ-85009/7515891_zpid/
+350440,22703140,"3906 W Tonto St, Phoenix, AZ 85009 ",85009,115000,147074.8125,0.2789,0.5,1171.0,https://www.zillow.com/homedetails/3906-W-Tonto-St-Phoenix-AZ-85009/7506070_zpid/
+34588,22711819,"2228 E Roeser Rd, Phoenix, AZ 85040 ",85040,119000,150314.2031,0.2631,0.5,1172.0,https://www.zillow.com/homedetails/2228-E-Roeser-Rd-Phoenix-AZ-85040/7545893_zpid/
+554650,22665807,"2130 W Maricopa St, Phoenix, AZ 85009 ",85009,109900,140947.6094,0.2825,0.5,1173.0,https://www.zillow.com/homedetails/2130-W-Maricopa-St-Phoenix-AZ-85009/7515876_zpid/
+475767,22731649,"6828 N 29th Ln, Phoenix, AZ 85017 ",85017,124900,155704.8906,0.2466,0.5,1174.0,https://www.zillow.com/homedetails/6828-N-29th-Ln-Phoenix-AZ-85017/7758826_zpid/
+24722,22741741,"9618 N 10th Ave, Phoenix, AZ 85021 ",85021,125000,155725.3594,0.2458,0.5,1175.0,https://www.zillow.com/homedetails/9618-N-10th-Ave-Phoenix-AZ-85021/2113547855_zpid/
+1350558,22731443,"5820 W Gardenia Ave, Glendale, AZ 85301 ",85301,125000,155585.7812,0.2447,0.5,1176.0,https://www.zillow.com/homedetails/5820-W-Gardenia-Ave-Glendale-AZ-85301/7726406_zpid/
+697221,22739671,"3018 W Coronado Rd, Phoenix, AZ 85009 ",85009,124900,155409.0,0.2443,0.5,1177.0,https://www.zillow.com/homedetails/3018-W-Coronado-Rd-Phoenix-AZ-85009/63200524_zpid/

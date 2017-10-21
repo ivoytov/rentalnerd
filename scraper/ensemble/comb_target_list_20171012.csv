@@ -1,0 +1,21 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+9013934,22693998,"6216 S 21st St, Phoenix, AZ 85042 ",85042,135000,106758.9062,-0.2092,0.5811,81.5,https://www.zillow.com/homedetails/6216-S-21st-St-Phoenix-AZ-85042/7548779_zpid/
+632493,22688009,"7336 S 48th Gln, Laveen, AZ 85339 ",85339,185000,124858.4141,-0.3251,0.5811,850.5,https://www.zillow.com/homedetails/7336-S-48th-Gln-Laveen-AZ-85339/81954220_zpid/
+190807,22693975,"1638 W Alta Vista Rd, Phoenix, AZ 85041 ",85041,190000,125595.9922,-0.339,0.5811,1024.5,https://www.zillow.com/homedetails/1638-W-Alta-Vista-Rd-Phoenix-AZ-85041/60554396_zpid/
+9013114,22687996,"3320 W Hayduk Rd, Laveen, AZ 85339 ",85339,206000,139436.7031,-0.3231,0.5811,1134.5,https://www.zillow.com/homedetails/3320-W-Hayduk-Rd-Laveen-AZ-85339/95187108_zpid/
+194918,22687936,"3014 W Fremont Rd, Phoenix, AZ 85041 ",85041,195000,124860.0625,-0.3597,0.5811,1304.5,https://www.zillow.com/homedetails/3014-W-Fremont-Rd-Phoenix-AZ-85041/60977236_zpid/
+9013135,22687971,"5227 W Beverly Rd, Laveen, AZ 85339 ",85339,199000,128779.4844,-0.3529,0.5811,1309.5,https://www.zillow.com/homedetails/5227-W-Beverly-Rd-Laveen-AZ-85339/71613966_zpid/
+196994,22694497,"3905 W Park St, Phoenix, AZ 85041 ",85041,197000,126432.8984,-0.3582,0.5811,1326.5,https://www.zillow.com/homedetails/3905-W-Park-St-Phoenix-AZ-85041/55258381_zpid/
+197173,22710790,"4001 W Irwin Ave, Phoenix, AZ 85041 ",85041,208000,136338.0156,-0.3445,0.5811,1398.5,https://www.zillow.com/homedetails/4001-W-Irwin-Ave-Phoenix-AZ-85041/55258549_zpid/
+9002555,22687982,"6926 S 50th Gln, Laveen, AZ 85339 ",85339,207500,131031.4922,-0.3685,0.5811,1611.5,https://www.zillow.com/homedetails/6926-S-50th-Gln-Laveen-AZ-85339/71599799_zpid/
+202983,22736991,"9216 S 7th Ave, Phoenix, AZ 85041 ",85041,193750,116919.6641,-0.3965,0.5811,1629.5,https://www.zillow.com/homedetails/9216-S-7th-Ave-Phoenix-AZ-85041/8132490_zpid/
+532534,22691516,"6519 S 43rd Ln, Laveen, AZ 85339 ",85339,180000,125188.6484,-0.3045,0.581,581.5,https://www.zillow.com/homedetails/6519-S-43rd-Ln-Laveen-AZ-85339/67773735_zpid/
+197525,22710801,"4102 W Carter Rd, Phoenix, AZ 85041 ",85041,189000,127989.1797,-0.3228,0.581,901.5,https://www.zillow.com/homedetails/4102-W-Carter-Rd-Phoenix-AZ-85041/60047540_zpid/
+200451,22693966,"6623 S 17th Ave, Phoenix, AZ 85041 ",85041,189000,126077.9688,-0.3329,0.581,970.5,https://www.zillow.com/homedetails/6623-S-17th-Ave-Phoenix-AZ-85041/59272440_zpid/
+200810,22694521,"6826 S 38th Ln, Phoenix, AZ 85041 ",85041,204900,138934.6094,-0.3219,0.581,1119.5,https://www.zillow.com/homedetails/6826-S-38th-Ln-Phoenix-AZ-85041/67789778_zpid/
+1129148,22633248,"3408 N Apache Cir, Chandler, AZ 85224 ",85224,220000,148264.2656,-0.3261,0.581,1412.5,https://www.zillow.com/homedetails/3408-N-Apache-Cir-Chandler-AZ-85224/8172495_zpid/
+533217,22508620,"6821 S 43rd Dr, Laveen, AZ 85339 ",85339,199800,125387.7188,-0.3724,0.581,1524.5,https://www.zillow.com/homedetails/6821-S-43rd-Dr-Laveen-AZ-85339/67773899_zpid/
+1094347,22710242,"805 W Nopal Pl, Chandler, AZ 85225 ",85225,225000,149875.25,-0.3339,0.581,1555.5,https://www.zillow.com/homedetails/805-W-Nopal-Pl-Chandler-AZ-85225/8177761_zpid/
+1096249,22506306,"866 E Rockwell Dr, Chandler, AZ 85225 ",85225,233000,153554.5156,-0.341,0.581,1763.5,https://www.zillow.com/homedetails/866-E-Rockwell-Dr-Chandler-AZ-85225/8182184_zpid/
+186413,22622837,"2022 E Windsong Dr, Phoenix, AZ 85048 ",85048,249999,159877.5938,-0.3605,0.581,2237.5,https://www.zillow.com/homedetails/2022-E-Windsong-Dr-Phoenix-AZ-85048/8162851_zpid/
+1115381,22681408,"1710 N Comanche Dr, Chandler, AZ 85224 ",85224,249900,156536.5781,-0.3736,0.581,2323.5,https://www.zillow.com/homedetails/1710-N-Comanche-Dr-Chandler-AZ-85224/8194464_zpid/

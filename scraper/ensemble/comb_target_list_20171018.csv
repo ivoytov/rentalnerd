@@ -1,0 +1,21 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+7447915,22576292,"8216 S 6th Ln, Phoenix, AZ 85041 ",85041,234900,177801.7031,-0.2431,0.7534,1788.0,https://www.zillow.com/homedetails/8216-S-6th-Ln-Phoenix-AZ-85041/95089441_zpid/
+7447909,22576290,"8225 S 5th Ln, Phoenix, AZ 85041 ",85041,234900,177786.1562,-0.2431,0.7534,1791.0,https://www.zillow.com/homedetails/8225-S-5th-Ln-Phoenix-AZ-85041/95083688_zpid/
+7447911,22576289,"8204 S 6th Ln, Phoenix, AZ 85041 ",85041,236900,177801.7031,-0.2495,0.7534,1857.0,https://www.zillow.com/homedetails/8204-S-6th-Ln-Phoenix-AZ-85041/95127702_zpid/
+8979550,22567935,"6607 S 17th Pl, Phoenix, AZ 85042 ",85042,228000,153055.6562,-0.3287,0.7469,2152.0,https://www.zillow.com/homedetails/6607-S-17th-Pl-Phoenix-AZ-85042/7549253_zpid/
+9002543,22608602,"4639 W Burgess Ln, Laveen, AZ 85339 ",85339,234900,174913.0312,-0.2554,0.7467,1886.0,https://www.zillow.com/homedetails/4639-W-Burgess-Ln-Laveen-AZ-85339/62727471_zpid/
+8993646,22544748,"8439 S 9th Pl, Phoenix, AZ 85042 ",85042,215000,159234.5156,-0.2594,0.7452,1736.0,https://www.zillow.com/homedetails/8439-S-9th-Pl-Phoenix-AZ-85042/8131233_zpid/
+8986445,23753559,"6927 W Alta Vista Rd, Laveen, AZ 85339 ",85339,216900,168020.2812,-0.2254,0.7441,1482.0,https://www.zillow.com/homedetails/6927-W-Alta-Vista-Rd-Laveen-AZ-85339/64661067_zpid/
+195942,22528869,"3334 W Fraktur Rd, Phoenix, AZ 85041 ",85041,219900,170594.5,-0.2242,0.7383,1504.0,https://www.zillow.com/homedetails/3334-W-Fraktur-Rd-Phoenix-AZ-85041/67781582_zpid/
+8997631,22573142,"4511 E Saint Catherine Ave, Phoenix, AZ 85042 ",85042,165000,141991.2344,-0.1394,0.7371,668.0,https://www.zillow.com/homedetails/4511-E-Saint-Catherine-Ave-Phoenix-AZ-85042/7555639_zpid/
+196048,23753520,"3410 W Leodra Ln, Phoenix, AZ 85041 ",85041,218000,172162.2031,-0.2103,0.7357,1388.0,http://www.zillow.com/homedetails/3410-W-Leodra-Ln-Phoenix-AZ-85041/81994553_zpid
+200273,23754209,"6518 S 15th Dr, Phoenix, AZ 85041 ",85041,194900,167938.7969,-0.1383,0.7318,856.0,https://www.zillow.com/homedetails/6518-S-15th-Dr-Phoenix-AZ-85041/59272329_zpid/
+987356,22579579,"1267 S Bogle Ct, Chandler, AZ 85286 ",85286,225000,165040.625,-0.2665,0.7313,1890.0,https://www.zillow.com/homedetails/1267-S-Bogle-Ct-Chandler-AZ-85286/60985443_zpid/
+9013628,22691512,"2832 N 34th Dr, Phoenix, AZ 85009 ",85009,149900,164844.6562,0.0997,0.7289,70.0,https://www.zillow.com/homedetails/2832-N-34th-Dr-Phoenix-AZ-85009/2092678953_zpid/
+500868,22742570,"7356 W Windsor Ave, Phoenix, AZ 85035 ",85035,179000,159421.1406,-0.1094,0.7276,485.5,https://www.zillow.com/homedetails/7356-W-Windsor-Ave-Phoenix-AZ-85035/95170108_zpid/
+8989020,22594955,"2518 N 73rd Dr, Phoenix, AZ 85035 ",85035,180500,158808.2031,-0.1202,0.7276,583.5,https://www.zillow.com/homedetails/2518-N-73rd-Dr-Phoenix-AZ-85035/95083161_zpid/
+9015638,22704145,"8444 W Lewis Ave, Phoenix, AZ 85037 ",85037,176900,157248.2188,-0.1111,0.7251,488.0,https://www.zillow.com/homedetails/8444-W-Lewis-Ave-Phoenix-AZ-85037/82823102_zpid/
+8989019,22747254,"2049 N 77th Gln, Phoenix, AZ 85035 ",85035,168250,156059.0938,-0.0725,0.7245,259.0,https://www.zillow.com/homedetails/2049-N-77th-Gln-Phoenix-AZ-85035/95149994_zpid/
+9006842,22645627,"6809 W Alta Vista Rd, Laveen, AZ 85339 ",85339,232900,164191.7031,-0.295,0.7213,2096.0,https://www.zillow.com/homedetails/6809-W-Alta-Vista-Rd-Laveen-AZ-85339/64788738_zpid/
+8973255,23753390,"7811 W Palm Ln, Phoenix, AZ 85035 ",85035,175900,158333.9688,-0.0999,0.7195,411.0,https://www.zillow.com/homedetails/7811-W-Palm-Ln-Phoenix-AZ-85035/95151582_zpid/
+1112897,23753526,"1500 W Mission Dr, Chandler, AZ 85224 ",85224,239500,188586.3906,-0.2126,0.7195,1578.0,https://www.zillow.com/homedetails/1500-W-Mission-Dr-Chandler-AZ-85224/8199237_zpid/

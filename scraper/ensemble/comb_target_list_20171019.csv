@@ -1,0 +1,21 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+345909,22262250,"5313 W Raymond St, Phoenix, AZ 85043 ",85043,150000,287278.375,0.9152,0.5868,865.0,https://www.zillow.com/homedetails/5313-W-Raymond-St-Phoenix-AZ-85043/67788825_zpid/
+1092452,22040999,"725 W Sterling Pl, Chandler, AZ 85225 ",85225,180000,284158.7812,0.5787,0.5868,895.0,https://www.zillow.com/homedetails/725-W-Sterling-Pl-Chandler-AZ-85225/8200117_zpid/
+8950800,22069533,"2501 N Nebraska St, Chandler, AZ 85225 ",85225,189000,286995.8438,0.5185,0.5868,902.0,https://www.zillow.com/homedetails/2501-N-Nebraska-St-Chandler-AZ-85225/8177416_zpid/
+227710,22028046,"13024 S 47th St, Phoenix, AZ 85044 ",85044,195000,283900.3125,0.4559,0.5868,911.0,https://www.zillow.com/homedetails/13024-S-47th-St-Phoenix-AZ-85044/8150858_zpid/
+7438010,22032231,"4116 E Joan De Arc Ave, Phoenix, AZ 85032 ",85032,208000,294379.2812,0.4153,0.5868,913.0,https://www.zillow.com/homedetails/4116-E-Joan-De-Arc-Ave-Phoenix-AZ-85032/7823229_zpid/
+301456,22289975,"6705 N Ocotillo Hermosa Cir, Phoenix, AZ 85016 ",85016,219700,305401.625,0.3901,0.5868,915.0,https://www.zillow.com/homedetails/6705-N-Ocotillo-Hermosa-Cir-Phoenix-AZ-85016/7807681_zpid/
+8950656,22079788,"3838 E Willow Ave, Phoenix, AZ 85032 ",85032,212500,295799.125,0.392,0.5868,921.0,https://www.zillow.com/homedetails/3838-E-Willow-Ave-Phoenix-AZ-85032/7813940_zpid/
+560700,22105906,"1026 W Dragoon Ave, Mesa, AZ 85210 ",85210,204900,286684.9375,0.3991,0.5868,924.0,https://www.zillow.com/homedetails/1026-W-Dragoon-Ave-Mesa-AZ-85210/7597888_zpid/
+7567072,22093889,"4417 E Maldonado Dr, Phoenix, AZ 85042 ",85042,210000,291692.6875,0.389,0.5868,925.0,https://www.zillow.com/homedetails/4417-E-Maldonado-Dr-Phoenix-AZ-85042/7551938_zpid/
+7497636,22174730,"5206 E Coronado Cir, Phoenix, AZ 85044 ",85044,209900,286132.4688,0.3632,0.5868,929.0,https://www.zillow.com/homedetails/5206-E-Coronado-Cir-Phoenix-AZ-85044/8148576_zpid/
+987137,22127744,"1242 S Bridger Dr, Chandler, AZ 85286 ",85286,220999,296552.1875,0.3419,0.5868,930.0,https://www.zillow.com/homedetails/1242-S-Bridger-Dr-Chandler-AZ-85286/8209270_zpid/
+1113294,22085560,"1525 W Loughlin Dr, Chandler, AZ 85224 ",85224,239500,312509.1562,0.3048,0.5868,932.0,https://www.zillow.com/homedetails/1525-W-Loughlin-Dr-Chandler-AZ-85224/8176615_zpid/
+8959074,21813324,"1730 W Cortez Cir, Chandler, AZ 85224 ",85224,249900,321939.6875,0.2883,0.5868,933.0,https://www.zillow.com/homedetails/1730-W-Cortez-Cir-Chandler-AZ-85224/8191646_zpid/
+8958990,21812033,"3531 E Campo Bello Dr, Phoenix, AZ 85032 ",85032,234900,305983.9688,0.3026,0.5868,934.0,https://www.zillow.com/homedetails/3531-E-Campo-Bello-Dr-Phoenix-AZ-85032/7998169_zpid/
+1108763,22272103,"1159 W Folley St, Chandler, AZ 85224 ",85224,244999,314166.2188,0.2823,0.5868,936.0,https://www.zillow.com/homedetails/1159-W-Folley-St-Chandler-AZ-85224/8207930_zpid/
+1096818,22286140,"887 W Ivanhoe St, Chandler, AZ 85225 ",85225,230000,298987.4062,0.2999,0.5868,937.0,https://www.zillow.com/homedetails/887-W-Ivanhoe-St-Chandler-AZ-85225/52149691_zpid/
+8927742,22163964,"4126 E Hartford Ave, Phoenix, AZ 85032 ",85032,249000,317040.1562,0.2733,0.5868,939.0,https://www.zillow.com/homedetails/4126-E-Hartford-Ave-Phoenix-AZ-85032/8018344_zpid/
+987588,21967181,"1283 S Anvil Pl, Chandler, AZ 85286 ",85286,234900,302134.2812,0.2862,0.5868,941.0,https://www.zillow.com/homedetails/1283-S-Anvil-Pl-Chandler-AZ-85286/8209313_zpid/
+648734,22259427,"2334 W Obispo Ave, Mesa, AZ 85202 ",85202,224900,291926.75,0.298,0.5868,942.0,https://www.zillow.com/homedetails/2334-W-Obispo-Ave-Mesa-AZ-85202/8170840_zpid/
+644477,22105150,"2218 W Olla Cir, Mesa, AZ 85202 ",85202,225000,289748.875,0.2878,0.5868,946.0,https://www.zillow.com/homedetails/2218-W-Olla-Cir-Mesa-AZ-85202/8170806_zpid/

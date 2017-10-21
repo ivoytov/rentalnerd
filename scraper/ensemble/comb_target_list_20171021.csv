@@ -1,0 +1,21 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+445988,22692559,"4719 N 92nd Ave, Phoenix, AZ 85037 ",85037,135000,151617.25,0.1231,0.6625,48.0,https://www.zillow.com/homedetails/4719-N-92nd-Ave-Phoenix-AZ-85037/7466534_zpid/
+13738,23752919,"5444 W Gardenia Ave, Glendale, AZ 85301 ",85301,160000,152091.7969,-0.0494,0.65,164.0,https://www.zillow.com/homedetails/5444-W-Gardenia-Ave-Glendale-AZ-85301/7726172_zpid/
+703769,23755011,"736 S Sycamore, Mesa, AZ 85202 ",85202,144900,153131.5312,0.0568,0.6468,61.0,https://www.zillow.com/homedetails/736-S-Sycamore-Mesa-AZ-85202/7604484_zpid/
+9017234,22716547,"3302 N 61st Ave, Phoenix, AZ 85033 ",85033,164900,152318.9062,-0.0763,0.645,214.0,https://www.zillow.com/homedetails/3302-N-61st-Ave-Phoenix-AZ-85033/7498312_zpid/
+9021200,23755671,"3819 N 63rd Ave, Phoenix, AZ 85033 ",85033,169900,153702.6719,-0.0953,0.637,299.5,https://www.zillow.com/homedetails/3819-N-63rd-Ave-Phoenix-AZ-85033/7496525_zpid/
+9005711,23756298,"6223 W Indianola Ave, Phoenix, AZ 85033 ",85033,168500,146471.1562,-0.1307,0.637,523.5,https://www.zillow.com/homedetails/6223-W-Indianola-Ave-Phoenix-AZ-85033/7496555_zpid/
+462188,23755734,"2612 W Avalon Dr, Phoenix, AZ 85017 ",85017,139900,150511.8125,0.0759,0.6363,61.0,https://www.zillow.com/homedetails/2612-W-Avalon-Dr-Phoenix-AZ-85017/7519257_zpid/
+459700,22721620,"5715 W Roma Ave, Phoenix, AZ 85031 ",85031,139900,150865.6719,0.0784,0.6344,61.5,https://www.zillow.com/homedetails/5715-W-Roma-Ave-Phoenix-AZ-85031/7712868_zpid/
+9020156,22744025,"6271 W Elm St, Phoenix, AZ 85033 ",85033,159999,146069.1562,-0.0871,0.6344,242.5,https://www.zillow.com/homedetails/6271-W-Elm-St-Phoenix-AZ-85033/7716254_zpid/
+36797,22699472,"4420 S 8th Pl, Phoenix, AZ 85040 ",85040,164995,144360.1406,-0.1251,0.6303,468.0,https://www.zillow.com/homedetails/4420-S-8th-Pl-Phoenix-AZ-85040/7524907_zpid/
+39180,22714328,"5809 S 5th St, Phoenix, AZ 85040 ",85040,150000,150875.125,0.0058,0.6273,103.0,https://www.zillow.com/homedetails/5809-S-5th-St-Phoenix-AZ-85040/2137049891_zpid/
+9013628,22691512,"2832 N 34th Dr, Phoenix, AZ 85009 ",85009,149900,157885.4688,0.0533,0.6269,72.0,https://www.zillow.com/homedetails/2832-N-34th-Dr-Phoenix-AZ-85009/2092678953_zpid/
+431605,22717310,"6827 W Verde Ln, Phoenix, AZ 85033 ",85033,175000,158488.1875,-0.0944,0.6259,318.0,https://www.zillow.com/homedetails/6827-W-Verde-Ln-Phoenix-AZ-85033/7468675_zpid/
+9020269,22745518,"18028 N 19th St, Phoenix, AZ 85022 ",85022,144990,153045.0156,0.0556,0.6241,73.0,https://www.zillow.com/homedetails/18028-N-19th-St-Phoenix-AZ-85022/8001127_zpid/
+1352382,22742514,"6115 W Cavalier Dr, Glendale, AZ 85301 ",85301,159900,146285.1719,-0.0851,0.6211,242.0,https://www.zillow.com/homedetails/6115-W-Cavalier-Dr-Glendale-AZ-85301/7715540_zpid/
+482955,22604098,"2609 N 65th Dr, Phoenix, AZ 85035 ",85035,175000,158616.7344,-0.0936,0.6199,317.5,https://www.zillow.com/homedetails/2609-N-65th-Dr-Phoenix-AZ-85035/7490220_zpid/
+492013,22700052,"5635 W Cambridge Ave, Phoenix, AZ 85035 ",85035,185000,161961.5312,-0.1245,0.6199,567.5,https://www.zillow.com/homedetails/5635-W-Cambridge-Ave-Phoenix-AZ-85035/7492190_zpid/
+467635,22603940,"3142 W Marshall Ave, Phoenix, AZ 85017 ",85017,169900,153121.1719,-0.0988,0.6196,337.0,https://www.zillow.com/homedetails/3142-W-Marshall-Ave-Phoenix-AZ-85017/7764316_zpid/
+9020029,22741443,"4625 N 78th Ave, Phoenix, AZ 85033 ",85033,159900,151617.8281,-0.0518,0.6195,186.0,https://www.zillow.com/homedetails/4625-N-78th-Ave-Phoenix-AZ-85033/7468218_zpid/
+462090,22499380,"2608 W Palo Verde Dr, Phoenix, AZ 85017 ",85017,124900,145597.0469,0.1657,0.6171,54.0,https://www.zillow.com/homedetails/2608-W-Palo-Verde-Dr-Phoenix-AZ-85017/7763088_zpid/
