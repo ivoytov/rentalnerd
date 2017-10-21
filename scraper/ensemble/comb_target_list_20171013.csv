@@ -1,0 +1,21 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+7478106,22647635,"4939 W Apollo Rd, Laveen, AZ 85339 ",85339,249990,181896.6719,-0.2724,0.6218,2440.0,https://www.zillow.com/homedetails/4939-W-Apollo-Rd-Laveen-AZ-85339/67788904_zpid/
+9003593,22621199,"6227 S 41ST Dr, Phoenix, AZ 85041 ",85041,219900,176233.0625,-0.1986,0.6096,1624.0,https://www.zillow.com/homedetails/6227-S-41ST-Dr-Phoenix-AZ-85041/95071055_zpid/
+9013121,22688030,"6887 W Darrel Rd, Laveen, AZ 85339 ",85339,249000,186983.9375,-0.2491,0.6091,2367.0,https://www.zillow.com/homedetails/6887-W-Darrel-Rd-Laveen-AZ-85339/71604827_zpid/
+195296,22633410,"3132 W Saint Anne Ave, Phoenix, AZ 85041 ",85041,237000,179835.0469,-0.2412,0.5991,2251.0,https://www.zillow.com/homedetails/3132-W-Saint-Anne-Ave-Phoenix-AZ-85041/67764934_zpid/
+9002555,22687982,"6926 S 50th Gln, Laveen, AZ 85339 ",85339,207500,168813.4844,-0.1864,0.5965,1373.0,https://www.zillow.com/homedetails/6926-S-50th-Gln-Laveen-AZ-85339/71599799_zpid/
+8989901,22508627,"4514 W Hasan Dr, Laveen, AZ 85339 ",85339,249000,182701.3125,-0.2663,0.5954,2435.0,https://www.zillow.com/homedetails/4514-W-Hasan-Dr-Laveen-AZ-85339/67773494_zpid/
+533217,22508620,"6821 S 43rd Dr, Laveen, AZ 85339 ",85339,199800,163154.6562,-0.1834,0.5954,1266.0,https://www.zillow.com/homedetails/6821-S-43rd-Dr-Laveen-AZ-85339/67773899_zpid/
+9013135,22687971,"5227 W Beverly Rd, Laveen, AZ 85339 ",85339,199000,164791.4688,-0.1719,0.5953,1114.0,https://www.zillow.com/homedetails/5227-W-Beverly-Rd-Laveen-AZ-85339/71613966_zpid/
+9013150,22688245,"7503 S 12th Ave, Phoenix, AZ 85041 ",85041,219525,171922.2969,-0.2168,0.5907,1806.0,https://www.zillow.com/homedetails/7503-S-12th-Ave-Phoenix-AZ-85041/95154957_zpid/
+9005752,22731992,"6420 W Beverly Rd, Laveen, AZ 85339 ",85339,174900,150484.6719,-0.1396,0.5891,395.0,https://www.zillow.com/homedetails/6420-W-Beverly-Rd-Laveen-AZ-85339/81951423_zpid/
+49436,22739439,"16710 S 23rd St, Phoenix, AZ 85048 ",85048,220000,178019.7969,-0.1908,0.5886,1539.0,https://www.zillow.com/homedetails/16710-S-23rd-St-Phoenix-AZ-85048/88788855_zpid/
+250722,22610174,"4826 E Pearce Rd, Phoenix, AZ 85044 ",85044,249000,183698.8906,-0.2623,0.5856,2428.0,https://www.zillow.com/homedetails/4826-E-Pearce-Rd-Phoenix-AZ-85044/8142634_zpid/
+195789,22642934,"3313 W Nancy Ln, Phoenix, AZ 85041 ",85041,229900,177037.2812,-0.2299,0.585,2081.0,https://www.zillow.com/homedetails/3313-W-Nancy-Ln-Phoenix-AZ-85041/67789656_zpid/
+8674,22687963,"5415 W Pollack St, Laveen, AZ 85339 ",85339,217900,168827.9062,-0.2252,0.5848,1886.0,https://www.zillow.com/homedetails/5415-W-Pollack-St-Laveen-AZ-85339/71627983_zpid/
+8947221,22746443,"5409 W Beautiful Ln, Laveen, AZ 85339 ",85339,215000,173098.5469,-0.1949,0.5831,1538.0,https://www.zillow.com/homedetails/5409-W-Beautiful-Ln-Laveen-AZ-85339/82799681_zpid/
+183947,22741256,"1726 W Amberwood Dr, Phoenix, AZ 85045 ",85045,240000,187354.8438,-0.2194,0.5826,2069.0,https://www.zillow.com/homedetails/1726-W-Amberwood-Dr-Phoenix-AZ-85045/10987867_zpid/
+8998545,22608594,"4828 W Lydia Ln, Laveen, AZ 85339 ",85339,234995,182682.6875,-0.2226,0.5817,2053.0,https://www.zillow.com/homedetails/4828-W-Lydia-Ln-Laveen-AZ-85339/95157878_zpid/
+7447915,22576292,"8216 S 6th Ln, Phoenix, AZ 85041 ",85041,234900,177389.875,-0.2448,0.5795,2273.0,https://www.zillow.com/homedetails/8216-S-6th-Ln-Phoenix-AZ-85041/95089441_zpid/
+1094347,22710242,"805 W Nopal Pl, Chandler, AZ 85225 ",85225,225000,180997.0469,-0.1956,0.5785,1663.0,https://www.zillow.com/homedetails/805-W-Nopal-Pl-Chandler-AZ-85225/8177761_zpid/
+9013122,22746459,"7027 W St Charles Ave, Laveen, AZ 85339 ",85339,203500,172945.8438,-0.1501,0.5785,857.0,https://www.zillow.com/homedetails/7027-W-St-Charles-Ave-Laveen-AZ-85339/71604988_zpid/

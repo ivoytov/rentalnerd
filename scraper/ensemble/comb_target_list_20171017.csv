@@ -1,0 +1,21 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+9020269,22745518,"18028 N 19th St, Phoenix, AZ 85022 ",85022,144990,156979.5781,0.0827,0.6903,57.0,https://www.zillow.com/homedetails/18028-N-19th-St-Phoenix-AZ-85022/8001127_zpid/
+8958977,22539508,"2545 E Piute Ave, Phoenix, AZ 85050 ",85050,159000,149764.9219,-0.0581,0.6897,249.0,https://www.zillow.com/homedetails/2545-E-Piute-Ave-Phoenix-AZ-85050/7994601_zpid/
+8989903,22735013,"7234 S 48th Gln, Laveen, AZ 85339 ",85339,159000,154829.5781,-0.0262,0.6856,173.0,https://www.zillow.com/homedetails/7234-S-48th-Gln-Laveen-AZ-85339/82823373_zpid/
+33678,22740567,"1514 E Sonrisas St, Phoenix, AZ 85040 ",85040,149000,148435.4531,-0.0038,0.6818,136.5,https://www.zillow.com/homedetails/1514-E-Sonrisas-St-Phoenix-AZ-85040/61627431_zpid/
+33111,22509955,"1025 E Grenadine Rd, Phoenix, AZ 85040 ",85040,150000,145291.9062,-0.0314,0.6818,182.5,https://www.zillow.com/homedetails/1025-E-Grenadine-Rd-Phoenix-AZ-85040/62728029_zpid/
+9019180,22732331,"2756 E Chipman Rd, Phoenix, AZ 85040 ",85040,159000,153068.0469,-0.0373,0.6818,213.5,https://www.zillow.com/homedetails/2756-E-Chipman-Rd-Phoenix-AZ-85040/89220844_zpid/
+33242,23754219,"1220 E Graham Trl, Phoenix, AZ 85040 ",85040,159900,151789.9688,-0.0507,0.6818,240.5,https://www.zillow.com/homedetails/1220-E-Graham-Trl-Phoenix-AZ-85040/62728115_zpid/
+555448,22733555,"2310 W Washington St, Phoenix, AZ 85009 ",85009,169900,153733.0781,-0.0952,0.6815,388.0,https://www.zillow.com/homedetails/2310-W-Washington-St-Phoenix-AZ-85009/7515224_zpid/
+346030,23649636,"5325 W Raymond St, Phoenix, AZ 85043 ",85043,157880,155268.1719,-0.0165,0.6807,155.5,https://www.zillow.com/homedetails/5325-W-Raymond-St-Phoenix-AZ-85043/67788823_zpid/
+345649,23753551,"5217 W Odeum Ln, Phoenix, AZ 85043 ",85043,158000,153259.8906,-0.03,0.6807,188.5,https://www.zillow.com/homedetails/5217-W-Odeum-Ln-Phoenix-AZ-85043/82819860_zpid/
+194904,22747305,"3011 W Chanute Pass, Phoenix, AZ 85041 ",85041,172500,158715.3125,-0.0799,0.6799,340.0,https://www.zillow.com/homedetails/3011-W-Chanute-Pass-Phoenix-AZ-85041/67789390_zpid/
+9020592,23527244,"608 W Utopia Rd, Phoenix, AZ 85027 ",85027,172500,156850.6406,-0.0907,0.6765,384.0,https://www.zillow.com/homedetails/608-W-Utopia-Rd-Phoenix-AZ-85027/7968045_zpid/
+501566,23753420,"7828 W Bonitos Dr, Phoenix, AZ 85035 ",85035,164999,153648.6875,-0.0688,0.6764,291.0,https://www.zillow.com/homedetails/7828-W-Bonitos-Dr-Phoenix-AZ-85035/82823203_zpid/
+9015637,22739690,"7843 W Palm Ln, Phoenix, AZ 85035 ",85035,169980,157331.7656,-0.0744,0.6738,307.0,https://www.zillow.com/homedetails/7843-W-Palm-Ln-Phoenix-AZ-85035/95123133_zpid/
+331204,23526874,"10222 N 14th Ave, Phoenix, AZ 85021 ",85021,159000,142194.7344,-0.1057,0.6738,413.5,https://www.zillow.com/homedetails/10222-N-14th-Ave-Phoenix-AZ-85021/7781394_zpid/
+392963,22713780,"3330 W Aster Dr, Phoenix, AZ 85029 ",85029,165000,147397.1406,-0.1067,0.6738,441.5,https://www.zillow.com/homedetails/3330-W-Aster-Dr-Phoenix-AZ-85029/7747615_zpid/
+827683,22544155,"3017 N 40th Dr, Phoenix, AZ 85019 ",85019,140000,144637.7031,0.0331,0.6737,108.0,https://www.zillow.com/homedetails/3017-N-40th-Dr-Phoenix-AZ-85019/7509168_zpid/
+445988,22692559,"4719 N 92nd Ave, Phoenix, AZ 85037 ",85037,135000,146043.1094,0.0818,0.6714,78.5,https://www.zillow.com/homedetails/4719-N-92nd-Ave-Phoenix-AZ-85037/7466534_zpid/
+9020029,22741443,"4625 N 78th Ave, Phoenix, AZ 85033 ",85033,159900,154895.5938,-0.0313,0.6714,205.5,https://www.zillow.com/homedetails/4625-N-78th-Ave-Phoenix-AZ-85033/7468218_zpid/
+39699,22594965,"1462 N 80th Ln, Phoenix, AZ 85043 ",85043,155000,150913.7812,-0.0264,0.6708,188.5,https://www.zillow.com/homedetails/1462-N-80th-Ln-Phoenix-AZ-85043/2104748992_zpid/

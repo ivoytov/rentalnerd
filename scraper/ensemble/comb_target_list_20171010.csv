@@ -1,0 +1,21 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+9003312,22615509,"6920 S 8th St, Phoenix, AZ 85042 ",85042,105000,116003.0781,0.1048,0.5868,683.5,https://www.zillow.com/homedetails/6920-S-8th-St-Phoenix-AZ-85042/7527430_zpid/
+35802,22714357,"3111 E Atlanta Ave, Phoenix, AZ 85040 ",85040,117000,125784.3359,0.0751,0.5868,686.5,https://www.zillow.com/homedetails/3111-E-Atlanta-Ave-Phoenix-AZ-85040/7548100_zpid/
+317439,22418428,"907 S 15th Ave, Phoenix, AZ 85007 ",85007,109900,118466.3906,0.0779,0.5868,688.5,https://www.zillow.com/homedetails/907-S-15th-Ave-Phoenix-AZ-85007/7522678_zpid/
+33794,22740578,"1646 E Chambers St, Phoenix, AZ 85040 ",85040,115000,122306.6172,0.0635,0.5868,691.5,https://www.zillow.com/homedetails/1646-E-Chambers-St-Phoenix-AZ-85040/7547157_zpid/
+34588,22711819,"2228 E Roeser Rd, Phoenix, AZ 85040 ",85040,119000,125563.2422,0.0552,0.5868,695.5,https://www.zillow.com/homedetails/2228-E-Roeser-Rd-Phoenix-AZ-85040/7545893_zpid/
+8968966,22730045,"3220 W Polk St, Phoenix, AZ 85009 ",85009,110000,116262.8516,0.0569,0.5868,697.5,https://www.zillow.com/homedetails/3220-W-Polk-St-Phoenix-AZ-85009/7514004_zpid/
+8988612,22498864,"619 W Cocopah St, Phoenix, AZ 85003 ",85003,113000,118474.4922,0.0484,0.5868,702.5,https://www.zillow.com/homedetails/619-W-Cocopah-St-Phoenix-AZ-85003/119220771_zpid/
+8980728,22703133,"1623 S 28th Ave, Phoenix, AZ 85009 ",85009,115000,120297.4141,0.0461,0.5868,703.5,https://www.zillow.com/homedetails/1623-S-28th-Ave-Phoenix-AZ-85009/7501029_zpid/
+350440,22703140,"3906 W Tonto St, Phoenix, AZ 85009 ",85009,115000,120137.9453,0.0447,0.5868,704.5,https://www.zillow.com/homedetails/3906-W-Tonto-St-Phoenix-AZ-85009/7506070_zpid/
+9011924,22678290,"3602 W Almeria Rd, Phoenix, AZ 85009 ",85009,114900,118695.5078,0.033,0.5868,711.5,https://www.zillow.com/homedetails/3602-W-Almeria-Rd-Phoenix-AZ-85009/7512011_zpid/
+328718,22628920,"2235 W Highland Ave, Phoenix, AZ 85015 ",85015,116500,120259.5938,0.0323,0.5868,712.5,https://www.zillow.com/homedetails/2235-W-Highland-Ave-Phoenix-AZ-85015/7767290_zpid/
+9016642,22712000,"6402 W Weldon Ave, Phoenix, AZ 85033 ",85033,121000,121333.5859,0.0028,0.5868,718.5,https://www.zillow.com/homedetails/6402-W-Weldon-Ave-Phoenix-AZ-85033/7489112_zpid/
+35091,22702723,"2517 E Wood St, Phoenix, AZ 85040 ",85040,121900,122220.0938,0.0026,0.5868,719.5,https://www.zillow.com/homedetails/2517-E-Wood-St-Phoenix-AZ-85040/7546023_zpid/
+9011321,22673978,"3144 W Mckinley St, Phoenix, AZ 85009 ",85009,119000,118903.5156,-0.0008,0.5868,721.5,https://www.zillow.com/homedetails/3144-W-Mckinley-St-Phoenix-AZ-85009/7513827_zpid/
+1403863,22667147,"5728 N 67th Dr, Glendale, AZ 85303 ",85303,119900,119787.7422,-0.0009,0.5868,722.5,https://www.zillow.com/homedetails/5728-N-67th-Dr-Glendale-AZ-85303/7710055_zpid/
+1355576,22680802,"6629 N 54th Dr, Glendale, AZ 85301 ",85301,119998,119444.0469,-0.0046,0.5868,725.5,https://www.zillow.com/homedetails/6629-N-54th-Dr-Glendale-AZ-85301/7722242_zpid/
+35005,22741950,"2445 E Chipman Rd, Phoenix, AZ 85040 ",85040,129900,129254.5391,-0.005,0.5868,727.5,https://www.zillow.com/homedetails/2445-E-Chipman-Rd-Phoenix-AZ-85040/7547730_zpid/
+314843,22737194,"1827 W Pima St, Phoenix, AZ 85007 ",85007,120000,119065.0547,-0.0078,0.5868,731.5,https://www.zillow.com/homedetails/1827-W-Pima-St-Phoenix-AZ-85007/7501192_zpid/
+491847,22692554,"5624 W Edgemont Ave, Phoenix, AZ 85035 ",85035,129000,127029.4141,-0.0153,0.5868,738.5,https://www.zillow.com/homedetails/5624-W-Edgemont-Ave-Phoenix-AZ-85035/7492343_zpid/
+36785,22699474,"4419 S 2nd St, Phoenix, AZ 85040 ",85040,119900,117832.7266,-0.0172,0.5868,739.5,https://www.zillow.com/homedetails/4419-S-2nd-St-Phoenix-AZ-85040/7524223_zpid/

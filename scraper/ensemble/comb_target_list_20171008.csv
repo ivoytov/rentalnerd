@@ -1,0 +1,21 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+8978947,22739778,"7434 W Carter Rd, Laveen, AZ 85339 ",85339,222850,190716.6562,-0.1442,0.7518,2324.0,https://www.zillow.com/homedetails/7434-W-Carter-Rd-Laveen-AZ-85339/88791130_zpid/
+8938458,22687960,"5310 W Beautiful Ln, Laveen, AZ 85339 ",85339,244900,202950.1719,-0.1713,0.7307,3018.0,https://www.zillow.com/homedetails/5310-W-Beautiful-Ln-Laveen-AZ-85339/81951847_zpid/
+8963828,22735014,"7351 W Sophie Ln, Laveen, AZ 85339 ",85339,228000,188898.1094,-0.1715,0.7198,2834.0,https://www.zillow.com/homedetails/7351-W-Sophie-Ln-Laveen-AZ-85339/71613850_zpid/
+8963824,22725798,"7134 W Carter Rd, Laveen, AZ 85339 ",85339,245000,198942.0781,-0.188,0.7178,3272.0,https://www.zillow.com/homedetails/7134-W-Carter-Rd-Laveen-AZ-85339/82823284_zpid/
+9005161,22742586,"7814 S 74th Ln, Laveen, AZ 85339 ",85339,247500,198616.8125,-0.1975,0.7147,3412.0,https://www.zillow.com/homedetails/7814-S-74th-Ln-Laveen-AZ-85339/71613803_zpid/
+8998226,22731974,"4812 W Dunbar Dr, Laveen, AZ 85339 ",85339,222900,189462.4688,-0.15,0.7031,2421.0,https://www.zillow.com/homedetails/4812-W-Dunbar-Dr-Laveen-AZ-85339/82823355_zpid/
+9016503,22710875,"7424 W Sophie Ln, Laveen, AZ 85339 ",85339,199900,183973.0469,-0.0797,0.6958,705.0,https://www.zillow.com/homedetails/7424-W-Sophie-Ln-Laveen-AZ-85339/71613790_zpid/
+8992534,22742448,"4669 W Carson Rd, Laveen, AZ 85339 ",85339,204900,190665.875,-0.0695,0.6935,563.0,https://www.zillow.com/homedetails/4669-W-Carson-Rd-Laveen-AZ-85339/94638487_zpid/
+8984372,22486829,"7418 W St Catherine Ave, Laveen, AZ 85339 ",85339,225500,202267.0,-0.103,0.6916,1419.0,https://www.zillow.com/homedetails/7418-W-St-Catherine-Ave-Laveen-AZ-85339/81979035_zpid/
+8947221,22486788,"5409 W Beautiful Ln, Laveen, AZ 85339 ",85339,220000,196914.8594,-0.1049,0.6883,1405.0,https://www.zillow.com/homedetails/5409-W-Beautiful-Ln-Laveen-AZ-85339/82799681_zpid/
+637204,22608700,"8513 S 41st Dr, Laveen, AZ 85339 ",85339,230000,196804.2812,-0.1443,0.6861,2410.0,https://www.zillow.com/homedetails/8513-S-41st-Dr-Laveen-AZ-85339/82824546_zpid/
+8966427,22645607,"6424 W Beverly Rd, Laveen, AZ 85339 ",85339,178900,145518.7344,-0.1866,0.6846,2423.0,https://www.zillow.com/homedetails/6424-W-Beverly-Rd-Laveen-AZ-85339/81951424_zpid/
+8986929,22486790,"5704 W Milada Dr, Laveen, AZ 85339 ",85339,215000,194094.3125,-0.0972,0.6825,1171.0,https://www.zillow.com/homedetails/5704-W-Milada-Dr-Laveen-AZ-85339/95169292_zpid/
+532412,22387563,"6430 W Valencia Dr, Laveen, AZ 85339 ",85339,175000,158417.9844,-0.0948,0.6793,757.0,https://www.zillow.com/homedetails/6430-W-Valencia-Dr-Laveen-AZ-85339/71607699_zpid/
+631350,22350488,"7040 S 46th Dr, Laveen, AZ 85339 ",85339,210000,182431.7031,-0.1313,0.6768,1878.0,https://www.zillow.com/homedetails/7040-S-46th-Dr-Laveen-AZ-85339/71605079_zpid/
+632493,22688009,"7336 S 48th Gln, Laveen, AZ 85339 ",85339,185000,153035.5312,-0.1728,0.6766,2326.0,https://www.zillow.com/homedetails/7336-S-48th-Gln-Laveen-AZ-85339/81954220_zpid/
+8963797,22662419,"4825 W Donner Dr, Laveen, AZ 85339 ",85339,208999,190996.6094,-0.0861,0.6674,896.0,https://www.zillow.com/homedetails/4825-W-Donner-Dr-Laveen-AZ-85339/95121124_zpid/
+8674,22687963,"5415 W Pollack St, Laveen, AZ 85339 ",85339,217900,194947.8281,-0.1053,0.6638,1403.0,https://www.zillow.com/homedetails/5415-W-Pollack-St-Laveen-AZ-85339/71627983_zpid/
+8955871,21959396,"6929 W Sophie Ln, Laveen, AZ 85339 ",85339,249800,172370.9219,-0.31,0.6638,3755.0,https://www.zillow.com/homedetails/6929-W-Sophie-Ln-Laveen-AZ-85339/81981174_zpid/
+8988531,22731994,"6916 W Harwell Rd, Laveen, AZ 85339 ",85339,247000,198994.3125,-0.1944,0.6606,3384.0,https://www.zillow.com/homedetails/6916-W-Harwell-Rd-Laveen-AZ-85339/88785031_zpid/
