@@ -1,0 +1,21 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+679392,22695008,"8503 E Keats Ave, Mesa, AZ 85209 ",85209,245000,187011.125,-0.2367,0.8723,568.0,https://www.zillow.com/homedetails/8503-E-Keats-Ave-Mesa-AZ-85209/60050816_zpid/
+1235249,22741613,"4690 E Olney Ave, Gilbert, AZ 85234 ",85234,239900,194405.6562,-0.1896,0.8715,328.0,https://www.zillow.com/homedetails/4690-E-Olney-Ave-Gilbert-AZ-85234/67794179_zpid/
+89596,22735932,"20896 E Desert Hills Blvd, Queen Creek, AZ 85142 ",85142,229900,194688.0781,-0.1532,0.8682,141.0,https://www.zillow.com/homedetails/20896-E-Desert-Hills-Blvd-Queen-Creek-AZ-85142/59260585_zpid/
+308996,22734530,"41252 N Ericson Ln, Anthem, AZ 85086 ",85086,249900,208739.5781,-0.1647,0.8669,231.0,https://www.zillow.com/homedetails/41252-N-Ericson-Ln-Anthem-AZ-85086/60980245_zpid/
+91342,22656906,"21251 E Avenida Del Valle, Queen Creek, AZ 85142 ",85142,235000,193639.1875,-0.176,0.8665,239.0,https://www.zillow.com/homedetails/21251-E-Avenida-Del-Valle-Queen-Creek-AZ-85142/60050853_zpid/
+84629,22737912,"19083 E Pelican Dr, Queen Creek, AZ 85142 ",85142,242900,199720.0156,-0.1778,0.864,278.0,https://www.zillow.com/homedetails/19083-E-Pelican-Dr-Queen-Creek-AZ-85142/82242640_zpid/
+1190875,22681257,"564 W Orchard Way, Gilbert, AZ 85233 ",85233,222900,176280.1875,-0.2092,0.8639,355.0,https://www.zillow.com/homedetails/564-W-Orchard-Way-Gilbert-AZ-85233/8174530_zpid/
+1273751,22693412,"4533 E Harrison St, Gilbert, AZ 85295 ",85295,225000,173645.4062,-0.2282,0.8629,465.0,https://www.zillow.com/homedetails/4533-E-Harrison-St-Gilbert-AZ-85295/60987720_zpid/
+1264136,22731232,"2870 E Megan St, Gilbert, AZ 85295 ",85295,245000,190728.0312,-0.2215,0.8574,516.0,https://www.zillow.com/homedetails/2870-E-Megan-St-Gilbert-AZ-85295/71618739_zpid/
+309099,22732851,"41361 N Miles Ct, Anthem, AZ 85086 ",85086,219000,162278.9375,-0.259,0.8569,555.0,https://www.zillow.com/homedetails/41361-N-Miles-Ct-Anthem-AZ-85086/71620232_zpid/
+90845,22738117,"21155 E Aspen Valley Dr, Queen Creek, AZ 85142 ",85142,235000,194248.75,-0.1734,0.8558,232.0,https://www.zillow.com/homedetails/21155-E-Aspen-Valley-Dr-Queen-Creek-AZ-85142/59260845_zpid/
+1230889,22732877,"4043 E Princeton Ave, Gilbert, AZ 85234 ",85234,249000,200524.1406,-0.1947,0.8556,401.0,https://www.zillow.com/homedetails/4043-E-Princeton-Ave-Gilbert-AZ-85234/8272541_zpid/
+659521,22684348,"2309 S Ananea, Mesa, AZ 85209 ",85209,225000,178943.125,-0.2047,0.8515,348.0,https://www.zillow.com/homedetails/2309-S-Ananea-Mesa-AZ-85209/8273238_zpid/
+1196579,22726918,"827 W Leah Ln, Gilbert, AZ 85233 ",85233,249900,200716.1875,-0.1968,0.8487,422.0,https://www.zillow.com/homedetails/827-W-Leah-Ln-Gilbert-AZ-85233/8173210_zpid/
+63228,22689830,"40707 N Courage Trl, Anthem, AZ 85086 ",85086,249900,208262.4062,-0.1666,0.8486,253.0,https://www.zillow.com/homedetails/40707-N-Courage-Trl-Anthem-AZ-85086/55264648_zpid/
+671330,22730281,"7439 E Naranja Ave, Mesa, AZ 85209 ",85209,210000,151518.2188,-0.2785,0.8476,594.0,https://www.zillow.com/homedetails/7439-E-Naranja-Ave-Mesa-AZ-85209/8274274_zpid/
+685218,23796909,"9730 E Knowles Ave, Mesa, AZ 85209 ",85209,225000,181414.6719,-0.1937,0.846,298.0,https://www.zillow.com/homedetails/9730-E-Knowles-Ave-Mesa-AZ-85209/52355197_zpid/
+307175,22727935,"39629 N Bent Creek Ct, Anthem, AZ 85086 ",85086,229900,193440.0625,-0.1586,0.8448,165.0,https://www.zillow.com/homedetails/39629-N-Bent-Creek-Ct-Anthem-AZ-85086/62730938_zpid/
+1209912,22725332,"1043 N Sailors Way, Gilbert, AZ 85234 ",85234,245000,201303.9688,-0.1784,0.8434,304.0,https://www.zillow.com/homedetails/1043-N-Sailors-Way-Gilbert-AZ-85234/8248468_zpid/
+1269476,22738195,"3626 E Larson Ln, Gilbert, AZ 85295 ",85295,245000,201346.1562,-0.1782,0.8427,304.0,https://www.zillow.com/homedetails/3626-E-Larson-Ln-Gilbert-AZ-85295/95160517_zpid/

@@ -1,0 +1,21 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+526828,22737450,"9418 W Sheridan St, Phoenix, AZ 85037 ",85037,214500,92918.4062,-0.5668,0.7459,42.0,https://www.zillow.com/homedetails/9418-W-Sheridan-St-Phoenix-AZ-85037/67773035_zpid/
+527635,22717844,"9459 W Virginia Ave, Phoenix, AZ 85037 ",85037,200000,105967.3984,-0.4702,0.7365,7.0,https://www.zillow.com/homedetails/9459-W-Virginia-Ave-Phoenix-AZ-85037/62727169_zpid/
+9015638,22704145,"8444 W Lewis Ave, Phoenix, AZ 85037 ",85037,176900,68955.2188,-0.6102,0.7344,19.0,https://www.zillow.com/homedetails/8444-W-Lewis-Ave-Phoenix-AZ-85037/82823102_zpid/
+520341,22734448,"8921 W Edgemont Ave, Phoenix, AZ 85037 ",85037,199000,100754.3203,-0.4937,0.7258,11.0,https://www.zillow.com/homedetails/8921-W-Edgemont-Ave-Phoenix-AZ-85037/7487901_zpid/
+435581,22732846,"2207 N 87th Dr, Phoenix, AZ 85037 ",85037,184900,61095.668,-0.6696,0.6942,50.0,https://www.zillow.com/homedetails/2207-N-87th-Dr-Phoenix-AZ-85037/7487726_zpid/
+448988,22734457,"8504 W College Dr, Phoenix, AZ 85037 ",85037,190000,74632.2812,-0.6072,0.691,36.0,https://www.zillow.com/homedetails/8504-W-College-Dr-Phoenix-AZ-85037/7483600_zpid/
+444887,22730839,"4607 N 92nd Ln, Phoenix, AZ 85037 ",85037,214900,92839.0859,-0.568,0.6772,49.0,https://www.zillow.com/homedetails/4607-N-92nd-Ln-Phoenix-AZ-85037/7466411_zpid/
+448390,23757850,"8403 W Lewis Ave, Phoenix, AZ 85037 ",85037,160000,73173.5703,-0.5427,0.6718,11.0,https://www.zillow.com/homedetails/8403-W-Lewis-Ave-Phoenix-AZ-85037/81985441_zpid/
+1090459,23810641,"631 W Caroline Ln, Chandler, AZ 85225 ",85225,230000,106279.0469,-0.5379,0.6575,53.0,https://www.zillow.com/homedetails/631-W-Caroline-Ln-Chandler-AZ-85225/8183658_zpid/
+450214,22642480,"8705 W Roanoke Ave, Phoenix, AZ 85037 ",85037,210000,89297.7812,-0.5748,0.6452,50.0,https://www.zillow.com/homedetails/8705-W-Roanoke-Ave-Phoenix-AZ-85037/7473636_zpid/
+441965,22659382,"4022 N 88th Ln, Phoenix, AZ 85037 ",85037,165000,58926.3203,-0.6429,0.6439,24.0,https://www.zillow.com/homedetails/4022-N-88th-Ln-Phoenix-AZ-85037/7470881_zpid/
+448906,22738625,"8455 W Devonshire Ave, Phoenix, AZ 85037 ",85037,169900,61739.5781,-0.6366,0.6433,29.0,https://www.zillow.com/homedetails/8455-W-Devonshire-Ave-Phoenix-AZ-85037/7466636_zpid/
+22933,22734467,"8739 W Fairmount Ave, Phoenix, AZ 85037 ",85037,170000,61122.0703,-0.6405,0.6413,32.0,https://www.zillow.com/homedetails/8739-W-Fairmount-Ave-Phoenix-AZ-85037/7471067_zpid/
+9021795,23805990,"747 W Rosal Pl, Chandler, AZ 85225 ",85225,249900,102845.9766,-0.5885,0.6355,69.0,https://www.zillow.com/homedetails/747-W-Rosal-Pl-Chandler-AZ-85225/8177685_zpid/
+8982670,23753363,"1934 N Iowa St, Chandler, AZ 85225 ",85225,215500,86275.0312,-0.5997,0.6321,65.0,https://www.zillow.com/homedetails/1934-N-Iowa-St-Chandler-AZ-85225/8182675_zpid/
+446458,23816288,"4811 N 84th Ln, Phoenix, AZ 85037 ",85037,155000,65769.5703,-0.5757,0.6319,20.0,https://www.zillow.com/homedetails/4811-N-84th-Ln-Phoenix-AZ-85037/7481137_zpid/
+1075269,23796771,"1803 N Cheri Lynn Dr, Chandler, AZ 85225 ",85225,239900,108884.0234,-0.5461,0.6314,68.0,https://www.zillow.com/homedetails/1803-N-Cheri-Lynn-Dr-Chandler-AZ-85225/8183501_zpid/
+448532,23797431,"8415 W Granada Rd, Phoenix, AZ 85037 ",85037,149900,73214.5938,-0.5116,0.6254,20.0,https://www.zillow.com/homedetails/8415-W-Granada-Rd-Phoenix-AZ-85037/7487944_zpid/
+449105,23815053,"8515 W College Dr, Phoenix, AZ 85037 ",85037,162850,64847.4102,-0.6018,0.6251,25.0,https://www.zillow.com/homedetails/8515-W-College-Dr-Phoenix-AZ-85037/7483595_zpid/
+9012375,23760167,"709 W Mcnair St, Chandler, AZ 85225 ",85225,227000,104733.4531,-0.5386,0.6236,63.0,https://www.zillow.com/homedetails/709-W-Mcnair-St-Chandler-AZ-85225/8198852_zpid/

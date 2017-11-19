@@ -1,0 +1,21 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+659521,22684348,"2309 S Ananea, Mesa, AZ 85209 ",85209,225000,172996.75,-0.2311,0.8067,288.0,https://www.zillow.com/homedetails/2309-S-Ananea-Mesa-AZ-85209/8273238_zpid/
+1190875,22681257,"564 W Orchard Way, Gilbert, AZ 85233 ",85233,222900,172603.5625,-0.2256,0.8036,265.0,https://www.zillow.com/homedetails/564-W-Orchard-Way-Gilbert-AZ-85233/8174530_zpid/
+1196579,22726918,"827 W Leah Ln, Gilbert, AZ 85233 ",85233,249900,179210.125,-0.2829,0.803,615.0,https://www.zillow.com/homedetails/827-W-Leah-Ln-Gilbert-AZ-85233/8173210_zpid/
+565077,22610214,"10030 E Isleta Ave, Mesa, AZ 85209 ",85209,210000,150195.4531,-0.2848,0.8006,432.0,https://www.zillow.com/homedetails/10030-E-Isleta-Ave-Mesa-AZ-85209/71607613_zpid/
+63209,22579733,"40701 N Courage Trl, Anthem, AZ 85086 ",85086,239990,185294.7969,-0.2279,0.7952,325.0,https://www.zillow.com/homedetails/40701-N-Courage-Trl-Anthem-AZ-85086/53611232_zpid/
+679392,22695008,"8503 E Keats Ave, Mesa, AZ 85209 ",85209,245000,175284.7344,-0.2846,0.7937,607.0,https://www.zillow.com/homedetails/8503-E-Keats-Ave-Mesa-AZ-85209/60050816_zpid/
+1094347,22710242,"805 W Nopal Pl, Chandler, AZ 85225 ",85225,225000,163525.75,-0.2732,0.7851,477.0,https://www.zillow.com/homedetails/805-W-Nopal-Pl-Chandler-AZ-85225/8177761_zpid/
+672525,22677334,"7552 E Medina Ave, Mesa, AZ 85209 ",85209,248500,180036.375,-0.2755,0.7839,595.0,https://www.zillow.com/homedetails/7552-E-Medina-Ave-Mesa-AZ-85209/8273379_zpid/
+89596,22735932,"20896 E Desert Hills Blvd, Queen Creek, AZ 85142 ",85142,229900,171314.5625,-0.2548,0.7791,408.0,https://www.zillow.com/homedetails/20896-E-Desert-Hills-Blvd-Queen-Creek-AZ-85142/59260585_zpid/
+196517,22710785,"3714 W Burgess Ln, Phoenix, AZ 85041 ",85041,229000,169168.0156,-0.2613,0.7786,441.0,https://www.zillow.com/homedetails/3714-W-Burgess-Ln-Phoenix-AZ-85041/67774286_zpid/
+191577,22688185,"1926 W Burgess Ln, Phoenix, AZ 85041 ",85041,236500,166998.1094,-0.2939,0.7768,607.0,https://www.zillow.com/homedetails/1926-W-Burgess-Ln-Phoenix-AZ-85041/67781758_zpid/
+658688,22705407,"2223 S Gordon, Mesa, AZ 85209 ",85209,205000,153659.4531,-0.2504,0.7726,290.0,https://www.zillow.com/homedetails/2223-S-Gordon-Mesa-AZ-85209/55279970_zpid/
+771912,23796908,"954 N Sinova, Mesa, AZ 85205 ",85205,245000,181270.625,-0.2601,0.7718,525.0,https://www.zillow.com/homedetails/954-N-Sinova-Mesa-AZ-85205/7673032_zpid/
+195437,22710779,"3202 W Saint Catherine Ave, Phoenix, AZ 85041 ",85041,235000,171426.625,-0.2705,0.7709,524.0,https://www.zillow.com/homedetails/3202-W-Saint-Catherine-Ave-Phoenix-AZ-85041/67764960_zpid/
+928938,22675342,"2404 S 238th Ln, Buckeye, AZ 85326 ",85326,219900,142734.8125,-0.3509,0.7703,650.0,https://www.zillow.com/homedetails/2404-S-238th-Ln-Buckeye-AZ-85326/92354814_zpid/
+90843,22656903,"21154 E Via Del Olivos, Queen Creek, AZ 85142 ",85142,233500,171154.1406,-0.267,0.7699,504.0,https://www.zillow.com/homedetails/21154-E-Via-Del-Olivos-Queen-Creek-AZ-85142/95115047_zpid/
+928773,22692800,"24013 W Twilight Trl, Buckeye, AZ 85326 ",85326,210000,146187.0781,-0.3039,0.7689,531.0,https://www.zillow.com/homedetails/24013-W-Twilight-Trl-Buckeye-AZ-85326/61631333_zpid/
+91342,22656906,"21251 E Avenida Del Valle, Queen Creek, AZ 85142 ",85142,235000,170295.6719,-0.2753,0.7688,553.0,https://www.zillow.com/homedetails/21251-E-Avenida-Del-Valle-Queen-Creek-AZ-85142/60050853_zpid/
+63228,22689830,"40707 N Courage Trl, Anthem, AZ 85086 ",85086,249900,183708.3438,-0.2649,0.7671,574.0,https://www.zillow.com/homedetails/40707-N-Courage-Trl-Anthem-AZ-85086/55264648_zpid/
+7447915,22576292,"8216 S 6th Ln, Phoenix, AZ 85041 ",85041,234900,180164.1406,-0.233,0.7664,342.0,https://www.zillow.com/homedetails/8216-S-6th-Ln-Phoenix-AZ-85041/95089441_zpid/

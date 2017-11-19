@@ -1,0 +1,21 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+933875,22707024,"25579 W Northern Lights Way, Buckeye, AZ 85326 ",85326,215000,158453.8125,-0.263,0.721,470.0,https://www.zillow.com/homedetails/25579-W-Northern-Lights-Way-Buckeye-AZ-85326/60997636_zpid/
+679392,22695008,"8503 E Keats Ave, Mesa, AZ 85209 ",85209,245000,166991.1406,-0.3184,0.7195,684.0,https://www.zillow.com/homedetails/8503-E-Keats-Ave-Mesa-AZ-85209/60050816_zpid/
+192659,23798591,"2235 W Burgess Ln, Phoenix, AZ 85041 ",85041,229900,167254.125,-0.2725,0.7135,530.0,https://www.zillow.com/homedetails/2235-W-Burgess-Ln-Phoenix-AZ-85041/59269643_zpid/
+934139,22626862,"25610 W Red Sky Pl, Buckeye, AZ 85326 ",85326,218000,157936.6094,-0.2755,0.7115,508.0,https://www.zillow.com/homedetails/25610-W-Red-Sky-Pl-Buckeye-AZ-85326/60997726_zpid/
+1190875,22681257,"564 W Orchard Way, Gilbert, AZ 85233 ",85233,222900,172967.3281,-0.224,0.711,388.0,https://www.zillow.com/homedetails/564-W-Orchard-Way-Gilbert-AZ-85233/8174530_zpid/
+910573,22706964,"136 S 230th Dr, Buckeye, AZ 85326 ",85326,239900,166484.2344,-0.306,0.7099,651.0,https://www.zillow.com/homedetails/136-S-230th-Dr-Buckeye-AZ-85326/67801665_zpid/
+8928193,22707057,"721 S 223rd Dr, Buckeye, AZ 85326 ",85326,165000,142789.6719,-0.1346,0.7098,85.0,https://www.zillow.com/homedetails/721-S-223rd-Dr-Buckeye-AZ-85326/67787068_zpid/
+937071,22621194,"25858 W Pleasant Ln, Buckeye, AZ 85326 ",85326,210000,163090.6875,-0.2234,0.709,350.0,https://www.zillow.com/homedetails/25858-W-Pleasant-Ln-Buckeye-AZ-85326/71610647_zpid/
+9019188,22732337,"7507 S 12th Ave, Phoenix, AZ 85041 ",85041,235732,164348.0781,-0.3028,0.7075,629.5,https://www.zillow.com/homedetails/7507-S-12th-Ave-Phoenix-AZ-85041/95161575_zpid/
+193092,23512160,"2336 W Fawn Dr, Phoenix, AZ 85041 ",85041,246900,164670.5156,-0.333,0.7075,712.5,https://www.zillow.com/homedetails/2336-W-Fawn-Dr-Phoenix-AZ-85041/81997525_zpid/
+926829,22709179,"23761 W La Salle St, Buckeye, AZ 85326 ",85326,175000,149080.125,-0.1481,0.7072,125.0,https://www.zillow.com/homedetails/23761-W-La-Salle-St-Buckeye-AZ-85326/82828886_zpid/
+196550,22714145,"3717 W Nancy Ln, Phoenix, AZ 85041 ",85041,209000,159386.1875,-0.2374,0.7058,389.0,https://www.zillow.com/homedetails/3717-W-Nancy-Ln-Phoenix-AZ-85041/67774261_zpid/
+9019013,22730232,"898 S 242nd Ln, Buckeye, AZ 85326 ",85326,214900,158921.7344,-0.2605,0.7055,474.0,https://www.zillow.com/homedetails/898-S-242nd-Ln-Buckeye-AZ-85326/67797697_zpid/
+1264136,22731232,"2870 E Megan St, Gilbert, AZ 85295 ",85295,245000,167960.1562,-0.3144,0.7048,691.0,https://www.zillow.com/homedetails/2870-E-Megan-St-Gilbert-AZ-85295/71618739_zpid/
+429776,22703731,"10740 W Taft St, Phoenix, AZ 85037 ",85037,209000,155642.7031,-0.2553,0.7042,446.5,https://www.zillow.com/homedetails/10740-W-Taft-St-Phoenix-AZ-85037/81977416_zpid/
+429812,23796734,"10750 W Coolidge St, Phoenix, AZ 85037 ",85037,215000,155642.7031,-0.2761,0.7042,516.5,https://www.zillow.com/homedetails/10750-W-Coolidge-St-Phoenix-AZ-85037/81982882_zpid/
+432087,22704087,"11018 W Elm St, Phoenix, AZ 85037 ",85037,223000,156928.1875,-0.2963,0.7042,573.5,https://www.zillow.com/homedetails/11018-W-Elm-St-Phoenix-AZ-85037/95185302_zpid/
+431469,22724416,"10929 W Taft St, Phoenix, AZ 85037 ",85037,229000,156256.5312,-0.3177,0.7042,653.5,https://www.zillow.com/homedetails/10929-W-Taft-St-Phoenix-AZ-85037/81974726_zpid/
+916447,22732637,"21845 W Mohave St, Buckeye, AZ 85326 ",85326,179900,146900.6719,-0.1834,0.7038,222.0,https://www.zillow.com/homedetails/21845-W-Mohave-St-Buckeye-AZ-85326/71629089_zpid/
+917596,22740734,"22045 W Gardenia Dr, Buckeye, AZ 85326 ",85326,199900,152232.6719,-0.2385,0.7026,366.0,https://www.zillow.com/homedetails/22045-W-Gardenia-Dr-Buckeye-AZ-85326/62739152_zpid/

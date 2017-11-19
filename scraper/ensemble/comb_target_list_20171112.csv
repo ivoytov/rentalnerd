@@ -1,0 +1,21 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+360355,22733584,"8331 W Pima St, Tolleson, AZ 85353 ",85353,205000,103661.0,-0.4943,0.695,328.0,https://www.zillow.com/homedetails/8331-W-Pima-St-Tolleson-AZ-85353/58770098_zpid/
+9016802,22737152,"11602 N 67th Dr, Peoria, AZ 85345 ",85345,204999,93824.5234,-0.5423,0.6921,703.0,https://www.zillow.com/homedetails/11602-N-67th-Dr-Peoria-AZ-85345/7699701_zpid/
+975705,23809139,"704 N Country Club Way, Chandler, AZ 85226 ",85226,249900,97359.6172,-0.6104,0.6839,1375.0,https://www.zillow.com/homedetails/704-N-Country-Club-Way-Chandler-AZ-85226/8155320_zpid/
+414806,22647037,"6601 W Poinsettia Dr, Glendale, AZ 85304 ",85304,195000,85704.2266,-0.5605,0.6809,627.0,https://www.zillow.com/homedetails/6601-W-Poinsettia-Dr-Glendale-AZ-85304/7699545_zpid/
+382253,22737157,"12607 N 38th Ln, Phoenix, AZ 85029 ",85029,199000,88684.0938,-0.5544,0.6771,668.0,https://www.zillow.com/homedetails/12607-N-38th-Ln-Phoenix-AZ-85029/7743224_zpid/
+9015638,22704145,"8444 W Lewis Ave, Phoenix, AZ 85037 ",85037,176900,60796.4023,-0.6563,0.6768,888.0,https://www.zillow.com/homedetails/8444-W-Lewis-Ave-Phoenix-AZ-85037/82823102_zpid/
+8973255,23753390,"7811 W Palm Ln, Phoenix, AZ 85035 ",85035,175900,61450.8164,-0.6506,0.6767,832.0,https://www.zillow.com/homedetails/7811-W-Palm-Ln-Phoenix-AZ-85035/95151582_zpid/
+422815,22722094,"8324 N 56th Ln, Glendale, AZ 85302 ",85302,215000,88904.1172,-0.5865,0.6766,1134.0,https://www.zillow.com/homedetails/8324-N-56th-Ln-Glendale-AZ-85302/7732897_zpid/
+526828,22737450,"9418 W Sheridan St, Phoenix, AZ 85037 ",85037,214500,95407.9297,-0.5552,0.6746,996.0,https://www.zillow.com/homedetails/9418-W-Sheridan-St-Phoenix-AZ-85037/67773035_zpid/
+450692,23753402,"8742 W Edgemont Ave, Phoenix, AZ 85037 ",85037,190000,73614.1641,-0.6126,0.6741,902.0,https://www.zillow.com/homedetails/8742-W-Edgemont-Ave-Phoenix-AZ-85037/7473770_zpid/
+8996157,22735450,"11202 N 69th Dr, Peoria, AZ 85345 ",85345,208900,95131.5859,-0.5446,0.6737,812.0,https://www.zillow.com/homedetails/11202-N-69th-Dr-Peoria-AZ-85345/7699586_zpid/
+1107842,22737147,"1098 W Whitten St, Chandler, AZ 85224 ",85224,245000,97950.8438,-0.6002,0.6736,1376.0,https://www.zillow.com/homedetails/1098-W-Whitten-St-Chandler-AZ-85224/8207893_zpid/
+450214,22642480,"8705 W Roanoke Ave, Phoenix, AZ 85037 ",85037,210000,88715.2578,-0.5775,0.6734,1057.0,https://www.zillow.com/homedetails/8705-W-Roanoke-Ave-Phoenix-AZ-85037/7473636_zpid/
+9015637,22739690,"7843 W Palm Ln, Phoenix, AZ 85035 ",85035,169980,62089.5156,-0.6347,0.6721,591.0,https://www.zillow.com/homedetails/7843-W-Palm-Ln-Phoenix-AZ-85035/95123133_zpid/
+9019950,22740802,"3015 W Yuma St, Phoenix, AZ 85009 ",85009,189900,75018.75,-0.605,0.6717,854.0,https://www.zillow.com/homedetails/3015-W-Yuma-St-Phoenix-AZ-85009/7500920_zpid/
+43395,23752723,"7911 W Hilton Ave, Phoenix, AZ 85043 ",85043,232000,115771.5156,-0.501,0.6637,905.0,https://www.zillow.com/homedetails/7911-W-Hilton-Ave-Phoenix-AZ-85043/50893343_zpid/
+1416084,22925102,"7583 W Krall St, Glendale, AZ 85303 ",85303,230000,105781.8828,-0.5401,0.6633,1121.0,https://www.zillow.com/homedetails/7583-W-Krall-St-Glendale-AZ-85303/7463213_zpid/
+1859,23650472,"9128 W Alvarado St, Phoenix, AZ 85037 ",85037,214000,96147.2812,-0.5507,0.662,966.0,https://www.zillow.com/homedetails/9128-W-Alvarado-St-Phoenix-AZ-85037/60047210_zpid/
+40001,22747266,"2221 S 71st Dr, Phoenix, AZ 85043 ",85043,178000,65654.3125,-0.6312,0.6619,772.0,https://www.zillow.com/homedetails/2221-S-71st-Dr-Phoenix-AZ-85043/50185990_zpid/
+9016804,22738611,"7237 W Sierra St, Peoria, AZ 85345 ",85345,200000,104285.6953,-0.4786,0.6598,226.0,https://www.zillow.com/homedetails/7237-W-Sierra-St-Peoria-AZ-85345/7700458_zpid/

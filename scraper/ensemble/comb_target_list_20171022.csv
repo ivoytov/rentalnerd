@@ -1,0 +1,21 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+1256031,22681157,"1786 S Seton Ave, Gilbert, AZ 85295 ",85295,245000,136856.8906,-0.4414,0.8212,1509.0,https://www.zillow.com/homedetails/1786-S-Seton-Ave-Gilbert-AZ-85295/82778877_zpid/
+1255478,22606020,"1738 S Martingale Rd, Gilbert, AZ 85295 ",85295,245000,139367.625,-0.4312,0.8196,1488.0,https://www.zillow.com/homedetails/1738-S-Martingale-Rd-Gilbert-AZ-85295/88788722_zpid/
+1190875,22681257,"564 W Orchard Way, Gilbert, AZ 85233 ",85233,222900,141783.6406,-0.3639,0.8151,1013.0,https://www.zillow.com/homedetails/564-W-Orchard-Way-Gilbert-AZ-85233/8174530_zpid/
+195789,22642934,"3313 W Nancy Ln, Phoenix, AZ 85041 ",85041,229900,135402.0156,-0.411,0.8091,1279.5,https://www.zillow.com/homedetails/3313-W-Nancy-Ln-Phoenix-AZ-85041/67789656_zpid/
+928938,22675342,"2404 S 238th Ln, Buckeye, AZ 85326 ",85326,219900,135180.7656,-0.3853,0.8084,1076.0,https://www.zillow.com/homedetails/2404-S-238th-Ln-Buckeye-AZ-85326/92354814_zpid/
+1273404,22685699,"4436 E Franklin Ave, Gilbert, AZ 85295 ",85295,248000,139542.7969,-0.4373,0.8071,1517.0,https://www.zillow.com/homedetails/4436-E-Franklin-Ave-Gilbert-AZ-85295/60987658_zpid/
+937071,22621194,"25858 W Pleasant Ln, Buckeye, AZ 85326 ",85326,210000,144388.2812,-0.3124,0.8063,750.0,https://www.zillow.com/homedetails/25858-W-Pleasant-Ln-Buckeye-AZ-85326/71610647_zpid/
+672105,22703447,"7520 E Medina Ave, Mesa, AZ 85209 ",85209,245000,137338.4688,-0.4394,0.8061,1512.0,https://www.zillow.com/homedetails/7520-E-Medina-Ave-Mesa-AZ-85209/8273374_zpid/
+1273632,22681246,"4504 E Dublin St, Gilbert, AZ 85295 ",85295,245900,139058.9688,-0.4345,0.8059,1508.0,https://www.zillow.com/homedetails/4504-E-Dublin-St-Gilbert-AZ-85295/60987592_zpid/
+930884,22655468,"24931 W Jessica Ln, Buckeye, AZ 85326 ",85326,219900,140313.1562,-0.3619,0.8049,989.0,https://www.zillow.com/homedetails/24931-W-Jessica-Ln-Buckeye-AZ-85326/81967730_zpid/
+1273751,22693412,"4533 E Harrison St, Gilbert, AZ 85295 ",85295,225000,133578.3594,-0.4063,0.8017,1211.5,https://www.zillow.com/homedetails/4533-E-Harrison-St-Gilbert-AZ-85295/60987720_zpid/
+1273177,22648222,"4334 E Megan St, Gilbert, AZ 85295 ",85295,235000,134971.4688,-0.4257,0.8017,1417.5,https://www.zillow.com/homedetails/4334-E-Megan-St-Gilbert-AZ-85295/55276070_zpid/
+1196579,22726918,"827 W Leah Ln, Gilbert, AZ 85233 ",85233,249900,148341.2656,-0.4064,0.8006,1453.0,https://www.zillow.com/homedetails/827-W-Leah-Ln-Gilbert-AZ-85233/8173210_zpid/
+940743,22610245,"5764 S 249th Dr, Buckeye, AZ 85326 ",85326,213000,142852.0781,-0.3293,0.7985,842.0,https://www.zillow.com/homedetails/5764-S-249th-Dr-Buckeye-AZ-85326/81992407_zpid/
+195437,22710779,"3202 W Saint Catherine Ave, Phoenix, AZ 85041 ",85041,235000,138772.625,-0.4095,0.7978,1335.0,https://www.zillow.com/homedetails/3202-W-Saint-Catherine-Ave-Phoenix-AZ-85041/67764960_zpid/
+914999,22733485,"2015 S 218th Ave, Buckeye, AZ 85326 ",85326,240000,141936.1875,-0.4086,0.7967,1377.0,https://www.zillow.com/homedetails/2015-S-218th-Ave-Buckeye-AZ-85326/81993337_zpid/
+63970,23395680,"41430 N Prosperity Way, Anthem, AZ 85086 ",85086,239900,153491.4531,-0.3602,0.7959,1125.0,http://www.zillow.com/homedetails/41430-N-Prosperity-Way-Anthem-AZ-85086/52427282_zpid/
+941694,22638002,"641 S 221st Dr, Buckeye, AZ 85326 ",85326,239900,138587.9375,-0.4223,0.7959,1450.0,https://www.zillow.com/homedetails/641-S-221st-Dr-Buckeye-AZ-85326/81966679_zpid/
+445988,22692559,"4719 N 92nd Ave, Phoenix, AZ 85037 ",85037,135000,135670.4844,0.005,0.7957,32.0,https://www.zillow.com/homedetails/4719-N-92nd-Ave-Phoenix-AZ-85037/7466534_zpid/
+1264180,22595399,"2873 E Bart St, Gilbert, AZ 85295 ",85295,229900,137642.0781,-0.4013,0.7954,1237.0,https://www.zillow.com/homedetails/2873-E-Bart-St-Gilbert-AZ-85295/81971571_zpid/

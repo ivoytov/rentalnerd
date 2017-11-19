@@ -1,0 +1,21 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+679392,22695008,"8503 E Keats Ave, Mesa, AZ 85209 ",85209,245000,161421.7656,-0.3411,0.8591,599.0,https://www.zillow.com/homedetails/8503-E-Keats-Ave-Mesa-AZ-85209/60050816_zpid/
+1190875,22681257,"564 W Orchard Way, Gilbert, AZ 85233 ",85233,222900,159401.8906,-0.2849,0.8549,446.0,https://www.zillow.com/homedetails/564-W-Orchard-Way-Gilbert-AZ-85233/8174530_zpid/
+62818,22680698,"40045 N Cross Timbers Ct, Anthem, AZ 85086 ",85086,215000,159773.4844,-0.2569,0.8506,396.0,https://www.zillow.com/homedetails/40045-N-Cross-Timbers-Ct-Anthem-AZ-85086/60543016_zpid/
+196517,22710785,"3714 W Burgess Ln, Phoenix, AZ 85041 ",85041,229000,161171.9844,-0.2962,0.8483,477.0,https://www.zillow.com/homedetails/3714-W-Burgess-Ln-Phoenix-AZ-85041/67774286_zpid/
+1196579,22726918,"827 W Leah Ln, Gilbert, AZ 85233 ",85233,249900,163963.375,-0.3439,0.8437,613.0,https://www.zillow.com/homedetails/827-W-Leah-Ln-Gilbert-AZ-85233/8173210_zpid/
+63228,22689830,"40707 N Courage Trl, Anthem, AZ 85086 ",85086,249900,164433.375,-0.342,0.8431,610.0,https://www.zillow.com/homedetails/40707-N-Courage-Trl-Anthem-AZ-85086/55264648_zpid/
+565077,22610214,"10030 E Isleta Ave, Mesa, AZ 85209 ",85209,210000,155525.6719,-0.2594,0.843,389.0,https://www.zillow.com/homedetails/10030-E-Isleta-Ave-Mesa-AZ-85209/71607613_zpid/
+63209,22579733,"40701 N Courage Trl, Anthem, AZ 85086 ",85086,239990,166577.9531,-0.3059,0.8428,529.0,https://www.zillow.com/homedetails/40701-N-Courage-Trl-Anthem-AZ-85086/53611232_zpid/
+306556,22699181,"3878 W Ashton Dr, Anthem, AZ 85086 ",85086,239000,159979.7969,-0.3306,0.8416,575.0,https://www.zillow.com/homedetails/3878-W-Ashton-Dr-Anthem-AZ-85086/67802475_zpid/
+195437,22710779,"3202 W Saint Catherine Ave, Phoenix, AZ 85041 ",85041,235000,163741.1406,-0.3032,0.8333,514.0,https://www.zillow.com/homedetails/3202-W-Saint-Catherine-Ave-Phoenix-AZ-85041/67764960_zpid/
+308996,22734530,"41252 N Ericson Ln, Anthem, AZ 85086 ",85086,249900,164982.9375,-0.3398,0.8331,613.0,https://www.zillow.com/homedetails/41252-N-Ericson-Ln-Anthem-AZ-85086/60980245_zpid/
+9016019,22707065,"83 N 225th Dr, Buckeye, AZ 85326 ",85326,185000,154422.5,-0.1653,0.8318,170.0,https://www.zillow.com/homedetails/83-N-225th-Dr-Buckeye-AZ-85326/71492945_zpid/
+928938,22675342,"2404 S 238th Ln, Buckeye, AZ 85326 ",85326,219900,164132.7969,-0.2536,0.8298,408.0,https://www.zillow.com/homedetails/2404-S-238th-Ln-Buckeye-AZ-85326/92354814_zpid/
+917461,22719030,"22026 W Loma Linda Blvd, Buckeye, AZ 85326 ",85326,235000,166830.4375,-0.2901,0.8282,492.0,https://www.zillow.com/homedetails/22026-W-Loma-Linda-Blvd-Buckeye-AZ-85326/62739176_zpid/
+1235249,22741613,"4690 E Olney Ave, Gilbert, AZ 85234 ",85234,239900,161737.0312,-0.3258,0.8282,574.0,https://www.zillow.com/homedetails/4690-E-Olney-Ave-Gilbert-AZ-85234/67794179_zpid/
+659521,22684348,"2309 S Ananea, Mesa, AZ 85209 ",85209,225000,160864.2656,-0.285,0.8278,463.0,https://www.zillow.com/homedetails/2309-S-Ananea-Mesa-AZ-85209/8273238_zpid/
+1264136,22731232,"2870 E Megan St, Gilbert, AZ 85295 ",85295,245000,158265.4844,-0.354,0.8266,627.0,https://www.zillow.com/homedetails/2870-E-Megan-St-Gilbert-AZ-85295/71618739_zpid/
+307175,22727935,"39629 N Bent Creek Ct, Anthem, AZ 85086 ",85086,229900,162193.3125,-0.2945,0.8241,489.0,https://www.zillow.com/homedetails/39629-N-Bent-Creek-Ct-Anthem-AZ-85086/62730938_zpid/
+59611,22709624,"2364 W Turtle Hill Ct, Anthem, AZ 85086 ",85086,249900,160875.2188,-0.3562,0.8214,632.0,https://www.zillow.com/homedetails/2364-W-Turtle-Hill-Ct-Anthem-AZ-85086/55213390_zpid/
+84629,22737912,"19083 E Pelican Dr, Queen Creek, AZ 85142 ",85142,242900,161979.9688,-0.3331,0.8183,601.0,https://www.zillow.com/homedetails/19083-E-Pelican-Dr-Queen-Creek-AZ-85142/82242640_zpid/

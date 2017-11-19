@@ -1,0 +1,21 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+90850,22735947,"21155 E Duncan St, Queen Creek, AZ 85142 ",85142,246900,132367.1719,-0.4639,0.8395,1535.0,https://www.zillow.com/homedetails/21155-E-Duncan-St-Queen-Creek-AZ-85142/68540934_zpid/
+1264136,22731232,"2870 E Megan St, Gilbert, AZ 85295 ",85295,245000,146239.5469,-0.4031,0.8303,1471.0,https://www.zillow.com/homedetails/2870-E-Megan-St-Gilbert-AZ-85295/71618739_zpid/
+937071,22621194,"25858 W Pleasant Ln, Buckeye, AZ 85326 ",85326,210000,138563.1094,-0.3402,0.8287,711.0,https://www.zillow.com/homedetails/25858-W-Pleasant-Ln-Buckeye-AZ-85326/71610647_zpid/
+84629,22737912,"19083 E Pelican Dr, Queen Creek, AZ 85142 ",85142,242900,145896.6719,-0.3994,0.8265,1430.0,https://www.zillow.com/homedetails/19083-E-Pelican-Dr-Queen-Creek-AZ-85142/82242640_zpid/
+930884,22655468,"24931 W Jessica Ln, Buckeye, AZ 85326 ",85326,219900,134494.2031,-0.3884,0.8262,1122.0,https://www.zillow.com/homedetails/24931-W-Jessica-Ln-Buckeye-AZ-85326/81967730_zpid/
+940743,22610245,"5764 S 249th Dr, Buckeye, AZ 85326 ",85326,213000,134319.9375,-0.3694,0.8234,885.0,https://www.zillow.com/homedetails/5764-S-249th-Dr-Buckeye-AZ-85326/81992407_zpid/
+681222,22729072,"8748 E Lomita Ave, Mesa, AZ 85209 ",85209,242300,154668.5938,-0.3617,0.8226,1183.0,https://www.zillow.com/homedetails/8748-E-Lomita-Ave-Mesa-AZ-85209/59258866_zpid/
+679996,22705475,"8547 E Lakeview Ave, Mesa, AZ 85209 ",85209,238500,151599.0938,-0.3644,0.8225,1167.0,https://www.zillow.com/homedetails/8547-E-Lakeview-Ave-Mesa-AZ-85209/55084329_zpid/
+195789,22642934,"3313 W Nancy Ln, Phoenix, AZ 85041 ",85041,229900,137099.6719,-0.4037,0.8224,1333.0,https://www.zillow.com/homedetails/3313-W-Nancy-Ln-Phoenix-AZ-85041/67789656_zpid/
+936384,22647196,"25816 W Elwood St, Buckeye, AZ 85326 ",85326,230000,149400.8906,-0.3504,0.822,949.0,https://www.zillow.com/homedetails/25816-W-Elwood-St-Buckeye-AZ-85326/67787198_zpid/
+941694,22638002,"641 S 221st Dr, Buckeye, AZ 85326 ",85326,239900,141826.5,-0.4088,0.8218,1460.0,https://www.zillow.com/homedetails/641-S-221st-Dr-Buckeye-AZ-85326/81966679_zpid/
+1255478,22606020,"1738 S Martingale Rd, Gilbert, AZ 85295 ",85295,245000,148148.9844,-0.3953,0.8175,1434.0,https://www.zillow.com/homedetails/1738-S-Martingale-Rd-Gilbert-AZ-85295/88788722_zpid/
+196517,22710785,"3714 W Burgess Ln, Phoenix, AZ 85041 ",85041,229000,144812.5625,-0.3676,0.8172,1097.0,https://www.zillow.com/homedetails/3714-W-Burgess-Ln-Phoenix-AZ-85041/67774286_zpid/
+941031,22647197,"5905 S 235th Ln, Buckeye, AZ 85326 ",85326,234900,141609.2812,-0.3972,0.8158,1357.0,https://www.zillow.com/homedetails/5905-S-235th-Ln-Buckeye-AZ-85326/82828989_zpid/
+914999,22733485,"2015 S 218th Ave, Buckeye, AZ 85326 ",85326,240000,142764.4844,-0.4051,0.8147,1445.0,https://www.zillow.com/homedetails/2015-S-218th-Ave-Buckeye-AZ-85326/81993337_zpid/
+925684,22520462,"23571 W Pecan Rd, Buckeye, AZ 85326 ",85326,239000,144879.9375,-0.3938,0.8139,1378.0,https://www.zillow.com/homedetails/23571-W-Pecan-Rd-Buckeye-AZ-85326/82828957_zpid/
+928938,22675342,"2404 S 238th Ln, Buckeye, AZ 85326 ",85326,219900,130733.5859,-0.4055,0.813,1248.0,https://www.zillow.com/homedetails/2404-S-238th-Ln-Buckeye-AZ-85326/92354814_zpid/
+9001010,22735994,"21826 S 215th St, Queen Creek, AZ 85142 ",85142,247000,144697.2812,-0.4142,0.8121,1528.0,https://www.zillow.com/homedetails/21826-S-215th-St-Queen-Creek-AZ-85142/2134596787_zpid/
+94067,22736058,"22050 S 211th St, Queen Creek, AZ 85142 ",85142,224900,139035.3125,-0.3818,0.8117,1152.0,https://www.zillow.com/homedetails/22050-S-211th-St-Queen-Creek-AZ-85142/82825149_zpid/
+191577,22688185,"1926 W Burgess Ln, Phoenix, AZ 85041 ",85041,236500,137996.8281,-0.4165,0.8105,1483.0,https://www.zillow.com/homedetails/1926-W-Burgess-Ln-Phoenix-AZ-85041/67781758_zpid/

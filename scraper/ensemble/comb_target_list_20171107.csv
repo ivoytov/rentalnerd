@@ -1,0 +1,21 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+526828,22737450,"9418 W Sheridan St, Phoenix, AZ 85037 ",85037,214500,89048.0078,-0.5849,0.7679,41.0,https://www.zillow.com/homedetails/9418-W-Sheridan-St-Phoenix-AZ-85037/67773035_zpid/
+450214,22642480,"8705 W Roanoke Ave, Phoenix, AZ 85037 ",85037,210000,85787.5234,-0.5915,0.7319,40.0,https://www.zillow.com/homedetails/8705-W-Roanoke-Ave-Phoenix-AZ-85037/7473636_zpid/
+527635,22717844,"9459 W Virginia Ave, Phoenix, AZ 85037 ",85037,200000,92898.25,-0.5355,0.7214,9.0,https://www.zillow.com/homedetails/9459-W-Virginia-Ave-Phoenix-AZ-85037/62727169_zpid/
+520341,22734448,"8921 W Edgemont Ave, Phoenix, AZ 85037 ",85037,199000,80632.4375,-0.5948,0.7173,26.0,https://www.zillow.com/homedetails/8921-W-Edgemont-Ave-Phoenix-AZ-85037/7487901_zpid/
+448988,22734457,"8504 W College Dr, Phoenix, AZ 85037 ",85037,190000,66809.5703,-0.6484,0.7134,40.0,https://www.zillow.com/homedetails/8504-W-College-Dr-Phoenix-AZ-85037/7483600_zpid/
+9015638,22704145,"8444 W Lewis Ave, Phoenix, AZ 85037 ",85037,176900,58696.1406,-0.6682,0.708,26.0,https://www.zillow.com/homedetails/8444-W-Lewis-Ave-Phoenix-AZ-85037/82823102_zpid/
+444887,22730839,"4607 N 92nd Ln, Phoenix, AZ 85037 ",85037,214900,89372.8359,-0.5841,0.7065,48.0,https://www.zillow.com/homedetails/4607-N-92nd-Ln-Phoenix-AZ-85037/7466411_zpid/
+22933,22734467,"8739 W Fairmount Ave, Phoenix, AZ 85037 ",85037,170000,56652.75,-0.6667,0.7054,19.0,https://www.zillow.com/homedetails/8739-W-Fairmount-Ave-Phoenix-AZ-85037/7471067_zpid/
+527019,22747540,"9424 W Pierson St, Phoenix, AZ 85037 ",85037,212000,89546.0781,-0.5776,0.6997,41.0,https://www.zillow.com/homedetails/9424-W-Pierson-St-Phoenix-AZ-85037/52423672_zpid/
+435581,22732846,"2207 N 87th Dr, Phoenix, AZ 85037 ",85037,184900,64229.3672,-0.6526,0.6889,37.0,https://www.zillow.com/homedetails/2207-N-87th-Dr-Phoenix-AZ-85037/7487726_zpid/
+1859,23650472,"9128 W Alvarado St, Phoenix, AZ 85037 ",85037,214000,91102.1641,-0.5743,0.6707,44.0,https://www.zillow.com/homedetails/9128-W-Alvarado-St-Phoenix-AZ-85037/60047210_zpid/
+448364,23512346,"8402 W Fairmount Ave, Phoenix, AZ 85037 ",85037,170000,55587.7695,-0.673,0.6514,24.0,https://www.zillow.com/homedetails/8402-W-Fairmount-Ave-Phoenix-AZ-85037/7470144_zpid/
+435965,23757849,"2237 N 94th Ave, Phoenix, AZ 85037 ",85037,229999,99284.0078,-0.5683,0.6447,64.0,https://www.zillow.com/homedetails/2237-N-94th-Ave-Phoenix-AZ-85037/67773064_zpid/
+1705,22706438,"8721 W Campbell Ave, Phoenix, AZ 85037 ",85037,199000,78124.3281,-0.6074,0.6427,43.0,https://www.zillow.com/homedetails/8721-W-Campbell-Ave-Phoenix-AZ-85037/7466961_zpid/
+450692,23753402,"8742 W Edgemont Ave, Phoenix, AZ 85037 ",85037,190000,67904.2578,-0.6426,0.6416,46.0,https://www.zillow.com/homedetails/8742-W-Edgemont-Ave-Phoenix-AZ-85037/7473770_zpid/
+526527,23806419,"9409 W Berkeley Rd, Phoenix, AZ 85037 ",85037,234000,104997.9688,-0.5513,0.6105,65.0,https://www.zillow.com/homedetails/9409-W-Berkeley-Rd-Phoenix-AZ-85037/60047081_zpid/
+527735,23797438,"9507 W Monte Vista Rd, Phoenix, AZ 85037 ",85037,214900,88509.9141,-0.5881,0.6077,61.0,https://www.zillow.com/homedetails/9507-W-Monte-Vista-Rd-Phoenix-AZ-85037/60974973_zpid/
+527842,23809845,"9515 W Monte Vista Rd, Phoenix, AZ 85037 ",85037,228000,99478.8359,-0.5637,0.6072,66.0,https://www.zillow.com/homedetails/9515-W-Monte-Vista-Rd-Phoenix-AZ-85037/60974977_zpid/
+527753,23797429,"9509 W Elm St, Phoenix, AZ 85037 ",85037,205000,87997.7891,-0.5707,0.6013,35.0,https://www.zillow.com/homedetails/9509-W-Elm-St-Phoenix-AZ-85037/55256235_zpid/
+449589,23796595,"8551 W Sheridan St, Phoenix, AZ 85037 ",85037,220000,96144.7031,-0.563,0.5939,56.0,https://www.zillow.com/homedetails/8551-W-Sheridan-St-Phoenix-AZ-85037/7487376_zpid/

@@ -1,0 +1,21 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+1190875,22681257,"564 W Orchard Way, Gilbert, AZ 85233 ",85233,222900,183709.9219,-0.1758,0.8414,750.0,https://www.zillow.com/homedetails/564-W-Orchard-Way-Gilbert-AZ-85233/8174530_zpid/
+679392,22695008,"8503 E Keats Ave, Mesa, AZ 85209 ",85209,245000,179042.4688,-0.2692,0.8183,1422.0,https://www.zillow.com/homedetails/8503-E-Keats-Ave-Mesa-AZ-85209/60050816_zpid/
+1264136,22731232,"2870 E Megan St, Gilbert, AZ 85295 ",85295,245000,178300.0,-0.2722,0.8115,1435.0,https://www.zillow.com/homedetails/2870-E-Megan-St-Gilbert-AZ-85295/71618739_zpid/
+195437,22710779,"3202 W Saint Catherine Ave, Phoenix, AZ 85041 ",85041,235000,174624.6094,-0.2569,0.8103,1336.0,https://www.zillow.com/homedetails/3202-W-Saint-Catherine-Ave-Phoenix-AZ-85041/67764960_zpid/
+672105,22703447,"7520 E Medina Ave, Mesa, AZ 85209 ",85209,245000,199105.8281,-0.1873,0.8093,960.0,https://www.zillow.com/homedetails/7520-E-Medina-Ave-Mesa-AZ-85209/8273374_zpid/
+59845,22647619,"2556 W Lewis And Clark Trl, Anthem, AZ 85086 ",85086,239000,188573.8594,-0.211,0.8077,1102.0,https://www.zillow.com/homedetails/2556-W-Lewis-And-Clark-Trl-Anthem-AZ-85086/59982877_zpid/
+196517,22710785,"3714 W Burgess Ln, Phoenix, AZ 85041 ",85041,229000,163935.0,-0.2841,0.8069,1419.0,https://www.zillow.com/homedetails/3714-W-Burgess-Ln-Phoenix-AZ-85041/67774286_zpid/
+806321,22628300,"637 S Hall, Mesa, AZ 85204 ",85204,237000,193557.6562,-0.1833,0.8055,875.0,https://www.zillow.com/homedetails/637-S-Hall-Mesa-AZ-85204/68957720_zpid/
+445988,22692559,"4719 N 92nd Ave, Phoenix, AZ 85037 ",85037,135000,165600.5781,0.2267,0.8049,17.0,https://www.zillow.com/homedetails/4719-N-92nd-Ave-Phoenix-AZ-85037/7466534_zpid/
+1196579,22726918,"827 W Leah Ln, Gilbert, AZ 85233 ",85233,249900,190750.6562,-0.2367,0.8047,1323.0,https://www.zillow.com/homedetails/827-W-Leah-Ln-Gilbert-AZ-85233/8173210_zpid/
+935516,22675361,"25753 W St Charles Ct, Buckeye, AZ 85326 ",85326,175000,152638.5312,-0.1278,0.8044,392.0,https://www.zillow.com/homedetails/25753-W-St-Charles-Ct-Buckeye-AZ-85326/67787276_zpid/
+94579,22736071,"22249 E Via Del Palo, Queen Creek, AZ 85142 ",85142,216900,179675.6094,-0.1716,0.8034,714.0,https://www.zillow.com/homedetails/22249-E-Via-Del-Palo-Queen-Creek-AZ-85142/71608498_zpid/
+89596,22735932,"20896 E Desert Hills Blvd, Queen Creek, AZ 85142 ",85142,229900,185291.6562,-0.194,0.8031,923.0,https://www.zillow.com/homedetails/20896-E-Desert-Hills-Blvd-Queen-Creek-AZ-85142/59260585_zpid/
+195789,22642934,"3313 W Nancy Ln, Phoenix, AZ 85041 ",85041,229900,166746.2969,-0.2747,0.8025,1398.0,https://www.zillow.com/homedetails/3313-W-Nancy-Ln-Phoenix-AZ-85041/67789656_zpid/
+91342,22656906,"21251 E Avenida Del Valle, Queen Creek, AZ 85142 ",85142,235000,180757.0781,-0.2308,0.8025,1219.0,https://www.zillow.com/homedetails/21251-E-Avenida-Del-Valle-Queen-Creek-AZ-85142/60050853_zpid/
+926829,22709179,"23761 W La Salle St, Buckeye, AZ 85326 ",85326,175000,149521.2344,-0.1456,0.8024,471.0,https://www.zillow.com/homedetails/23761-W-La-Salle-St-Buckeye-AZ-85326/82828886_zpid/
+191577,22688185,"1926 W Burgess Ln, Phoenix, AZ 85041 ",85041,236500,164239.4219,-0.3055,0.8021,1499.0,https://www.zillow.com/homedetails/1926-W-Burgess-Ln-Phoenix-AZ-85041/67781758_zpid/
+9015638,22704145,"8444 W Lewis Ave, Phoenix, AZ 85037 ",85037,176900,167033.2344,-0.0558,0.8021,193.0,https://www.zillow.com/homedetails/8444-W-Lewis-Ave-Phoenix-AZ-85037/82823102_zpid/
+796335,22719637,"2916 E Enid Ave, Mesa, AZ 85204 ",85204,249900,193425.4688,-0.226,0.8015,1271.0,https://www.zillow.com/homedetails/2916-E-Enid-Ave-Mesa-AZ-85204/7647976_zpid/
+1068321,22710088,"111 N 130th Cir, Chandler, AZ 85225 ",85225,249000,178736.0625,-0.2822,0.8009,1492.0,https://www.zillow.com/homedetails/111-N-130th-Cir-Chandler-AZ-85225/8204677_zpid/
