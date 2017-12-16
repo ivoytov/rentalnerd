@@ -1,0 +1,21 @@
+property_id,transaction_id,address,zipcode,list,predicted_price,pnl_percent,good_sell_prob,rank,url
+43124,23755414,"7301 W Payson Rd, Phoenix, AZ 85043 ",85043,195000,78197.3047,-0.599,0.7621,705.0,https://www.zillow.com/homedetails/7301-W-Payson-Rd-Phoenix-AZ-85043/60975135_zpid/
+359488,23526402,"2409 S 90th Gln, Tolleson, AZ 85353 ",85353,204900,104170.0,-0.4916,0.75,168.0,https://www.zillow.com/homedetails/2409-S-90th-Gln-Tolleson-AZ-85353/67772730_zpid/
+345142,23753531,"1739 E Bluefield Ave, Phoenix, AZ 85022 ",85022,224900,80447.8438,-0.6423,0.7426,1271.0,https://www.zillow.com/homedetails/1739-E-Bluefield-Ave-Phoenix-AZ-85022/8001407_zpid/
+424819,23757935,"9632 N 53rd Ave, Glendale, AZ 85302 ",85302,195000,73570.4219,-0.6227,0.7333,782.0,https://www.zillow.com/homedetails/9632-N-53rd-Ave-Glendale-AZ-85302/7734288_zpid/
+240420,23756210,"3114 W Lisbon Ln, Phoenix, AZ 85053 ",85053,209999,78255.2344,-0.6274,0.7313,980.0,https://www.zillow.com/homedetails/3114-W-Lisbon-Ln-Phoenix-AZ-85053/7953236_zpid/
+501566,23807411,"7828 W Bonitos Dr, Phoenix, AZ 85035 ",85035,162999,62510.2031,-0.6165,0.7307,168.0,https://www.zillow.com/homedetails/7828-W-Bonitos-Dr-Phoenix-AZ-85035/82823203_zpid/
+1131996,23755340,"982 N Los Altos Dr, Chandler, AZ 85224 ",85224,195000,78213.6484,-0.5989,0.7293,710.0,https://www.zillow.com/homedetails/982-N-Los-Altos-Dr-Chandler-AZ-85224/8184826_zpid/
+420568,22722083,"5807 W Puget Ave, Glendale, AZ 85302 ",85302,200000,93593.4766,-0.532,0.7237,326.0,https://www.zillow.com/homedetails/5807-W-Puget-Ave-Glendale-AZ-85302/7733279_zpid/
+8958977,23756263,"2545 E Piute Ave, Phoenix, AZ 85050 ",85050,159000,61358.8672,-0.6141,0.7227,138.0,https://www.zillow.com/homedetails/2545-E-Piute-Ave-Phoenix-AZ-85050/7994601_zpid/
+380868,23801450,"12018 N 42nd Dr, Phoenix, AZ 85029 ",85029,189000,75867.6172,-0.5986,0.7181,625.0,https://www.zillow.com/homedetails/12018-N-42nd-Dr-Phoenix-AZ-85029/7744164_zpid/
+43395,23752723,"7911 W Hilton Ave, Phoenix, AZ 85043 ",85043,232000,113905.5859,-0.509,0.7168,740.0,https://www.zillow.com/homedetails/7911-W-Hilton-Ave-Phoenix-AZ-85043/50893343_zpid/
+9012587,22734105,"4946 W Charleston Ave, Glendale, AZ 85308 ",85308,245000,107881.0547,-0.5597,0.7151,1126.0,https://www.zillow.com/homedetails/4946-W-Charleston-Ave-Glendale-AZ-85308/7949618_zpid/
+401493,23754956,"11221 N 58th Ave, Glendale, AZ 85304 ",85304,209000,83539.6016,-0.6003,0.7143,866.0,https://www.zillow.com/homedetails/11221-N-58th-Ave-Glendale-AZ-85304/7736227_zpid/
+409540,23803892,"4430 W Poinsettia Dr, Glendale, AZ 85304 ",85304,214900,82604.6797,-0.6156,0.7141,1000.0,https://www.zillow.com/homedetails/4430-W-Poinsettia-Dr-Glendale-AZ-85304/7727257_zpid/
+359160,23759845,"15 N 86th Ln, Tolleson, AZ 85353 ",85353,219000,99805.875,-0.5443,0.7135,762.0,https://www.zillow.com/homedetails/15-N-86th-Ln-Tolleson-AZ-85353/95078499_zpid/
+354125,22802972,"2231 E Everett Dr, Phoenix, AZ 85022 ",85022,206900,73861.9688,-0.643,0.7115,1020.0,https://www.zillow.com/homedetails/2231-E-Everett-Dr-Phoenix-AZ-85022/8014080_zpid/
+353672,22728286,"2201 E Nisbet Rd, Phoenix, AZ 85022 ",85022,199900,71383.2188,-0.6429,0.7111,919.0,https://www.zillow.com/homedetails/2201-E-Nisbet-Rd-Phoenix-AZ-85022/8010593_zpid/
+8987452,23806670,"13360 N 79th Ave, Peoria, AZ 85381 ",85381,219000,87679.9688,-0.5996,0.7104,981.0,https://www.zillow.com/homedetails/13360-N-79th-Ave-Peoria-AZ-85381/8100973_zpid/
+8959592,22744660,"8143 W Windrose Dr, Peoria, AZ 85381 ",85381,237500,111158.125,-0.532,0.7098,885.0,https://www.zillow.com/homedetails/8143-W-Windrose-Dr-Peoria-AZ-85381/8101003_zpid/
+8945113,23759637,"7920 W Sweetwater Ave, Peoria, AZ 85381 ",85381,229900,100604.5547,-0.5624,0.7088,939.0,https://www.zillow.com/homedetails/7920-W-Sweetwater-Ave-Peoria-AZ-85381/8100881_zpid/
