@@ -3,3 +3,5 @@ data/
 scraper/*.model
 *.model
 scraper/CSV_backups
+*.nbconvert.ipynb
+*.png
