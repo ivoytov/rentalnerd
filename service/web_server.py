@@ -1,6 +1,10 @@
 import web
 import os 
+import sys
+
 dir_path = os.path.dirname(os.path.realpath(__file__))
+sys.path.append(os.path.abspath(dir_path + '/' + '../scraper/Scripts/'))
+import good_sell_service
 
 urls = (
   '/', 'index',
