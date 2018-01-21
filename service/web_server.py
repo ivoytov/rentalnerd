@@ -1,11 +1,14 @@
 import web
+import os 
+dir_path = os.path.dirname(os.path.realpath(__file__))
 
 urls = (
   '/', 'index',
   '/good_sell', 'good_sell'
 )
 
-render = web.template.render('templates/')
+print dir_path
+render = web.template.render( dir_path + '/templates/' )
 
 class index:
   def GET(self):
@@ -13,7 +16,10 @@ class index:
 
 class good_sell:
   def GET(self):
-    return render.good_sell()
+    params = web.input(property_id=False)
+    print params
+    property_id = params.property_id
+    return render.good_sell(property_id)
 
 if __name__ == "__main__":
     app = web.application(urls, globals())

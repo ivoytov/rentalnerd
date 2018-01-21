@@ -1,1 +1,13 @@
+$def with (property_id)
 <h1>Good sell</h1>
+
+$if property_id:
+  <p> Results for property id: $property_id</p>
+
+$else:
+  <p>Warning: Parameter property_id is missing</p>
+  <p>Usage: 
+    <pre>
+      http://localhost:8080/good_sell?property_id=123
+    </pre>
+  </p>
