@@ -220,13 +220,17 @@ def good_sell_service(property_id):
 		    yield start
 		    start += step
 
+	output = ""
 	for x in my_range(100000, 200000, 10000):
 		df['price_listed'] = x
 
 		target = xgb.DMatrix( df[factors], feature_names=factors)
 		ypred = bst.predict(target, ntree_limit=int(bst.attributes()['best_iteration']))
 
-		print("Predicted good sell at price $%i: %f" % (df.price_listed.iloc[0], ypred))
+		output = output + ("Predicted good sell at price $%i: %f\n" % (df.price_listed.iloc[0], ypred))
+	
+	print(output)
+	return(output)
 
 
 if __name__ == '__main__':
