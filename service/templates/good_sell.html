@@ -1,8 +1,11 @@
-$def with (property_id)
+$def with (property_id, predictions)
 <h1>Good sell</h1>
 
 $if property_id:
-  <p> Results for property id: $property_id</p>
+  Results for property id: $property_id
+  <pre>
+  $predictions
+  </pre>
 
 $else:
   <p>Warning: Parameter property_id is missing</p>
