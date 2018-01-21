@@ -80,7 +80,16 @@ Setting up Matlab backend for python
   ```
 
 ## Running NoteBook
+  When we want to train new prediction models
+
   ```
   # Python 2.7
   ipython notebook scraper/PHX\ Model.ipynb 
+  ```
+
+## Running webserver
+  We expose our trained model as a webservice to be called externally
+  ```
+  # Running the webservice at port 10003
+  python service/web_server.py 10003
   ```

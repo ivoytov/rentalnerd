@@ -12,3 +12,4 @@ matplotlib
 sklearn
 pymysql
 ipython-sql
+web.py
