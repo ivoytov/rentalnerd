@@ -7,10 +7,6 @@ import math
 import xgboost as xgb
 import numpy as np
 
-discount = 0.050 # consider sales within this percent of list to be "good sales"
-if discount > 1:
-    slack("ALERT DISCOUNT MUST BE LESS THAN 100%")
-
 model_path = '/home/ilya/rentalnerd-models/'
 today = (dt.date.today() - dt.date(2000, 1, 1)).days
 
@@ -137,7 +133,7 @@ def sanitize(data):
     data['zipcode_85255'] = 0
     data['zipcode_85257'] = 0
     data['zipcode_85258'] = 0
-    data['zipcode_85259'] = 0
+    data['zipc464422ode_85259'] = 0
     data['zipcode_85260'] = 0
     data['zipcode_85283'] = 0
     data['zipcode_85284'] = 0
@@ -169,71 +165,79 @@ def sanitize(data):
 
     return data
 
+# function for the web service
+def good_sell_service(property_id):
+	
+	db = MySQLdb.connect(host="52.2.153.189",  # your host 
+		                 user="prod",       # username
+		                 passwd="nerd",     # password
+		                 db="rental_nerd")   # name of the database
+	 
+	# Create a Cursor object to execute queries.
+	cur = db.cursor()
+	 
+	# Select data from table using SQL query.
+	cur.execute("SELECT  \
+		*, \
+		properties.id as 'property_id', \
+		property_school_districts.school_district_id \
+		FROM  \
+		properties \
+		LEFT JOIN \
+		property_school_districts ON property_school_districts.property_id = properties.id \
+		WHERE \
+		properties.id = %s", [property_id])
+	 
+	# print the columns
+	field_names = [i[0] for i in cur.description]
+	#print(str(field_names))
+	# print the row
+	for row in cur.fetchall() :
+		print(row[1])
+
+	df = pd.DataFrame.from_records([row], columns=field_names)
+	df = df.loc[:,~df.columns.duplicated()]
+	df.set_index('property_id',inplace=True)
+	df.index.name = 'property_id'
+	df = sanitize(df)
 
 
-if len(sys.argv) != 2:
-    print("wrong number of arguments")
-    quit()
-else:
-    property_id = sys.argv[1]
-    print("processing property_id %s" % property_id)
+	ind2remove = ['Unnamed: 0', 'id', 'address', 'area_name', 'listed_diff_id', 'lookup_address',
+		          'origin_url', 'neighborhood', 'zipcode', 'luxurious', 'transaction_status', 'transaction_type',
+		          'images','zestimate_sale','zestimate_rent', 'price', 'date_closed', 'price_closed', 'date_transacted_latest', 'school_district_id_145.0', 'school_district_id_224',
+		          'school_district_id', 'broker_phone','broker_name','broker_license', 'broker_company', 'recrawled_at', 
+		          'city_code']
 
-db = MySQLdb.connect(host="52.2.153.189",  # your host 
-                     user="prod",       # username
-                     passwd="nerd",     # password
-                     db="rental_nerd")   # name of the database
- 
-# Create a Cursor object to execute queries.
-cur = db.cursor()
- 
-# Select data from table using SQL query.
-cur.execute("SELECT  \
-    *, \
-    properties.id as 'property_id', \
-    property_school_districts.school_district_id \
-    FROM  \
-    properties \
-    LEFT JOIN \
-    property_school_districts ON property_school_districts.property_id = properties.id \
-    WHERE \
-    properties.id = %s", [property_id])
- 
-# print the columns
-field_names = [i[0] for i in cur.description]
-#print(str(field_names))
-# print the row
-for row in cur.fetchall() :
-    print(row[1])
+	factors = np.setdiff1d(df.columns, ind2remove).tolist()
 
-df = pd.DataFrame.from_records([row], columns=field_names)
-df = df.loc[:,~df.columns.duplicated()]
-df.set_index('property_id',inplace=True)
-df.index.name = 'property_id'
-df = sanitize(df)
-
-
-ind2remove = ['Unnamed: 0', 'id', 'address', 'area_name', 'listed_diff_id', 'lookup_address',
-              'origin_url', 'neighborhood', 'zipcode', 'luxurious', 'transaction_status', 'transaction_type',
-              'images','zestimate_sale','zestimate_rent', 'price', 'date_closed', 'price_closed', 'date_transacted_latest', 'school_district_id_145.0', 'school_district_id_224',
-              'school_district_id', 'broker_phone','broker_name','broker_license', 'broker_company', 'recrawled_at', 
-              'city_code']
-
-factors = np.setdiff1d(df.columns, ind2remove).tolist()
-
-bst = xgb.Booster()
-bst.load_model(model_path + 'good_sell_20180121.model')
+	bst = xgb.Booster()
+	bst.load_model(model_path + 'good_sell_20180121.model')
 
 
 
-def my_range(start, end, step):
-    while start <= end:
-        yield start
-        start += step
+	def my_range(start, end, step):
+		while start <= end:
+		    yield start
+		    start += step
 
-for x in my_range(100000, 200000, 10000):
-    df['price_listed'] = x
+	for x in my_range(100000, 200000, 10000):
+		df['price_listed'] = x
 
-    target = xgb.DMatrix( df[factors], feature_names=factors)
-    ypred = bst.predict(target, ntree_limit=int(bst.attributes()['best_iteration']))
+		target = xgb.DMatrix( df[factors], feature_names=factors)
+		ypred = bst.predict(target, ntree_limit=int(bst.attributes()['best_iteration']))
 
-    print("Predicted good sell at price $%i: %f" % (x, ypred))
+		print("Predicted good sell at price $%i: %f" % (df.price_listed.iloc[0], ypred))
+
+
+if __name__ == '__main__':
+    # Running as a script
+	if len(sys.argv) != 2:
+		print("wrong number of arguments")
+		quit()
+	else:
+		property_id = sys.argv[1]
+		print("processing property_id %s" % property_id)
+		good_sell_service(property_id)
+
+	
+
