@@ -5,3 +5,4 @@ scraper/*.model
 scraper/CSV_backups
 *.nbconvert.ipynb
 *.png
+*.pyc
