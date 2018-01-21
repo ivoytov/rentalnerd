@@ -34,22 +34,24 @@ def sanitize(data):
     data["school_district_id"] = data["school_district_id"].astype(str)
     data['year_built'] = data['year_built'].apply(lambda x: 1980 if math.isnan(x) else x)
 
-    data['date_listed'] = today
+    data['date_listed'] = 6233 #today
     data['days_on_market'] = today - data.date_listed
     data['days_on_market_accu'] = today - data.date_listed
     data['fsbo'] = 0
     data['is_latest'] = 1
     data['pended'] = 0
-    data['lot'] = data['lot'].astype(int)
+    data['lot'] = data['lot'].apply(lambda x: int(0 if x is None else x))
+    data['hoa_fees'] = data['hoa_fees'].apply(lambda x: int(0 if x is None else x))
     data['rooms'] = 0
     data['saves'] = 0
-    data['stories'] = 1
+    data['stories'] = 0
 
     data['city_code'] = 'PH'
 
     data['school_district_id_100.0'] = 0
     data['school_district_id_11.0'] = 0
     data['school_district_id_124.0'] = 0
+    data['school_district_id_145.0'] = 0
     data['school_district_id_162.0'] = 0
     data['school_district_id_168.0'] = 0
     data['school_district_id_172.0'] = 0
@@ -123,7 +125,6 @@ def sanitize(data):
     data['zipcode_85207'] = 0
     data['zipcode_85209'] = 0
     data['zipcode_85210'] = 0
-#    data['zipcode_85212'] = 0
     data['zipcode_85215'] = 0
     data['zipcode_85224'] = 0
     data['zipcode_85225'] = 0
@@ -160,10 +161,11 @@ def sanitize(data):
     data['zipcode_85396'] = 0
     data['zipcode_85936'] = 0
 
-    # convert the area name into dummy variables
-    dm = pd.get_dummies(data[['city_code', 'zipcode','school_district_id']], prefix=['city_code','zipcode','school_district_id'])
-    data = pd.concat([data, dm], axis=1)
-    del dm
+    # set the zipcode and school district variables
+    t = 'zipcode_' + data['zipcode'].iloc[0]
+    data[t] = 1
+    u = 'school_district_id_' + data.school_district_id.iloc[0]
+    data[u] = 1
 
     return data
 
@@ -175,7 +177,7 @@ if len(sys.argv) != 2:
 else:
     property_id = sys.argv[1]
     print("processing property_id %s" % property_id)
- 
+
 db = MySQLdb.connect(host="52.2.153.189",  # your host 
                      user="prod",       # username
                      passwd="nerd",     # password
@@ -208,7 +210,7 @@ df = df.loc[:,~df.columns.duplicated()]
 df.set_index('property_id',inplace=True)
 df.index.name = 'property_id'
 df = sanitize(df)
-df['price_listed'] = 100000
+
 
 ind2remove = ['Unnamed: 0', 'id', 'address', 'area_name', 'listed_diff_id', 'lookup_address',
               'origin_url', 'neighborhood', 'zipcode', 'luxurious', 'transaction_status', 'transaction_type',
@@ -221,6 +223,17 @@ factors = np.setdiff1d(df.columns, ind2remove).tolist()
 bst = xgb.Booster()
 bst.load_model(model_path + 'good_sell_20180121.model')
 
-target = xgb.DMatrix( df[factors], feature_names=factors)
-ypred = bst.predict(target, ntree_limit=int(bst.attributes()['best_iteration']))
-print("Predicted good sell at price $%i: %f" % (df.price_listed, ypred))
+
+
+def my_range(start, end, step):
+    while start <= end:
+        yield start
+        start += step
+
+for x in my_range(100000, 200000, 10000):
+    df['price_listed'] = x
+
+    target = xgb.DMatrix( df[factors], feature_names=factors)
+    ypred = bst.predict(target, ntree_limit=int(bst.attributes()['best_iteration']))
+
+    print("Predicted good sell at price $%i: %f" % (x, ypred))
