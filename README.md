@@ -92,4 +92,7 @@ Setting up Matlab backend for python
   ```
   # Running the webservice at port 10003
   python service/web_server.py 10003
+
+  # using make file
+  make web
   ```
