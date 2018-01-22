@@ -177,7 +177,7 @@ def my_range(start, end, step):
 
 # function for the web service
 def good_sell_service(property_id):
-	with open('../factors.csv','r') as f:
+	with open('factors.csv','r') as f:
 		reader = csv.reader(f)
 		read_factors = list(reader)[0]
 
@@ -203,7 +203,7 @@ def good_sell_service(property_id):
 	 
 	# print the columns
 	field_names = [i[0] for i in cur.description]
-	print(str(field_names))
+	#print(str(field_names))
 	# print the row
 	for row in cur.fetchall() :
 		print(row[1])
@@ -226,8 +226,8 @@ def good_sell_service(property_id):
 	bst = xgb.Booster()
 	bst.load_model(model_path + 'good_sell_20180121.model')
 
-	print(factors)
-	print(df[factors].values)
+	#print(factors)
+	#print(df[factors].values)
 	output = ""
 	for x in my_range(100000, 200000, 10000):
 		df['price_listed'] = x
