@@ -8,6 +8,7 @@ import good_sell_service
 
 # Overriding the model_path
 setattr(good_sell_service, 'model_path', dir_path + '/models/')
+setattr(good_sell_service, 'factors_path', dir_path + '/../scraper/Scripts/factors.csv')
 
 urls = (
   '/', 'index',

@@ -1,7 +1,6 @@
 data/
 /venv/*
 scraper/*.model
-*.model
 scraper/CSV_backups
 *.nbconvert.ipynb
 *.png

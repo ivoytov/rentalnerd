@@ -9,6 +9,8 @@ import numpy as np
 import csv
 
 model_path = '/home/ilya/rentalnerd-models/'
+factors_path = 'factors.csv'
+
 today = (dt.date.today() - dt.date(2000, 1, 1)).days
 
 def sanitize(data):
@@ -177,7 +179,7 @@ def my_range(start, end, step):
 
 # function for the web service
 def good_sell_service(property_id):
-	with open('factors.csv','r') as f:
+	with open(factors_path,'r') as f:
 		reader = csv.reader(f)
 		read_factors = list(reader)[0]
 
