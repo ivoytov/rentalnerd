@@ -1,2 +1,2 @@
 web:
-	python service/web_server.py 10003
+	python service/web_server.py 8080
