@@ -57,8 +57,14 @@ Activating into virtual environment
   source venv/bin/activate
   ```
 
+Installing MySQL database client binaries - 5.6
+  ```
+  brew install mysql@5.6
+  ```
+
 Installing MySql dependency
   ```
+  # requires MySQL 5.6 client binaries installed
   easy_install MySQL-python
   ```
 
