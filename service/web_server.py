@@ -24,12 +24,17 @@ class index:
 
 class good_sell:
   def GET(self):
-    params = web.input(property_id=False)
+    params = web.input(property_id=False, wholesale_price=None)
     print params
     property_id = params.property_id
+
+    if params.wholesale_price !=None:
+      wholesale_price = float(params.wholesale_price)
+    else:
+      wholesale_price = None
     
     if property_id != False:
-      predictions = good_sell_service.good_sell_service(property_id)  
+      predictions = good_sell_service.good_sell_service(property_id, wholesale_price)  
       return predictions
 
     else:
