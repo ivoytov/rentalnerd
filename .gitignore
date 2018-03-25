@@ -5,3 +5,5 @@ scraper/CSV_backups
 *.nbconvert.ipynb
 *.png
 *.pyc
+scraper/Scripts/service_df.csv
+
