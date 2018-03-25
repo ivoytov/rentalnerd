@@ -178,7 +178,7 @@ def my_range(start, end, step):
 	    start += step
 
 # function for the web service
-def good_sell_service(property_id):
+def good_sell_service(property_id, price = None):
 	with open(factors_path,'r') as f:
 		reader = csv.reader(f)
 		read_factors = list(reader)[0]
@@ -205,7 +205,7 @@ def good_sell_service(property_id):
 	 
 	# print the columns
 	field_names = [i[0] for i in cur.description]
-	#print(str(field_names))
+
 	# print the row
 	for row in cur.fetchall() :
 		print(row[1])
@@ -228,10 +228,16 @@ def good_sell_service(property_id):
 	bst = xgb.Booster()
 	bst.load_model(model_path + 'good_sell_20180325.model')
 
-	#print(factors)
-	#print(df[factors].values)
 	output = ""
-	for x in my_range(100000, 500000, 50000):
+
+	# if price was provided, only run once at the price otherwise output a reasonable range of prices
+
+	if price == None:
+		price_range	= my_range(100000, 500000, 50000)
+	else:
+		price_range = my_range(price,price,1)
+
+	for x in price_range:
 		df['price_listed'] = x
 
 		target = xgb.DMatrix( df[read_factors], feature_names=read_factors)
@@ -247,13 +253,19 @@ def good_sell_service(property_id):
 
 if __name__ == '__main__':
     # Running as a script
-	if len(sys.argv) != 2:
-		print("wrong number of arguments")
-		quit()
-	else:
+	if len(sys.argv) == 2:
 		property_id = sys.argv[1]
 		print("processing property_id %s" % property_id)
 		print(good_sell_service(property_id))
+	elif len(sys.argv) == 3:
+		property_id = sys.argv[1]
+		price = int(sys.argv[2])
+		print("processing property_id %s at price %i" % (property_id, price))
+		print(good_sell_service(property_id,price))
+	else:
+		print("wrong number of arguments")
+		quit()
+
 
 	
 
