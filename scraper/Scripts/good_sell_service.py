@@ -209,7 +209,7 @@ def good_sell_service(property_id):
 	# print the row
 	for row in cur.fetchall() :
 		print(row[1])
-
+        
 	df = pd.DataFrame.from_records([row], columns=field_names)
 	df = df.loc[:,~df.columns.duplicated()]
 	df.set_index('property_id',inplace=True)
