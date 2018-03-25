@@ -62,6 +62,12 @@ Installing MySQL database client binaries - 5.6
   brew install mysql@5.6
   ```
 
+Setting MySQL binaries (Ubuntu)
+  ```
+  sudo apt-get install python-mysqldb
+  sudo apt-get install libmysqlclient-dev
+  ```
+
 Installing MySql dependency
   ```
   # requires MySQL 5.6 client binaries installed
