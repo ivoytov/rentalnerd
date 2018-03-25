@@ -261,6 +261,8 @@ if __name__ == '__main__':
 		property_id = sys.argv[1]
 		price = int(sys.argv[2])
 		print("processing property_id %s at price %i" % (property_id, price))
+		if price <= 0 or price > 1000000:
+			price = None
 		print(good_sell_service(property_id,price))
 	else:
 		print("wrong number of arguments")
