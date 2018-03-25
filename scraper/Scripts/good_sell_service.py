@@ -231,7 +231,7 @@ def good_sell_service(property_id):
 	#print(factors)
 	#print(df[factors].values)
 	output = ""
-	for x in my_range(100000, 300000, 10000):
+	for x in my_range(100000, 500000, 50000):
 		df['price_listed'] = x
 
 		target = xgb.DMatrix( df[read_factors], feature_names=read_factors)
