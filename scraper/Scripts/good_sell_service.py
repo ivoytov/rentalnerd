@@ -226,7 +226,7 @@ def good_sell_service(property_id):
 	factors = np.setdiff1d(df.columns, ind2remove).tolist()
 
 	bst = xgb.Booster()
-	bst.load_model(model_path + 'good_sell_20180121.model')
+	bst.load_model(model_path + 'good_sell_20180325.model')
 
 	#print(factors)
 	#print(df[factors].values)
