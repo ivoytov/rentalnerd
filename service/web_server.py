@@ -6,6 +6,9 @@ dir_path = os.path.dirname(os.path.realpath(__file__))
 sys.path.append(os.path.abspath(dir_path + '/' + '../scraper/Scripts/'))
 import good_sell_service
 
+with open('service/server.pid', 'w') as the_file:
+  the_file.write('%d' % os.getpid())
+
 # Overriding the model_path
 setattr(good_sell_service, 'model_path', dir_path + '/models/')
 setattr(good_sell_service, 'factors_path', dir_path + '/../scraper/Scripts/factors.csv')

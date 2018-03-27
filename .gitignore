@@ -7,4 +7,4 @@ scraper/CSV_backups
 *.pyc
 scraper/temp_plot.png
 scraper/Scripts/service_df.csv
-
+*.pid
