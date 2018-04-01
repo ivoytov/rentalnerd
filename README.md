@@ -5,6 +5,8 @@
 - Python 2.7
 - pip
 
+
+### MacOS X
 Installing dependent image libraries
 ```
 # Install libpng directly -- http://mac-dev-env.patrickbougie.com/libpng/
@@ -24,7 +26,13 @@ wget https://bootstrap.pypa.io/get-pip.py
 python get-pip.py
 ```
 
-## Setting up
+Installing virtual environment
+```
+pip install virtualenv 
+
+# Run to make sure its been installed
+which virtualenv
+```
 
 Setting locale
   ```
@@ -38,13 +46,45 @@ Setting MySql path
   export PATH=$PATH:/usr/local/mysql/bin
   ```
 
-Installing virtual environment
-  ```
-  pip install virtualenv 
 
-  # Run to make sure its been installed
-  which virtualenv
+Installing MySQL database client binaries - 5.6
   ```
+  brew install mysql@5.6
+  ```
+
+Installing MySql dependency
+  ```
+  # requires MySQL 5.6 client binaries installed
+  easy_install MySQL-python
+  ```
+
+### Ubuntu
+Installing pre-requisities (Ubuntu)
+```
+sudo apt-get update
+sudo apt-get install build-essential
+sudo apt-get install libssl-dev
+
+sudo apt-get install python-pip python-dev build-essential 
+```
+
+Install PIP
+```
+sudo pip install --upgrade pip 
+```
+
+Install Virtual Environment
+```
+sudo pip install --upgrade virtualenv 
+```
+
+Setting MySQL binaries (Ubuntu)
+```
+sudo apt-get install python-mysqldb
+sudo apt-get install libmysqlclient-dev
+```
+
+## Setting up
 
 Setting up virtual environment
   ```
@@ -57,30 +97,14 @@ Activating into virtual environment
   source venv/bin/activate
   ```
 
-Installing MySQL database client binaries - 5.6
-  ```
-  brew install mysql@5.6
-  ```
-
-Setting MySQL binaries (Ubuntu)
-  ```
-  sudo apt-get install python-mysqldb
-  sudo apt-get install libmysqlclient-dev
-  ```
-
-Installing MySql dependency
-  ```
-  # requires MySQL 5.6 client binaries installed
-  easy_install MySQL-python
-  ```
-
 Installing XGBoost pre-requisites
   - http://xgboost.readthedocs.io/en/latest/build.html#building-on-osx
   
 
 Install requirements
   ```
-  pip install  --index-url=http://pypi.python.org/simple/ --trusted-host pypi.python.org  -r requirements.txt --upgrade
+  # pip install  --index-url=http://pypi.python.org/simple/ --trusted-host pypi.python.org  -r requirements.txt --upgrade
+  pip install -r requirements.txt --upgrade
   ```
 
 Setting up Matlab backend for python

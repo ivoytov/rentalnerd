@@ -13,3 +13,4 @@ sklearn
 pymysql
 ipython-sql
 web.py
+MySQL-python
