@@ -241,7 +241,7 @@ def good_sell_service(property_id, price = None):
 
 	for x in price_range:
 		df['price_listed'] = x
-        df['px_per_foot'] = df.price_listed / df.sqft
+                df['px_per_foot'] = df.price_listed / df.sqft
 
 		target = xgb.DMatrix( df[read_factors], feature_names=read_factors)
 		ypred = bst.predict(target, ntree_limit=int(bst.attributes()['best_iteration']))
