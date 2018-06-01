@@ -41,6 +41,8 @@ def sanitize(data):
     data['days_on_market_accu'] = 0
     data['fsbo'] = 0
     data['is_latest'] = 1
+    data['px_per_foot'] = 100
+    data['sqft'] = 1600
 
     data['lot'] = data['lot'].apply(lambda x: int(0 if x is None else x))
     data['hoa_fees'] = data['hoa_fees'].apply(lambda x: int(0 if x is None else x))
@@ -239,6 +241,7 @@ def good_sell_service(property_id, price = None):
 
 	for x in price_range:
 		df['price_listed'] = x
+        df['px_per_foot'] = df.price_listed / df.sqft
 
 		target = xgb.DMatrix( df[read_factors], feature_names=read_factors)
 		ypred = bst.predict(target, ntree_limit=int(bst.attributes()['best_iteration']))
