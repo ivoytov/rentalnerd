@@ -36,7 +36,8 @@ def sanitize(data):
     data["school_district_id"] = data["school_district_id"].astype(str)
     data['year_built'] = data['year_built'].apply(lambda x: 1980 if math.isnan(x) else x)
 
-    data['date_listed'] = 6233 #today
+    data['date_listed'] = today
+    data['date_closed'] = today
     data['days_on_market'] = today - data.date_listed
     data['days_on_market_accu'] = 0
     data['fsbo'] = 0
@@ -228,20 +229,20 @@ def good_sell_service(property_id, price = None):
 	factors = np.setdiff1d(df.columns, ind2remove).tolist()
 
 	bst = xgb.Booster()
-	bst.load_model(model_path + 'good_sell_20180325.model')
+	bst.load_model(model_path + 'good_sell_20180531.model')
 
 	output = ""
 
 	# if price was provided, only run once at the price otherwise output a reasonable range of prices
 
 	if price == None:
-		price_range	= my_range(100000, 500000, 50000)
+		price_range	= my_range(100000, 400000, 25000)
 	else:
 		price_range = my_range(price,price,1)
 
 	for x in price_range:
 		df['price_listed'] = x
-                df['px_per_foot'] = df.price_listed / df.sqft
+		df['px_per_foot'] = df.price_listed / df.sqft
 
 		target = xgb.DMatrix( df[read_factors], feature_names=read_factors)
 		ypred = bst.predict(target, ntree_limit=int(bst.attributes()['best_iteration']))
